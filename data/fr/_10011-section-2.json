@@ -1,0 +1,1331 @@
+[
+  {
+    "text": "« Il a besoin",
+    "newLine": true,
+    "translation": {
+      "text": "«Ele precisa",
+      "tips": [
+        {
+          "text": "Il a besoin de",
+          "translatedText": "Ele precisa de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " de votre bâton",
+    "newLine": false,
+    "translation": {
+      "text": "do seu bastão",
+      "tips": [
+        {
+          "text": "votre bâton",
+          "translatedText": "o seu bastão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " pour une raison",
+    "newLine": false,
+    "translation": {
+      "text": "por um motivo",
+      "tips": []
+    }
+  },
+  {
+    "text": " très particulière",
+    "newLine": false,
+    "translation": {
+      "text": "muito particular",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu le chien",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu o cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je comprends",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu entendo",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je comprends",
+    "newLine": false,
+    "translation": {
+      "text": "Eu entendo",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! » ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": [
+        {
+          "text": "le Roi",
+          "translatedText": "o Rei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " — ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais il ne comprenait rien",
+    "newLine": false,
+    "translation": {
+      "text": "mas ele não entendia nada",
+      "tips": [
+        {
+          "text": "il ne comprenait rien",
+          "translatedText": "ele não entendia nada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " —, ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a donné",
+    "newLine": false,
+    "translation": {
+      "text": "e ele deu",
+      "tips": []
+    }
+  },
+  {
+    "text": " son bâton au chien",
+    "newLine": false,
+    "translation": {
+      "text": "o seu bastão ao cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le chien est parti",
+    "newLine": true,
+    "translation": {
+      "text": "O cachorro foi embora",
+      "tips": []
+    }
+  },
+  {
+    "text": " avec le bâton",
+    "newLine": false,
+    "translation": {
+      "text": "com o bastão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais il l'a mis",
+    "newLine": false,
+    "translation": {
+      "text": "mas ele o pôs",
+      "tips": []
+    }
+  },
+  {
+    "text": " au milieu des arbres",
+    "newLine": false,
+    "translation": {
+      "text": "no meio das árvores",
+      "tips": [
+        {
+          "text": "au milieu des arbres",
+          "translatedText": "no meio das árvores",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a trouvé une pièce d'or",
+    "newLine": false,
+    "translation": {
+      "text": "ele encontrou uma moeda de ouro",
+      "tips": [
+        {
+          "text": "une pièce d'or",
+          "translatedText": "uma moeda de ouro",
+          "explanation": "\"pièce\" pode ser \"peça\", \"cômodo\" ou \"moeda\". Com \"d'or\" (de ouro) é claramente uma moeda de ouro. Essa \"pièce\" reaparece em vários livros da coleção."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ici",
+    "newLine": false,
+    "translation": {
+      "text": "aqui",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une pièce d'or là-bas",
+    "newLine": false,
+    "translation": {
+      "text": "uma moeda de ouro ali",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et bientôt il en avait beaucoup",
+    "newLine": false,
+    "translation": {
+      "text": "e logo ele tinha muitas",
+      "tips": [
+        {
+          "text": "il en avait beaucoup",
+          "translatedText": "ele tinha muitas (delas)",
+          "explanation": "O pronome \"en\" substitui \"des pièces d'or\" e equivale a \"delas\". \"Il en avait beaucoup\" = \"ele tinha muitas delas\". Em português costumamos só dizer \"tinha muitas\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a mis tout l'or",
+    "newLine": false,
+    "translation": {
+      "text": "ele pôs todo o ouro",
+      "tips": []
+    }
+  },
+  {
+    "text": " dans une boîte",
+    "newLine": false,
+    "translation": {
+      "text": "numa caixa",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le jour suivant",
+    "newLine": false,
+    "translation": {
+      "text": "No dia seguinte",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il est retourné parler",
+    "newLine": false,
+    "translation": {
+      "text": "ele voltou a falar",
+      "tips": []
+    }
+  },
+  {
+    "text": " avec le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "com o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Mon maître",
+    "newLine": true,
+    "translation": {
+      "text": "«Meu mestre",
+      "tips": [
+        {
+          "text": "Mon maître",
+          "translatedText": "Meu mestre",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tête Forte",
+    "newLine": false,
+    "translation": {
+      "text": "Cabeça Forte",
+      "tips": [
+        {
+          "text": "Tête Forte",
+          "translatedText": "Cabeça Forte",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vous dit merci",
+    "newLine": false,
+    "translation": {
+      "text": "agradece a você",
+      "tips": [
+        {
+          "text": "vous dit merci",
+          "translatedText": "agradece-lhe (ao senhor)",
+          "explanation": "Aqui o cachorro trata o Rei de \"vous\" (forma formal/respeitosa). Repare no contraste: ao Rei ele usa \"vous\", mas a Tête Forte (e o Rei a Tête Forte) usam \"tu\". Esse jogo tu/vous marca a hierarquia social."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mon Roi",
+    "newLine": false,
+    "translation": {
+      "text": "meu Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour votre bâton",
+    "newLine": false,
+    "translation": {
+      "text": "pelo seu bastão",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi a ouvert la main",
+    "newLine": true,
+    "translation": {
+      "text": "O Rei abriu a mão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et le chien lui a donné",
+    "newLine": false,
+    "translation": {
+      "text": "e o cachorro lhe deu",
+      "tips": []
+    }
+  },
+  {
+    "text": " le bâton et la boîte",
+    "newLine": false,
+    "translation": {
+      "text": "o bastão e a caixa",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je voudrais le rencontrer",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu gostaria de conhecê-lo",
+      "tips": [
+        {
+          "text": "Je voudrais",
+          "translatedText": "Eu gostaria",
+          "explanation": "\"voudrais\" é o condicional de \"vouloir\" (querer). É o famoso condicional de cortesia: \"je voudrais\" = \"eu gostaria\", bem mais educado do que \"je veux\" (eu quero)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'était exactement",
+    "newLine": true,
+    "translation": {
+      "text": "Era exatamente",
+      "tips": []
+    }
+  },
+  {
+    "text": " ce que le chien voulait entendre",
+    "newLine": false,
+    "translation": {
+      "text": "o que o cachorro queria ouvir",
+      "tips": [
+        {
+          "text": "ce que le chien voulait entendre",
+          "translatedText": "o que o cachorro queria ouvir",
+          "explanation": "\"ce que\" = \"o que / aquilo que\". \"C'était exactement ce que...\" significa \"Era exatamente aquilo que...\". Estrutura muito útil para retomar uma ideia inteira."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "mas ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Merci, mon Roi",
+    "newLine": false,
+    "translation": {
+      "text": "Obrigado, meu Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais je crois que",
+    "newLine": false,
+    "translation": {
+      "text": "mas eu acho que",
+      "tips": []
+    }
+  },
+  {
+    "text": " Tête Forte va dire non",
+    "newLine": false,
+    "translation": {
+      "text": "Cabeça Forte vai dizer não",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il veut trouver une femme",
+    "newLine": false,
+    "translation": {
+      "text": "Ele quer encontrar uma esposa",
+      "tips": [
+        {
+          "text": "trouver une femme",
+          "translatedText": "encontrar uma esposa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " bientôt",
+    "newLine": false,
+    "translation": {
+      "text": "logo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et nous allons commencer",
+    "newLine": false,
+    "translation": {
+      "text": "e nós vamos começar",
+      "tips": []
+    }
+  },
+  {
+    "text": " un long voyage",
+    "newLine": false,
+    "translation": {
+      "text": "uma longa viagem",
+      "tips": []
+    }
+  },
+  {
+    "text": " pour rencontrer des princesses",
+    "newLine": false,
+    "translation": {
+      "text": "para conhecer princesas",
+      "tips": []
+    }
+  },
+  {
+    "text": " dans beaucoup de pays différents",
+    "newLine": false,
+    "translation": {
+      "text": "em muitos países diferentes",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi a pensé que",
+    "newLine": true,
+    "translation": {
+      "text": "O Rei pensou que",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si Tête Forte voyait sa fille",
+    "newLine": false,
+    "translation": {
+      "text": "se Cabeça Forte visse a sua filha",
+      "tips": []
+    }
+  },
+  {
+    "text": " avant ces autres femmes",
+    "newLine": false,
+    "translation": {
+      "text": "antes dessas outras mulheres",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il allait tomber amoureux d'elle",
+    "newLine": false,
+    "translation": {
+      "text": "ele ia se apaixonar por ela",
+      "tips": [
+        {
+          "text": "tomber amoureux d'elle",
+          "translatedText": "se apaixonar por ela",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "S'il vous plaît",
+    "newLine": false,
+    "translation": {
+      "text": "Por favor",
+      "tips": [
+        {
+          "text": "S'il vous plaît",
+          "translatedText": "Por favor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dites-lui de venir voir ma fille",
+    "newLine": false,
+    "translation": {
+      "text": "diga-lhe para vir ver a minha filha",
+      "tips": []
+    }
+  },
+  {
+    "text": " avant d'aller",
+    "newLine": false,
+    "translation": {
+      "text": "antes de ir",
+      "tips": []
+    }
+  },
+  {
+    "text": " dans un autre pays",
+    "newLine": false,
+    "translation": {
+      "text": "para outro país",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le chien a regardé",
+    "newLine": true,
+    "translation": {
+      "text": "O cachorro olhou",
+      "tips": []
+    }
+  },
+  {
+    "text": " d'un côté et de l'autre",
+    "newLine": false,
+    "translation": {
+      "text": "para um lado e para o outro",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme s'il ne voulait pas parler",
+    "newLine": false,
+    "translation": {
+      "text": "como se não quisesse falar",
+      "tips": [
+        {
+          "text": "comme s'il ne voulait pas parler",
+          "translatedText": "como se não quisesse falar",
+          "explanation": "\"comme si\" = \"como se\". Diante de \"il\", vira \"comme s'il\". Introduz uma comparação imaginária: ele agia como se não quisesse falar (fingindo)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Mon Roi",
+    "newLine": true,
+    "translation": {
+      "text": "«Meu Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit enfin",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la vérité, c'est que",
+    "newLine": false,
+    "translation": {
+      "text": "a verdade é que",
+      "tips": []
+    }
+  },
+  {
+    "text": " votre maison",
+    "newLine": false,
+    "translation": {
+      "text": "a sua casa",
+      "tips": []
+    }
+  },
+  {
+    "text": " n'est pas assez grande pour lui",
+    "newLine": false,
+    "translation": {
+      "text": "não é grande o suficiente para ele",
+      "tips": [
+        {
+          "text": "assez grande pour lui",
+          "translatedText": "grande o suficiente para ele",
+          "explanation": "\"assez\" = \"suficientemente / o bastante\". \"assez grande\" = \"grande o suficiente\". Note que \"assez\" vem ANTES do adjetivo, ao contrário do português."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tête Forte est toujours",
+    "newLine": false,
+    "translation": {
+      "text": "Cabeça Forte está sempre",
+      "tips": []
+    }
+  },
+  {
+    "text": " avec beaucoup de gens",
+    "newLine": false,
+    "translation": {
+      "text": "com muita gente",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ils le servent tous",
+    "newLine": false,
+    "translation": {
+      "text": "Todos eles o servem",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vous savez",
+    "newLine": false,
+    "translation": {
+      "text": "o senhor sabe",
+      "tips": [
+        {
+          "text": "vous savez",
+          "translatedText": "o senhor sabe / sabe?",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi a perdu la tête",
+    "newLine": true,
+    "translation": {
+      "text": "O Rei perdeu a cabeça",
+      "tips": [
+        {
+          "text": "a perdu la tête",
+          "translatedText": "perdeu a cabeça",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Chien",
+    "newLine": true,
+    "translation": {
+      "text": "«Cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ", « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je pense vraiment qu'il doit venir",
+    "newLine": false,
+    "translation": {
+      "text": "eu acho mesmo que ele deve vir",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il peut venir",
+    "newLine": false,
+    "translation": {
+      "text": "Ele pode vir",
+      "tips": []
+    }
+  },
+  {
+    "text": " avec un petit groupe de personnes",
+    "newLine": false,
+    "translation": {
+      "text": "com um pequeno grupo de pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "cette fois",
+    "newLine": false,
+    "translation": {
+      "text": "desta vez",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le chien a regardé le sol",
+    "newLine": true,
+    "translation": {
+      "text": "O cachorro olhou para o chão",
+      "tips": [
+        {
+          "text": "le sol",
+          "translatedText": "o chão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Non",
+    "newLine": true,
+    "translation": {
+      "text": "«Não",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il est toujours",
+    "newLine": false,
+    "translation": {
+      "text": "Ele está sempre",
+      "tips": []
+    }
+  },
+  {
+    "text": " avec un grand groupe de personnes",
+    "newLine": false,
+    "translation": {
+      "text": "com um grande grupo de pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ou alors habillé comme un homme pauvre",
+    "newLine": false,
+    "translation": {
+      "text": "ou então vestido como um homem pobre",
+      "tips": [
+        {
+          "text": "habillé comme un homme pauvre",
+          "translatedText": "vestido como um homem pobre",
+          "explanation": "\"habillé comme\" = \"vestido como\". \"habillé\" vem de \"s'habiller\" (vestir-se). A expressão \"comme un homme pauvre\" compara o traje ao de um homem pobre."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec seulement moi",
+    "newLine": false,
+    "translation": {
+      "text": "só comigo",
+      "tips": []
+    }
+  },
+  {
+    "text": " à côté de lui",
+    "newLine": false,
+    "translation": {
+      "text": "ao lado dele",
+      "tips": [
+        {
+          "text": "à côté de lui",
+          "translatedText": "ao lado dele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Alors",
+    "newLine": true,
+    "translation": {
+      "text": "«Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "s'il vous plaît",
+    "newLine": false,
+    "translation": {
+      "text": "por favor",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "demandez-lui de venir chez moi",
+    "newLine": false,
+    "translation": {
+      "text": "peça a ele para vir à minha casa",
+      "tips": []
+    }
+  },
+  {
+    "text": " comme un homme pauvre",
+    "newLine": false,
+    "translation": {
+      "text": "como um homem pobre",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ". « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand il est ici",
+    "newLine": false,
+    "translation": {
+      "text": "Quando ele estiver aqui",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je peux lui donner",
+    "newLine": false,
+    "translation": {
+      "text": "eu posso dar a ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " mes propres vêtements",
+    "newLine": false,
+    "translation": {
+      "text": "as minhas próprias roupas",
+      "tips": [
+        {
+          "text": "mes propres vêtements",
+          "translatedText": "as minhas próprias roupas",
+          "explanation": "Cuidado com \"propre\": ANTES do substantivo significa \"próprio\" (mes propres vêtements = minhas próprias roupas); DEPOIS do substantivo significa \"limpo\" (des vêtements propres = roupas limpas). A posição muda tudo!"
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le chien a regardé le sol",
+    "newLine": true,
+    "translation": {
+      "text": "O cachorro olhou para o chão",
+      "tips": []
+    }
+  },
+  {
+    "text": " encore une fois",
+    "newLine": false,
+    "translation": {
+      "text": "mais uma vez",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je ne pense pas",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu não acho",
+      "tips": []
+    }
+  },
+  {
+    "text": " qu'ils sont assez bons pour lui",
+    "newLine": false,
+    "translation": {
+      "text": "que elas sejam boas o suficiente para ele",
+      "tips": [
+        {
+          "text": "assez bons pour lui",
+          "translatedText": "boas o suficiente para ele",
+          "explanation": "De novo \"assez\" (o suficiente) antes do adjetivo. \"ils\" retoma \"les vêtements\" (as roupas, masculino em francês), por isso \"assez bons\" no masculino."
+        }
+      ]
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le chien",
+    "newLine": false,
+    "translation": {
+      "text": "disse o cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je suis sûr",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu tenho certeza",
+      "tips": [
+        {
+          "text": "Je suis sûr",
+          "translatedText": "Eu tenho certeza",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " qu'ils sont assez bons",
+    "newLine": false,
+    "translation": {
+      "text": "de que elas são boas o suficiente",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ". « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "S'il vous plaît",
+    "newLine": false,
+    "translation": {
+      "text": "Por favor",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dites-lui de venir ici",
+    "newLine": false,
+    "translation": {
+      "text": "diga-lhe para vir aqui",
+      "tips": []
+    }
+  },
+  {
+    "text": " voir ma fille",
+    "newLine": false,
+    "translation": {
+      "text": "ver a minha filha",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  }
+]

@@ -1,0 +1,2239 @@
+[
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Qué es exactamente",
+  "newLine": false,
+  "translation": {
+   "text": "O que é exatamente",
+   "tips": [
+    {
+     "text": "Qué es",
+     "translatedText": "o que é",
+     "explanation": null
+    },
+    {
+     "text": "exactamente",
+     "translatedText": "exatamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "a ciência",
+   "tips": [
+    {
+     "text": "la ciencia",
+     "translatedText": "a ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mamá",
+  "newLine": false,
+  "translation": {
+   "text": "mamãe",
+   "tips": [
+    {
+     "text": "mamá",
+     "translatedText": "mamãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "preguntó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Ana",
+   "tips": [
+    {
+     "text": "preguntó",
+     "translatedText": "perguntou",
+     "explanation": null
+    },
+    {
+     "text": "Ana",
+     "translatedText": "Ana (a menina)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Con la ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "Com a ciência",
+   "tips": [
+    {
+     "text": "Con",
+     "translatedText": "com",
+     "explanation": null
+    },
+    {
+     "text": "la ciencia",
+     "translatedText": "a ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aprendemos sobre el mundo",
+  "newLine": false,
+  "translation": {
+   "text": "aprendemos sobre o mundo",
+   "tips": [
+    {
+     "text": "aprendemos",
+     "translatedText": "aprendemos",
+     "explanation": null
+    },
+    {
+     "text": "sobre el mundo",
+     "translatedText": "sobre o mundo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Por ejemplo",
+  "newLine": false,
+  "translation": {
+   "text": "Por exemplo",
+   "tips": [
+    {
+     "text": "Por ejemplo",
+     "translatedText": "por exemplo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ahora sabemos",
+  "newLine": false,
+  "translation": {
+   "text": "agora sabemos",
+   "tips": [
+    {
+     "text": "ahora",
+     "translatedText": "agora",
+     "explanation": null
+    },
+    {
+     "text": "sabemos",
+     "translatedText": "sabemos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que el sol es una estrella",
+  "newLine": false,
+  "translation": {
+   "text": "que o sol é uma estrela",
+   "tips": [
+    {
+     "text": "el sol",
+     "translatedText": "o sol",
+     "explanation": null
+    },
+    {
+     "text": "es una estrella",
+     "translatedText": "é uma estrela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y que",
+  "newLine": false,
+  "translation": {
+   "text": "e que",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sin él",
+  "newLine": false,
+  "translation": {
+   "text": "sem ele",
+   "tips": [
+    {
+     "text": "sin",
+     "translatedText": "sem",
+     "explanation": null
+    },
+    {
+     "text": "él",
+     "translatedText": "ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "no habría vida",
+  "newLine": false,
+  "translation": {
+   "text": "não haveria vida",
+   "tips": [
+    {
+     "text": "no habría",
+     "translatedText": "não haveria",
+     "explanation": null
+    },
+    {
+     "text": "vida",
+     "translatedText": "vida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en la Tierra",
+  "newLine": false,
+  "translation": {
+   "text": "na Terra",
+   "tips": [
+    {
+     "text": "en la Tierra",
+     "translatedText": "na Terra",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "respondió",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu",
+   "tips": [
+    {
+     "text": "respondió",
+     "translatedText": "respondeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Para entonces",
+  "newLine": true,
+  "translation": {
+   "text": "A essa altura",
+   "tips": [
+    {
+     "text": "Para entonces",
+     "translatedText": "a essa altura / nesse momento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ana estaba muy interesada",
+  "newLine": false,
+  "translation": {
+   "text": "Ana estava muito interessada",
+   "tips": [
+    {
+     "text": "estaba",
+     "translatedText": "estava",
+     "explanation": "Eixo SER vs ESTAR: aqui é ESTAR (\"estaba\") porque descreve um estado/emoção temporário de Ana (estar interessada). Emoção e estado passageiro → ESTAR; identidade permanente → SER (como em \"el sol es una estrella\")."
+    },
+    {
+     "text": "muy interesada",
+     "translatedText": "muito interessada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "así que",
+  "newLine": false,
+  "translation": {
+   "text": "então / por isso",
+   "tips": [
+    {
+     "text": "así que",
+     "translatedText": "então / portanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "su madre continuó",
+  "newLine": false,
+  "translation": {
+   "text": "sua mãe continuou",
+   "tips": [
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    },
+    {
+     "text": "continuó",
+     "translatedText": "continuou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Con la ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "Com a ciência",
+   "tips": [
+    {
+     "text": "Con la ciencia",
+     "translatedText": "com a ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "también aprendemos",
+  "newLine": false,
+  "translation": {
+   "text": "também aprendemos",
+   "tips": [
+    {
+     "text": "también",
+     "translatedText": "também",
+     "explanation": null
+    },
+    {
+     "text": "aprendemos",
+     "translatedText": "aprendemos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sobre todas las formas de vida",
+  "newLine": false,
+  "translation": {
+   "text": "sobre todas as formas de vida",
+   "tips": [
+    {
+     "text": "todas las formas",
+     "translatedText": "todas as formas",
+     "explanation": null
+    },
+    {
+     "text": "de vida",
+     "translatedText": "de vida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Desde las muy pequeñas",
+  "newLine": false,
+  "translation": {
+   "text": "Desde as muito pequenas",
+   "tips": [
+    {
+     "text": "Desde",
+     "translatedText": "desde",
+     "explanation": null
+    },
+    {
+     "text": "las muy pequeñas",
+     "translatedText": "as muito pequenas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "hasta las muy grandes",
+  "newLine": false,
+  "translation": {
+   "text": "até as muito grandes",
+   "tips": [
+    {
+     "text": "hasta",
+     "translatedText": "até",
+     "explanation": null
+    },
+    {
+     "text": "las muy grandes",
+     "translatedText": "as muito grandes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quieres decir",
+  "newLine": false,
+  "translation": {
+   "text": "Quer dizer",
+   "tips": [
+    {
+     "text": "Quieres decir",
+     "translatedText": "você quer dizer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "desde los insectos",
+  "newLine": false,
+  "translation": {
+   "text": "desde os insetos",
+   "tips": [
+    {
+     "text": "desde",
+     "translatedText": "desde",
+     "explanation": null
+    },
+    {
+     "text": "los insectos",
+     "translatedText": "os insetos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "hasta los elefantes",
+  "newLine": false,
+  "translation": {
+   "text": "até os elefantes",
+   "tips": [
+    {
+     "text": "hasta los elefantes",
+     "translatedText": "até os elefantes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "preguntó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Ana",
+   "tips": [
+    {
+     "text": "preguntó",
+     "translatedText": "perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Sí",
+  "newLine": false,
+  "translation": {
+   "text": "Sim",
+   "tips": [
+    {
+     "text": "Sí",
+     "translatedText": "sim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "respondió su madre",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu sua mãe",
+   "tips": [
+    {
+     "text": "respondió",
+     "translatedText": "respondeu",
+     "explanation": null
+    },
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pero también",
+  "newLine": false,
+  "translation": {
+   "text": "Mas também",
+   "tips": [
+    {
+     "text": "Pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "también",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "los árboles y las flores",
+  "newLine": false,
+  "translation": {
+   "text": "as árvores e as flores",
+   "tips": [
+    {
+     "text": "los árboles",
+     "translatedText": "as árvores",
+     "explanation": null
+    },
+    {
+     "text": "las flores",
+     "translatedText": "as flores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y hay incluso algunas",
+  "newLine": false,
+  "translation": {
+   "text": "e há inclusive algumas",
+   "tips": [
+    {
+     "text": "hay",
+     "translatedText": "há / existe(m)",
+     "explanation": null
+    },
+    {
+     "text": "incluso",
+     "translatedText": "inclusive / até",
+     "explanation": null
+    },
+    {
+     "text": "algunas",
+     "translatedText": "algumas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que están hechas",
+  "newLine": false,
+  "translation": {
+   "text": "que são feitas",
+   "tips": [
+    {
+     "text": "están hechas",
+     "translatedText": "estão feitas / são feitas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de una sola célula",
+  "newLine": false,
+  "translation": {
+   "text": "de uma só célula",
+   "tips": [
+    {
+     "text": "una sola",
+     "translatedText": "uma só / uma única",
+     "explanation": null
+    },
+    {
+     "text": "célula",
+     "translatedText": "célula",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero solo podemos verlas",
+  "newLine": false,
+  "translation": {
+   "text": "mas só podemos vê-las",
+   "tips": [
+    {
+     "text": "solo",
+     "translatedText": "só / apenas",
+     "explanation": null
+    },
+    {
+     "text": "podemos verlas",
+     "translatedText": "podemos vê-las",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con un microscopio",
+  "newLine": false,
+  "translation": {
+   "text": "com um microscópio",
+   "tips": [
+    {
+     "text": "con un microscopio",
+     "translatedText": "com um microscópio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Guau",
+  "newLine": false,
+  "translation": {
+   "text": "Uau",
+   "tips": [
+    {
+     "text": "Guau",
+     "translatedText": "uau (interjeição)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La próxima vez",
+  "newLine": false,
+  "translation": {
+   "text": "Da próxima vez",
+   "tips": [
+    {
+     "text": "La próxima vez",
+     "translatedText": "a próxima vez / da próxima vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que visitemos a la abuela",
+  "newLine": false,
+  "translation": {
+   "text": "que visitarmos a vovó",
+   "tips": [
+    {
+     "text": "visitemos",
+     "translatedText": "visitarmos",
+     "explanation": null
+    },
+    {
+     "text": "a la abuela",
+     "translatedText": "a vovó / a avó",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le voy a hacer",
+  "newLine": false,
+  "translation": {
+   "text": "vou fazer a ela",
+   "tips": [
+    {
+     "text": "le",
+     "translatedText": "a ela / para ela",
+     "explanation": null
+    },
+    {
+     "text": "voy a hacer",
+     "translatedText": "vou fazer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "muchas preguntas de ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "muitas perguntas de ciência",
+   "tips": [
+    {
+     "text": "muchas preguntas",
+     "translatedText": "muitas perguntas",
+     "explanation": null
+    },
+    {
+     "text": "de ciencia",
+     "translatedText": "de ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "exclamó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "exclamou Ana",
+   "tips": [
+    {
+     "text": "exclamó",
+     "translatedText": "exclamou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Su madre sonrió",
+  "newLine": true,
+  "translation": {
+   "text": "Sua mãe sorriu",
+   "tips": [
+    {
+     "text": "Su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    },
+    {
+     "text": "sonrió",
+     "translatedText": "sorriu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ella también",
+  "newLine": false,
+  "translation": {
+   "text": "Ela também",
+   "tips": [
+    {
+     "text": "Ella",
+     "translatedText": "ela",
+     "explanation": null
+    },
+    {
+     "text": "también",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le hacía muchas preguntas",
+  "newLine": false,
+  "translation": {
+   "text": "fazia muitas perguntas a ela",
+   "tips": [
+    {
+     "text": "le hacía",
+     "translatedText": "fazia a ela",
+     "explanation": null
+    },
+    {
+     "text": "muchas preguntas",
+     "translatedText": "muitas perguntas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a su propia madre",
+  "newLine": false,
+  "translation": {
+   "text": "à sua própria mãe",
+   "tips": [
+    {
+     "text": "a su propia madre",
+     "translatedText": "à sua própria mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cuando era una niña pequeña",
+  "newLine": false,
+  "translation": {
+   "text": "quando era uma menina pequena",
+   "tips": [
+    {
+     "text": "cuando era",
+     "translatedText": "quando era",
+     "explanation": null
+    },
+    {
+     "text": "una niña pequeña",
+     "translatedText": "uma menina pequena",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y",
+  "newLine": false,
+  "translation": {
+   "text": "e",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a decir verdad",
+  "newLine": false,
+  "translation": {
+   "text": "para dizer a verdade",
+   "tips": [
+    {
+     "text": "a decir verdad",
+     "translatedText": "a bem da verdade / para dizer a verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "todavía se las hacía",
+  "newLine": false,
+  "translation": {
+   "text": "ainda as fazia a ela",
+   "tips": [
+    {
+     "text": "todavía",
+     "translatedText": "ainda",
+     "explanation": "FALSO AMIGO campeão: \"todavía\" = \"AINDA\", e NÃO \"todavia/contudo\". Quem quer dizer o nosso \"todavia\" em espanhol usa \"sin embargo\". Aqui: \"todavía se las hacía\" = ainda as fazia."
+    },
+    {
+     "text": "se las hacía",
+     "translatedText": "as fazia a ela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Si estudias ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "Se você estuda ciência",
+   "tips": [
+    {
+     "text": "Si",
+     "translatedText": "se",
+     "explanation": null
+    },
+    {
+     "text": "estudias",
+     "translatedText": "você estuda",
+     "explanation": null
+    },
+    {
+     "text": "ciencia",
+     "translatedText": "ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tienes que ser maestra",
+  "newLine": false,
+  "translation": {
+   "text": "você tem que ser professora",
+   "tips": [
+    {
+     "text": "tienes que",
+     "translatedText": "você tem que",
+     "explanation": null
+    },
+    {
+     "text": "ser maestra",
+     "translatedText": "ser professora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "preguntó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Ana",
+   "tips": [
+    {
+     "text": "preguntó",
+     "translatedText": "perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pensaba que",
+  "newLine": false,
+  "translation": {
+   "text": "Pensava que",
+   "tips": [
+    {
+     "text": "Pensaba",
+     "translatedText": "pensava / achava",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "todo este asunto de la ciencia",
+  "newLine": false,
+  "translation": {
+   "text": "todo esse assunto da ciência",
+   "tips": [
+    {
+     "text": "todo este asunto",
+     "translatedText": "todo esse assunto",
+     "explanation": null
+    },
+    {
+     "text": "de la ciencia",
+     "translatedText": "da ciência",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "era muy interesante",
+  "newLine": false,
+  "translation": {
+   "text": "era muito interessante",
+   "tips": [
+    {
+     "text": "era",
+     "translatedText": "era",
+     "explanation": null
+    },
+    {
+     "text": "muy interesante",
+     "translatedText": "muito interessante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero no estaba segura",
+  "newLine": false,
+  "translation": {
+   "text": "mas não estava certa",
+   "tips": [
+    {
+     "text": "pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "no estaba segura",
+     "translatedText": "não estava segura/certa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de querer ser maestra",
+  "newLine": false,
+  "translation": {
+   "text": "de querer ser professora",
+   "tips": [
+    {
+     "text": "de querer ser",
+     "translatedText": "de querer ser",
+     "explanation": null
+    },
+    {
+     "text": "maestra",
+     "translatedText": "professora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tampoco estaba segura",
+  "newLine": false,
+  "translation": {
+   "text": "Tampouco tinha certeza",
+   "tips": [
+    {
+     "text": "Tampoco",
+     "translatedText": "tampouco / também não",
+     "explanation": null
+    },
+    {
+     "text": "estaba segura",
+     "translatedText": "estava segura/certa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de que le gustaran",
+  "newLine": false,
+  "translation": {
+   "text": "de que gostasse",
+   "tips": [
+    {
+     "text": "de que le gustaran",
+     "translatedText": "de que ela gostasse",
+     "explanation": "DOIS eixos juntos: (1) SUBJUNTIVO — após \"no estaba segura de que\" (dúvida/negação) usa-se o subjuntivo \"gustaran\" (imperfeito do subj.); (2) ESTRUTURA-ESPELHO \"gustar\" — quem gosta vira objeto indireto (\"le\" = a ela) e o que se gosta (\"algunos niños\") é o SUJEITO, por isso o verbo concorda no plural: \"le gustaran algunos niños\" = (a ela) agradassem alguns meninos = ela gostasse de alguns meninos."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "algunos de los niños",
+  "newLine": false,
+  "translation": {
+   "text": "alguns dos meninos",
+   "tips": [
+    {
+     "text": "algunos",
+     "translatedText": "alguns",
+     "explanation": null
+    },
+    {
+     "text": "de los niños",
+     "translatedText": "dos meninos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de su clase",
+  "newLine": false,
+  "translation": {
+   "text": "da sua turma",
+   "tips": [
+    {
+     "text": "de su clase",
+     "translatedText": "da sua classe / turma",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque había dos niños",
+  "newLine": false,
+  "translation": {
+   "text": "porque havia dois meninos",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "había dos niños",
+     "translatedText": "havia dois meninos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que siempre estaban",
+  "newLine": false,
+  "translation": {
+   "text": "que sempre estavam",
+   "tips": [
+    {
+     "text": "siempre",
+     "translatedText": "sempre",
+     "explanation": null
+    },
+    {
+     "text": "estaban",
+     "translatedText": "estavam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "corriendo y gritando",
+  "newLine": false,
+  "translation": {
+   "text": "correndo e gritando",
+   "tips": [
+    {
+     "text": "corriendo",
+     "translatedText": "correndo",
+     "explanation": null
+    },
+    {
+     "text": "gritando",
+     "translatedText": "gritando",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sabes",
+  "newLine": false,
+  "translation": {
+   "text": "Sabe",
+   "tips": [
+    {
+     "text": "Sabes",
+     "translatedText": "você sabe / sabe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la paciencia no es",
+  "newLine": false,
+  "translation": {
+   "text": "a paciência não é",
+   "tips": [
+    {
+     "text": "la paciencia",
+     "translatedText": "a paciência",
+     "explanation": null
+    },
+    {
+     "text": "no es",
+     "translatedText": "não é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "uno de mis puntos fuertes",
+  "newLine": false,
+  "translation": {
+   "text": "um dos meus pontos fortes",
+   "tips": [
+    {
+     "text": "uno de mis puntos fuertes",
+     "translatedText": "um dos meus pontos fortes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "declaró Ana",
+  "newLine": false,
+  "translation": {
+   "text": "declarou Ana",
+   "tips": [
+    {
+     "text": "declaró",
+     "translatedText": "declarou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Bueno",
+  "newLine": false,
+  "translation": {
+   "text": "Bem",
+   "tips": [
+    {
+     "text": "Bueno",
+     "translatedText": "bem / bom (muletilha)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "puedes hacer investigación",
+  "newLine": false,
+  "translation": {
+   "text": "você pode fazer pesquisa",
+   "tips": [
+    {
+     "text": "puedes hacer",
+     "translatedText": "você pode fazer",
+     "explanation": null
+    },
+    {
+     "text": "investigación",
+     "translatedText": "pesquisa",
+     "explanation": "FALSO AMIGO: \"investigación\" em contexto acadêmico/científico = PESQUISA (\"hacer investigación\" = fazer pesquisa), não só \"investigação\" policial. Da mesma família: \"un investigador\" = um pesquisador."
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "respondió su madre",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu sua mãe",
+   "tips": [
+    {
+     "text": "respondió su madre",
+     "translatedText": "respondeu sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Y eso qué es",
+  "newLine": false,
+  "translation": {
+   "text": "E isso o que é",
+   "tips": [
+    {
+     "text": "Y eso",
+     "translatedText": "e isso",
+     "explanation": null
+    },
+    {
+     "text": "qué es",
+     "translatedText": "o que é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "preguntó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Ana",
+   "tips": [
+    {
+     "text": "preguntó",
+     "translatedText": "perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Puedes trabajar",
+  "newLine": false,
+  "translation": {
+   "text": "Você pode trabalhar",
+   "tips": [
+    {
+     "text": "Puedes trabajar",
+     "translatedText": "você pode trabalhar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en una empresa",
+  "newLine": false,
+  "translation": {
+   "text": "em uma empresa",
+   "tips": [
+    {
+     "text": "empresa",
+     "translatedText": "empresa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en una universidad",
+  "newLine": false,
+  "translation": {
+   "text": "em uma universidade",
+   "tips": [
+    {
+     "text": "en una universidad",
+     "translatedText": "em uma universidade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "o incluso en un museo",
+  "newLine": false,
+  "translation": {
+   "text": "ou inclusive em um museu",
+   "tips": [
+    {
+     "text": "o",
+     "translatedText": "ou",
+     "explanation": null
+    },
+    {
+     "text": "incluso",
+     "translatedText": "inclusive / até",
+     "explanation": null
+    },
+    {
+     "text": "en un museo",
+     "translatedText": "em um museu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "e intentar descubrir",
+  "newLine": false,
+  "translation": {
+   "text": "e tentar descobrir",
+   "tips": [
+    {
+     "text": "e",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "intentar",
+     "translatedText": "tentar",
+     "explanation": null
+    },
+    {
+     "text": "descubrir",
+     "translatedText": "descobrir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cosas nuevas",
+  "newLine": false,
+  "translation": {
+   "text": "coisas novas",
+   "tips": [
+    {
+     "text": "cosas nuevas",
+     "translatedText": "coisas novas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sobre el mundo",
+  "newLine": false,
+  "translation": {
+   "text": "sobre o mundo",
+   "tips": [
+    {
+     "text": "sobre el mundo",
+     "translatedText": "sobre o mundo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la naturaleza y el espacio",
+  "newLine": false,
+  "translation": {
+   "text": "a natureza e o espaço",
+   "tips": [
+    {
+     "text": "la naturaleza",
+     "translatedText": "a natureza",
+     "explanation": null
+    },
+    {
+     "text": "el espacio",
+     "translatedText": "o espaço",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque hay muchas cosas",
+  "newLine": false,
+  "translation": {
+   "text": "porque há muitas coisas",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "hay muchas cosas",
+     "translatedText": "há muitas coisas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sobre las que todavía",
+  "newLine": false,
+  "translation": {
+   "text": "sobre as quais ainda",
+   "tips": [
+    {
+     "text": "sobre las que",
+     "translatedText": "sobre as quais",
+     "explanation": null
+    },
+    {
+     "text": "todavía",
+     "translatedText": "ainda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tenemos que aprender",
+  "newLine": false,
+  "translation": {
+   "text": "temos que aprender",
+   "tips": [
+    {
+     "text": "tenemos que aprender",
+     "translatedText": "temos que aprender",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "explicó su madre",
+  "newLine": false,
+  "translation": {
+   "text": "explicou sua mãe",
+   "tips": [
+    {
+     "text": "explicó",
+     "translatedText": "explicou",
+     "explanation": null
+    },
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Eso debe de ser",
+  "newLine": false,
+  "translation": {
+   "text": "Isso deve ser",
+   "tips": [
+    {
+     "text": "Eso",
+     "translatedText": "isso",
+     "explanation": null
+    },
+    {
+     "text": "debe de ser",
+     "translatedText": "deve ser",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "muy bonito",
+  "newLine": false,
+  "translation": {
+   "text": "muito bonito",
+   "tips": [
+    {
+     "text": "muy bonito",
+     "translatedText": "muito bonito / muito legal",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Y papá",
+  "newLine": false,
+  "translation": {
+   "text": "E o papai",
+   "tips": [
+    {
+     "text": "Y papá",
+     "translatedText": "e o papai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sé que ama",
+  "newLine": false,
+  "translation": {
+   "text": "Sei que ele ama",
+   "tips": [
+    {
+     "text": "Sé",
+     "translatedText": "(eu) sei",
+     "explanation": null
+    },
+    {
+     "text": "que ama",
+     "translatedText": "que ama",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "su coche",
+  "newLine": false,
+  "translation": {
+   "text": "o carro dele",
+   "tips": [
+    {
+     "text": "coche",
+     "translatedText": "carro",
+     "explanation": "FALSO AMIGO: \"coche\" = CARRO (automóvel), não \"coche\"/carruagem como em português. Em boa parte da América Latina também se diz \"carro\" ou \"auto\", mas \"coche\" (mais usado na Espanha) é totalmente comum."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y su computadora",
+  "newLine": false,
+  "translation": {
+   "text": "e o computador dele",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "computadora",
+     "translatedText": "computador",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "preguntó Ana",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Ana",
+   "tips": [
+    {
+     "text": "preguntó Ana",
+     "translatedText": "perguntou Ana",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

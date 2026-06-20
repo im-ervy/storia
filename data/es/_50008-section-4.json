@@ -1,0 +1,2958 @@
+[
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Me alegra oír eso",
+  "translation": {
+   "text": "Fico feliz em ouvir isso",
+   "tips": [
+    {
+     "text": "Me alegra",
+     "translatedText": "fico feliz / me alegra",
+     "explanation": "ESTRUTURA-ESPELHO (verbo tipo \"gustar\"): \"alegrar\" funciona como \"gustar/doler\" — o que alegra é o SUJEITO e a pessoa que se alegra é objeto indireto (\"me\"). \"Me alegra oír eso\" = literalmente \"ouvir isso me alegra\" = \"fico feliz em ouvir isso\". Não se diz \"estoy alegre de oír\" aqui.",
+     "priority": "high"
+    },
+    {
+     "text": "oír eso",
+     "translatedText": "ouvir isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "hijo mío",
+  "translation": {
+   "text": "meu filho",
+   "tips": [
+    {
+     "text": "hijo mío",
+     "translatedText": "meu filho",
+     "explanation": "Note a ordem: o possessivo vai DEPOIS do substantivo em vocativos afetivos (\"hijo mío\", \"hija mía\", \"madre mía\"), e usa a forma tônica \"mío/mía\" (não \"mi\"). É vocabulário reciclado da família: hijo/hija, padre, madre.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo su madre",
+  "translation": {
+   "text": "disse sua mãe",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Se llama Ana Azul",
+  "translation": {
+   "text": "Ela se chama Ana Azul",
+   "tips": [
+    {
+     "text": "Se llama",
+     "translatedText": "(ela) se chama",
+     "explanation": null
+    },
+    {
+     "text": "Ana Azul",
+     "translatedText": "Ana Azul (Bonita)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo él",
+  "translation": {
+   "text": "disse ele",
+   "tips": [
+    {
+     "text": "dijo él",
+     "translatedText": "disse ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Después de un momento",
+  "newLine": true,
+  "translation": {
+   "text": "Depois de um momento",
+   "tips": [
+    {
+     "text": "Después de",
+     "translatedText": "depois de",
+     "explanation": null
+    },
+    {
+     "text": "un momento",
+     "translatedText": "um momento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "que pareció durar un año",
+  "translation": {
+   "text": "que pareceu durar um ano",
+   "tips": [
+    {
+     "text": "que pareció",
+     "translatedText": "que pareceu",
+     "explanation": null
+    },
+    {
+     "text": "durar un año",
+     "translatedText": "durar um ano",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "su madre respondió",
+  "translation": {
+   "text": "sua mãe respondeu",
+   "tips": [
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    },
+    {
+     "text": "respondió",
+     "translatedText": "respondeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Azul",
+  "translation": {
+   "text": "Azul",
+   "tips": [
+    {
+     "text": "Azul",
+     "translatedText": "Azul (sobrenome)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Es ella un miembro",
+  "translation": {
+   "text": "Ela é membro",
+   "tips": [
+    {
+     "text": "Es ella",
+     "translatedText": "ela é",
+     "explanation": "SER (não ESTAR): usa-se \"es\" porque é IDENTIDADE/PERTENCIMENTO — dizer que alguém É membro de algo é uma característica definidora, não um estado passageiro. Compare: \"¿Es ella un miembro?\" (ser = quem ela é) vs \"¿Está cansada?\" (estar = como ela está). Note também que o pronome \"ella\" vem depois do verbo na pergunta.",
+     "priority": "high"
+    },
+    {
+     "text": "un miembro",
+     "translatedText": "um membro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de la familia Azul",
+  "translation": {
+   "text": "da família Azul",
+   "tips": [
+    {
+     "text": "de la familia",
+     "translatedText": "da família",
+     "explanation": null
+    },
+    {
+     "text": "Azul",
+     "translatedText": "Azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Sí",
+  "translation": {
+   "text": "Sim",
+   "tips": [
+    {
+     "text": "Sí",
+     "translatedText": "sim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "madre",
+  "translation": {
+   "text": "mãe",
+   "tips": [
+    {
+     "text": "madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "lo es",
+  "translation": {
+   "text": "ela é",
+   "tips": [
+    {
+     "text": "lo es",
+     "translatedText": "ela é (sim)",
+     "explanation": "ESTRUTURA-ESPELHO: o \"lo\" é um pronome neutro que retoma o predicativo (\"un miembro de la familia Azul\") para não repeti-lo. \"Lo es\" = \"ela é (isso) sim\". É o equivalente do nosso \"ela é, sim\". Esse \"lo\" substituindo o atributo do verbo ser/estar não existe em português.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo Fuerte",
+  "translation": {
+   "text": "disse Fuerte",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "Fuerte",
+     "translatedText": "Fuerte (Pedro Rojo, \"Forte\")",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "translation": null
+ },
+ {
+  "text": "Entonces sabes muy bien",
+  "translation": {
+   "text": "Então você sabe muito bem",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "sabes",
+     "translatedText": "você sabe",
+     "explanation": null
+    },
+    {
+     "text": "muy bien",
+     "translatedText": "muito bem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que no deberías salir con ella",
+  "translation": {
+   "text": "que você não deveria sair com ela",
+   "tips": [
+    {
+     "text": "que no deberías",
+     "translatedText": "que você não deveria",
+     "explanation": null
+    },
+    {
+     "text": "salir con ella",
+     "translatedText": "namorá-la / sair com ela",
+     "explanation": "FALSO AMIGO + NOTA CULTURAL CAMPEÃ: \"salir con alguien\" não é só \"sair com alguém\" — é a expressão padrão para NAMORAR / estar saindo com alguém em sentido romântico. \"Salir\" sozinho = sair; mas \"salir con\" no contexto afetivo = ter um relacionamento. Aqui a mãe está proibindo o namoro, não um passeio.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": "!",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "declaró su madre",
+  "translation": {
+   "text": "declarou sua mãe",
+   "tips": [
+    {
+     "text": "declaró",
+     "translatedText": "declarou",
+     "explanation": null
+    },
+    {
+     "text": "su madre",
+     "translatedText": "sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Por qué",
+  "translation": {
+   "text": "Por quê",
+   "tips": [
+    {
+     "text": "Por qué",
+     "translatedText": "por quê",
+     "explanation": "POR/PARA: na PERGUNTA de causa usa-se \"¿por qué?\" (separado, com acento) = \"por quê?\". Não confundir com \"porque\" (junto, sem acento) = \"porque\" (resposta), nem com \"el porqué\" (o motivo). Logo abaixo a mãe responde com \"porque...\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "preguntó Fuerte",
+  "translation": {
+   "text": "perguntou Fuerte",
+   "tips": [
+    {
+     "text": "preguntó",
+     "translatedText": "perguntou",
+     "explanation": null
+    },
+    {
+     "text": "Fuerte",
+     "translatedText": "Fuerte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Porque es un miembro",
+  "translation": {
+   "text": "Porque é membro",
+   "tips": [
+    {
+     "text": "Porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "es un miembro",
+     "translatedText": "é um membro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de la familia Azul",
+  "translation": {
+   "text": "da família Azul",
+   "tips": [
+    {
+     "text": "de la familia Azul",
+     "translatedText": "da família Azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "por eso",
+  "translation": {
+   "text": "por isso",
+   "tips": [
+    {
+     "text": "por eso",
+     "translatedText": "por isso",
+     "explanation": "POR/PARA: \"por eso\" = \"por isso\" (causa/motivo). \"Por\" marca a CAUSA; \"para\" marcaria finalidade. Repare no contraste com o \"¿por qué?\" da pergunta anterior — pergunta e resposta de causa andam juntas (\"por qué?\" → \"porque... por eso\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo ella",
+  "translation": {
+   "text": "disse ela",
+   "tips": [
+    {
+     "text": "dijo ella",
+     "translatedText": "disse ela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Y",
+  "translation": {
+   "text": "E",
+   "tips": [
+    {
+     "text": "Y",
+     "translatedText": "e (e daí?)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "preguntó Fuerte",
+  "translation": {
+   "text": "perguntou Fuerte",
+   "tips": [
+    {
+     "text": "preguntó Fuerte",
+     "translatedText": "perguntou Fuerte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "No quiero seguir hablando",
+  "translation": {
+   "text": "Não quero continuar falando",
+   "tips": [
+    {
+     "text": "No quiero",
+     "translatedText": "não quero",
+     "explanation": null
+    },
+    {
+     "text": "seguir hablando",
+     "translatedText": "continuar falando",
+     "explanation": "ESTRUTURA-ESPELHO: \"seguir + gerúndio\" = \"continuar a fazer algo\" (\"seguir hablando\" = continuar falando). Em espanhol é \"seguir\", não \"continuar a\"; o verbo seguinte vai no gerúndio (-ando/-iendo).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "contigo ahora mismo",
+  "translation": {
+   "text": "com você agora mesmo",
+   "tips": [
+    {
+     "text": "contigo",
+     "translatedText": "com você / contigo",
+     "explanation": null
+    },
+    {
+     "text": "ahora mismo",
+     "translatedText": "agora mesmo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Ve a hablar",
+  "translation": {
+   "text": "Vá falar",
+   "tips": [
+    {
+     "text": "Ve",
+     "translatedText": "vá (imperativo de ir)",
+     "explanation": null
+    },
+    {
+     "text": "a hablar",
+     "translatedText": "falar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con tu padre",
+  "translation": {
+   "text": "com seu pai",
+   "tips": [
+    {
+     "text": "con tu padre",
+     "translatedText": "com seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "respondió su madre",
+  "translation": {
+   "text": "respondeu sua mãe",
+   "tips": [
+    {
+     "text": "respondió su madre",
+     "translatedText": "respondeu sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Entonces Fuerte tuvo",
+  "newLine": true,
+  "translation": {
+   "text": "Então Fuerte teve",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "Fuerte tuvo",
+     "translatedText": "Fuerte teve",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "la misma conversación",
+  "translation": {
+   "text": "a mesma conversa",
+   "tips": [
+    {
+     "text": "la misma",
+     "translatedText": "a mesma",
+     "explanation": null
+    },
+    {
+     "text": "conversación",
+     "translatedText": "conversa",
+     "explanation": "RECICLAGEM PROPOSITAL: a partir daqui, os diálogos da família Roja (pai/mãe de Fuerte) e da família Azul (pai/mãe de Bonita) se REPETEM quase idênticos, palavra por palavra. Isso é andaime de leitura intencional do graded reader: o leitor reencontra as mesmas estruturas com nomes trocados (Fuerte↔Bonita, Azul↔Roja, padre↔madre), fixando o vocabulário sem esforço.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con su padre",
+  "translation": {
+   "text": "com seu pai",
+   "tips": [
+    {
+     "text": "con su padre",
+     "translatedText": "com seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Esa misma noche",
+  "newLine": true,
+  "translation": {
+   "text": "Naquela mesma noite",
+   "tips": [
+    {
+     "text": "Esa misma noche",
+     "translatedText": "naquela mesma noite",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "Bonita le dijo a su madre",
+  "translation": {
+   "text": "Bonita disse à sua mãe",
+   "tips": [
+    {
+     "text": "Bonita",
+     "translatedText": "Bonita (Ana Azul)",
+     "explanation": null
+    },
+    {
+     "text": "le dijo a su madre",
+     "translatedText": "disse à sua mãe",
+     "explanation": "ESTRUTURA-ESPELHO: o espanhol usa \"le\" REDUNDANTE com o objeto indireto explícito — \"le dijo a su madre\" (literalmente \"lhe disse à sua mãe\"). Esse \"le\" duplicado, que soaria errado em português, é obrigatório e natural em espanhol.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Madre",
+  "translation": {
+   "text": "Mãe",
+   "tips": [
+    {
+     "text": "Madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "conocí a un joven",
+  "translation": {
+   "text": "conheci um rapaz",
+   "tips": [
+    {
+     "text": "conocí",
+     "translatedText": "conheci",
+     "explanation": null
+    },
+    {
+     "text": "a un joven",
+     "translatedText": "um rapaz / um jovem",
+     "explanation": "ESTRUTURA-ESPELHO (\"a\" pessoal): antes de objeto direto que é PESSOA, o espanhol põe a preposição \"a\" — \"conocí A un joven\". Em português não existe esse \"a\". É marca obrigatória sempre que o objeto direto é alguém específico.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "muy bueno",
+  "translation": {
+   "text": "muito bom (de bom coração)",
+   "tips": [
+    {
+     "text": "muy bueno",
+     "translatedText": "muito bom / muito gente boa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Me alegra oír eso",
+  "translation": {
+   "text": "Fico feliz em ouvir isso",
+   "tips": [
+    {
+     "text": "Me alegra",
+     "translatedText": "fico feliz / me alegra",
+     "explanation": null
+    },
+    {
+     "text": "oír eso",
+     "translatedText": "ouvir isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "hija mía",
+  "translation": {
+   "text": "minha filha",
+   "tips": [
+    {
+     "text": "hija mía",
+     "translatedText": "minha filha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo su madre",
+  "translation": {
+   "text": "disse sua mãe",
+   "tips": [
+    {
+     "text": "dijo su madre",
+     "translatedText": "disse sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Se llama Pedro Rojo",
+  "translation": {
+   "text": "Ele se chama Pedro Rojo",
+   "tips": [
+    {
+     "text": "Se llama",
+     "translatedText": "(ele) se chama",
+     "explanation": null
+    },
+    {
+     "text": "Pedro Rojo",
+     "translatedText": "Pedro Rojo (Fuerte)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo Bonita",
+  "translation": {
+   "text": "disse Bonita",
+   "tips": [
+    {
+     "text": "dijo Bonita",
+     "translatedText": "disse Bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Después de un momento",
+  "newLine": true,
+  "translation": {
+   "text": "Depois de um momento",
+   "tips": [
+    {
+     "text": "Después de un momento",
+     "translatedText": "depois de um momento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "que pareció durar un año",
+  "translation": {
+   "text": "que pareceu durar um ano",
+   "tips": [
+    {
+     "text": "que pareció durar un año",
+     "translatedText": "que pareceu durar um ano",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "su madre respondió",
+  "translation": {
+   "text": "sua mãe respondeu",
+   "tips": [
+    {
+     "text": "su madre respondió",
+     "translatedText": "sua mãe respondeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Rojo",
+  "translation": {
+   "text": "Rojo",
+   "tips": [
+    {
+     "text": "Rojo",
+     "translatedText": "Rojo (sobrenome)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Es él un miembro",
+  "translation": {
+   "text": "Ele é membro",
+   "tips": [
+    {
+     "text": "Es él",
+     "translatedText": "ele é",
+     "explanation": null
+    },
+    {
+     "text": "un miembro",
+     "translatedText": "um membro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de la familia Roja",
+  "translation": {
+   "text": "da família Roja",
+   "tips": [
+    {
+     "text": "de la familia Roja",
+     "translatedText": "da família Roja",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Sí",
+  "translation": {
+   "text": "Sim",
+   "tips": [
+    {
+     "text": "Sí",
+     "translatedText": "sim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "madre",
+  "translation": {
+   "text": "mãe",
+   "tips": [
+    {
+     "text": "madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "lo es",
+  "translation": {
+   "text": "ele é",
+   "tips": [
+    {
+     "text": "lo es",
+     "translatedText": "ele é (sim)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo Bonita",
+  "translation": {
+   "text": "disse Bonita",
+   "tips": [
+    {
+     "text": "dijo Bonita",
+     "translatedText": "disse Bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "translation": null
+ },
+ {
+  "text": "Entonces sabes muy bien",
+  "translation": {
+   "text": "Então você sabe muito bem",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "sabes muy bien",
+     "translatedText": "você sabe muito bem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que no deberías salir con él",
+  "translation": {
+   "text": "que você não deveria sair com ele",
+   "tips": [
+    {
+     "text": "que no deberías",
+     "translatedText": "que você não deveria",
+     "explanation": null
+    },
+    {
+     "text": "salir con él",
+     "translatedText": "namorá-lo / sair com ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "!",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "declaró su madre",
+  "translation": {
+   "text": "declarou sua mãe",
+   "tips": [
+    {
+     "text": "declaró su madre",
+     "translatedText": "declarou sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Por qué",
+  "translation": {
+   "text": "Por quê",
+   "tips": [
+    {
+     "text": "Por qué",
+     "translatedText": "por quê",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "preguntó Bonita",
+  "translation": {
+   "text": "perguntou Bonita",
+   "tips": [
+    {
+     "text": "preguntó Bonita",
+     "translatedText": "perguntou Bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Porque es un miembro",
+  "translation": {
+   "text": "Porque é membro",
+   "tips": [
+    {
+     "text": "Porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "es un miembro",
+     "translatedText": "é um membro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de la familia Roja",
+  "translation": {
+   "text": "da família Roja",
+   "tips": [
+    {
+     "text": "de la familia Roja",
+     "translatedText": "da família Roja",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "por eso",
+  "translation": {
+   "text": "por isso",
+   "tips": [
+    {
+     "text": "por eso",
+     "translatedText": "por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo ella",
+  "translation": {
+   "text": "disse ela",
+   "tips": [
+    {
+     "text": "dijo ella",
+     "translatedText": "disse ela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "¿",
+  "translation": null
+ },
+ {
+  "text": "Y",
+  "translation": {
+   "text": "E",
+   "tips": [
+    {
+     "text": "Y",
+     "translatedText": "e (e daí?)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "?",
+  "translation": null
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "preguntó Bonita",
+  "translation": {
+   "text": "perguntou Bonita",
+   "tips": [
+    {
+     "text": "preguntó Bonita",
+     "translatedText": "perguntou Bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "No quiero seguir hablando",
+  "translation": {
+   "text": "Não quero continuar falando",
+   "tips": [
+    {
+     "text": "No quiero",
+     "translatedText": "não quero",
+     "explanation": null
+    },
+    {
+     "text": "seguir hablando",
+     "translatedText": "continuar falando",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "contigo ahora mismo",
+  "translation": {
+   "text": "com você agora mesmo",
+   "tips": [
+    {
+     "text": "contigo",
+     "translatedText": "com você / contigo",
+     "explanation": null
+    },
+    {
+     "text": "ahora mismo",
+     "translatedText": "agora mesmo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Ve a hablar",
+  "translation": {
+   "text": "Vá falar",
+   "tips": [
+    {
+     "text": "Ve",
+     "translatedText": "vá",
+     "explanation": null
+    },
+    {
+     "text": "a hablar",
+     "translatedText": "falar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con tu padre",
+  "translation": {
+   "text": "com seu pai",
+   "tips": [
+    {
+     "text": "con tu padre",
+     "translatedText": "com seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "respondió su madre",
+  "translation": {
+   "text": "respondeu sua mãe",
+   "tips": [
+    {
+     "text": "respondió su madre",
+     "translatedText": "respondeu sua mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Entonces Bonita tuvo",
+  "newLine": true,
+  "translation": {
+   "text": "Então Bonita teve",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "Bonita tuvo",
+     "translatedText": "Bonita teve",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "la misma conversación",
+  "translation": {
+   "text": "a mesma conversa",
+   "tips": [
+    {
+     "text": "la misma conversación",
+     "translatedText": "a mesma conversa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con su padre",
+  "translation": {
+   "text": "com seu pai",
+   "tips": [
+    {
+     "text": "con su padre",
+     "translatedText": "com seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "A la noche siguiente",
+  "newLine": true,
+  "translation": {
+   "text": "Na noite seguinte",
+   "tips": [
+    {
+     "text": "A la noche siguiente",
+     "translatedText": "na noite seguinte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "Bonita les dijo a sus padres",
+  "translation": {
+   "text": "Bonita disse aos seus pais",
+   "tips": [
+    {
+     "text": "Bonita",
+     "translatedText": "Bonita",
+     "explanation": null
+    },
+    {
+     "text": "les dijo a sus padres",
+     "translatedText": "disse aos seus pais",
+     "explanation": "ESTRUTURA-ESPELHO: de novo o objeto indireto duplicado — \"les dijo a sus padres\" (\"lhes disse aos seus pais\"). \"les\" (plural) concorda com \"sus padres\". E note: \"padres\" no plural = \"os pais\" (pai + mãe), reciclando o vocabulário da família.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Madre",
+  "translation": {
+   "text": "Mãe",
+   "tips": [
+    {
+     "text": "Madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "padre",
+  "translation": {
+   "text": "pai",
+   "tips": [
+    {
+     "text": "padre",
+     "translatedText": "pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "voy a dejar de ver",
+  "translation": {
+   "text": "vou parar de ver",
+   "tips": [
+    {
+     "text": "voy a",
+     "translatedText": "vou",
+     "explanation": null
+    },
+    {
+     "text": "dejar de ver",
+     "translatedText": "parar de ver",
+     "explanation": "ESTRUTURA-ESPELHO: \"dejar de + infinitivo\" = \"PARAR DE fazer algo\". Cuidado: \"dejar\" sozinho = deixar/permitir, mas \"dejar de\" = cessar/parar. \"Voy a dejar de ver a Pedro\" = vou parar de ver o Pedro.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a Pedro Rojo",
+  "translation": {
+   "text": "o Pedro Rojo",
+   "tips": [
+    {
+     "text": "a Pedro Rojo",
+     "translatedText": "o Pedro Rojo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "si me dan una buena razón",
+  "translation": {
+   "text": "se me derem um bom motivo",
+   "tips": [
+    {
+     "text": "si me dan",
+     "translatedText": "se me derem / se me derem (vocês)",
+     "explanation": "SUBJUNTIVO (condição real): aqui \"dan\" está no presente do indicativo porque \"si\" de condição REAL/provável em espanhol NÃO leva subjuntivo presente (≠ português, que usa o futuro do subjuntivo \"se derem\"). É um descompasso clássico PT→ES: o nosso \"se me derem\" vira \"si me dan\" (indicativo).",
+     "priority": "low"
+    },
+    {
+     "text": "una buena razón",
+     "translatedText": "um bom motivo / uma boa razão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Es de la familia Roja",
+  "translation": {
+   "text": "Ele é da família Roja",
+   "tips": [
+    {
+     "text": "Es",
+     "translatedText": "(ele) é",
+     "explanation": "SER de origem/pertencimento: \"es de la familia Roja\" = \"é da família Roja\". Usa-se SER (não ESTAR) para indicar procedência, posse e pertencimento (\"ser de\" = ser proveniente de / pertencer a).",
+     "priority": "low"
+    },
+    {
+     "text": "de la familia Roja",
+     "translatedText": "da família Roja",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que esa es",
+  "translation": {
+   "text": "Então essa é",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / portanto",
+     "explanation": null
+    },
+    {
+     "text": "esa es",
+     "translatedText": "essa é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "una buena razón",
+  "translation": {
+   "text": "um bom motivo",
+   "tips": [
+    {
+     "text": "una buena razón",
+     "translatedText": "uma boa razão / um bom motivo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "declaró su padre",
+  "translation": {
+   "text": "declarou seu pai",
+   "tips": [
+    {
+     "text": "declaró",
+     "translatedText": "declarou",
+     "explanation": null
+    },
+    {
+     "text": "su padre",
+     "translatedText": "seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "No",
+  "translation": {
+   "text": "Não",
+   "tips": [
+    {
+     "text": "No",
+     "translatedText": "não",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "padre",
+  "translation": {
+   "text": "pai",
+   "tips": [
+    {
+     "text": "padre",
+     "translatedText": "pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "por favor",
+  "translation": {
+   "text": "por favor",
+   "tips": [
+    {
+     "text": "por favor",
+     "translatedText": "por favor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dime exactamente",
+  "translation": {
+   "text": "diga-me exatamente",
+   "tips": [
+    {
+     "text": "dime",
+     "translatedText": "diga-me / me diz",
+     "explanation": null
+    },
+    {
+     "text": "exactamente",
+     "translatedText": "exatamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por qué no debería quererlo",
+  "translation": {
+   "text": "por que eu não deveria gostar dele",
+   "tips": [
+    {
+     "text": "por qué",
+     "translatedText": "por que",
+     "explanation": null
+    },
+    {
+     "text": "no debería",
+     "translatedText": "eu não deveria",
+     "explanation": null
+    },
+    {
+     "text": "quererlo",
+     "translatedText": "amá-lo / gostar dele",
+     "explanation": "ESTRUTURA-ESPELHO: \"querer a alguien\" em espanhol = AMAR / gostar de alguém (afeto), não só \"querer\". E o pronome objeto cola no infinitivo: \"querer + lo\" = \"quererlo\" (querê-lo/gostar dele).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Algo razonable y lógico",
+  "translation": {
+   "text": "Algo razoável e lógico",
+   "tips": [
+    {
+     "text": "Algo",
+     "translatedText": "algo",
+     "explanation": null
+    },
+    {
+     "text": "razonable y lógico",
+     "translatedText": "razoável e lógico",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "\"",
+  "translation": null
+ },
+ {
+  "text": "Siempre ha sido así",
+  "translation": {
+   "text": "Sempre foi assim",
+   "tips": [
+    {
+     "text": "Siempre",
+     "translatedText": "sempre",
+     "explanation": null
+    },
+    {
+     "text": "ha sido así",
+     "translatedText": "foi assim / tem sido assim",
+     "explanation": "SER + pretérito perfeito composto: \"ha sido\" = \"tem sido / foi\" (do verbo SER, no \"pretérito perfecto\"). Usa-se SER porque descreve um modo de ser permanente (\"sempre foi assim\"). O auxiliar é sempre \"haber\" (ha sido), nunca \"tener\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "\" ",
+  "translation": null
+ },
+ {
+  "text": "no es una buena razón",
+  "translation": {
+   "text": "não é um bom motivo",
+   "tips": [
+    {
+     "text": "no es",
+     "translatedText": "não é",
+     "explanation": null
+    },
+    {
+     "text": "una buena razón",
+     "translatedText": "uma boa razão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "respondió Bonita",
+  "translation": {
+   "text": "respondeu Bonita",
+   "tips": [
+    {
+     "text": "respondió Bonita",
+     "translatedText": "respondeu Bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Esa misma noche",
+  "newLine": true,
+  "translation": {
+   "text": "Naquela mesma noite",
+   "tips": [
+    {
+     "text": "Esa misma noche",
+     "translatedText": "naquela mesma noite",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "Fuerte también les dijo",
+  "translation": {
+   "text": "Fuerte também disse",
+   "tips": [
+    {
+     "text": "Fuerte también",
+     "translatedText": "Fuerte também",
+     "explanation": null
+    },
+    {
+     "text": "les dijo",
+     "translatedText": "disse a eles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a sus padres",
+  "translation": {
+   "text": "aos seus pais",
+   "tips": [
+    {
+     "text": "a sus padres",
+     "translatedText": "aos seus pais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Madre",
+  "translation": {
+   "text": "Mãe",
+   "tips": [
+    {
+     "text": "Madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "padre",
+  "translation": {
+   "text": "pai",
+   "tips": [
+    {
+     "text": "padre",
+     "translatedText": "pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "voy a dejar de ver",
+  "translation": {
+   "text": "vou parar de ver",
+   "tips": [
+    {
+     "text": "voy a",
+     "translatedText": "vou",
+     "explanation": null
+    },
+    {
+     "text": "dejar de ver",
+     "translatedText": "parar de ver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a Ana Azul",
+  "translation": {
+   "text": "a Ana Azul",
+   "tips": [
+    {
+     "text": "a Ana Azul",
+     "translatedText": "a Ana Azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "si me dan una buena razón",
+  "translation": {
+   "text": "se me derem um bom motivo",
+   "tips": [
+    {
+     "text": "si me dan",
+     "translatedText": "se me derem",
+     "explanation": null
+    },
+    {
+     "text": "una buena razón",
+     "translatedText": "um bom motivo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Es de la familia Azul",
+  "translation": {
+   "text": "Ela é da família Azul",
+   "tips": [
+    {
+     "text": "Es",
+     "translatedText": "(ela) é",
+     "explanation": null
+    },
+    {
+     "text": "de la familia Azul",
+     "translatedText": "da família Azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que esa es",
+  "translation": {
+   "text": "Então essa é",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / portanto",
+     "explanation": null
+    },
+    {
+     "text": "esa es",
+     "translatedText": "essa é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "una buena razón",
+  "translation": {
+   "text": "um bom motivo",
+   "tips": [
+    {
+     "text": "una buena razón",
+     "translatedText": "uma boa razão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dijo su padre",
+  "translation": {
+   "text": "disse seu pai",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "su padre",
+     "translatedText": "seu pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "No",
+  "translation": {
+   "text": "Não",
+   "tips": [
+    {
+     "text": "No",
+     "translatedText": "não",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "padre",
+  "translation": {
+   "text": "pai",
+   "tips": [
+    {
+     "text": "padre",
+     "translatedText": "pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "por favor",
+  "translation": {
+   "text": "por favor",
+   "tips": [
+    {
+     "text": "por favor",
+     "translatedText": "por favor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dime exactamente",
+  "translation": {
+   "text": "diga-me exatamente",
+   "tips": [
+    {
+     "text": "dime",
+     "translatedText": "diga-me / me diz",
+     "explanation": null
+    },
+    {
+     "text": "exactamente",
+     "translatedText": "exatamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por qué no debería quererla",
+  "translation": {
+   "text": "por que eu não deveria gostar dela",
+   "tips": [
+    {
+     "text": "por qué",
+     "translatedText": "por que",
+     "explanation": null
+    },
+    {
+     "text": "no debería",
+     "translatedText": "eu não deveria",
+     "explanation": null
+    },
+    {
+     "text": "quererla",
+     "translatedText": "amá-la / gostar dela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Algo razonable y lógico",
+  "translation": {
+   "text": "Algo razoável e lógico",
+   "tips": [
+    {
+     "text": "Algo razonable y lógico",
+     "translatedText": "algo razoável e lógico",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "\"",
+  "translation": null
+ },
+ {
+  "text": "Siempre ha sido así",
+  "translation": {
+   "text": "Sempre foi assim",
+   "tips": [
+    {
+     "text": "Siempre ha sido así",
+     "translatedText": "sempre foi assim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "\" ",
+  "translation": null
+ },
+ {
+  "text": "no es una buena razón",
+  "translation": {
+   "text": "não é um bom motivo",
+   "tips": [
+    {
+     "text": "no es una buena razón",
+     "translatedText": "não é uma boa razão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "respondió Fuerte",
+  "translation": {
+   "text": "respondeu Fuerte",
+   "tips": [
+    {
+     "text": "respondió Fuerte",
+     "translatedText": "respondeu Fuerte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Sin embargo",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Sin embargo",
+     "translatedText": "no entanto / contudo",
+     "explanation": "FALSO AMIGO útil: \"sin embargo\" = \"no entanto / contudo / todavia\". É exatamente o conector que traduz o nosso \"todavia\" — lembrando que o espanhol \"todavía\" significa \"ainda\", NÃO \"todavia\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "como sus padres",
+  "translation": {
+   "text": "como seus pais",
+   "tips": [
+    {
+     "text": "como",
+     "translatedText": "como / já que",
+     "explanation": null
+    },
+    {
+     "text": "sus padres",
+     "translatedText": "seus pais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "no pudieron encontrar",
+  "translation": {
+   "text": "não conseguiram encontrar",
+   "tips": [
+    {
+     "text": "no pudieron",
+     "translatedText": "não conseguiram / não puderam",
+     "explanation": null
+    },
+    {
+     "text": "encontrar",
+     "translatedText": "encontrar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "una buena razón",
+  "translation": {
+   "text": "um bom motivo",
+   "tips": [
+    {
+     "text": "una buena razón",
+     "translatedText": "uma boa razão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para que se separaran",
+  "translation": {
+   "text": "para que se separassem",
+   "tips": [
+    {
+     "text": "para que",
+     "translatedText": "para que",
+     "explanation": "SUBJUNTIVO (campeão) + POR/PARA: \"para que\" (finalidade → sempre \"para\", não \"por\") EXIGE o subjuntivo. Por isso \"separaran\" está no imperfeito do subjuntivo (não \"separaron\", que seria indicativo). \"para que se separaran\" = \"para que se separassem\". Espelha o português, que também usa subjuntivo aqui.",
+     "priority": "high"
+    },
+    {
+     "text": "se separaran",
+     "translatedText": "se separassem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "siguieron saliendo juntos",
+  "translation": {
+   "text": "continuaram namorando",
+   "tips": [
+    {
+     "text": "siguieron saliendo",
+     "translatedText": "continuaram saindo/namorando",
+     "explanation": "ESTRUTURA + NOTA: \"seguir + gerúndio\" (continuar a) reaparece — \"siguieron saliendo\" = continuaram a sair. E \"salir juntos\" retoma o sentido romântico de \"salir con\": \"saliendo juntos\" = namorando / saindo como casal.",
+     "priority": "low"
+    },
+    {
+     "text": "juntos",
+     "translatedText": "juntos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "pero ahora en su propio pueblo",
+  "translation": {
+   "text": "mas agora na própria vila deles",
+   "tips": [
+    {
+     "text": "pero ahora",
+     "translatedText": "mas agora",
+     "explanation": null
+    },
+    {
+     "text": "en su propio pueblo",
+     "translatedText": "na própria vila deles",
+     "explanation": "FALSO AMIGO reciclado: \"pueblo\" = vila/povoado/cidadezinha (e também \"povo\"), NÃO \"povoado\" no sentido de aglomerado qualquer. \"su propio pueblo\" = a própria vila deles (a vila onde os dois vão morar).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Después de un tiempo",
+  "translation": {
+   "text": "Depois de um tempo",
+   "tips": [
+    {
+     "text": "Después de un tiempo",
+     "translatedText": "depois de um tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sus madres abrieron",
+  "translation": {
+   "text": "suas mães abriram",
+   "tips": [
+    {
+     "text": "sus madres",
+     "translatedText": "suas mães",
+     "explanation": null
+    },
+    {
+     "text": "abrieron",
+     "translatedText": "abriram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "un restaurante juntas",
+  "translation": {
+   "text": "um restaurante juntas",
+   "tips": [
+    {
+     "text": "un restaurante",
+     "translatedText": "um restaurante",
+     "explanation": null
+    },
+    {
+     "text": "juntas",
+     "translatedText": "juntas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "De hecho",
+  "translation": {
+   "text": "Na verdade",
+   "tips": [
+    {
+     "text": "De hecho",
+     "translatedText": "na verdade / aliás",
+     "explanation": "NOTA DE USO: \"de hecho\" = \"na verdade / aliás / de fato\" (conector muito comum). Não confundir com \"hecho\" (feito/fato). Vem de \"hacer\", mas a locução inteira é fixa.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sus madres siempre habían sido",
+  "translation": {
+   "text": "suas mães sempre tinham sido",
+   "tips": [
+    {
+     "text": "sus madres",
+     "translatedText": "suas mães",
+     "explanation": null
+    },
+    {
+     "text": "siempre habían sido",
+     "translatedText": "sempre tinham sido",
+     "explanation": "SER + mais-que-perfeito: \"habían sido\" (do verbo SER) = \"tinham sido\". Auxiliar SEMPRE \"haber\" (\"habían\"), nunca \"tener\" — diferente do português, onde usamos \"tinham\". \"siempre habían sido buenas amigas\" = sempre tinham sido boas amigas (qualidade/identidade → ser).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "buenas amigas",
+  "translation": {
+   "text": "boas amigas",
+   "tips": [
+    {
+     "text": "buenas amigas",
+     "translatedText": "boas amigas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y sus padres",
+  "translation": {
+   "text": "e seus pais",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "sus padres",
+     "translatedText": "seus pais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por fin empezaron a invitarse",
+  "translation": {
+   "text": "finalmente começaram a se convidar",
+   "tips": [
+    {
+     "text": "por fin",
+     "translatedText": "finalmente / enfim",
+     "explanation": null
+    },
+    {
+     "text": "empezaron a invitarse",
+     "translatedText": "começaram a se convidar",
+     "explanation": "ESTRUTURA-ESPELHO: \"empezar A + infinitivo\" = \"começar A fazer algo\" (a preposição \"a\" é obrigatória, como no português). E \"invitarse\" é recíproco (\"se convidar\" um ao outro), com o pronome colado ao infinitivo.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a la barbacoa del domingo",
+  "translation": {
+   "text": "para o churrasco de domingo",
+   "tips": [
+    {
+     "text": "a la barbacoa",
+     "translatedText": "para o churrasco",
+     "explanation": "NOTA CULTURAL: \"barbacoa\" = churrasco / churrascada (o assado de carne na brasa, ao ar livre, evento social). É a palavra de onde vem o inglês \"barbecue\". \"La barbacoa del domingo\" = o churrasco de domingo, ritual familiar reciclado dos diálogos anteriores.",
+     "priority": "high"
+    },
+    {
+     "text": "del domingo",
+     "translatedText": "de domingo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "aunque hacía mucho tiempo",
+  "translation": {
+   "text": "embora há muito tempo",
+   "tips": [
+    {
+     "text": "aunque",
+     "translatedText": "embora / ainda que",
+     "explanation": null
+    },
+    {
+     "text": "hacía mucho tiempo",
+     "translatedText": "fazia muito tempo / há muito tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que hablaban por internet",
+  "translation": {
+   "text": "que conversavam pela internet",
+   "tips": [
+    {
+     "text": "que hablaban",
+     "translatedText": "que conversavam / falavam",
+     "explanation": null
+    },
+    {
+     "text": "por internet",
+     "translatedText": "pela internet",
+     "explanation": "POR/PARA: \"por internet\" usa \"por\" = MEIO/canal pelo qual algo acontece (\"por\" indica o meio: por internet, por teléfono, por carta). Logo a seguir vem \"para cocinar\" com \"para\" de finalidade — ótimo contraste por/para na mesma frase.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sobre los mejores métodos",
+  "translation": {
+   "text": "sobre os melhores métodos",
+   "tips": [
+    {
+     "text": "sobre",
+     "translatedText": "sobre / a respeito de",
+     "explanation": null
+    },
+    {
+     "text": "los mejores métodos",
+     "translatedText": "os melhores métodos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para cocinar",
+  "translation": {
+   "text": "para cozinhar",
+   "tips": [
+    {
+     "text": "para cocinar",
+     "translatedText": "para cozinhar",
+     "explanation": "POR/PARA: \"para cocinar\" = \"para cozinhar\" — \"para\" + infinitivo marca FINALIDADE/objetivo (os melhores métodos com a finalidade de cozinhar). Contraste direto com o \"por internet\" (meio) da mesma frase: para = finalidade, por = meio.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ }
+]

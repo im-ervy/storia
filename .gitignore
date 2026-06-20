@@ -1,0 +1,29 @@
+/node_modules
+/.next
+/out
+*.log
+/shots
+npm-debug.log*
+
+# original capture / extraction working files (contain session tokens + raw payloads)
+*.har
+/raw
+/assets_raw
+
+# dump-fonte dos livros (36MB) — a saída da ingestão fica versionada em /data
+/graded-readers
+tsconfig.tsbuildinfo
+data/userState.json
+
+# áudios gerados (binários pesados, regeneráveis via scripts/generate-audio-fr.mjs)
+/public/audio/
+
+.vercel
+
+# variáveis de ambiente locais (segredos) — .env.example fica versionado
+.env
+.env.local
+.env*.local
+
+# arquivos temporários de trabalho
+/.pjtmp

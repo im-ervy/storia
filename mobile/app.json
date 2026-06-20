@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Graded Readers",
+    "slug": "mobile",
+    "scheme": "gradedreaders",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ervy778888.gradedreaders",
+      "versionCode": 5,
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d9320c7e-f6b8-49e5-8be0-466b3b72d1a3"
+      }
+    },
+    "owner": "ervy778888"
+  }
+}

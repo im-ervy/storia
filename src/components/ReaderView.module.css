@@ -1,0 +1,1445 @@
+/* Réplica do modo leitura do gradedreaders.com — valores extraídos dos
+ * estilos compilados dos componentes app-root-reading-template e app-reading
+ * do bundle original (chunk-HO2KZ2BW.js / main-PVMIMQHJ.js). */
+
+/* ===================== Shell (fundo + header de 35px) ===================== */
+
+.readingBackground {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  background-color: #f3fafb;
+}
+
+.readingHeaderBackground {
+  border-radius: 1px;
+  background-color: #fff;
+  height: 35px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9;
+}
+
+.readingHeader {
+  z-index: 10;
+  position: fixed;
+  top: 0;
+  border-radius: 1px;
+  background-color: #fff;
+  height: 35px;
+  line-height: 35px;
+  white-space: nowrap;
+  width: 1000px;
+  max-width: 1000px;
+  left: 50%;
+  margin-left: -500px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.headerLeft {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.linkToHome {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  text-decoration: none;
+}
+
+.gradedText,
+.readersText {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
+.gradedText {
+  color: #d92e37;
+}
+.readersText {
+  color: #5abdd1;
+}
+.byMvText {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  color: #bcced3;
+}
+
+.goHomeBtn {
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  cursor: pointer;
+}
+.goHomeBtn .arrowIcon {
+  width: 20px;
+  height: 12px;
+  margin-bottom: 4px;
+  transform: rotate(180deg);
+  filter: invert(80%) sepia(34%) saturate(127%) hue-rotate(147deg) brightness(89%) contrast(88%);
+}
+.headerLevel {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #c2d2d7;
+}
+.headerSeparator {
+  padding-left: 12px;
+  padding-right: 12px;
+  vertical-align: middle;
+}
+.headerTitle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: #8da8af;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.readerOptions {
+  padding-right: 20px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 40px;
+}
+
+.themeButtonContainer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 12px;
+}
+.themeIcon {
+  max-width: 15px;
+  max-height: 10px;
+  filter: invert(85%) sepia(8%) saturate(509%) hue-rotate(147deg) brightness(89%) contrast(90%);
+}
+.themeButton {
+  margin: 0;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 1px solid #e3edef;
+  padding: 0;
+  cursor: pointer;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.themeButton.selected {
+  border: 1px solid #c5d4d8;
+}
+.themeButton:hover {
+  transform: scale(1.1);
+}
+.themeButtonTooltip {
+  display: none;
+  z-index: 2;
+  width: 300%;
+  padding: 5px 15%;
+  position: absolute;
+  top: 30px;
+  left: -100%;
+  background-color: #fff;
+  border: 0.5px solid #dfebeb;
+  border-radius: 4px;
+  align-items: center;
+  font-size: 11px;
+  justify-content: center;
+  font-weight: 600;
+  color: #124653;
+  line-height: normal;
+}
+.themeButton:hover .themeButtonTooltip {
+  display: flex;
+}
+
+.exitReading {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #a9c0c7;
+  cursor: pointer;
+  text-align: right;
+}
+
+/* Botão "⋮" que abre o menu de opções no mobile (< 720px) */
+.displayMenuButton {
+  display: none;
+  margin: 0;
+  padding: 0 12px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+.openMenuIcon {
+  width: 20px;
+  height: 15px;
+  transform: rotate(90deg);
+  filter: invert(80%) sepia(34%) saturate(127%) hue-rotate(147deg) brightness(89%) contrast(88%);
+}
+
+/* Painel de opções mobile (réplica do mobile-options-menu original) */
+.menuBackdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 222219;
+}
+.mobileOptionsMenu {
+  display: none;
+  width: 100vw;
+  /* Altura automática: o menu cresceu além do "Tema" original (ganhou "Notas" e,
+     em zh/ru/ja, a transliteração) — altura fixa cortava o painel e o conteúdo
+     extra vazava sobre o texto. max-height + scroll p/ telas muito baixas. */
+  max-height: 100vh;
+  overflow-y: auto;
+  padding: 20px 25px 30px;
+  gap: 15px;
+  background-color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 222220;
+  border-bottom: 2px solid #ebf4f5;
+  filter: drop-shadow(0px 10px 10px rgba(54, 62, 63, 0.27));
+  flex-direction: column;
+}
+.menuUpperSection {
+  display: flex;
+  justify-content: space-between;
+}
+.menuReaderInfos {
+  max-width: 70%;
+}
+.menuReader,
+.menuLevel {
+  font-size: 13px;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+  text-transform: uppercase;
+}
+.menuReader {
+  color: #bc2830;
+}
+.menuLevel {
+  color: #d82e37;
+}
+.menuTitle {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+  color: #163b3e;
+  margin-top: 10px;
+  width: 100%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.menuHome {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #a9c0c7;
+  cursor: pointer;
+  width: min-content;
+}
+.menuThemeContainer {
+  margin-left: 15px;
+}
+.menuThemeLabel {
+  display: block;
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #a0b6bd;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  margin-bottom: 5px;
+}
+.menuThemeButtons {
+  display: flex;
+  justify-content: flex-start;
+}
+.menuThemeButton {
+  padding: 0;
+  width: 65px;
+  height: 30px;
+  margin-right: 10px;
+  border: 1px solid #e3edef;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.menuThemeButton.selected {
+  border: 1px solid #c5d4d8;
+}
+.menuThemeName {
+  display: none;
+}
+
+/* ===================== Container de leitura ===================== */
+
+.wrapper {
+  width: 100vw;
+  margin-top: 35px;
+  height: calc(100vh - 35px);
+}
+
+.readingContainer {
+  background-color: #f3fafb;
+  position: relative;
+  width: 1000px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.readerHeader {
+  padding-bottom: 46px;
+}
+.levelLabel {
+  float: left;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  border-radius: 1px;
+  background-color: #c8373f;
+  height: 115px;
+  padding: 67px 7px 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+.levelLabelText {
+  font-size: 12px;
+}
+.levelLabelNumber {
+  font-size: 20px;
+}
+.readerTitle {
+  width: auto;
+  font-size: 45px;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #124653;
+  font-weight: 700;
+  line-height: 35px;
+  text-align: left;
+  display: flex;
+  margin-left: 68px;
+  position: relative;
+  height: 115px;
+  max-width: 58vw;
+}
+.readerTitleContent {
+  position: absolute;
+  bottom: 0;
+}
+
+.resumeToaster {
+  display: flex;
+  gap: 10px;
+  position: fixed;
+  background-color: #7cb726;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+  padding: 10px 40px;
+  justify-content: center;
+  border-radius: 4px;
+  top: 40px;
+  left: 0;
+  margin: 0 auto;
+  right: 0;
+  max-width: 395px;
+  z-index: 2;
+  opacity: 90%;
+}
+
+/* ===================== Página de texto ===================== */
+
+.readingPage {
+  position: relative;
+  background-color: #fff;
+  text-align: justify;
+  padding: 48px 125px 0;
+  height: max-content;
+  min-height: calc(100vh - 85px);
+  z-index: 1;
+  border-top: 4px solid #f3fafb;
+  letter-spacing: 0.02em;
+}
+.readingPage.firstPage {
+  border-top: none;
+  min-height: calc(100vh - 246px);
+}
+.readingPage.lastPage {
+  height: calc(100vh - 85px);
+  min-height: calc(100vh - 85px);
+}
+
+.paragraph {
+  margin: 0 0 28px;
+}
+.sentence {
+  font-family: 'Open Sans', sans-serif;
+  color: #163b3e;
+  font-size: 24px;
+  line-height: 1.583;
+  font-weight: 400;
+}
+@media screen and (min-width: 992px) {
+  .translation:hover {
+    background-color: #8ddeed;
+    cursor: pointer;
+  }
+}
+.displayingTranslation {
+  background-color: #8ddeed;
+}
+
+/* Realce opcional dos tokens com nota pedagógica (falsos amigos, notas
+   culturais, gramática): underline pontilhado que não altera a métrica de
+   paginação. A cor acompanha o tema e a PRIORIDADE da nota: `high` = cor
+   forte (ponto essencial), `low` = tom suave (nota secundária, comum em
+   níveis altos). */
+.hasNoteHigh,
+.hasNoteLow {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+.hasNoteHigh {
+  text-decoration-color: #36c2dc;
+}
+.hasNoteLow {
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: #a9c7d0;
+}
+.blackAndWhite .hasNoteHigh {
+  text-decoration-color: #8a8a8a;
+}
+.blackAndWhite .hasNoteLow {
+  text-decoration-color: #c2c2c2;
+}
+.sepia .hasNoteHigh {
+  text-decoration-color: #b08d57;
+}
+.sepia .hasNoteLow {
+  text-decoration-color: #d3c3a3;
+}
+
+/* ===================== Pinyin (readers de mandarim) ===================== */
+
+/* Ruby acima dos hanzi; o <rt> herda a cor do tema com opacidade. */
+.sentence ruby {
+  ruby-position: over;
+  ruby-align: center;
+}
+.sentence rt,
+.measurer rt {
+  font-size: 0.42em;
+  line-height: 1.3;
+  font-weight: 400;
+  letter-spacing: 0;
+  opacity: 0.62;
+  user-select: none;
+  text-align: center;
+}
+/* A anotação ruby (<rt>) fica ACIMA do realce do chunk, sobre o fundo da
+   PÁGINA — não sobre o fundo do realce. Para o pinyin fazer parte do bloco
+   destacado (hanzi + pinyin realçados juntos), damos ao próprio <rt> o fundo do
+   realce + cor que contrasta com ele, em opacidade plena. */
+.translation:hover rt,
+.displayingTranslation rt {
+  opacity: 1;
+  color: #124653;
+  background-color: #8ddeed;
+}
+.blackAndWhite .translation:hover rt,
+.blackAndWhite .displayingTranslation rt {
+  color: #000;
+  background-color: #cecece;
+}
+.sepia .translation:hover rt,
+.sepia .displayingTranslation rt {
+  color: #f9f4e8;
+  background-color: #5c4930;
+}
+
+/* Com pinyin ativo, as linhas abrem espaço para o <rt> (mesma altura usada
+   pelo medidor da paginação — manter os dois valores em sincronia!). */
+.withPinyin .sentence {
+  line-height: 2.2;
+}
+
+/* Botão Pīnyīn no header do modo leitura (ao lado dos temas). */
+.pinyinToggle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: none;
+  color: #a9c0c7;
+  background: transparent;
+  border: 1px solid #a9c0c7;
+  border-radius: 10px;
+  padding: 1px 10px;
+  margin-right: 14px;
+  cursor: pointer;
+  line-height: 16px;
+}
+.pinyinToggle.pinyinOn {
+  color: #ffffff;
+  background-color: #36c2dc;
+  border-color: #36c2dc;
+}
+/* O toggle "Notas" vale para todos os idiomas e fica antes dos demais. */
+.notesToggle {
+  text-decoration: underline dotted;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 2px;
+}
+.blackAndWhite .pinyinToggle {
+  color: #5d5d5d;
+  border-color: #5d5d5d;
+}
+.blackAndWhite .pinyinToggle.pinyinOn {
+  color: #1c1c1c;
+  background-color: #9b9b9b;
+  border-color: #9b9b9b;
+}
+
+/* Toggle de pinyin no menu mobile. */
+.menuPinyinButton {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #163b3e;
+  background: #ffffff;
+  border: 1px solid #a9c0c7;
+  border-radius: 14px;
+  padding: 4px 16px;
+  cursor: pointer;
+}
+.menuPinyinButton.selected {
+  color: #ffffff;
+  background-color: #36c2dc;
+  border-color: #36c2dc;
+}
+
+.finishFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+.btnFinishReader {
+  width: 353px;
+  height: 70px;
+  font-size: 28.64px;
+  font-family: 'Barlow Condensed', sans-serif;
+  color: #fff;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  background-image: linear-gradient(90deg, #72b923, #9acb31);
+  box-shadow: 0 10px 20px #28b1ca59;
+  cursor: pointer;
+}
+.btnFinishReader:hover {
+  background-image: linear-gradient(90deg, #83ce25, #a6dc33);
+  box-shadow: 0 8px 20px #28b1ca66;
+}
+.btnFinishReader:active {
+  background-image: linear-gradient(90deg, #54b10e, #7bc614);
+}
+
+/* ===================== Setas de paginação ===================== */
+
+.leftButtonBox,
+.rightButtonBox {
+  position: absolute;
+  top: 0;
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  width: 50vw;
+}
+.leftButtonBox {
+  right: 100%;
+  justify-content: flex-end;
+}
+.rightButtonBox {
+  left: 100%;
+  justify-content: flex-start;
+}
+.previousPageButtonBox,
+.nextPageButtonBox {
+  width: 60px;
+  height: 100px;
+  background-color: #fdfefe;
+  opacity: 0.2;
+  cursor: pointer;
+  z-index: 1;
+  transition: 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.leftButtonBox:hover .previousPageButtonBox,
+.rightButtonBox:hover .nextPageButtonBox {
+  opacity: 1;
+}
+.previousPageButton,
+.nextPageButton {
+  display: block;
+  margin-top: 33px;
+  margin-left: 20px;
+  width: 20px;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.previousPageButton {
+  transform: rotate(180deg);
+}
+
+/* ===================== Tooltip de tradução ===================== */
+
+.translationTooltip {
+  font-family: 'Open Sans', sans-serif;
+  z-index: 100000;
+  padding: 22px 65px 45px 30px;
+  position: fixed;
+  max-width: 485px;
+  border-width: 2px;
+  border-color: #dde9eb;
+  border-style: solid;
+  background-color: #fff;
+  box-shadow: 0 10px 20px #27798873;
+}
+.tooltipLoading {
+  opacity: 0;
+}
+.speechButton {
+  background: none;
+  padding: 0;
+  border: none;
+  width: 30px;
+  margin-left: 0;
+  cursor: pointer;
+  transition: transform 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+  vertical-align: middle;
+}
+.speechButton img {
+  margin: 0 0 2px;
+  width: 25px;
+  height: 25px;
+  filter: invert(21%) sepia(79%) saturate(2012%) hue-rotate(335deg) brightness(108%) contrast(86%);
+}
+@media screen and (min-width: 992px) {
+  .speechButton:hover {
+    transform: scale(1.2);
+  }
+}
+.portugueseText {
+  font-size: 18px;
+  font-weight: 700;
+}
+.tooltipCloseButton {
+  background: #dce9eb;
+  padding: 0;
+  border: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.tooltipCloseButton img {
+  margin: 0 0 2px 1px;
+  width: 15px;
+  height: 15px;
+  filter: invert(88%) sepia(12%) saturate(154%) hue-rotate(142deg) brightness(78%) contrast(87%);
+}
+.tooltipCloseButton:hover {
+  background-color: #c8373f;
+}
+.tooltipCloseButton:hover img {
+  filter: invert(92%) sepia(76%) saturate(58%) hue-rotate(218deg) brightness(118%) contrast(100%);
+}
+
+.tip {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.tipArrow {
+  display: inline-block;
+  width: 20px;
+  height: 12px;
+  background-image: url('/icons/tip-arrow.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  filter: invert(98%) sepia(2%) saturate(1054%) hue-rotate(159deg) brightness(98%) contrast(87%);
+  margin-right: 10px;
+}
+.tipEnglish {
+  font-size: 18px;
+  font-weight: 700;
+  color: #31b7d0;
+}
+.tipSeparator {
+  color: #e1e9eb;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.tipPortuguese {
+  font-size: 18px;
+  font-weight: 700;
+  color: #1b9bb4;
+  word-break: keep-all;
+}
+.tipExplanation {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #749199;
+  margin: 0 0 0 35px;
+}
+
+/* ===================== Progresso + rodapé ===================== */
+
+.readingProgress {
+  position: fixed;
+  z-index: 10;
+  bottom: 0;
+  height: 5px;
+  width: 1000px;
+  max-width: 1000px;
+  left: 50%;
+  margin-left: -500px;
+}
+.readingProgress div {
+  margin: 0;
+  padding: 0;
+  height: 5px;
+  background-color: #31b3ca;
+  font-size: 0;
+}
+
+.pageInfo {
+  padding: 15px 0;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: #a6bfc6;
+  background-color: #fff;
+}
+.lastPageInfo {
+  color: #8db0b7;
+  position: fixed;
+  z-index: 2;
+  bottom: 0;
+  width: 1000px;
+  left: 50%;
+  margin-left: -500px;
+  background-color: transparent;
+}
+.lastPageNumber {
+  color: #80be28;
+}
+.dot {
+  background-image: url('/media/dot.png');
+  display: inline-block;
+  height: 7px;
+  width: 5px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: invert(98%) sepia(3%) saturate(736%) hue-rotate(167deg) brightness(96%) contrast(85%);
+  margin: 0 15px;
+}
+.restart {
+  background-color: transparent;
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+  color: #a0b2b8;
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.restart:hover {
+  color: #60818c;
+}
+.restart:active {
+  color: #2b393e;
+}
+
+/* Setas de página da barra inferior (somente mobile) */
+.mobilePrevButtonBox,
+.mobileNextButtonBox {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  width: 60px;
+  height: 44px;
+  z-index: 10;
+  cursor: pointer;
+}
+.mobilePrevButtonBox {
+  left: 0.5vw;
+}
+.mobileNextButtonBox {
+  left: 90%;
+}
+.mobilePrevButton,
+.mobileNextButton {
+  width: 15px;
+  margin: 15px 0 0 20px;
+  display: block;
+  user-select: none;
+  -webkit-user-select: none;
+}
+.mobilePrevButton {
+  transform: rotate(180deg);
+}
+
+/* ===================== Overlay de recomeço (mobile) ===================== */
+
+.restartOverlay {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  background-color: #0c191ad9;
+  z-index: 99;
+  left: 0;
+  top: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 13%;
+}
+.restartOverlay p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 22px;
+  color: #fff;
+  text-align: center;
+  line-height: 24px;
+  margin-bottom: 5px;
+}
+.overlayConfirm,
+.overlayCancel {
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+}
+.overlayConfirm {
+  background-image: linear-gradient(90deg, #72b923, #9acb31);
+}
+.overlayCancel {
+  background-image: linear-gradient(90deg, #28a5c1, #38bfd3);
+}
+
+/* ===================== Medidor oculto da paginação ===================== */
+
+.measurer {
+  position: absolute;
+  top: 0;
+  left: -99999px;
+  visibility: hidden;
+  pointer-events: none;
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  white-space: normal;
+}
+
+/* ===================== Tema: PRETO ===================== */
+
+.blackAndWhite {
+  background-color: #1c1c1c;
+}
+.blackAndWhite .readingHeaderBackground,
+.blackAndWhite .readingHeader {
+  background-color: #000;
+}
+.blackAndWhite .themeIcon {
+  filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(160deg) brightness(87%) contrast(94%);
+}
+.blackAndWhite .themeButtonTooltip {
+  background-color: #363636;
+  border: 0.5px solid #363636;
+  color: #fff;
+}
+.blackAndWhite .goHomeBtn .arrowIcon {
+  filter: invert(85%) sepia(0%) saturate(18%) hue-rotate(190deg) brightness(96%) contrast(100%);
+}
+.blackAndWhite .gradedText,
+.blackAndWhite .readersText,
+.blackAndWhite .byMvText {
+  color: #f0f1f1;
+}
+.blackAndWhite .headerLevel,
+.blackAndWhite .headerSeparator,
+.blackAndWhite .headerTitle {
+  color: #555;
+}
+.blackAndWhite .exitReading {
+  color: #5d5d5d;
+}
+.blackAndWhite .readingContainer {
+  background-color: #1c1c1c;
+}
+.blackAndWhite .levelLabel {
+  background-color: #363636;
+}
+.blackAndWhite .levelLabelText,
+.blackAndWhite .levelLabelNumber,
+.blackAndWhite .readerTitleContent {
+  color: #cfcfcf;
+}
+.blackAndWhite .resumeToaster {
+  background-color: #f0f1f1;
+  color: #1c1c1c;
+}
+.blackAndWhite .readingPage {
+  background-color: #000;
+  border-top: 4px solid #1c1c1c;
+}
+.blackAndWhite .readingPage.firstPage {
+  border-top: none;
+}
+.blackAndWhite .sentence {
+  color: #cfcfcf;
+}
+.blackAndWhite .displayingTranslation {
+  color: #000;
+  background-color: #cecece;
+}
+@media screen and (min-width: 992px) {
+  .blackAndWhite .translation:hover {
+    background-color: #cecece;
+    color: #000;
+  }
+}
+.blackAndWhite .pageInfo {
+  background-color: #000;
+  color: #909090;
+}
+.blackAndWhite .pageInfo.lastPageInfo {
+  background-color: transparent;
+}
+.blackAndWhite .lastPageNumber {
+  color: #cfcfcf;
+}
+.blackAndWhite .readingProgress {
+  background-color: #5d5d5d;
+}
+.blackAndWhite .readingProgress div {
+  background-color: #909090;
+}
+.blackAndWhite .previousPageButtonBox {
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #363636, #1c1c1c);
+}
+.blackAndWhite .nextPageButtonBox {
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #1c1c1c, #363636);
+}
+.blackAndWhite .previousPageButton,
+.blackAndWhite .nextPageButton {
+  filter: invert(77%) sepia(0%) saturate(0%) hue-rotate(254deg) brightness(87%) contrast(91%);
+}
+.blackAndWhite .dot {
+  filter: invert(64%) sepia(1%) saturate(0%) hue-rotate(25deg) brightness(89%) contrast(90%);
+}
+.blackAndWhite .restart {
+  color: #909090;
+}
+.blackAndWhite .restart:hover {
+  color: #cecece;
+}
+.blackAndWhite .restart:active {
+  color: #f0f1f1;
+}
+.blackAndWhite .translationTooltip {
+  background-color: #141414;
+  border-color: #ccc;
+  box-shadow: none;
+}
+.blackAndWhite .portugueseText {
+  color: #cfcfcf;
+}
+.blackAndWhite .tooltipCloseButton {
+  background-color: #363636;
+}
+.blackAndWhite .tooltipCloseButton img {
+  width: 13px;
+  height: 13px;
+  filter: invert(63%) sepia(40%) saturate(0%) hue-rotate(227deg) brightness(94%) contrast(101%);
+}
+.blackAndWhite .tooltipCloseButton:hover {
+  background-color: #cecece;
+}
+.blackAndWhite .speechButton img {
+  filter: invert(39%) sepia(0%) saturate(0%) hue-rotate(155deg) brightness(97%) contrast(84%);
+}
+.blackAndWhite .tipArrow {
+  filter: invert(75%) sepia(3%) saturate(0%) hue-rotate(186deg) brightness(89%) contrast(86%);
+}
+.blackAndWhite .tipEnglish,
+.blackAndWhite .tipPortuguese {
+  color: #989898;
+}
+.blackAndWhite .tipSeparator {
+  color: #333;
+}
+.blackAndWhite .tipExplanation {
+  color: #8f8f8f;
+}
+.blackAndWhite .btnFinishReader {
+  color: #1c1c1c;
+  box-shadow: 0 2px 4px #f0f1f1;
+  background-image: linear-gradient(0deg, #ccc, #f0f1f1);
+}
+.blackAndWhite .openMenuIcon {
+  filter: invert(96%) sepia(0%) saturate(0%) hue-rotate(160deg) brightness(87%) contrast(94%);
+}
+.blackAndWhite .mobileOptionsMenu {
+  background-color: #000;
+  border-bottom: 2px solid #5d5d5d;
+  filter: drop-shadow(0px 10px 10px #333333);
+}
+.blackAndWhite .menuReader {
+  color: #909090;
+}
+.blackAndWhite .menuLevel {
+  color: #cecece;
+}
+.blackAndWhite .menuTitle {
+  color: #ccc;
+}
+.blackAndWhite .menuThemeLabel {
+  color: #cecece;
+}
+.blackAndWhite .menuHome {
+  color: #5d5d5d;
+}
+.blackAndWhite .mobilePrevButton,
+.blackAndWhite .mobileNextButton {
+  filter: invert(88%) sepia(0%) saturate(0%) hue-rotate(196deg) brightness(96%) contrast(91%);
+}
+
+/* ===================== Tema: SÉPIA ===================== */
+
+.sepia {
+  background-color: #f9f4e8;
+}
+.sepia .readingHeaderBackground,
+.sepia .readingHeader {
+  background-color: #ede7da;
+}
+.sepia .themeIcon {
+  filter: invert(28%) sepia(12%) saturate(1431%) hue-rotate(354deg) brightness(94%) contrast(88%);
+}
+.sepia .goHomeBtn .arrowIcon {
+  filter: invert(71%) sepia(14%) saturate(322%) hue-rotate(358deg) brightness(89%) contrast(86%);
+}
+.sepia .gradedText,
+.sepia .readersText,
+.sepia .byMvText,
+.sepia .headerLevel,
+.sepia .headerSeparator,
+.sepia .headerTitle,
+.sepia .exitReading {
+  color: #aba191;
+}
+.sepia .readingContainer {
+  background-color: #f9f4e8;
+}
+.sepia .levelLabel {
+  background-color: #5c4930;
+}
+.sepia .levelLabelText,
+.sepia .levelLabelNumber {
+  color: #fff;
+}
+.sepia .readerTitleContent {
+  color: #5c4930;
+}
+.sepia .resumeToaster {
+  background-color: #5c4930;
+  color: #ede7da;
+}
+.sepia .readingPage {
+  background-color: #f3e9d2;
+  border-top: 4px solid #f9f4e8;
+}
+.sepia .readingPage.firstPage {
+  border-top: none;
+}
+.sepia .sentence {
+  color: #5c4930;
+}
+.sepia .displayingTranslation {
+  color: #f9f4e8;
+  background-color: #5c4930;
+}
+@media screen and (min-width: 992px) {
+  .sepia .translation:hover {
+    color: #f9f4e8;
+    background-color: #5c4930;
+  }
+}
+.sepia .pageInfo {
+  background-color: #f3e9d2;
+  color: #a39377;
+}
+.sepia .pageInfo.lastPageInfo {
+  background-color: transparent;
+}
+.sepia .lastPageNumber {
+  color: #33281b;
+}
+.sepia .readingProgress {
+  background-color: #aba191;
+}
+.sepia .readingProgress div {
+  background-color: #5c4930;
+}
+.sepia .previousPageButtonBox {
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #ede7da, #f9f4e8);
+}
+.sepia .nextPageButtonBox {
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #f9f4e8, #ede7da);
+}
+.sepia .previousPageButton,
+.sepia .nextPageButton {
+  filter: invert(25%) sepia(35%) saturate(504%) hue-rotate(355deg) brightness(103%) contrast(91%);
+}
+.sepia .dot {
+  filter: invert(61%) sepia(5%) saturate(1568%) hue-rotate(360deg) brightness(96%) contrast(87%);
+}
+.sepia .restart {
+  color: #a39377;
+}
+.sepia .restart:hover {
+  color: #7e6d54;
+}
+.sepia .restart:active {
+  color: #33281b;
+}
+.sepia .translationTooltip {
+  background-color: #f9f4e8;
+  border-color: #d9d0ba;
+  box-shadow: none;
+}
+.sepia .portugueseText {
+  color: #5c4930;
+}
+.sepia .tooltipCloseButton {
+  background-color: #d9d0ba;
+}
+.sepia .tooltipCloseButton img {
+  width: 13px;
+  height: 13px;
+  filter: invert(91%) sepia(4%) saturate(927%) hue-rotate(331deg) brightness(109%) contrast(95%);
+}
+.sepia .tooltipCloseButton:hover {
+  background-color: #a39377;
+}
+.sepia .speechButton img {
+  filter: invert(81%) sepia(35%) saturate(179%) hue-rotate(5deg) brightness(85%) contrast(84%);
+}
+.sepia .tipArrow {
+  filter: invert(96%) sepia(25%) saturate(241%) hue-rotate(317deg) brightness(95%) contrast(92%);
+}
+.sepia .tipEnglish,
+.sepia .tipPortuguese {
+  color: #5c4930;
+}
+.sepia .tipSeparator {
+  color: #e9e3d5;
+}
+.sepia .tipExplanation {
+  color: #aba191;
+}
+.sepia .btnFinishReader {
+  color: #ede7da;
+  box-shadow: 0 5px 10px #5c4930;
+  background-image: linear-gradient(0deg, #5c4930, #7e6d54);
+}
+.sepia .openMenuIcon {
+  filter: invert(28%) sepia(12%) saturate(1431%) hue-rotate(354deg) brightness(94%) contrast(88%);
+}
+.sepia .mobileOptionsMenu {
+  background-color: #f9f4e8;
+  border-bottom: 2px solid #d9d0ba;
+  filter: drop-shadow(0px 10px 10px #5c4930);
+}
+.sepia .menuReader {
+  color: #aba191;
+}
+.sepia .menuLevel {
+  color: #5c4930;
+}
+.sepia .menuTitle {
+  color: #7e6d54;
+}
+.sepia .menuThemeLabel {
+  color: #a39377;
+}
+.sepia .menuHome {
+  color: #aba191;
+}
+.sepia .mobilePrevButton,
+.sepia .mobileNextButton {
+  filter: invert(11%) sepia(17%) saturate(1519%) hue-rotate(352deg) brightness(96%) contrast(86%);
+}
+
+/* ===================== Responsivo ===================== */
+
+@media screen and (max-width: 1199px) {
+  .readingHeader,
+  .readingContainer,
+  .readingProgress,
+  .lastPageInfo {
+    width: 800px;
+    max-width: 800px;
+  }
+  .readingHeader,
+  .readingProgress,
+  .lastPageInfo {
+    margin-left: -400px;
+  }
+  .readingPage {
+    padding: 40px 60px 0;
+  }
+  .sentence {
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .readingBackground {
+    background-color: #fff;
+  }
+  .blackAndWhite.readingBackground {
+    background-color: #000;
+  }
+  .sepia.readingBackground {
+    background-color: #f3e9d2;
+  }
+  .readingHeader,
+  .readingContainer {
+    width: 83vw;
+    max-width: 83vw;
+  }
+  .readingHeader {
+    left: 50%;
+    margin-left: -41.5vw;
+    border-bottom: 4px solid #f3fafb;
+    box-sizing: content-box;
+  }
+  .sepia .readingHeader,
+  .sepia .readingHeaderBackground {
+    border-bottom: 2px solid #d9d0ba;
+  }
+  .blackAndWhite .readingHeader,
+  .blackAndWhite .readingHeaderBackground {
+    border-bottom: 2px solid #1c1c1c;
+  }
+  .readingContainer {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+  }
+  /* Badge de nível compacto + título ao lado, como no app original */
+  .readerHeader {
+    background-color: #fff;
+    padding-bottom: 0;
+    padding-top: 20px;
+  }
+  .sepia .readerHeader {
+    background-color: #f3e9d2;
+  }
+  .blackAndWhite .readerHeader {
+    background-color: #000;
+  }
+  .levelLabel {
+    height: auto;
+    padding: 12px 12px 10px;
+  }
+  .levelLabelText {
+    font-size: 11px;
+  }
+  .levelLabelNumber {
+    font-size: 18px;
+  }
+  .readerTitle {
+    font-size: 35px;
+    max-width: none;
+    height: auto;
+    margin-left: 22px;
+    display: block;
+  }
+  .readerTitleContent {
+    position: static;
+  }
+  .resumeToaster {
+    top: unset;
+    bottom: 52px;
+    font-size: 14px;
+    padding: 10px 0;
+    max-width: 336px;
+  }
+  .readingPage {
+    margin-right: 0;
+    padding: 50px 0 0;
+    border-top: none;
+    min-height: 0;
+  }
+  .readingPage.firstPage {
+    padding-top: 30px;
+    min-height: 0;
+  }
+  .readingPage.lastPage {
+    height: auto;
+  }
+  .leftButtonBox,
+  .rightButtonBox {
+    display: none;
+  }
+  .translationTooltip {
+    width: 100vw;
+    max-width: 100vw;
+  }
+  .readingProgress {
+    left: 0;
+    right: 0;
+    margin-left: 0;
+    max-width: none;
+    width: 100%;
+    z-index: 8;
+  }
+  .readingProgress div {
+    max-width: 100%;
+  }
+  .pageInfo {
+    width: 100%;
+    z-index: 9;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    margin-left: 0;
+    opacity: 0.93;
+    max-width: none;
+  }
+  .lastPageInfo {
+    width: 100%;
+    left: 0;
+    margin-left: 0;
+  }
+  .sepia .pageInfo {
+    background-color: #d9d0ba;
+    color: #a39377;
+  }
+  .blackAndWhite .pageInfo {
+    background-color: #1c1c1c;
+  }
+  .mobilePrevButtonBox,
+  .mobileNextButtonBox {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 719px) {
+  .readerOptions {
+    display: none;
+  }
+  .displayMenuButton {
+    display: block;
+  }
+  .mobileOptionsMenu {
+    display: flex;
+  }
+  .headerLeft {
+    padding-left: 0;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .readingHeader,
+  .readingContainer {
+    width: 88vw;
+    max-width: 88vw;
+  }
+  .readingHeader {
+    margin-left: -44vw;
+  }
+  .headerLevel {
+    display: none;
+  }
+  .goHomeBtn .arrowIcon {
+    height: 10px;
+    margin-bottom: 2px;
+    margin-right: 8px;
+  }
+  .readerTitle {
+    font-size: 25px;
+    line-height: 25px;
+    padding-top: 2px;
+    margin-left: 20px;
+  }
+  .paragraph {
+    margin-bottom: 10px;
+  }
+  .sentence {
+    font-size: 17px;
+  }
+  .translationTooltip {
+    padding-left: 20px;
+    padding-right: 33px;
+  }
+  .finishFooter {
+    margin: 0;
+  }
+  .btnFinishReader {
+    z-index: 2;
+    font-size: 23px;
+    font-weight: 600;
+    width: 60vw;
+    height: 40px;
+    padding: 0 !important;
+  }
+}

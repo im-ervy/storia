@@ -1,0 +1,1173 @@
+[
+  {
+    "text": "La tortue est partie",
+    "newLine": true,
+    "translation": {
+      "text": "A tartaruga partiu",
+      "tips": [
+        {
+          "text": "la tortue",
+          "translatedText": "a tartaruga",
+          "explanation": "\"la tortue\" significa \"a tartaruga\". É um substantivo feminino em francês (\"la\"), assim como em português."
+        },
+        {
+          "text": "est partie",
+          "translatedText": "partiu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour son voyage",
+    "newLine": false,
+    "translation": {
+      "text": "para a sua viagem",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur le chemin de l'île",
+    "newLine": false,
+    "translation": {
+      "text": "no caminho da ilha",
+      "tips": [
+        {
+          "text": "sur le chemin",
+          "translatedText": "no caminho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où les singes habitaient",
+    "newLine": false,
+    "translation": {
+      "text": "onde os macacos moravam",
+      "tips": [
+        {
+          "text": "le singe",
+          "translatedText": "o macaco",
+          "explanation": "\"le singe\" significa \"o macaco\". No plural fica \"les singes\" (os macacos). \"habitaient\" é o imperfeito de \"habiter\" (morar): \"moravam\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle s'est arrêtée",
+    "newLine": false,
+    "translation": {
+      "text": "ela parou",
+      "tips": [
+        {
+          "text": "elle s'est arrêtée",
+          "translatedText": "ela parou",
+          "explanation": "O verbo é \"s'arrêter\" (parar), pronominal. No passé composé usa o auxiliar \"être\": \"elle s'est arrêtée\" = \"ela parou\". O particípio concorda com o sujeito feminino (\"arrêtée\", com -e a mais)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sous de grands arbres",
+    "newLine": false,
+    "translation": {
+      "text": "sob grandes árvores",
+      "tips": [
+        {
+          "text": "de grands arbres",
+          "translatedText": "grandes árvores",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle a fermé les yeux",
+    "newLine": false,
+    "translation": {
+      "text": "e ela fechou os olhos",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Son plan était",
+    "newLine": false,
+    "translation": {
+      "text": "Seu plano era",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'attendre là-bas",
+    "newLine": false,
+    "translation": {
+      "text": "esperar ali",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'elle savait",
+    "newLine": false,
+    "translation": {
+      "text": "porque ela sabia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que les singes étaient très curieux",
+    "newLine": false,
+    "translation": {
+      "text": "que os macacos eram muito curiosos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et adoraient jouer",
+    "newLine": false,
+    "translation": {
+      "text": "e adoravam brincar",
+      "tips": [
+        {
+          "text": "adoraient jouer",
+          "translatedText": "adoravam brincar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Très vite",
+    "newLine": false,
+    "translation": {
+      "text": "Bem rápido",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une famille de singes",
+    "newLine": false,
+    "translation": {
+      "text": "uma família de macacos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est arrivée en courant",
+    "newLine": false,
+    "translation": {
+      "text": "chegou correndo",
+      "tips": [
+        {
+          "text": "en courant",
+          "translatedText": "correndo",
+          "explanation": "\"en courant\" é o gérondif: \"en\" + particípio presente. Indica como a ação acontece: \"en courant\" = \"correndo\". A família chegou correndo, ao mesmo tempo."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur les hautes branches",
+    "newLine": false,
+    "translation": {
+      "text": "sobre os galhos altos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "soudain",
+    "newLine": false,
+    "translation": {
+      "text": "de repente",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un jeune singe a vu la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "um jovem macaco viu a tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Touchons son dos",
+    "newLine": true,
+    "translation": {
+      "text": "«Vamos tocar nas costas dele",
+      "tips": [
+        {
+          "text": "Touchons",
+          "translatedText": "vamos tocar",
+          "explanation": "\"Touchons\" é o imperativo na 1ª pessoa do plural (nous): equivale ao nosso \"vamos tocar\". O verbo é \"toucher\" (tocar). \"son dos\" = as costas dele (da tartaruga)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et tirons sa queue",
+    "newLine": false,
+    "translation": {
+      "text": "e vamos puxar o rabo dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! » ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le petit être",
+    "newLine": false,
+    "translation": {
+      "text": "disse o pequeno ser",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tout le monde était d'accord",
+    "newLine": true,
+    "translation": {
+      "text": "Todos concordavam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et bientôt",
+    "newLine": false,
+    "translation": {
+      "text": "e logo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "main après main",
+    "newLine": false,
+    "translation": {
+      "text": "mão após mão",
+      "tips": [
+        {
+          "text": "main après main",
+          "translatedText": "mão após mão",
+          "explanation": "\"main\" = mão; \"après\" = depois/após. A expressão \"main après main\" descreve uma ação repetida, uma mão depois da outra (como ao subir uma corda). Note a ausência de artigo, típica desse tipo de expressão fixa."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "beaucoup de singes",
+    "newLine": false,
+    "translation": {
+      "text": "muitos macacos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ont fait une longue échelle",
+    "newLine": false,
+    "translation": {
+      "text": "fizeram uma longa escada",
+      "tips": [
+        {
+          "text": "une échelle",
+          "translatedText": "uma escada",
+          "explanation": "\"une échelle\" significa \"uma escada\" (de mão, do tipo que se encosta). Aqui os macacos formam uma \"escada\" com os próprios corpos. É um substantivo feminino: \"une échelle\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec leurs corps",
+    "newLine": false,
+    "translation": {
+      "text": "com seus corpos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils sont presque arrivés",
+    "newLine": false,
+    "translation": {
+      "text": "e eles quase chegaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au dos de la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "às costas da tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis le petit singe est descendu",
+    "newLine": false,
+    "translation": {
+      "text": "Depois o pequeno macaco desceu",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "e ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " :",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Ne dites rien",
+    "newLine": true,
+    "translation": {
+      "text": "«Não digam nada",
+      "tips": [
+        {
+          "text": "Ne dites rien",
+          "translatedText": "não digam nada",
+          "explanation": "Imperativo negativo do verbo \"dire\" (dizer), na 2ª pessoa do plural (vous): \"dites\" = digam. A negação \"ne... rien\" significa \"nada\". Juntos: \"Ne dites rien\" = \"Não digam nada\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ou vous allez la réveiller",
+    "newLine": false,
+    "translation": {
+      "text": "ou vocês vão acordá-la",
+      "tips": [
+        {
+          "text": "vous allez la réveiller",
+          "translatedText": "vocês vão acordá-la",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le petit singe devait tenir",
+    "newLine": true,
+    "translation": {
+      "text": "O pequeno macaco devia segurar",
+      "tips": [
+        {
+          "text": "devait tenir",
+          "translatedText": "devia segurar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les autres avec une main",
+    "newLine": false,
+    "translation": {
+      "text": "os outros com uma mão",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec l'autre main",
+    "newLine": false,
+    "translation": {
+      "text": "com a outra mão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "prendre la queue de la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "pegar o rabo da tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et voir s'il pouvait arriver",
+    "newLine": false,
+    "translation": {
+      "text": "e ver se conseguia chegar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "près de sa tête",
+    "newLine": false,
+    "translation": {
+      "text": "perto da cabeça dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Parce que les singes savaient",
+    "newLine": false,
+    "translation": {
+      "text": "Porque os macacos sabiam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'une tortue ne peut pas sauter",
+    "newLine": false,
+    "translation": {
+      "text": "que uma tartaruga não pode pular",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ne peut pas monter aux arbres",
+    "newLine": false,
+    "translation": {
+      "text": "e não pode subir nas árvores",
+      "tips": [
+        {
+          "text": "monter aux arbres",
+          "translatedText": "subir nas árvores",
+          "explanation": "\"monter\" = subir. \"aux arbres\" é a contração de \"à + les arbres\" (às/nas árvores). Em francês usa-se \"monter à\" para \"subir em\". Atenção: a preposição é \"à\" (não \"sur\" nem \"dans\") nessa construção."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Un",
+    "newLine": true,
+    "translation": {
+      "text": "Um",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Deux",
+    "newLine": false,
+    "translation": {
+      "text": "Dois",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les singes allaient et venaient",
+    "newLine": false,
+    "translation": {
+      "text": "Os macacos iam e vinham",
+      "tips": [
+        {
+          "text": "allaient et venaient",
+          "translatedText": "iam e vinham",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sans toucher la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "sem tocar na tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Trois",
+    "newLine": true,
+    "translation": {
+      "text": "Três",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quatre",
+    "newLine": false,
+    "translation": {
+      "text": "Quatro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les doigts du singe ont touché",
+    "newLine": false,
+    "translation": {
+      "text": "Os dedos do macaco tocaram",
+      "tips": [
+        {
+          "text": "les doigts",
+          "translatedText": "os dedos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le dos de la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "as costas da tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais la vieille carapace dure",
+    "newLine": false,
+    "translation": {
+      "text": "Mas o velho casco duro",
+      "tips": [
+        {
+          "text": "la carapace dure",
+          "translatedText": "o casco duro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "gardait les yeux fermés",
+    "newLine": false,
+    "translation": {
+      "text": "mantinha os olhos fechados",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Cinq",
+    "newLine": true,
+    "translation": {
+      "text": "Cinco",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Six",
+    "newLine": false,
+    "translation": {
+      "text": "Seis",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le petit singe a tenu la queue",
+    "newLine": false,
+    "translation": {
+      "text": "O pequeno macaco segurou o rabo",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "da tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a tiré fort",
+    "newLine": false,
+    "translation": {
+      "text": "e puxou com força",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La vieille tortue a bougé un peu",
+    "newLine": false,
+    "translation": {
+      "text": "A velha tartaruga se mexeu um pouco",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme si elle dormait",
+    "newLine": false,
+    "translation": {
+      "text": "como se ela dormisse",
+      "tips": [
+        {
+          "text": "comme si elle dormait",
+          "translatedText": "como se ela dormisse",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "encore à moitié",
+    "newLine": false,
+    "translation": {
+      "text": "ainda pela metade",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Sept",
+    "newLine": true,
+    "translation": {
+      "text": "Sete",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Huit",
+    "newLine": false,
+    "translation": {
+      "text": "Oito",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Cette fois",
+    "newLine": false,
+    "translation": {
+      "text": "Dessa vez",
+      "tips": [
+        {
+          "text": "Cette fois",
+          "translatedText": "dessa vez",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le singe voulait toucher",
+    "newLine": false,
+    "translation": {
+      "text": "o macaco queria tocar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la tête de la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "a cabeça da tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais la tortue l'a attrapé",
+    "newLine": false,
+    "translation": {
+      "text": "mas a tartaruga o agarrou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand il était très près",
+    "newLine": false,
+    "translation": {
+      "text": "quando ele estava bem perto",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant que les autres singes bougeaient",
+    "newLine": false,
+    "translation": {
+      "text": "enquanto os outros macacos se mexiam",
+      "tips": [
+        {
+          "text": "pendant que",
+          "translatedText": "enquanto",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'un côté à l'autre",
+    "newLine": false,
+    "translation": {
+      "text": "de um lado para o outro",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le petit singe est tombé par terre",
+    "newLine": false,
+    "translation": {
+      "text": "o pequeno macaco caiu no chão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la tête la première",
+    "newLine": false,
+    "translation": {
+      "text": "de cabeça",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand les autres singes ont vu ça",
+    "newLine": true,
+    "translation": {
+      "text": "Quando os outros macacos viram aquilo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils ont eu très peur",
+    "newLine": false,
+    "translation": {
+      "text": "eles ficaram com muito medo",
+      "tips": [
+        {
+          "text": "ils ont eu très peur",
+          "translatedText": "ficaram com muito medo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "alors ils sont tous montés",
+    "newLine": false,
+    "translation": {
+      "text": "então todos subiram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans les arbres",
+    "newLine": false,
+    "translation": {
+      "text": "nas árvores",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour se cacher",
+    "newLine": false,
+    "translation": {
+      "text": "para se esconder",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

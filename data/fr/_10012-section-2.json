@@ -1,0 +1,1391 @@
+[
+  {
+    "text": "« Alors »",
+    "newLine": true,
+    "translation": {
+      "text": "«Então»",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit l'autre hirondelle",
+    "newLine": false,
+    "translation": {
+      "text": "disse a outra andorinha",
+      "tips": []
+    }
+  },
+  {
+    "text": ", « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand ces enfants seront plus grands",
+    "newLine": false,
+    "translation": {
+      "text": "quando essas crianças forem maiores",
+      "tips": [
+        {
+          "text": "quand ces enfants seront plus grands, ils pourront",
+          "translatedText": "quando essas crianças forem maiores, elas poderão",
+          "explanation": "Depois de \"quand\" (quando), o francês usa o FUTURO (\"seront\", \"pourront\"), enquanto o português usa o futuro do subjuntivo (\"forem\", \"poderão\"). \"seront\" = serão/estarão; \"pourront\" = poderão."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils pourront retourner",
+    "newLine": false,
+    "translation": {
+      "text": "elas poderão voltar",
+      "tips": []
+    }
+  },
+  {
+    "text": " chez leur père",
+    "newLine": false,
+    "translation": {
+      "text": "para a casa do pai delas",
+      "tips": []
+    }
+  },
+  {
+    "text": " et libérer leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "e libertar a mãe delas",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Mais ce ne sera pas facile",
+    "newLine": true,
+    "translation": {
+      "text": "«Mas não será fácil",
+      "tips": [
+        {
+          "text": "ce ne sera pas facile",
+          "translatedText": "não será fácil",
+          "explanation": "\"sera\" é o futuro de \"être\" (ser/estar): \"ce sera\" = \"será / vai ser\". Na negação, o \"ne...pas\" abraça o verbo: \"ce ne sera pas\" = \"não será\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'il y a seulement",
+    "newLine": false,
+    "translation": {
+      "text": "porque só existe",
+      "tips": []
+    }
+  },
+  {
+    "text": " une manière de faire",
+    "newLine": false,
+    "translation": {
+      "text": "uma maneira de fazer",
+      "tips": []
+    }
+  },
+  {
+    "text": " le Roi voir la vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Rei ver a verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Et quelle manière",
+    "newLine": true,
+    "translation": {
+      "text": "«E que maneira",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? » ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit l'autre oiseau",
+    "newLine": false,
+    "translation": {
+      "text": "disse o outro pássaro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Le seul qui peut faire",
+    "newLine": true,
+    "translation": {
+      "text": "«O único que pode fazer",
+      "tips": [
+        {
+          "text": "Le seul qui peut",
+          "translatedText": "O único que pode",
+          "explanation": "\"le seul\" = \"o único\"; \"qui\" = \"que / o qual\" (sujeito). \"Le seul qui peut\" = \"O único que pode\". \"peut\" é o presente de \"pouvoir\" (poder)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " le Roi voir la vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Rei ver a verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "c'est l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "é o Pássaro da Verdade",
+      "tips": [
+        {
+          "text": "l'Oiseau de Vérité",
+          "translatedText": "o Pássaro da Verdade",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui parle la langue des hommes",
+    "newLine": false,
+    "translation": {
+      "text": "que fala a língua dos homens",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais il habite",
+    "newLine": false,
+    "translation": {
+      "text": "Mas ele mora",
+      "tips": []
+    }
+  },
+  {
+    "text": " dans le Vieux Champ",
+    "newLine": false,
+    "translation": {
+      "text": "no Velho Campo",
+      "tips": [
+        {
+          "text": "le Vieux Champ",
+          "translatedText": "o Velho Campo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Et où est le Vieux Champ",
+    "newLine": true,
+    "translation": {
+      "text": "«E onde fica o Velho Campo",
+      "tips": [
+        {
+          "text": "où est",
+          "translatedText": "onde fica / onde está",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ? » ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé l'autre oiseau",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou o outro pássaro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je sais seulement",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu sei só",
+      "tips": []
+    }
+  },
+  {
+    "text": " qu'il n'est pas loin",
+    "newLine": false,
+    "translation": {
+      "text": "que ele não fica longe",
+      "tips": []
+    }
+  },
+  {
+    "text": " d'une maison verte",
+    "newLine": false,
+    "translation": {
+      "text": "de uma casa verde",
+      "tips": []
+    }
+  },
+  {
+    "text": " où habite",
+    "newLine": false,
+    "translation": {
+      "text": "onde mora",
+      "tips": []
+    }
+  },
+  {
+    "text": " une très mauvaise vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "uma velha muito malvada",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elle connaît le chemin",
+    "newLine": false,
+    "translation": {
+      "text": "Ela conhece o caminho",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle le montre",
+    "newLine": false,
+    "translation": {
+      "text": "e ela o mostra",
+      "tips": []
+    }
+  },
+  {
+    "text": " à toutes les personnes",
+    "newLine": false,
+    "translation": {
+      "text": "a todas as pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": " qui lui apportent",
+    "newLine": false,
+    "translation": {
+      "text": "que lhe trazem",
+      "tips": [
+        {
+          "text": "qui lui apportent",
+          "translatedText": "que lhe trazem",
+          "explanation": "\"apporter\" = \"trazer\". \"apportent\" é a forma de \"ils/elles\" (eles/elas trazem). \"lui\" aqui é \"a ela / lhe\". Então \"qui lui apportent\" = \"que lhe trazem / que trazem a ela\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " de l'eau de la Rivière Noire",
+    "newLine": false,
+    "translation": {
+      "text": "água do Rio Negro",
+      "tips": [
+        {
+          "text": "la Rivière Noire",
+          "translatedText": "o Rio Negro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis l'hirondelle de la ville",
+    "newLine": true,
+    "translation": {
+      "text": "Depois a andorinha da cidade",
+      "tips": [
+        {
+          "text": "l'hirondelle de la ville",
+          "translatedText": "a andorinha da cidade",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " est partie",
+    "newLine": false,
+    "translation": {
+      "text": "foi embora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et les enfants se sont levés",
+    "newLine": false,
+    "translation": {
+      "text": "e as crianças se levantaram",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils sont partis aussi",
+    "newLine": false,
+    "translation": {
+      "text": "e elas foram embora também",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le soir",
+    "newLine": true,
+    "translation": {
+      "text": "À noite",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les enfants étaient dans la ville",
+    "newLine": false,
+    "translation": {
+      "text": "as crianças estavam na cidade",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ils ont demandé à une bonne femme",
+    "newLine": false,
+    "translation": {
+      "text": "Elas perguntaram a uma boa mulher",
+      "tips": []
+    }
+  },
+  {
+    "text": " si elle pouvait les aider",
+    "newLine": false,
+    "translation": {
+      "text": "se ela podia ajudá-las",
+      "tips": [
+        {
+          "text": "si elle pouvait les aider",
+          "translatedText": "se ela podia ajudá-las",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " à trouver un endroit pour dormir",
+    "newLine": false,
+    "translation": {
+      "text": "a encontrar um lugar para dormir",
+      "tips": []
+    }
+  },
+  {
+    "text": " et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme elle voyait que",
+    "newLine": false,
+    "translation": {
+      "text": "como ela via que",
+      "tips": []
+    }
+  },
+  {
+    "text": " le garçon et la fille",
+    "newLine": false,
+    "translation": {
+      "text": "o menino e a menina",
+      "tips": []
+    }
+  },
+  {
+    "text": " étaient très gentils",
+    "newLine": false,
+    "translation": {
+      "text": "eram muito gentis",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a dit qu'ils pouvaient",
+    "newLine": false,
+    "translation": {
+      "text": "ela disse que eles podiam",
+      "tips": []
+    }
+  },
+  {
+    "text": " rester chez elle",
+    "newLine": false,
+    "translation": {
+      "text": "ficar na casa dela",
+      "tips": [
+        {
+          "text": "rester chez elle",
+          "translatedText": "ficar na casa dela",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le matin suivant",
+    "newLine": true,
+    "translation": {
+      "text": "Na manhã seguinte",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la fille et le garçon",
+    "newLine": false,
+    "translation": {
+      "text": "a menina e o menino",
+      "tips": []
+    }
+  },
+  {
+    "text": " ont nettoyé la maison",
+    "newLine": false,
+    "translation": {
+      "text": "limparam a casa",
+      "tips": [
+        {
+          "text": "ils ont nettoyé",
+          "translatedText": "eles limparam",
+          "explanation": "\"nettoyer\" = \"limpar\". \"ont nettoyé\" é o passé composé: \"limparam / limpou\". Cuidado para não confundir com \"nettoyer\" e \"net\" (limpo, nítido)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils ont préparé",
+    "newLine": false,
+    "translation": {
+      "text": "e prepararam",
+      "tips": []
+    }
+  },
+  {
+    "text": " de la nourriture",
+    "newLine": false,
+    "translation": {
+      "text": "comida",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand la femme s'est levée",
+    "newLine": false,
+    "translation": {
+      "text": "Quando a mulher se levantou",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a vu que tout le travail",
+    "newLine": false,
+    "translation": {
+      "text": "ela viu que todo o trabalho",
+      "tips": []
+    }
+  },
+  {
+    "text": " était fait",
+    "newLine": false,
+    "translation": {
+      "text": "estava feito",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle était si contente",
+    "newLine": false,
+    "translation": {
+      "text": "e ela estava tão contente",
+      "tips": []
+    }
+  },
+  {
+    "text": " qu'elle a dit aux enfants",
+    "newLine": false,
+    "translation": {
+      "text": "que disse às crianças",
+      "tips": []
+    }
+  },
+  {
+    "text": " qu'ils pouvaient vivre avec elle",
+    "newLine": false,
+    "translation": {
+      "text": "que elas podiam viver com ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le garçon a dit",
+    "newLine": true,
+    "translation": {
+      "text": "O menino disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " que sa sœur allait rester",
+    "newLine": false,
+    "translation": {
+      "text": "que a irmã dele ia ficar",
+      "tips": []
+    }
+  },
+  {
+    "text": " là-bas pendant un moment",
+    "newLine": false,
+    "translation": {
+      "text": "ali por um tempo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais que lui",
+    "newLine": false,
+    "translation": {
+      "text": "mas que ele",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il devait faire",
+    "newLine": false,
+    "translation": {
+      "text": "ele tinha que fazer",
+      "tips": [
+        {
+          "text": "il devait faire",
+          "translatedText": "ele tinha que fazer",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " quelque chose de très important",
+    "newLine": false,
+    "translation": {
+      "text": "algo muito importante",
+      "tips": [
+        {
+          "text": "quelque chose de très important",
+          "translatedText": "algo muito importante",
+          "explanation": "Com \"quelque chose\" (algo/alguma coisa), o adjetivo vem ligado por \"de\": \"quelque chose de important\" = \"algo importante\". Esse \"de\" é obrigatório e não se traduz."
+        }
+      ]
+    }
+  },
+  {
+    "text": " très loin",
+    "newLine": false,
+    "translation": {
+      "text": "muito longe",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il est parti",
+    "newLine": false,
+    "translation": {
+      "text": "ele foi embora",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pendant beaucoup de jours",
+    "newLine": true,
+    "translation": {
+      "text": "Durante muitos dias",
+      "tips": [
+        {
+          "text": "Pendant beaucoup de jours",
+          "translatedText": "Durante muitos dias",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a marché et marché",
+    "newLine": false,
+    "translation": {
+      "text": "ele andou e andou",
+      "tips": []
+    }
+  },
+  {
+    "text": " sans voir de maison verte",
+    "newLine": false,
+    "translation": {
+      "text": "sem ver nenhuma casa verde",
+      "tips": [
+        {
+          "text": "sans voir de maison verte",
+          "translatedText": "sem ver nenhuma casa verde",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Enfin",
+    "newLine": false,
+    "translation": {
+      "text": "Enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un matin",
+    "newLine": false,
+    "translation": {
+      "text": "uma manhã",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il s'est assis sous des arbres",
+    "newLine": false,
+    "translation": {
+      "text": "ele se sentou debaixo de árvores",
+      "tips": [
+        {
+          "text": "il s'est assis",
+          "translatedText": "ele se sentou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " pour se reposer",
+    "newLine": false,
+    "translation": {
+      "text": "para descansar",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après un petit moment",
+    "newLine": false,
+    "translation": {
+      "text": "Depois de um instante",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a vu une petite tourterelle",
+    "newLine": false,
+    "translation": {
+      "text": "ele viu uma pequena rolinha",
+      "tips": [
+        {
+          "text": "une tourterelle",
+          "translatedText": "uma rolinha",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il lui a dit",
+    "newLine": false,
+    "translation": {
+      "text": "e ele disse a ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans sa propre langue",
+    "newLine": false,
+    "translation": {
+      "text": "na sua própria língua",
+      "tips": []
+    }
+  },
+  {
+    "text": " :",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Petite tourterelle",
+    "newLine": true,
+    "translation": {
+      "text": "«Pequena rolinha",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tu peux me dire",
+    "newLine": false,
+    "translation": {
+      "text": "você pode me dizer",
+      "tips": [
+        {
+          "text": "tu peux me dire",
+          "translatedText": "você pode me dizer",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " où est la maison verte",
+    "newLine": false,
+    "translation": {
+      "text": "onde fica a casa verde",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Pauvre garçon",
+    "newLine": true,
+    "translation": {
+      "text": "«Pobre menino",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit la tourterelle",
+    "newLine": false,
+    "translation": {
+      "text": "disse a rolinha",
+      "tips": []
+    }
+  },
+  {
+    "text": ", « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui t'a dit d'aller là-bas",
+    "newLine": false,
+    "translation": {
+      "text": "quem te disse para ir até lá",
+      "tips": [
+        {
+          "text": "qui t'a dit",
+          "translatedText": "quem te disse",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Je dois apprendre",
+    "newLine": true,
+    "translation": {
+      "text": "«Eu preciso aprender",
+      "tips": []
+    }
+  },
+  {
+    "text": " comment arriver au Vieux Champ",
+    "newLine": false,
+    "translation": {
+      "text": "como chegar ao Velho Campo",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Si je pouvais",
+    "newLine": true,
+    "translation": {
+      "text": "«Se eu pudesse",
+      "tips": [
+        {
+          "text": "Si je pouvais, je te dirais",
+          "translatedText": "Se eu pudesse, eu te diria",
+          "explanation": "Período hipotético clássico: \"si\" + imperfeito (\"pouvais\") na condição, e condicional (\"dirais\") no resultado. \"Si je pouvais, je te dirais\" = \"Se eu pudesse, eu te diria\". Mesma estrutura do português!"
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je te dirais",
+    "newLine": false,
+    "translation": {
+      "text": "eu te diria",
+      "tips": []
+    }
+  },
+  {
+    "text": " comment arriver au Vieux Champ",
+    "newLine": false,
+    "translation": {
+      "text": "como chegar ao Velho Campo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais je ne connais pas le chemin",
+    "newLine": false,
+    "translation": {
+      "text": "mas eu não conheço o caminho",
+      "tips": [
+        {
+          "text": "je ne connais pas le chemin",
+          "translatedText": "eu não conheço o caminho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tu dois vraiment aller",
+    "newLine": false,
+    "translation": {
+      "text": "você precisa mesmo ir",
+      "tips": []
+    }
+  },
+  {
+    "text": " à la maison verte",
+    "newLine": false,
+    "translation": {
+      "text": "à casa verde",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Suis la route bleue",
+    "newLine": false,
+    "translation": {
+      "text": "Siga a estrada azul",
+      "tips": [
+        {
+          "text": "Suis la route bleue",
+          "translatedText": "Siga a estrada azul",
+          "explanation": "\"Suis\" aqui é o imperativo de \"suivre\" (seguir): \"Suis!\" = \"Siga!\". Cuidado: \"suis\" também é \"sou/estou\" (de \"être\"), mas pelo contexto é claramente \"siga\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le garçon a dit merci",
+    "newLine": true,
+    "translation": {
+      "text": "O menino agradeceu",
+      "tips": [
+        {
+          "text": "a dit merci",
+          "translatedText": "agradeceu / disse obrigado",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a commencé à suivre",
+    "newLine": false,
+    "translation": {
+      "text": "e ele começou a seguir",
+      "tips": []
+    }
+  },
+  {
+    "text": " la route bleue",
+    "newLine": false,
+    "translation": {
+      "text": "a estrada azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Malheureusement",
+    "newLine": false,
+    "translation": {
+      "text": "Infelizmente",
+      "tips": [
+        {
+          "text": "Malheureusement",
+          "translatedText": "Infelizmente",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "même avec ce nom",
+    "newLine": false,
+    "translation": {
+      "text": "mesmo com esse nome",
+      "tips": [
+        {
+          "text": "même avec ce nom",
+          "translatedText": "mesmo com esse nome",
+          "explanation": "\"même\" antes de um substantivo ou expressão significa \"mesmo / até\" (no sentido de inclusão): \"même avec ce nom\" = \"mesmo com esse nome\". Não confundir com \"le même\" = \"o mesmo (idêntico)\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la route était très noire",
+    "newLine": false,
+    "translation": {
+      "text": "a estrada era muito negra",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais",
+    "newLine": false,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après beaucoup d'heures",
+    "newLine": false,
+    "translation": {
+      "text": "depois de muitas horas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a vu une maison verte",
+    "newLine": false,
+    "translation": {
+      "text": "ele viu uma casa verde",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a frappé à la porte",
+    "newLine": false,
+    "translation": {
+      "text": "e ele bateu à porta",
+      "tips": [
+        {
+          "text": "il a frappé à la porte",
+          "translatedText": "ele bateu à porta",
+          "explanation": "\"frapper\" = \"bater\". \"frapper à la porte\" é a expressão fixa para \"bater à porta\". Repare na preposição \"à\" (à la porte = à porta)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Une vieille femme",
+    "newLine": true,
+    "translation": {
+      "text": "Uma velha",
+      "tips": [
+        {
+          "text": "Une vieille femme",
+          "translatedText": "Uma velha / Uma mulher idosa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " a ouvert la porte",
+    "newLine": false,
+    "translation": {
+      "text": "abriu a porta",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il y avait beaucoup",
+    "newLine": false,
+    "translation": {
+      "text": "Havia muitos",
+      "tips": [
+        {
+          "text": "Il y avait",
+          "translatedText": "Havia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " de petites bêtes",
+    "newLine": false,
+    "translation": {
+      "text": "bichinhos",
+      "tips": [
+        {
+          "text": "de petites bêtes",
+          "translatedText": "bichinhos / pequenos bichos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " autour d'elle",
+    "newLine": false,
+    "translation": {
+      "text": "ao redor dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

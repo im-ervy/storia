@@ -1,0 +1,2895 @@
+[
+ {
+  "text": "Peces grandes",
+  "newLine": true,
+  "translation": {
+   "text": "Peixes grandes",
+   "tips": [
+    {
+     "text": "Peces",
+     "translatedText": "peixes",
+     "explanation": "FALSO AMIGO / vocabulário: \"el pez\" (plural \"peces\") = o PEIXE vivo, na água. \"El pescado\" é o peixe já pescado, pronto para comer. O par vivo/pronto não existe em PT (\"peixe\" serve para os dois).",
+     "priority": "low"
+    },
+    {
+     "text": "grandes",
+     "translatedText": "grandes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces pequeños",
+  "newLine": false,
+  "translation": {
+   "text": "peixes pequenos",
+   "tips": [
+    {
+     "text": "pequeños",
+     "translatedText": "pequenos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces de todos los tamaños",
+  "newLine": false,
+  "translation": {
+   "text": "peixes de todos os tamanhos",
+   "tips": [
+    {
+     "text": "de todos los tamaños",
+     "translatedText": "de todos os tamanhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces blancos",
+  "newLine": false,
+  "translation": {
+   "text": "peixes brancos",
+   "tips": [
+    {
+     "text": "blancos",
+     "translatedText": "brancos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces azules",
+  "newLine": false,
+  "translation": {
+   "text": "peixes azuis",
+   "tips": [
+    {
+     "text": "azules",
+     "translatedText": "azuis",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces rojos",
+  "newLine": false,
+  "translation": {
+   "text": "peixes vermelhos",
+   "tips": [
+    {
+     "text": "rojos",
+     "translatedText": "vermelhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces verdes",
+  "newLine": false,
+  "translation": {
+   "text": "peixes verdes",
+   "tips": [
+    {
+     "text": "verdes",
+     "translatedText": "verdes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peces de todos los colores",
+  "newLine": false,
+  "translation": {
+   "text": "peixes de todas as cores",
+   "tips": [
+    {
+     "text": "de todos los colores",
+     "translatedText": "de todas as cores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "todos estaban muy tristes",
+  "newLine": false,
+  "translation": {
+   "text": "todos estavam muito tristes",
+   "tips": [
+    {
+     "text": "todos",
+     "translatedText": "todos",
+     "explanation": null
+    },
+    {
+     "text": "estaban",
+     "translatedText": "estavam",
+     "explanation": "SER vs ESTAR: aqui é ESTAR (\"estaban\") porque \"triste\" é um ESTADO/emoção passageira. Emoção e estado temporário → ESTAR; identidade/característica permanente → SER.",
+     "priority": "low"
+    },
+    {
+     "text": "muy tristes",
+     "translatedText": "muito tristes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Un pez viejo",
+  "newLine": false,
+  "translation": {
+   "text": "Um peixe velho",
+   "tips": [
+    {
+     "text": "Un pez viejo",
+     "translatedText": "um peixe velho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vino de muy lejos",
+  "newLine": false,
+  "translation": {
+   "text": "veio de muito longe",
+   "tips": [
+    {
+     "text": "vino",
+     "translatedText": "veio",
+     "explanation": null
+    },
+    {
+     "text": "de muy lejos",
+     "translatedText": "de muito longe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y dijo que haría",
+  "newLine": false,
+  "translation": {
+   "text": "e disse que faria",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "haría",
+     "translatedText": "faria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cualquier cosa",
+  "newLine": false,
+  "translation": {
+   "text": "qualquer coisa",
+   "tips": [
+    {
+     "text": "cualquier cosa",
+     "translatedText": "qualquer coisa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "por la salud del Rey",
+  "newLine": false,
+  "translation": {
+   "text": "pela saúde do Rei",
+   "tips": [
+    {
+     "text": "por la salud",
+     "translatedText": "pela saúde",
+     "explanation": "POR vs PARA: aqui \"por\" indica CAUSA/motivo (\"em nome da\", \"por causa da\" saúde do Rei). \"Por\" = causa/troca/meio; \"para\" seria finalidade/destino.",
+     "priority": "low"
+    },
+    {
+     "text": "del Rey",
+     "translatedText": "do Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero no había nada",
+  "newLine": false,
+  "translation": {
+   "text": "mas não havia nada",
+   "tips": [
+    {
+     "text": "pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "no había nada",
+     "translatedText": "não havia nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que pudiera hacer",
+  "newLine": false,
+  "translation": {
+   "text": "que pudesse fazer",
+   "tips": [
+    {
+     "text": "que pudiera hacer",
+     "translatedText": "que pudesse fazer",
+     "explanation": "SUBJUNTIVO: \"pudiera\" (imperfeito do subjuntivo) aparece porque o antecedente \"nada\" é NEGADO/indefinido — quando o que se busca não existe ou é incerto, o espanhol exige o subjuntivo na oração relativa (\"no había nada que pudiera hacer\").",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Un pez grande y rojo",
+  "newLine": true,
+  "translation": {
+   "text": "Um peixe grande e vermelho",
+   "tips": [
+    {
+     "text": "grande y rojo",
+     "translatedText": "grande e vermelho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que era médico",
+  "newLine": false,
+  "translation": {
+   "text": "que era médico",
+   "tips": [
+    {
+     "text": "que era médico",
+     "translatedText": "que era médico",
+     "explanation": "SER (não ESTAR) para PROFISSÃO/identidade: \"era médico\". Profissão é uma característica do indivíduo → sempre SER. Note que em espanhol não se usa artigo: \"era médico\" (não \"era um médico\").",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dijo que era",
+  "newLine": false,
+  "translation": {
+   "text": "disse que era",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "que era",
+     "translatedText": "que era",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un problema muy serio",
+  "newLine": false,
+  "translation": {
+   "text": "um problema muito sério",
+   "tips": [
+    {
+     "text": "un problema",
+     "translatedText": "um problema",
+     "explanation": null
+    },
+    {
+     "text": "muy serio",
+     "translatedText": "muito sério",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y que el Rey",
+  "newLine": false,
+  "translation": {
+   "text": "e que o Rei",
+   "tips": [
+    {
+     "text": "el Rey",
+     "translatedText": "o Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "debía comer algo",
+  "newLine": false,
+  "translation": {
+   "text": "devia comer algo",
+   "tips": [
+    {
+     "text": "debía",
+     "translatedText": "devia",
+     "explanation": null
+    },
+    {
+     "text": "comer algo",
+     "translatedText": "comer algo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "para sentirse mejor",
+  "newLine": false,
+  "translation": {
+   "text": "para se sentir melhor",
+   "tips": [
+    {
+     "text": "para sentirse",
+     "translatedText": "para se sentir",
+     "explanation": "POR vs PARA: aqui \"para\" = FINALIDADE/objetivo (comer algo COM O FIM DE se sentir melhor). \"Para\" = finalidade/destino; \"por\" seria causa.",
+     "priority": "low"
+    },
+    {
+     "text": "mejor",
+     "translatedText": "melhor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero no sabía qué",
+  "newLine": false,
+  "translation": {
+   "text": "mas não sabia o quê",
+   "tips": [
+    {
+     "text": "no sabía",
+     "translatedText": "não sabia",
+     "explanation": null
+    },
+    {
+     "text": "qué",
+     "translatedText": "o quê",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Entonces otro pez",
+  "newLine": false,
+  "translation": {
+   "text": "Então outro peixe",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "otro pez",
+     "translatedText": "outro peixe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "uno pequeño y blanco",
+  "newLine": false,
+  "translation": {
+   "text": "um pequeno e branco",
+   "tips": [
+    {
+     "text": "uno pequeño y blanco",
+     "translatedText": "um pequeno e branco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que también era médico",
+  "newLine": false,
+  "translation": {
+   "text": "que também era médico",
+   "tips": [
+    {
+     "text": "también",
+     "translatedText": "também",
+     "explanation": null
+    },
+    {
+     "text": "era médico",
+     "translatedText": "era médico",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dijo que el corazón",
+  "newLine": false,
+  "translation": {
+   "text": "disse que o coração",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "el corazón",
+     "translatedText": "o coração",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de un mono",
+  "newLine": false,
+  "translation": {
+   "text": "de um macaco",
+   "tips": [
+    {
+     "text": "mono",
+     "translatedText": "macaco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "podría ayudar",
+  "newLine": false,
+  "translation": {
+   "text": "poderia ajudar",
+   "tips": [
+    {
+     "text": "podría ayudar",
+     "translatedText": "poderia ajudar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Así que el Rey",
+  "newLine": false,
+  "translation": {
+   "text": "Então o Rei",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    },
+    {
+     "text": "el Rey",
+     "translatedText": "o Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "decidió probarlo",
+  "newLine": false,
+  "translation": {
+   "text": "decidiu tentar",
+   "tips": [
+    {
+     "text": "decidió",
+     "translatedText": "decidiu",
+     "explanation": null
+    },
+    {
+     "text": "probarlo",
+     "translatedText": "experimentá-lo / tentar isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Llamaron a la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "Chamaram a tartaruga",
+   "tips": [
+    {
+     "text": "Llamaron",
+     "translatedText": "chamaram",
+     "explanation": null
+    },
+    {
+     "text": "a la tortuga",
+     "translatedText": "a tartaruga",
+     "explanation": "A PESSOAL: o espanhol põe a preposição \"a\" antes do objeto direto quando é uma pessoa (ou ser personificado), como a tartaruga-mensageira: \"llamaron A la tortuga\". O PT não tem esse \"a\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la mensajera del Rey",
+  "newLine": false,
+  "translation": {
+   "text": "a mensageira do Rei",
+   "tips": [
+    {
+     "text": "la mensajera",
+     "translatedText": "a mensageira",
+     "explanation": null
+    },
+    {
+     "text": "del Rey",
+     "translatedText": "do Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque podía vivir",
+  "newLine": false,
+  "translation": {
+   "text": "porque podia viver",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "podía vivir",
+     "translatedText": "podia viver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tanto en la tierra",
+  "newLine": false,
+  "translation": {
+   "text": "tanto na terra",
+   "tips": [
+    {
+     "text": "tanto",
+     "translatedText": "tanto",
+     "explanation": "ESTRUTURA-ESPELHO: \"tanto... como...\" = \"tanto... quanto/como...\" — correlação para dizer \"em ambos os lugares\" (\"tanto en la tierra como en el agua\" = tanto na terra quanto na água).",
+     "priority": "low"
+    },
+    {
+     "text": "en la tierra",
+     "translatedText": "na terra",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "como en el agua",
+  "newLine": false,
+  "translation": {
+   "text": "quanto na água",
+   "tips": [
+    {
+     "text": "como",
+     "translatedText": "quanto / como",
+     "explanation": null
+    },
+    {
+     "text": "en el agua",
+     "translatedText": "na água",
+     "explanation": "DETALHE: \"el agua\" leva artigo masculino \"el\" (não \"la\") porque começa com \"a\" tônica, mas a palavra continua FEMININA (\"el agua fría\"). É só fonético, para evitar \"la a-\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le dijeron que fuera",
+  "newLine": false,
+  "translation": {
+   "text": "Disseram a ela que fosse",
+   "tips": [
+    {
+     "text": "Le dijeron",
+     "translatedText": "disseram a ela",
+     "explanation": null
+    },
+    {
+     "text": "que fuera",
+     "translatedText": "que fosse",
+     "explanation": "SUBJUNTIVO no discurso indireto: depois de uma ordem/pedido relatado (\"le dijeron que...\") usa-se o imperfeito do subjuntivo. Veja o ENCADEAMENTO: \"que fuera... encontrara... lo trajera\" — três subjuntivos em sequência (que fosse... encontrasse... trouxesse).",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a una isla",
+  "newLine": false,
+  "translation": {
+   "text": "a uma ilha",
+   "tips": [
+    {
+     "text": "a una isla",
+     "translatedText": "a uma ilha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "encontrara un mono",
+  "newLine": false,
+  "translation": {
+   "text": "encontrasse um macaco",
+   "tips": [
+    {
+     "text": "encontrara",
+     "translatedText": "encontrasse",
+     "explanation": null
+    },
+    {
+     "text": "un mono",
+     "translatedText": "um macaco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y lo trajera",
+  "newLine": false,
+  "translation": {
+   "text": "e o trouxesse",
+   "tips": [
+    {
+     "text": "lo",
+     "translatedText": "o (ele)",
+     "explanation": null
+    },
+    {
+     "text": "trajera",
+     "translatedText": "trouxesse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "al Mundo Bajo el Mar",
+  "newLine": false,
+  "translation": {
+   "text": "ao Mundo Sob o Mar",
+   "tips": [
+    {
+     "text": "al",
+     "translatedText": "ao",
+     "explanation": null
+    },
+    {
+     "text": "Mundo Bajo el Mar",
+     "translatedText": "Mundo Sob o Mar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La tortuga partió",
+  "newLine": true,
+  "translation": {
+   "text": "A tartaruga partiu",
+   "tips": [
+    {
+     "text": "La tortuga",
+     "translatedText": "a tartaruga",
+     "explanation": null
+    },
+    {
+     "text": "partió",
+     "translatedText": "partiu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en su viaje",
+  "newLine": false,
+  "translation": {
+   "text": "em sua viagem",
+   "tips": [
+    {
+     "text": "su viaje",
+     "translatedText": "sua viagem",
+     "explanation": "GÊNERO DIFERENTE: \"el viaje\" é MASCULINO em espanhol (a viagem em PT é feminina). Por isso \"su viaje\" e não há marca de feminino aqui.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y en su camino",
+  "newLine": false,
+  "translation": {
+   "text": "e em seu caminho",
+   "tips": [
+    {
+     "text": "en su camino",
+     "translatedText": "em seu caminho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "hacia una isla",
+  "newLine": false,
+  "translation": {
+   "text": "rumo a uma ilha",
+   "tips": [
+    {
+     "text": "hacia",
+     "translatedText": "em direção a / rumo a",
+     "explanation": null
+    },
+    {
+     "text": "una isla",
+     "translatedText": "uma ilha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "donde vivían los monos",
+  "newLine": false,
+  "translation": {
+   "text": "onde viviam os macacos",
+   "tips": [
+    {
+     "text": "donde",
+     "translatedText": "onde",
+     "explanation": null
+    },
+    {
+     "text": "vivían los monos",
+     "translatedText": "viviam os macacos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "se detuvo",
+  "newLine": false,
+  "translation": {
+   "text": "parou",
+   "tips": [
+    {
+     "text": "se detuvo",
+     "translatedText": "parou / deteve-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bajo unos árboles grandes",
+  "newLine": false,
+  "translation": {
+   "text": "debaixo de umas árvores grandes",
+   "tips": [
+    {
+     "text": "bajo",
+     "translatedText": "sob / debaixo de",
+     "explanation": null
+    },
+    {
+     "text": "unos árboles grandes",
+     "translatedText": "umas árvores grandes",
+     "explanation": "GÊNERO DIFERENTE: \"el árbol\" é MASCULINO em espanhol (a árvore em PT é feminina), por isso \"unos árboles grandes\" (e não \"unas\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y cerró los ojos",
+  "newLine": false,
+  "translation": {
+   "text": "e fechou os olhos",
+   "tips": [
+    {
+     "text": "cerró",
+     "translatedText": "fechou",
+     "explanation": null
+    },
+    {
+     "text": "los ojos",
+     "translatedText": "os olhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Su plan era esperar allí",
+  "newLine": false,
+  "translation": {
+   "text": "Seu plano era esperar ali",
+   "tips": [
+    {
+     "text": "Su plan era",
+     "translatedText": "seu plano era",
+     "explanation": null
+    },
+    {
+     "text": "esperar allí",
+     "translatedText": "esperar ali",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque sabía que",
+  "newLine": false,
+  "translation": {
+   "text": "porque sabia que",
+   "tips": [
+    {
+     "text": "porque sabía que",
+     "translatedText": "porque sabia que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "los monos tenían",
+  "newLine": false,
+  "translation": {
+   "text": "os macacos tinham",
+   "tips": [
+    {
+     "text": "los monos",
+     "translatedText": "os macacos",
+     "explanation": null
+    },
+    {
+     "text": "tenían",
+     "translatedText": "tinham",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mucha curiosidad",
+  "newLine": false,
+  "translation": {
+   "text": "muita curiosidade",
+   "tips": [
+    {
+     "text": "mucha curiosidad",
+     "translatedText": "muita curiosidade",
+     "explanation": "ESTRUTURA-ESPELHO: \"tener curiosidad\" = ESTAR com/SENTIR curiosidade. O espanhol usa TENER (ter) onde o PT às vezes diz \"estar curioso\": tener hambre/sueño/curiosidad.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y les encantaba jugar",
+  "newLine": false,
+  "translation": {
+   "text": "e adoravam brincar",
+   "tips": [
+    {
+     "text": "les encantaba",
+     "translatedText": "adoravam (lit. lhes encantava)",
+     "explanation": "ESTRUTURA-ESPELHO (como \"gustar\"): em \"les encantaba jugar\", o SUJEITO do verbo é \"jugar\" (brincar), e os macacos são objeto indireto (\"les\" = a eles). Literalmente \"brincar lhes encantava\" = eles adoravam brincar. Por isso o verbo fica no singular, concordando com \"jugar\".",
+     "priority": "high"
+    },
+    {
+     "text": "jugar",
+     "translatedText": "brincar / jogar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Muy pronto",
+  "newLine": false,
+  "translation": {
+   "text": "Muito em breve",
+   "tips": [
+    {
+     "text": "Muy pronto",
+     "translatedText": "muito em breve / logo",
+     "explanation": "FALSO AMIGO: \"pronto\" em espanhol = LOGO/em breve/cedo, NÃO \"pronto/preparado\" (isso é \"listo\"). \"¡Listo!\" = pronto/feito; \"muy pronto\" = muito em breve.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "una familia de monos",
+  "newLine": false,
+  "translation": {
+   "text": "uma família de macacos",
+   "tips": [
+    {
+     "text": "una familia de monos",
+     "translatedText": "uma família de macacos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "llegó corriendo",
+  "newLine": false,
+  "translation": {
+   "text": "chegou correndo",
+   "tips": [
+    {
+     "text": "llegó",
+     "translatedText": "chegou",
+     "explanation": null
+    },
+    {
+     "text": "corriendo",
+     "translatedText": "correndo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "entre las ramas altas",
+  "newLine": false,
+  "translation": {
+   "text": "entre os galhos altos",
+   "tips": [
+    {
+     "text": "las ramas",
+     "translatedText": "os galhos",
+     "explanation": "FALSO AMIGO: \"la rama\" = o GALHO da árvore, não \"rama/ramo\" de planta cortada (isso é mais \"ramo\"). \"Las ramas altas\" = os galhos altos.",
+     "priority": "low"
+    },
+    {
+     "text": "altas",
+     "translatedText": "altos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cuando de repente",
+  "newLine": false,
+  "translation": {
+   "text": "quando de repente",
+   "tips": [
+    {
+     "text": "cuando",
+     "translatedText": "quando",
+     "explanation": null
+    },
+    {
+     "text": "de repente",
+     "translatedText": "de repente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un mono joven",
+  "newLine": false,
+  "translation": {
+   "text": "um macaco jovem",
+   "tips": [
+    {
+     "text": "un mono joven",
+     "translatedText": "um macaco jovem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vio a la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "viu a tartaruga",
+   "tips": [
+    {
+     "text": "vio",
+     "translatedText": "viu",
+     "explanation": null
+    },
+    {
+     "text": "a la tortuga",
+     "translatedText": "a tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Vamos a hacerle cosquillas",
+  "newLine": false,
+  "translation": {
+   "text": "Vamos fazer cócegas nela",
+   "tips": [
+    {
+     "text": "Vamos a hacerle",
+     "translatedText": "vamos fazer (a ela)",
+     "explanation": null
+    },
+    {
+     "text": "cosquillas",
+     "translatedText": "cócegas",
+     "explanation": "VOCABULÁRIO: \"hacer cosquillas\" = fazer cócegas. \"Las cosquillas\" (sempre no plural) = as cócegas.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en la espalda",
+  "newLine": false,
+  "translation": {
+   "text": "nas costas",
+   "tips": [
+    {
+     "text": "la espalda",
+     "translatedText": "as costas",
+     "explanation": "FALSO AMIGO: \"la espalda\" = as COSTAS (parte do corpo), não \"espádua/ombro\" só. E não confunda com \"la espalda\" ≠ \"a espalda\"; em PT dizemos \"as costas\" (plural).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y a tirarle de la cola",
+  "newLine": false,
+  "translation": {
+   "text": "e puxar o rabo dela",
+   "tips": [
+    {
+     "text": "tirarle de",
+     "translatedText": "puxar (dela)",
+     "explanation": "FALSO AMIGO campeão: \"tirar de\" = PUXAR, NÃO \"tirar/retirar\". \"Tirarle de la cola\" = puxar o rabo dela. Para o nosso \"tirar/retirar\", o espanhol usa \"sacar\" ou \"quitar\".",
+     "priority": "high"
+    },
+    {
+     "text": "la cola",
+     "translatedText": "o rabo / a cauda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dijo el pequeño ser",
+  "newLine": false,
+  "translation": {
+   "text": "disse o pequeno ser",
+   "tips": [
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    },
+    {
+     "text": "el pequeño ser",
+     "translatedText": "o pequeno ser",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Todos estuvieron de acuerdo",
+  "newLine": true,
+  "translation": {
+   "text": "Todos concordaram",
+   "tips": [
+    {
+     "text": "Todos",
+     "translatedText": "todos",
+     "explanation": null
+    },
+    {
+     "text": "estuvieron de acuerdo",
+     "translatedText": "concordaram / estiveram de acordo",
+     "explanation": "ESTAR de acordo: \"estar de acuerdo\" = concordar. Note ESTAR (estado pontual de concordância), não SER.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y pronto muchos monos",
+  "newLine": false,
+  "translation": {
+   "text": "e logo muitos macacos",
+   "tips": [
+    {
+     "text": "pronto",
+     "translatedText": "logo / em breve",
+     "explanation": null
+    },
+    {
+     "text": "muchos monos",
+     "translatedText": "muitos macacos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mano sobre mano",
+  "newLine": false,
+  "translation": {
+   "text": "mão sobre mão",
+   "tips": [
+    {
+     "text": "mano sobre mano",
+     "translatedText": "mão sobre mão",
+     "explanation": "GÊNERO DIFERENTE: \"la mano\" é FEMININA apesar de terminar em -o (uma das exceções clássicas do espanhol): \"la mano\", \"las manos\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "formaron una larga escalera",
+  "newLine": false,
+  "translation": {
+   "text": "formaram uma longa escada",
+   "tips": [
+    {
+     "text": "formaron",
+     "translatedText": "formaram",
+     "explanation": null
+    },
+    {
+     "text": "una larga escalera",
+     "translatedText": "uma longa escada",
+     "explanation": "FALSO AMIGO: \"largo\" = LONGO/comprido, NÃO \"largo/amplo\" (isso é \"ancho\"). \"Una larga escalera\" = uma escada longa/comprida.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con sus cuerpos",
+  "newLine": false,
+  "translation": {
+   "text": "com seus corpos",
+   "tips": [
+    {
+     "text": "con sus cuerpos",
+     "translatedText": "com seus corpos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "hasta que casi llegaron",
+  "newLine": false,
+  "translation": {
+   "text": "até que quase chegaram",
+   "tips": [
+    {
+     "text": "hasta que",
+     "translatedText": "até que",
+     "explanation": null
+    },
+    {
+     "text": "casi llegaron",
+     "translatedText": "quase chegaram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a la espalda de la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "às costas da tartaruga",
+   "tips": [
+    {
+     "text": "a la espalda",
+     "translatedText": "às costas",
+     "explanation": null
+    },
+    {
+     "text": "de la tortuga",
+     "translatedText": "da tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Entonces el mono pequeño",
+  "newLine": false,
+  "translation": {
+   "text": "Então o macaco pequeno",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "el mono pequeño",
+     "translatedText": "o macaco pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bajó y dijo",
+  "newLine": false,
+  "translation": {
+   "text": "desceu e disse",
+   "tips": [
+    {
+     "text": "bajó",
+     "translatedText": "desceu",
+     "explanation": null
+    },
+    {
+     "text": "dijo",
+     "translatedText": "disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ":",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "«",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "No digan nada",
+  "newLine": false,
+  "translation": {
+   "text": "Não digam nada",
+   "tips": [
+    {
+     "text": "No digan nada",
+     "translatedText": "não digam nada",
+     "explanation": "SUBJUNTIVO no imperativo negativo: \"no digan\" usa a forma do subjuntivo (não o infinitivo nem o presente). Toda ordem NEGATIVA em espanhol vai ao subjuntivo: \"no digas / no digan\". Note a DUPLA NEGAÇÃO: \"no... nada\" = não... nada (normal em espanhol).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "o lo van a despertar",
+  "newLine": false,
+  "translation": {
+   "text": "ou vão acordá-la",
+   "tips": [
+    {
+     "text": "o",
+     "translatedText": "ou",
+     "explanation": null
+    },
+    {
+     "text": "lo van a despertar",
+     "translatedText": "vão acordá-lo / despertá-lo",
+     "explanation": "FALSO AMIGO: \"despertar\" = ACORDAR alguém (do sono). Cuidado: \"acordarse\" em espanhol é LEMBRAR-SE, não acordar. Para acordar do sono usa-se \"despertar(se)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ahora bien",
+  "newLine": true,
+  "translation": {
+   "text": "Ora bem",
+   "tips": [
+    {
+     "text": "Ahora bien",
+     "translatedText": "ora bem / acontece que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "este mono pequeño",
+  "newLine": false,
+  "translation": {
+   "text": "este macaco pequeno",
+   "tips": [
+    {
+     "text": "este mono pequeño",
+     "translatedText": "este macaco pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tenía que sujetarse",
+  "newLine": false,
+  "translation": {
+   "text": "tinha que se segurar",
+   "tips": [
+    {
+     "text": "tenía que",
+     "translatedText": "tinha que",
+     "explanation": null
+    },
+    {
+     "text": "sujetarse",
+     "translatedText": "se segurar / se prender",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de los otros",
+  "newLine": false,
+  "translation": {
+   "text": "nos outros",
+   "tips": [
+    {
+     "text": "de los otros",
+     "translatedText": "nos outros / dos outros",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con una mano",
+  "newLine": false,
+  "translation": {
+   "text": "com uma mão",
+   "tips": [
+    {
+     "text": "una mano",
+     "translatedText": "uma mão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y",
+  "newLine": false,
+  "translation": {
+   "text": "e",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bajando con la otra",
+  "newLine": false,
+  "translation": {
+   "text": "descendo com a outra",
+   "tips": [
+    {
+     "text": "bajando",
+     "translatedText": "descendo / baixando",
+     "explanation": null
+    },
+    {
+     "text": "con la otra",
+     "translatedText": "com a outra",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "agarrar la cola",
+  "newLine": false,
+  "translation": {
+   "text": "agarrar o rabo",
+   "tips": [
+    {
+     "text": "agarrar",
+     "translatedText": "agarrar / pegar",
+     "explanation": null
+    },
+    {
+     "text": "la cola",
+     "translatedText": "o rabo / a cauda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "da tartaruga",
+   "tips": [
+    {
+     "text": "de la tortuga",
+     "translatedText": "da tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "para ver cuánto",
+  "newLine": false,
+  "translation": {
+   "text": "para ver o quanto",
+   "tips": [
+    {
+     "text": "para ver",
+     "translatedText": "para ver",
+     "explanation": null
+    },
+    {
+     "text": "cuánto",
+     "translatedText": "o quanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "podía acercarse",
+  "newLine": false,
+  "translation": {
+   "text": "podia se aproximar",
+   "tips": [
+    {
+     "text": "podía",
+     "translatedText": "podia",
+     "explanation": null
+    },
+    {
+     "text": "acercarse",
+     "translatedText": "se aproximar / chegar perto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a su cabeza",
+  "newLine": false,
+  "translation": {
+   "text": "da cabeça dela",
+   "tips": [
+    {
+     "text": "a su cabeza",
+     "translatedText": "à cabeça dela / da cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque sabían que",
+  "newLine": false,
+  "translation": {
+   "text": "porque sabiam que",
+   "tips": [
+    {
+     "text": "porque sabían que",
+     "translatedText": "porque sabiam que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "una tortuga no podía",
+  "newLine": false,
+  "translation": {
+   "text": "uma tartaruga não podia",
+   "tips": [
+    {
+     "text": "una tortuga",
+     "translatedText": "uma tartaruga",
+     "explanation": null
+    },
+    {
+     "text": "no podía",
+     "translatedText": "não podia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "saltar ni subir",
+  "newLine": false,
+  "translation": {
+   "text": "pular nem subir",
+   "tips": [
+    {
+     "text": "saltar",
+     "translatedText": "pular / saltar",
+     "explanation": null
+    },
+    {
+     "text": "ni subir",
+     "translatedText": "nem subir",
+     "explanation": "FALSO AMIGO: \"subir\" = SUBIR (ir para cima). Cuidado com o par parecido \"salir\" = SAIR — não confundir \"subir\" com \"sair\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a los árboles",
+  "newLine": false,
+  "translation": {
+   "text": "nas árvores",
+   "tips": [
+    {
+     "text": "a los árboles",
+     "translatedText": "nas árvores / às árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Uno",
+  "newLine": false,
+  "translation": {
+   "text": "Um",
+   "tips": [
+    {
+     "text": "Uno",
+     "translatedText": "um",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Dos",
+  "newLine": false,
+  "translation": {
+   "text": "Dois",
+   "tips": [
+    {
+     "text": "Dos",
+     "translatedText": "dois",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Los monos iban y venían",
+  "newLine": false,
+  "translation": {
+   "text": "Os macacos iam e vinham",
+   "tips": [
+    {
+     "text": "Los monos",
+     "translatedText": "os macacos",
+     "explanation": null
+    },
+    {
+     "text": "iban y venían",
+     "translatedText": "iam e vinham",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sin tocar nada",
+  "newLine": false,
+  "translation": {
+   "text": "sem tocar em nada",
+   "tips": [
+    {
+     "text": "sin tocar",
+     "translatedText": "sem tocar",
+     "explanation": null
+    },
+    {
+     "text": "nada",
+     "translatedText": "nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Tres",
+  "newLine": false,
+  "translation": {
+   "text": "Três",
+   "tips": [
+    {
+     "text": "Tres",
+     "translatedText": "três",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cuatro",
+  "newLine": false,
+  "translation": {
+   "text": "Quatro",
+   "tips": [
+    {
+     "text": "Cuatro",
+     "translatedText": "quatro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Los dedos del mono",
+  "newLine": false,
+  "translation": {
+   "text": "Os dedos do macaco",
+   "tips": [
+    {
+     "text": "Los dedos",
+     "translatedText": "os dedos",
+     "explanation": null
+    },
+    {
+     "text": "del mono",
+     "translatedText": "do macaco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "rozaron la espalda",
+  "newLine": false,
+  "translation": {
+   "text": "roçaram as costas",
+   "tips": [
+    {
+     "text": "rozaron",
+     "translatedText": "roçaram",
+     "explanation": null
+    },
+    {
+     "text": "la espalda",
+     "translatedText": "as costas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "da tartaruga",
+   "tips": [
+    {
+     "text": "de la tortuga",
+     "translatedText": "da tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pero el viejo caparazón duro",
+  "newLine": false,
+  "translation": {
+   "text": "Mas o velho casco duro",
+   "tips": [
+    {
+     "text": "Pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "el viejo caparazón duro",
+     "translatedText": "o velho casco duro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "siguió con los ojos cerrados",
+  "newLine": false,
+  "translation": {
+   "text": "continuou de olhos fechados",
+   "tips": [
+    {
+     "text": "siguió",
+     "translatedText": "continuou / seguiu",
+     "explanation": null
+    },
+    {
+     "text": "con los ojos cerrados",
+     "translatedText": "de olhos fechados",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Cinco",
+  "newLine": false,
+  "translation": {
+   "text": "Cinco",
+   "tips": [
+    {
+     "text": "Cinco",
+     "translatedText": "cinco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Seis",
+  "newLine": false,
+  "translation": {
+   "text": "Seis",
+   "tips": [
+    {
+     "text": "Seis",
+     "translatedText": "seis",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "El mono pequeño agarró",
+  "newLine": false,
+  "translation": {
+   "text": "O macaco pequeno agarrou",
+   "tips": [
+    {
+     "text": "El mono pequeño",
+     "translatedText": "o macaco pequeno",
+     "explanation": null
+    },
+    {
+     "text": "agarró",
+     "translatedText": "agarrou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la cola de la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "o rabo da tartaruga",
+   "tips": [
+    {
+     "text": "la cola",
+     "translatedText": "o rabo / a cauda",
+     "explanation": null
+    },
+    {
+     "text": "de la tortuga",
+     "translatedText": "da tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y tiró de ella",
+  "newLine": false,
+  "translation": {
+   "text": "e a puxou",
+   "tips": [
+    {
+     "text": "tiró de ella",
+     "translatedText": "puxou-a / puxou dela",
+     "explanation": "FALSO AMIGO campeão: \"tirar de\" = PUXAR. \"Tiró de ella\" = puxou-a (puxou o rabo). Nada a ver com o nosso \"tirar/retirar\" (que em espanhol é \"sacar/quitar\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con fuerza",
+  "newLine": false,
+  "translation": {
+   "text": "com força",
+   "tips": [
+    {
+     "text": "con fuerza",
+     "translatedText": "com força",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La vieja tortuga se movió",
+  "newLine": false,
+  "translation": {
+   "text": "A velha tartaruga se mexeu",
+   "tips": [
+    {
+     "text": "La vieja tortuga",
+     "translatedText": "a velha tartaruga",
+     "explanation": null
+    },
+    {
+     "text": "se movió",
+     "translatedText": "se mexeu / se moveu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un poco",
+  "newLine": false,
+  "translation": {
+   "text": "um pouco",
+   "tips": [
+    {
+     "text": "un poco",
+     "translatedText": "um pouco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "como si todavía estuviera",
+  "newLine": false,
+  "translation": {
+   "text": "como se ainda estivesse",
+   "tips": [
+    {
+     "text": "como si",
+     "translatedText": "como se",
+     "explanation": "SUBJUNTIVO: \"como si\" SEMPRE exige o imperfeito do subjuntivo (\"como si estuviera\" = como se estivesse). É uma das estruturas-gatilho mais fixas do espanhol.",
+     "priority": "low"
+    },
+    {
+     "text": "todavía",
+     "translatedText": "ainda",
+     "explanation": "FALSO AMIGO campeão: \"todavía\" = AINDA, e NÃO \"todavia/contudo\". Para \"todavia\" o espanhol usa \"sin embargo\".",
+     "priority": "high"
+    },
+    {
+     "text": "estuviera",
+     "translatedText": "estivesse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "medio dormida",
+  "newLine": false,
+  "translation": {
+   "text": "meio adormecida",
+   "tips": [
+    {
+     "text": "medio dormida",
+     "translatedText": "meio adormecida / meio dormindo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Siete",
+  "newLine": false,
+  "translation": {
+   "text": "Sete",
+   "tips": [
+    {
+     "text": "Siete",
+     "translatedText": "sete",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ocho",
+  "newLine": false,
+  "translation": {
+   "text": "Oito",
+   "tips": [
+    {
+     "text": "Ocho",
+     "translatedText": "oito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Esta vez",
+  "newLine": false,
+  "translation": {
+   "text": "Desta vez",
+   "tips": [
+    {
+     "text": "Esta vez",
+     "translatedText": "desta vez / esta vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "el mono quería agarrar",
+  "newLine": false,
+  "translation": {
+   "text": "o macaco queria agarrar",
+   "tips": [
+    {
+     "text": "el mono quería",
+     "translatedText": "o macaco queria",
+     "explanation": null
+    },
+    {
+     "text": "agarrar",
+     "translatedText": "agarrar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la cabeza de la tortuga",
+  "newLine": false,
+  "translation": {
+   "text": "a cabeça da tartaruga",
+   "tips": [
+    {
+     "text": "la cabeza",
+     "translatedText": "a cabeça",
+     "explanation": null
+    },
+    {
+     "text": "de la tortuga",
+     "translatedText": "da tartaruga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero la tortuga lo atrapó",
+  "newLine": false,
+  "translation": {
+   "text": "mas a tartaruga o pegou",
+   "tips": [
+    {
+     "text": "pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "lo atrapó",
+     "translatedText": "o pegou / o capturou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y lo sujetó",
+  "newLine": false,
+  "translation": {
+   "text": "e o segurou",
+   "tips": [
+    {
+     "text": "lo sujetó",
+     "translatedText": "o segurou / o prendeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cuando estaba muy cerca",
+  "newLine": false,
+  "translation": {
+   "text": "quando estava muito perto",
+   "tips": [
+    {
+     "text": "cuando estaba",
+     "translatedText": "quando estava",
+     "explanation": "ESTAR de localização: \"estaba muy cerca\" = estava muito perto. Localização no espaço SEMPRE pede ESTAR (nunca SER), mesmo permanente.",
+     "priority": "low"
+    },
+    {
+     "text": "muy cerca",
+     "translatedText": "muito perto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Entonces",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "como los otros monos",
+  "newLine": false,
+  "translation": {
+   "text": "como os outros macacos",
+   "tips": [
+    {
+     "text": "como",
+     "translatedText": "como / já que",
+     "explanation": null
+    },
+    {
+     "text": "los otros monos",
+     "translatedText": "os outros macacos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "seguían moviéndose",
+  "newLine": false,
+  "translation": {
+   "text": "continuavam se movendo",
+   "tips": [
+    {
+     "text": "seguían moviéndose",
+     "translatedText": "continuavam se movendo",
+     "explanation": "ESTRUTURA-ESPELHO: \"seguir + gerúndio\" = CONTINUAR fazendo algo (\"seguían moviéndose\" = continuavam se movendo). O espanhol usa \"seguir\" onde o PT usa \"continuar/ficar\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de un lado a otro",
+  "newLine": false,
+  "translation": {
+   "text": "de um lado para o outro",
+   "tips": [
+    {
+     "text": "de un lado a otro",
+     "translatedText": "de um lado para o outro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "el mono pequeño",
+  "newLine": false,
+  "translation": {
+   "text": "o macaco pequeno",
+   "tips": [
+    {
+     "text": "el mono pequeño",
+     "translatedText": "o macaco pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cayó de cabeza al suelo",
+  "newLine": false,
+  "translation": {
+   "text": "caiu de cabeça no chão",
+   "tips": [
+    {
+     "text": "cayó",
+     "translatedText": "caiu",
+     "explanation": null
+    },
+    {
+     "text": "de cabeza",
+     "translatedText": "de cabeça",
+     "explanation": null
+    },
+    {
+     "text": "al suelo",
+     "translatedText": "no chão",
+     "explanation": "VOCABULÁRIO: \"el suelo\" = o CHÃO (não \"o solo\" só agrícola). \"caer al suelo\" = cair no chão.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

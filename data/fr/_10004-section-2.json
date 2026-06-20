@@ -1,0 +1,294 @@
+[
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "C'est quoi, le cancer ?", "newLine": false, "translation": { "text": "O que é o câncer?", "tips": [
+    { "text": "C'est quoi", "translatedText": "o que é", "explanation": "\"C'est quoi ?\" é uma forma coloquial e muito comum no francês falado de perguntar \"O que é?\". A forma mais formal seria \"Qu'est-ce que c'est ?\"." } ] } },
+  { "text": " » ", "newLine": false, "translation": null },
+  { "text": "a demandé Anna", "newLine": false, "translation": { "text": "perguntou Anna", "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Tu sais", "newLine": false, "translation": { "text": "Você sabe", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "notre corps est fait de", "newLine": false, "translation": { "text": "nosso corpo é feito de", "tips": [
+    { "text": "est fait de", "translatedText": "é feito de", "explanation": "\"être fait de\" significa \"ser feito de\". É a expressão usada para dizer do que algo é composto." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "très petites parties", "newLine": false, "translation": { "text": "partes muito pequenas", "tips": [
+    { "text": "très petites", "translatedText": "muito pequenas", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "appelées cellules", "newLine": false, "translation": { "text": "chamadas células", "tips": [
+    { "text": "appelées", "translatedText": "chamadas", "explanation": "\"appelées\" é o particípio passado de \"appeler\" (chamar) usado como adjetivo: \"chamadas\". Concorda em gênero e número com \"parties\" (feminino plural)." } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Parfois", "newLine": false, "translation": { "text": "Às vezes", "tips": [
+    { "text": "Parfois", "translatedText": "às vezes", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "les cellules grandissent trop", "newLine": false, "translation": { "text": "as células crescem demais", "tips": [
+    { "text": "grandissent trop", "translatedText": "crescem demais", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et ce n'est pas bon", "newLine": false, "translation": { "text": "e isso não é bom", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "C'est ça", "newLine": false, "translation": { "text": "É isso", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que nous appelons le cancer", "newLine": false, "translation": { "text": "que nós chamamos de câncer", "tips": [
+    { "text": "nous appelons", "translatedText": "nós chamamos", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit la mère", "newLine": false, "translation": { "text": "disse a mãe", "tips": [
+    { "text": "a dit", "translatedText": "disse", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Puis elle a décidé", "newLine": false, "translation": { "text": "Depois ela decidiu", "tips": [
+    { "text": "Puis", "translatedText": "depois / em seguida", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de changer un peu de sujet", "newLine": false, "translation": { "text": "mudar um pouco de assunto", "tips": [
+    { "text": "de sujet", "translatedText": "de assunto", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "« ", "newLine": false, "translation": null },
+  { "text": "Mon père", "newLine": false, "translation": { "text": "Meu pai", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "ton grand-père", "newLine": false, "translation": { "text": "teu avô", "tips": [
+    { "text": "grand-père", "translatedText": "avô", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "était médecin aussi", "newLine": false, "translation": { "text": "era médico também", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Il était le type de médecin", "newLine": false, "translation": { "text": "Ele era o tipo de médico", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qui s'occupe des enfants", "newLine": false, "translation": { "text": "que cuida das crianças", "tips": [
+    { "text": "s'occupe de", "translatedText": "cuida de", "explanation": null } ] } },
+  { "text": " ; ", "newLine": false, "translation": null },
+  { "text": "ma mère", "newLine": false, "translation": { "text": "minha mãe", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "ta grand-mère", "newLine": false, "translation": { "text": "tua avó", "tips": [
+    { "text": "grand-mère", "translatedText": "avó", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "était professeure de sciences", "newLine": false, "translation": { "text": "era professora de ciências", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Maintenant", "newLine": false, "translation": { "text": "Agora", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "ils sont à la retraite", "newLine": false, "translation": { "text": "eles estão aposentados", "tips": [
+    { "text": "à la retraite", "translatedText": "aposentado(s)", "explanation": "\"être à la retraite\" significa \"estar aposentado\". \"la retraite\" é a aposentadoria." } ] } },
+  { "text": " : ", "newLine": false, "translation": null },
+  { "text": "ça veut dire qu'", "newLine": false, "translation": { "text": "isso quer dizer que", "tips": [
+    { "text": "ça veut dire", "translatedText": "isso quer dizer / significa", "explanation": "\"vouloir dire\" significa \"querer dizer / significar\". \"ça veut dire que\" = \"isso significa que\"." } ] } },
+  { "text": "ils ne doivent plus travailler", "newLine": false, "translation": { "text": "eles não precisam mais trabalhar", "tips": [
+    { "text": "ne doivent plus", "translatedText": "não precisam mais", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "elle a continué", "newLine": false, "translation": { "text": "ela continuou", "tips": [
+    { "text": "a continué", "translatedText": "continuou", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "C'est quoi exactement", "newLine": false, "translation": { "text": "O que é exatamente", "tips": [
+    { "text": "exactement", "translatedText": "exatamente", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "les sciences", "newLine": false, "translation": { "text": "as ciências", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "maman ?", "newLine": false, "translation": { "text": "mamãe?", "tips": [] } },
+  { "text": " » ", "newLine": false, "translation": null },
+  { "text": "a demandé Anna", "newLine": false, "translation": { "text": "perguntou Anna", "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Avec les sciences", "newLine": false, "translation": { "text": "Com as ciências", "tips": [
+    { "text": "Avec", "translatedText": "com", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "nous apprenons des choses", "newLine": false, "translation": { "text": "nós aprendemos coisas", "tips": [
+    { "text": "nous apprenons", "translatedText": "nós aprendemos", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sur le monde", "newLine": false, "translation": { "text": "sobre o mundo", "tips": [
+    { "text": "sur", "translatedText": "sobre", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Par exemple", "newLine": false, "translation": { "text": "Por exemplo", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "nous savons maintenant", "newLine": false, "translation": { "text": "nós sabemos agora", "tips": [
+    { "text": "nous savons", "translatedText": "nós sabemos", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que le soleil est une étoile", "newLine": false, "translation": { "text": "que o sol é uma estrela", "tips": [
+    { "text": "le soleil", "translatedText": "o sol", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et que", "newLine": false, "translation": { "text": "e que", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "sans lui", "newLine": false, "translation": { "text": "sem ele", "tips": [
+    { "text": "sans lui", "translatedText": "sem ele", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "il n'y aurait pas de vie", "newLine": false, "translation": { "text": "não haveria vida", "tips": [
+    { "text": "il n'y aurait pas", "translatedText": "não haveria", "explanation": "\"il n'y aurait pas\" é o condicional de \"il y a\" (há). \"il y a\" = há; \"il y aurait\" = haveria; na negativa: \"il n'y aurait pas\" = não haveria." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sur la Terre", "newLine": false, "translation": { "text": "na Terra", "tips": [] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "elle a répondu", "newLine": false, "translation": { "text": "ela respondeu", "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Maintenant", "newLine": true, "translation": { "text": "Agora", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Anna était extrêmement intéressée", "newLine": false, "translation": { "text": "Anna estava extremamente interessada", "tips": [
+    { "text": "était", "translatedText": "estava", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "alors sa mère a continué", "newLine": false, "translation": { "text": "então sua mãe continuou", "tips": [
+    { "text": "alors", "translatedText": "então", "explanation": null } ] } },
+  { "text": " : ", "newLine": false, "translation": null },
+  { "text": "« ", "newLine": false, "translation": null },
+  { "text": "Avec les sciences", "newLine": false, "translation": { "text": "Com as ciências", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "nous apprenons aussi des choses", "newLine": false, "translation": { "text": "nós também aprendemos coisas", "tips": [
+    { "text": "aussi", "translatedText": "também", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sur toutes les formes de vie", "newLine": false, "translation": { "text": "sobre todas as formas de vida", "tips": [
+    { "text": "formes de vie", "translatedText": "formas de vida", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Des très petites", "newLine": false, "translation": { "text": "Das muito pequenas", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "aux très grandes", "newLine": false, "translation": { "text": "às muito grandes", "tips": [
+    { "text": "Des... aux...", "translatedText": "das... às...", "explanation": "Estrutura \"de... à...\" = \"de... a...\". Com o artigo plural, \"de + les\" vira \"des\" e \"à + les\" vira \"aux\". Aqui: das (formas) muito pequenas às muito grandes." } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Tu veux dire", "newLine": false, "translation": { "text": "Você quer dizer", "tips": [
+    { "text": "Tu veux dire", "translatedText": "você quer dizer", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "des insectes aux éléphants ?", "newLine": false, "translation": { "text": "dos insetos aos elefantes?", "tips": [
+    { "text": "des insectes", "translatedText": "dos insetos", "explanation": null } ] } },
+  { "text": " » ", "newLine": false, "translation": null },
+  { "text": "a demandé Anna", "newLine": false, "translation": { "text": "perguntou Anna", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Oui", "newLine": false, "translation": { "text": "Sim", "tips": [] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a répondu sa mère", "newLine": false, "translation": { "text": "respondeu sua mãe", "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "« ", "newLine": false, "translation": null },
+  { "text": "Mais aussi", "newLine": false, "translation": { "text": "Mas também", "tips": [
+    { "text": "Mais aussi", "translatedText": "mas também", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "les arbres et les fleurs", "newLine": false, "translation": { "text": "as árvores e as flores", "tips": [
+    { "text": "les arbres", "translatedText": "as árvores", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et il y a même", "newLine": false, "translation": { "text": "e há até", "tips": [
+    { "text": "même", "translatedText": "até / mesmo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "des formes de vie", "newLine": false, "translation": { "text": "formas de vida", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qui sont faites", "newLine": false, "translation": { "text": "que são feitas", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "d'une seule cellule", "newLine": false, "translation": { "text": "de uma única célula", "tips": [
+    { "text": "une seule cellule", "translatedText": "uma única célula", "explanation": "\"seul\" antes do substantivo (\"une seule cellule\") significa \"única / uma só\". Depois do substantivo (\"une cellule seule\") significaria \"uma célula sozinha\". A posição muda o sentido." } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais nous pouvons les voir", "newLine": false, "translation": { "text": "mas podemos vê-las", "tips": [
+    { "text": "les voir", "translatedText": "vê-las", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "seulement avec un microscope", "newLine": false, "translation": { "text": "somente com um microscópio", "tips": [
+    { "text": "seulement", "translatedText": "somente", "explanation": null } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Wow !", "newLine": false, "translation": { "text": "Uau!", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "La prochaine fois", "newLine": false, "translation": { "text": "Na próxima vez", "tips": [
+    { "text": "La prochaine fois", "translatedText": "na próxima vez", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que nous allons voir grand-mère", "newLine": false, "translation": { "text": "que formos ver a vovó", "tips": [
+    { "text": "nous allons voir", "translatedText": "vamos ver", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "je vais lui poser", "newLine": false, "translation": { "text": "eu vou fazer a ela", "tips": [
+    { "text": "je vais", "translatedText": "eu vou", "explanation": null },
+    { "text": "poser", "translatedText": "fazer (perguntas)", "explanation": "Em francês, faz-se uma pergunta com o verbo \"poser\": \"poser une question\" = \"fazer uma pergunta\". Atenção: NÃO se usa \"faire\" aqui, como em português." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "beaucoup de questions de sciences", "newLine": false, "translation": { "text": "muitas perguntas de ciências", "tips": [
+    { "text": "beaucoup de questions", "translatedText": "muitas perguntas", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Anna", "newLine": false, "translation": { "text": "disse Anna", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Sa mère a souri", "newLine": true, "translation": { "text": "Sua mãe sorriu", "tips": [
+    { "text": "a souri", "translatedText": "sorriu", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Elle aussi posait", "newLine": false, "translation": { "text": "Ela também fazia", "tips": [
+    { "text": "Elle aussi", "translatedText": "ela também", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "beaucoup de questions", "newLine": false, "translation": { "text": "muitas perguntas", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "à sa propre mère", "newLine": false, "translation": { "text": "à sua própria mãe", "tips": [
+    { "text": "sa propre mère", "translatedText": "sua própria mãe", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "quand elle était une petite fille", "newLine": false, "translation": { "text": "quando era uma menininha", "tips": [
+    { "text": "une petite fille", "translatedText": "uma menininha", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et", "newLine": false, "translation": { "text": "e", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "pour dire la vérité", "newLine": false, "translation": { "text": "para dizer a verdade", "tips": [
+    { "text": "pour dire la vérité", "translatedText": "para dizer a verdade", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "elle le faisait encore", "newLine": false, "translation": { "text": "ela ainda fazia isso", "tips": [
+    { "text": "encore", "translatedText": "ainda", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Si tu étudies les sciences", "newLine": false, "translation": { "text": "Se você estuda ciências", "tips": [
+    { "text": "Si tu étudies", "translatedText": "se você estuda", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "tu dois devenir maîtresse ?", "newLine": false, "translation": { "text": "você tem que virar professora?", "tips": [
+    { "text": "tu dois devenir", "translatedText": "você tem que virar / tornar-se", "explanation": null } ] } },
+  { "text": " » ", "newLine": false, "translation": null },
+  { "text": "a demandé Anna", "newLine": false, "translation": { "text": "perguntou Anna", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Elle pensait que", "newLine": false, "translation": { "text": "Ela achava que", "tips": [
+    { "text": "Elle pensait", "translatedText": "ela achava / pensava", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "toutes ces choses de sciences", "newLine": false, "translation": { "text": "todas essas coisas de ciências", "tips": [
+    { "text": "toutes ces choses", "translatedText": "todas essas coisas", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "étaient très intéressantes", "newLine": false, "translation": { "text": "eram muito interessantes", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais elle n'était pas sûre", "newLine": false, "translation": { "text": "mas ela não tinha certeza", "tips": [
+    { "text": "n'était pas sûre", "translatedText": "não tinha certeza", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de vouloir être maîtresse", "newLine": false, "translation": { "text": "de querer ser professora", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Elle n'était pas sûre non plus", "newLine": false, "translation": { "text": "Ela também não tinha certeza", "tips": [
+    { "text": "non plus", "translatedText": "também não", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "d'aimer certains enfants", "newLine": false, "translation": { "text": "de gostar de certas crianças", "tips": [
+    { "text": "certains enfants", "translatedText": "certas crianças", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de sa classe", "newLine": false, "translation": { "text": "da sua turma", "tips": [
+    { "text": "sa classe", "translatedText": "sua turma", "explanation": null } ] } },
+  { "text": " : ", "newLine": false, "translation": null },
+  { "text": "il y avait deux garçons", "newLine": false, "translation": { "text": "havia dois meninos", "tips": [
+    { "text": "il y avait", "translatedText": "havia", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qui couraient et criaient", "newLine": false, "translation": { "text": "que corriam e gritavam", "tips": [
+    { "text": "couraient et criaient", "translatedText": "corriam e gritavam", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "tout le temps", "newLine": false, "translation": { "text": "o tempo todo", "tips": [
+    { "text": "tout le temps", "translatedText": "o tempo todo", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "« ", "newLine": false, "translation": null },
+  { "text": "Tu sais", "newLine": false, "translation": { "text": "Você sabe", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "la patience n'est pas mon point fort", "newLine": false, "translation": { "text": "a paciência não é o meu forte", "tips": [
+    { "text": "mon point fort", "translatedText": "o meu forte / ponto forte", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Anna", "newLine": false, "translation": { "text": "disse Anna", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Eh bien", "newLine": false, "translation": { "text": "Bem", "tips": [
+    { "text": "Eh bien", "translatedText": "bem / pois bem", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "tu peux faire de la recherche", "newLine": false, "translation": { "text": "você pode fazer pesquisa", "tips": [
+    { "text": "faire de la recherche", "translatedText": "fazer pesquisa", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a répondu sa mère", "newLine": false, "translation": { "text": "respondeu sua mãe", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Et c'est quoi", "newLine": false, "translation": { "text": "E o que é", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "ça ?", "newLine": false, "translation": { "text": "isso?", "tips": [
+    { "text": "ça", "translatedText": "isso", "explanation": null } ] } },
+  { "text": " » ", "newLine": false, "translation": null },
+  { "text": "a demandé Anna", "newLine": false, "translation": { "text": "perguntou Anna", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null }
+]

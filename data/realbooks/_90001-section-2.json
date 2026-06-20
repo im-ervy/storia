@@ -1,0 +1,5467 @@
+[
+ {
+ "text": "Mrs. Dodds",
+ "newLine": true,
+ "translation": {
+  "text": "A Sra. Dodds",
+  "tips": [
+   {
+    "text": "Mrs. Dodds",
+    "translatedText": "Sra. Dodds",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "was this",
+ "newLine": false,
+ "translation": {
+  "text": "era uma",
+  "tips": [
+   {
+    "text": "this",
+    "translatedText": "essa/uma",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "little math teacher",
+ "newLine": false,
+ "translation": {
+  "text": "pequena professora de matemática",
+  "tips": [
+   {
+    "text": "little",
+    "translatedText": "pequena",
+    "explanation": null
+   },
+   {
+    "text": "math teacher",
+    "translatedText": "professora de matemática",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "from Georgia",
+ "newLine": false,
+ "translation": {
+  "text": "da Geórgia",
+  "tips": [
+   {
+    "text": "Georgia",
+    "translatedText": "Geórgia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "who always wore",
+ "newLine": false,
+ "translation": {
+  "text": "que sempre usava",
+  "tips": [
+   {
+    "text": "wore",
+    "translatedText": "usava (vestia)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "a black leather jacket",
+ "newLine": false,
+ "translation": {
+  "text": "uma jaqueta de couro preta",
+  "tips": [
+   {
+    "text": "leather",
+    "translatedText": "couro",
+    "explanation": null
+   },
+   {
+    "text": "jacket",
+    "translatedText": "jaqueta",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "even though",
+ "newLine": false,
+ "translation": {
+  "text": "embora",
+  "tips": [
+   {
+    "text": "even though",
+    "translatedText": "mesmo que / embora",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "she was fifty years old",
+ "newLine": false,
+ "translation": {
+  "text": "ela tivesse cinquenta anos",
+  "tips": [
+   {
+    "text": "fifty years old",
+    "translatedText": "cinquenta anos de idade",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "She looked",
+ "newLine": false,
+ "translation": {
+  "text": "Ela parecia",
+  "tips": [
+   {
+    "text": "looked",
+    "translatedText": "parecia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "mean enough",
+ "newLine": false,
+ "translation": {
+  "text": "malvada o suficiente",
+  "tips": [
+   {
+    "text": "mean",
+    "translatedText": "malvada / má",
+    "explanation": null
+   },
+   {
+    "text": "enough",
+    "translatedText": "o suficiente",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to ride a Harley",
+ "newLine": false,
+ "translation": {
+  "text": "para pilotar uma Harley",
+  "tips": [
+   {
+    "text": "ride",
+    "translatedText": "pilotar / andar",
+    "explanation": null
+   },
+   {
+    "text": "Harley",
+    "translatedText": "Harley",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "right into your locker",
+ "newLine": false,
+ "translation": {
+  "text": "direto para dentro do seu armário",
+  "tips": [
+   {
+    "text": "right into",
+    "translatedText": "direto para dentro de",
+    "explanation": null
+   },
+   {
+    "text": "locker",
+    "translatedText": "armário (de escola)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "She had come",
+ "newLine": false,
+ "translation": {
+  "text": "Ela tinha chegado",
+  "tips": [
+   {
+    "text": "had come",
+    "translatedText": "tinha chegado/vindo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to Yancy",
+ "newLine": false,
+ "translation": {
+  "text": "a Yancy",
+  "tips": [
+   {
+    "text": "Yancy",
+    "translatedText": "Yancy",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "halfway through the year",
+ "newLine": false,
+ "translation": {
+  "text": "no meio do ano",
+  "tips": [
+   {
+    "text": "halfway through",
+    "translatedText": "na metade de",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "when our",
+ "newLine": false,
+ "translation": {
+  "text": "quando nosso",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "last math teacher",
+ "newLine": false,
+ "translation": {
+  "text": "último professor de matemática",
+  "tips": [
+   {
+    "text": "last",
+    "translatedText": "último",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "had a nervous breakdown",
+ "newLine": false,
+ "translation": {
+  "text": "teve um colapso nervoso",
+  "tips": [
+   {
+    "text": "nervous breakdown",
+    "translatedText": "colapso/esgotamento nervoso",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "From her first day",
+ "newLine": true,
+ "translation": {
+  "text": "Desde o primeiro dia dela",
+  "tips": [
+   {
+    "text": "From",
+    "translatedText": "Desde",
+    "explanation": null
+   },
+   {
+    "text": "first day",
+    "translatedText": "primeiro dia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mrs. Dodds",
+ "newLine": false,
+ "translation": {
+  "text": "a Sra. Dodds",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "loved Nancy Bobofit",
+ "newLine": false,
+ "translation": {
+  "text": "adorava a Nancy Bobofit",
+  "tips": [
+   {
+    "text": "loved",
+    "translatedText": "adorava",
+    "explanation": null
+   },
+   {
+    "text": "Nancy Bobofit",
+    "translatedText": "Nancy Bobofit",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and figured",
+ "newLine": false,
+ "translation": {
+  "text": "e achava",
+  "tips": [
+   {
+    "text": "figured",
+    "translatedText": "achava / concluiu",
+    "explanation": "\"To figure\" no inglês informal significa \"achar/imaginar/concluir\" algo, e não \"figurar\"."
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I was devil spawn",
+ "newLine": false,
+ "translation": {
+  "text": "que eu era cria do diabo",
+  "tips": [
+   {
+    "text": "devil spawn",
+    "translatedText": "cria/rebento do diabo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "She would point",
+ "newLine": false,
+ "translation": {
+  "text": "Ela apontava",
+  "tips": [
+   {
+    "text": "would point",
+    "translatedText": "costumava apontar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "her crooked finger",
+ "newLine": false,
+ "translation": {
+  "text": "seu dedo torto",
+  "tips": [
+   {
+    "text": "crooked",
+    "translatedText": "torto",
+    "explanation": null
+   },
+   {
+    "text": "finger",
+    "translatedText": "dedo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "at me",
+ "newLine": false,
+ "translation": {
+  "text": "para mim",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and say",
+ "newLine": false,
+ "translation": {
+  "text": "e dizia",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Now, honey",
+ "newLine": false,
+ "translation": {
+  "text": "Olha, querido",
+  "tips": [
+   {
+    "text": "Now",
+    "translatedText": "Olha / Pois bem",
+    "explanation": null
+   },
+   {
+    "text": "honey",
+    "translatedText": "querido (lit. mel)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "real sweet",
+ "newLine": false,
+ "translation": {
+  "text": "bem docemente",
+  "tips": [
+   {
+    "text": "real",
+    "translatedText": "bem (muito)",
+    "explanation": null
+   },
+   {
+    "text": "sweet",
+    "translatedText": "doce",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and I knew",
+ "newLine": false,
+ "translation": {
+  "text": "e eu sabia",
+  "tips": [
+   {
+    "text": "knew",
+    "translatedText": "sabia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I was going to get",
+ "newLine": false,
+ "translation": {
+  "text": "que eu ia receber",
+  "tips": [
+   {
+    "text": "was going to",
+    "translatedText": "ia (acontecer)",
+    "explanation": null
+   },
+   {
+    "text": "get",
+    "translatedText": "levar / receber",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "after-school detention",
+ "newLine": false,
+ "translation": {
+  "text": "detenção após a aula",
+  "tips": [
+   {
+    "text": "after-school",
+    "translatedText": "depois da aula",
+    "explanation": null
+   },
+   {
+    "text": "detention",
+    "translatedText": "detenção / castigo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "for a month",
+ "newLine": false,
+ "translation": {
+  "text": "por um mês",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "One time",
+ "newLine": true,
+ "translation": {
+  "text": "Uma vez",
+  "tips": [
+   {
+    "text": "One time",
+    "translatedText": "Uma vez",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "after she’d made me",
+ "newLine": false,
+ "translation": {
+  "text": "depois que ela me obrigou a",
+  "tips": [
+   {
+    "text": "she’d made me",
+    "translatedText": "ela tinha me feito/obrigado a",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "erase answers",
+ "newLine": false,
+ "translation": {
+  "text": "apagar respostas",
+  "tips": [
+   {
+    "text": "erase",
+    "translatedText": "apagar",
+    "explanation": null
+   },
+   {
+    "text": "answers",
+    "translatedText": "respostas",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "out of old math workbooks",
+ "newLine": false,
+ "translation": {
+  "text": "de velhos cadernos de matemática",
+  "tips": [
+   {
+    "text": "out of",
+    "translatedText": "de dentro de",
+    "explanation": null
+   },
+   {
+    "text": "workbooks",
+    "translatedText": "cadernos de exercícios",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "until midnight",
+ "newLine": false,
+ "translation": {
+  "text": "até a meia-noite",
+  "tips": [
+   {
+    "text": "midnight",
+    "translatedText": "meia-noite",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I told Grover",
+ "newLine": false,
+ "translation": {
+  "text": "eu disse ao Grover",
+  "tips": [
+   {
+    "text": "told",
+    "translatedText": "disse / contei",
+    "explanation": null
+   },
+   {
+    "text": "Grover",
+    "translatedText": "Grover",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I didn’t think",
+ "newLine": false,
+ "translation": {
+  "text": "que eu não achava",
+  "tips": [
+   {
+    "text": "didn’t think",
+    "translatedText": "não achava / não pensava",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mrs. Dodds was human",
+ "newLine": false,
+ "translation": {
+  "text": "que a Sra. Dodds fosse humana",
+  "tips": [
+   {
+    "text": "human",
+    "translatedText": "humana",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "He looked at me",
+ "newLine": false,
+ "translation": {
+  "text": "Ele olhou para mim",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "real serious",
+ "newLine": false,
+ "translation": {
+  "text": "bem sério",
+  "tips": [
+   {
+    "text": "real serious",
+    "translatedText": "bem sério",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and said",
+ "newLine": false,
+ "translation": {
+  "text": "e disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "You’re absolutely right",
+ "newLine": false,
+ "translation": {
+  "text": "Você tem toda razão",
+  "tips": [
+   {
+    "text": "You’re absolutely right",
+    "translatedText": "Você está absolutamente certo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": true,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": [
+   {
+    "text": "Mr. Brunner",
+    "translatedText": "Sr. Brunner",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "kept talking about",
+ "newLine": false,
+ "translation": {
+  "text": "continuava falando sobre",
+  "tips": [
+   {
+    "text": "kept talking",
+    "translatedText": "continuava falando",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Greek funeral art",
+ "newLine": false,
+ "translation": {
+  "text": "arte funerária grega",
+  "tips": [
+   {
+    "text": "Greek",
+    "translatedText": "grega",
+    "explanation": null
+   },
+   {
+    "text": "funeral art",
+    "translatedText": "arte funerária",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Finally",
+ "newLine": true,
+ "translation": {
+  "text": "Finalmente",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Nancy Bobofit",
+ "newLine": false,
+ "translation": {
+  "text": "a Nancy Bobofit",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "snickered something",
+ "newLine": false,
+ "translation": {
+  "text": "riu zombeteira de algo",
+  "tips": [
+   {
+    "text": "snickered",
+    "translatedText": "deu uma risadinha / riu por baixo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "about the naked guy",
+ "newLine": false,
+ "translation": {
+  "text": "sobre o cara pelado",
+  "tips": [
+   {
+    "text": "naked",
+    "translatedText": "pelado / nu",
+    "explanation": null
+   },
+   {
+    "text": "guy",
+    "translatedText": "cara / sujeito",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "on the stele",
+ "newLine": false,
+ "translation": {
+  "text": "na estela",
+  "tips": [
+   {
+    "text": "stele",
+    "translatedText": "estela",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and I turned around",
+ "newLine": false,
+ "translation": {
+  "text": "e eu me virei",
+  "tips": [
+   {
+    "text": "turned around",
+    "translatedText": "me virei / dei a volta",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and said",
+ "newLine": false,
+ "translation": {
+  "text": "e disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Will you shut up",
+ "newLine": false,
+ "translation": {
+  "text": "Quer calar a boca",
+  "tips": [
+   {
+    "text": "shut up",
+    "translatedText": "calar a boca",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "It came out",
+ "newLine": true,
+ "translation": {
+  "text": "Saiu",
+  "tips": [
+   {
+    "text": "came out",
+    "translatedText": "saiu",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "louder than",
+ "newLine": false,
+ "translation": {
+  "text": "mais alto do que",
+  "tips": [
+   {
+    "text": "louder",
+    "translatedText": "mais alto (volume)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I meant it to",
+ "newLine": false,
+ "translation": {
+  "text": "eu pretendia",
+  "tips": [
+   {
+    "text": "meant it to",
+    "translatedText": "pretendia que fosse",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "The whole group",
+ "newLine": true,
+ "translation": {
+  "text": "O grupo inteiro",
+  "tips": [
+   {
+    "text": "whole",
+    "translatedText": "inteiro / todo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "laughed",
+ "newLine": false,
+ "translation": {
+  "text": "riu",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "stopped his story",
+ "newLine": false,
+ "translation": {
+  "text": "interrompeu sua história",
+  "tips": [
+   {
+    "text": "stopped",
+    "translatedText": "parou / interrompeu",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Mr. Jackson",
+ "newLine": false,
+ "translation": {
+  "text": "Sr. Jackson",
+  "tips": [
+   {
+    "text": "Mr. Jackson",
+    "translatedText": "Sr. Jackson",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "he said",
+ "newLine": false,
+ "translation": {
+  "text": "ele disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "did you have a comment",
+ "newLine": false,
+ "translation": {
+  "text": "você tinha um comentário a fazer",
+  "tips": [
+   {
+    "text": "comment",
+    "translatedText": "comentário",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "My face",
+ "newLine": true,
+ "translation": {
+  "text": "Meu rosto",
+  "tips": [
+   {
+    "text": "face",
+    "translatedText": "rosto / cara",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "was totally red",
+ "newLine": false,
+ "translation": {
+  "text": "estava totalmente vermelho",
+  "tips": [
+   {
+    "text": "totally",
+    "translatedText": "totalmente",
+    "explanation": null
+   },
+   {
+    "text": "red",
+    "translatedText": "vermelho",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I said",
+ "newLine": false,
+ "translation": {
+  "text": "Eu disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "No, sir",
+ "newLine": false,
+ "translation": {
+  "text": "Não, senhor",
+  "tips": [
+   {
+    "text": "sir",
+    "translatedText": "senhor",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": true,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "pointed to",
+ "newLine": false,
+ "translation": {
+  "text": "apontou para",
+  "tips": [
+   {
+    "text": "pointed to",
+    "translatedText": "apontou para",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "one of the pictures",
+ "newLine": false,
+ "translation": {
+  "text": "uma das imagens",
+  "tips": [
+   {
+    "text": "pictures",
+    "translatedText": "imagens / figuras",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "on the stele",
+ "newLine": false,
+ "translation": {
+  "text": "na estela",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Perhaps you’ll tell us",
+ "newLine": false,
+ "translation": {
+  "text": "Talvez você nos diga",
+  "tips": [
+   {
+    "text": "Perhaps",
+    "translatedText": "Talvez",
+    "explanation": null
+   },
+   {
+    "text": "you’ll tell us",
+    "translatedText": "você vai nos contar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "what this picture represents",
+ "newLine": false,
+ "translation": {
+  "text": "o que esta imagem representa",
+  "tips": [
+   {
+    "text": "represents",
+    "translatedText": "representa",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I looked at the carving",
+ "newLine": true,
+ "translation": {
+  "text": "Eu olhei para o entalhe",
+  "tips": [
+   {
+    "text": "carving",
+    "translatedText": "entalhe / escultura",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and felt a flush of relief",
+ "newLine": false,
+ "translation": {
+  "text": "e senti uma onda de alívio",
+  "tips": [
+   {
+    "text": "flush",
+    "translatedText": "onda / rubor",
+    "explanation": null
+   },
+   {
+    "text": "relief",
+    "translatedText": "alívio",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "because I actually recognized it",
+ "newLine": false,
+ "translation": {
+  "text": "porque eu de fato a reconheci",
+  "tips": [
+   {
+    "text": "actually",
+    "translatedText": "de fato / na verdade",
+    "explanation": "Falso amigo: \"actually\" significa \"de fato/na verdade\", e NÃO \"atualmente\". Atualmente em inglês é \"currently\"."
+   },
+   {
+    "text": "recognized",
+    "translatedText": "reconheci",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "That’s Kronos",
+ "newLine": false,
+ "translation": {
+  "text": "Aquele é Cronos",
+  "tips": [
+   {
+    "text": "Kronos",
+    "translatedText": "Cronos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "eating his kids",
+ "newLine": false,
+ "translation": {
+  "text": "devorando seus filhos",
+  "tips": [
+   {
+    "text": "eating",
+    "translatedText": "comendo / devorando",
+    "explanation": null
+   },
+   {
+    "text": "kids",
+    "translatedText": "filhos / crianças",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "right",
+ "newLine": false,
+ "translation": {
+  "text": "né",
+  "tips": [
+   {
+    "text": "right",
+    "translatedText": "né / certo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Yes",
+ "newLine": false,
+ "translation": {
+  "text": "Sim",
+  "tips": []
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner said",
+ "newLine": false,
+ "translation": {
+  "text": "disse o Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "obviously not satisfied",
+ "newLine": false,
+ "translation": {
+  "text": "claramente não satisfeito",
+  "tips": [
+   {
+    "text": "obviously",
+    "translatedText": "obviamente / claramente",
+    "explanation": null
+   },
+   {
+    "text": "not satisfied",
+    "translatedText": "não satisfeito",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "And he did this because",
+ "newLine": false,
+ "translation": {
+  "text": "E ele fez isso porque",
+  "tips": [
+   {
+    "text": "did this",
+    "translatedText": "fez isso",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " …",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Well",
+ "newLine": false,
+ "translation": {
+  "text": "Bem",
+  "tips": [
+   {
+    "text": "Well",
+    "translatedText": "Bem / Então",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "…",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I racked my brain",
+ "newLine": false,
+ "translation": {
+  "text": "Eu forcei a memória",
+  "tips": [
+   {
+    "text": "racked my brain",
+    "translatedText": "quebrei a cabeça / forcei a memória",
+    "explanation": "\"To rack one's brain\" é expressão idiomática: esforçar-se muito para lembrar de algo, equivalente ao nosso \"quebrar a cabeça\"."
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to remember",
+ "newLine": false,
+ "translation": {
+  "text": "para lembrar",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Kronos was the king god",
+ "newLine": false,
+ "translation": {
+  "text": "Cronos era o deus rei",
+  "tips": [
+   {
+    "text": "king god",
+    "translatedText": "deus rei",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and",
+ "newLine": false,
+ "translation": {
+  "text": "e",
+  "tips": []
+ }
+},
+{
+ "text": "-",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "God",
+ "newLine": false,
+ "translation": {
+  "text": "Deus",
+  "tips": []
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner asked",
+ "newLine": false,
+ "translation": {
+  "text": "o Sr. Brunner perguntou",
+  "tips": [
+   {
+    "text": "asked",
+    "translatedText": "perguntou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Titan",
+ "newLine": false,
+ "translation": {
+  "text": "Titã",
+  "tips": [
+   {
+    "text": "Titan",
+    "translatedText": "Titã",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I corrected myself",
+ "newLine": false,
+ "translation": {
+  "text": "eu me corrigi",
+  "tips": [
+   {
+    "text": "corrected myself",
+    "translatedText": "me corrigi",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "And … he didn’t trust",
+ "newLine": false,
+ "translation": {
+  "text": "E… ele não confiava em",
+  "tips": [
+   {
+    "text": "didn’t trust",
+    "translatedText": "não confiava (em)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "his kids",
+ "newLine": false,
+ "translation": {
+  "text": "seus filhos",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "who were the gods",
+ "newLine": false,
+ "translation": {
+  "text": "que eram os deuses",
+  "tips": [
+   {
+    "text": "gods",
+    "translatedText": "deuses",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "So, um",
+ "newLine": false,
+ "translation": {
+  "text": "Então, é",
+  "tips": [
+   {
+    "text": "um",
+    "translatedText": "é / hum",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Kronos ate them",
+ "newLine": false,
+ "translation": {
+  "text": "Cronos os devorou",
+  "tips": [
+   {
+    "text": "ate",
+    "translatedText": "comeu / devorou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "right",
+ "newLine": false,
+ "translation": {
+  "text": "né",
+  "tips": []
+ }
+},
+{
+ "text": "? ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "But his wife",
+ "newLine": false,
+ "translation": {
+  "text": "Mas a esposa dele",
+  "tips": [
+   {
+    "text": "wife",
+    "translatedText": "esposa",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "hid baby Zeus",
+ "newLine": false,
+ "translation": {
+  "text": "escondeu o bebê Zeus",
+  "tips": [
+   {
+    "text": "hid",
+    "translatedText": "escondeu",
+    "explanation": null
+   },
+   {
+    "text": "Zeus",
+    "translatedText": "Zeus",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and gave Kronos",
+ "newLine": false,
+ "translation": {
+  "text": "e deu a Cronos",
+  "tips": [
+   {
+    "text": "gave",
+    "translatedText": "deu",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "a rock to eat instead",
+ "newLine": false,
+ "translation": {
+  "text": "uma pedra para comer no lugar",
+  "tips": [
+   {
+    "text": "rock",
+    "translatedText": "pedra / rocha",
+    "explanation": null
+   },
+   {
+    "text": "instead",
+    "translatedText": "em vez disso",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "And later",
+ "newLine": false,
+ "translation": {
+  "text": "E depois",
+  "tips": [
+   {
+    "text": "later",
+    "translatedText": "depois / mais tarde",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "when Zeus grew up",
+ "newLine": false,
+ "translation": {
+  "text": "quando Zeus cresceu",
+  "tips": [
+   {
+    "text": "grew up",
+    "translatedText": "cresceu / ficou adulto",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "he tricked his dad",
+ "newLine": false,
+ "translation": {
+  "text": "ele enganou seu pai",
+  "tips": [
+   {
+    "text": "tricked",
+    "translatedText": "enganou / pregou uma peça",
+    "explanation": null
+   },
+   {
+    "text": "dad",
+    "translatedText": "pai",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Kronos",
+ "newLine": false,
+ "translation": {
+  "text": "Cronos",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "into barfing up",
+ "newLine": false,
+ "translation": {
+  "text": "a vomitar",
+  "tips": [
+   {
+    "text": "barfing up",
+    "translatedText": "vomitar / botar para fora",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "his brothers and sisters",
+ "newLine": false,
+ "translation": {
+  "text": "seus irmãos e irmãs",
+  "tips": [
+   {
+    "text": "brothers and sisters",
+    "translatedText": "irmãos e irmãs",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "-",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Eeew",
+ "newLine": false,
+ "translation": {
+  "text": "Eca",
+  "tips": [
+   {
+    "text": "Eeew",
+    "translatedText": "Eca / Argh",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "!",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "said one of the girls",
+ "newLine": false,
+ "translation": {
+  "text": "disse uma das garotas",
+  "tips": [
+   {
+    "text": "girls",
+    "translatedText": "garotas",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "behind me",
+ "newLine": false,
+ "translation": {
+  "text": "atrás de mim",
+  "tips": [
+   {
+    "text": "behind",
+    "translatedText": "atrás",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "-and so there was",
+ "newLine": false,
+ "translation": {
+  "text": "-e então houve",
+  "tips": [
+   {
+    "text": "there was",
+    "translatedText": "houve / havia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "this big fight",
+ "newLine": false,
+ "translation": {
+  "text": "essa grande briga",
+  "tips": [
+   {
+    "text": "big fight",
+    "translatedText": "grande briga / batalha",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "between the gods and the Titans",
+ "newLine": false,
+ "translation": {
+  "text": "entre os deuses e os Titãs",
+  "tips": [
+   {
+    "text": "between",
+    "translatedText": "entre",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I continued",
+ "newLine": false,
+ "translation": {
+  "text": "eu continuei",
+  "tips": [
+   {
+    "text": "continued",
+    "translatedText": "continuei",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and the gods won",
+ "newLine": false,
+ "translation": {
+  "text": "e os deuses venceram",
+  "tips": [
+   {
+    "text": "won",
+    "translatedText": "venceram / ganharam",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Some snickers",
+ "newLine": true,
+ "translation": {
+  "text": "Algumas risadinhas",
+  "tips": [
+   {
+    "text": "snickers",
+    "translatedText": "risadinhas zombeteiras",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "from the group",
+ "newLine": false,
+ "translation": {
+  "text": "vindas do grupo",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Behind me",
+ "newLine": true,
+ "translation": {
+  "text": "Atrás de mim",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Nancy Bobofit",
+ "newLine": false,
+ "translation": {
+  "text": "a Nancy Bobofit",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "mumbled to a friend",
+ "newLine": false,
+ "translation": {
+  "text": "murmurou para uma amiga",
+  "tips": [
+   {
+    "text": "mumbled",
+    "translatedText": "murmurou / resmungou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Like we’re going to use this",
+ "newLine": false,
+ "translation": {
+  "text": "Como se a gente fosse usar isso",
+  "tips": [
+   {
+    "text": "Like",
+    "translatedText": "Como se",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "in real life",
+ "newLine": false,
+ "translation": {
+  "text": "na vida real",
+  "tips": [
+   {
+    "text": "real life",
+    "translatedText": "vida real",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Like it’s going to say",
+ "newLine": false,
+ "translation": {
+  "text": "Como se fosse aparecer escrito",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "on our job applications",
+ "newLine": false,
+ "translation": {
+  "text": "nos nossos formulários de emprego",
+  "tips": [
+   {
+    "text": "job applications",
+    "translatedText": "candidaturas / formulários de emprego",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "‘",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Please explain",
+ "newLine": false,
+ "translation": {
+  "text": "Por favor explique",
+  "tips": [
+   {
+    "text": "explain",
+    "translatedText": "explique",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "why Kronos ate his kids",
+ "newLine": false,
+ "translation": {
+  "text": "por que Cronos devorou seus filhos",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "’",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "And why",
+ "newLine": false,
+ "translation": {
+  "text": "E por que",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Jackson",
+ "newLine": false,
+ "translation": {
+  "text": "Sr. Jackson",
+  "tips": []
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Brunner said",
+ "newLine": false,
+ "translation": {
+  "text": "disse Brunner",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to paraphrase",
+ "newLine": false,
+ "translation": {
+  "text": "parafraseando",
+  "tips": [
+   {
+    "text": "paraphrase",
+    "translatedText": "parafrasear",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Miss Bobofit’s excellent question",
+ "newLine": false,
+ "translation": {
+  "text": "a excelente pergunta da senhorita Bobofit",
+  "tips": [
+   {
+    "text": "Miss",
+    "translatedText": "senhorita",
+    "explanation": null
+   },
+   {
+    "text": "excellent question",
+    "translatedText": "excelente pergunta",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "does this matter",
+ "newLine": false,
+ "translation": {
+  "text": "isso importa",
+  "tips": [
+   {
+    "text": "matter",
+    "translatedText": "importar / ter relevância",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "in real life",
+ "newLine": false,
+ "translation": {
+  "text": "na vida real",
+  "tips": []
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Busted",
+ "newLine": false,
+ "translation": {
+  "text": "Ferrou",
+  "tips": [
+   {
+    "text": "Busted",
+    "translatedText": "Pego / Ferrou",
+    "explanation": "Gíria americana: \"busted\" = ser pego/flagrado fazendo algo errado, ou estar encrencado. Aqui Grover provoca Percy."
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Grover muttered",
+ "newLine": false,
+ "translation": {
+  "text": "murmurou Grover",
+  "tips": [
+   {
+    "text": "muttered",
+    "translatedText": "murmurou / resmungou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Shut up",
+ "newLine": false,
+ "translation": {
+  "text": "Cala a boca",
+  "tips": []
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Nancy hissed",
+ "newLine": false,
+ "translation": {
+  "text": "sibilou Nancy",
+  "tips": [
+   {
+    "text": "hissed",
+    "translatedText": "sibilou / sussurrou com raiva",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "her face",
+ "newLine": false,
+ "translation": {
+  "text": "o rosto dela",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "even brighter red",
+ "newLine": false,
+ "translation": {
+  "text": "ainda mais vermelho vivo",
+  "tips": [
+   {
+    "text": "even brighter",
+    "translatedText": "ainda mais vivo/intenso",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "than her hair",
+ "newLine": false,
+ "translation": {
+  "text": "do que o cabelo dela",
+  "tips": [
+   {
+    "text": "hair",
+    "translatedText": "cabelo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "At least",
+ "newLine": true,
+ "translation": {
+  "text": "Pelo menos",
+  "tips": [
+   {
+    "text": "At least",
+    "translatedText": "Pelo menos / Ao menos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Nancy got packed",
+ "newLine": false,
+ "translation": {
+  "text": "a Nancy também levou bronca",
+  "tips": [
+   {
+    "text": "got packed",
+    "translatedText": "foi flagrada / levou bronca",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "too",
+ "newLine": false,
+ "translation": {
+  "text": "também",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "was the only one",
+ "newLine": false,
+ "translation": {
+  "text": "era o único",
+  "tips": [
+   {
+    "text": "the only one",
+    "translatedText": "o único",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "who ever caught her",
+ "newLine": false,
+ "translation": {
+  "text": "que algum dia a pegou",
+  "tips": [
+   {
+    "text": "caught",
+    "translatedText": "pegou / flagrou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "saying anything wrong",
+ "newLine": false,
+ "translation": {
+  "text": "dizendo algo errado",
+  "tips": [
+   {
+    "text": "wrong",
+    "translatedText": "errado",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "He had radar ears",
+ "newLine": false,
+ "translation": {
+  "text": "Ele tinha ouvidos de radar",
+  "tips": [
+   {
+    "text": "radar ears",
+    "translatedText": "ouvidos de radar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I thought about his question",
+ "newLine": true,
+ "translation": {
+  "text": "Eu pensei na pergunta dele",
+  "tips": [
+   {
+    "text": "thought about",
+    "translatedText": "pensei sobre / refleti",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and shrugged",
+ "newLine": false,
+ "translation": {
+  "text": "e dei de ombros",
+  "tips": [
+   {
+    "text": "shrugged",
+    "translatedText": "dei de ombros",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I don’t know",
+ "newLine": false,
+ "translation": {
+  "text": "Eu não sei",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "sir",
+ "newLine": false,
+ "translation": {
+  "text": "senhor",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "I see",
+ "newLine": false,
+ "translation": {
+  "text": "Entendo",
+  "tips": [
+   {
+    "text": "I see",
+    "translatedText": "Entendo / Sei",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "looked disappointed",
+ "newLine": false,
+ "translation": {
+  "text": "pareceu decepcionado",
+  "tips": [
+   {
+    "text": "disappointed",
+    "translatedText": "decepcionado / desapontado",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Well, half credit",
+ "newLine": false,
+ "translation": {
+  "text": "Bem, meio crédito",
+  "tips": [
+   {
+    "text": "half credit",
+    "translatedText": "meio ponto / crédito parcial",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Jackson",
+ "newLine": false,
+ "translation": {
+  "text": "Sr. Jackson",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Zeus did indeed feed",
+ "newLine": false,
+ "translation": {
+  "text": "Zeus de fato deu de comer a",
+  "tips": [
+   {
+    "text": "did indeed",
+    "translatedText": "de fato / realmente",
+    "explanation": null
+   },
+   {
+    "text": "feed",
+    "translatedText": "alimentar / dar de comer",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Kronos a mixture",
+ "newLine": false,
+ "translation": {
+  "text": "a Cronos uma mistura",
+  "tips": [
+   {
+    "text": "mixture",
+    "translatedText": "mistura",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "of mustard and wine",
+ "newLine": false,
+ "translation": {
+  "text": "de mostarda e vinho",
+  "tips": [
+   {
+    "text": "mustard",
+    "translatedText": "mostarda",
+    "explanation": null
+   },
+   {
+    "text": "wine",
+    "translatedText": "vinho",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "which made him disgorge",
+ "newLine": false,
+ "translation": {
+  "text": "que o fez expelir",
+  "tips": [
+   {
+    "text": "disgorge",
+    "translatedText": "expelir / regurgitar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "his other five children",
+ "newLine": false,
+ "translation": {
+  "text": "seus outros cinco filhos",
+  "tips": [
+   {
+    "text": "five children",
+    "translatedText": "cinco filhos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "who, of course",
+ "newLine": false,
+ "translation": {
+  "text": "que, é claro",
+  "tips": [
+   {
+    "text": "of course",
+    "translatedText": "é claro / com certeza",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "being immortal gods",
+ "newLine": false,
+ "translation": {
+  "text": "sendo deuses imortais",
+  "tips": [
+   {
+    "text": "immortal",
+    "translatedText": "imortais",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "had been living",
+ "newLine": false,
+ "translation": {
+  "text": "estiveram vivendo",
+  "tips": [
+   {
+    "text": "had been living",
+    "translatedText": "tinham estado vivendo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and growing up",
+ "newLine": false,
+ "translation": {
+  "text": "e crescendo",
+  "tips": [
+   {
+    "text": "growing up",
+    "translatedText": "crescendo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "completely undigested",
+ "newLine": false,
+ "translation": {
+  "text": "completamente sem serem digeridos",
+  "tips": [
+   {
+    "text": "undigested",
+    "translatedText": "não digeridos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "in the Titan’s stomach",
+ "newLine": false,
+ "translation": {
+  "text": "no estômago do Titã",
+  "tips": [
+   {
+    "text": "stomach",
+    "translatedText": "estômago / barriga",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "The gods defeated",
+ "newLine": false,
+ "translation": {
+  "text": "Os deuses derrotaram",
+  "tips": [
+   {
+    "text": "defeated",
+    "translatedText": "derrotaram / venceram",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "their father",
+ "newLine": false,
+ "translation": {
+  "text": "o pai deles",
+  "tips": [
+   {
+    "text": "father",
+    "translatedText": "pai",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "sliced him to pieces",
+ "newLine": false,
+ "translation": {
+  "text": "o cortaram em pedaços",
+  "tips": [
+   {
+    "text": "sliced",
+    "translatedText": "fatiaram / cortaram",
+    "explanation": null
+   },
+   {
+    "text": "to pieces",
+    "translatedText": "em pedaços",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "with his own scythe",
+ "newLine": false,
+ "translation": {
+  "text": "com a própria foice dele",
+  "tips": [
+   {
+    "text": "scythe",
+    "translatedText": "foice",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and scattered his remains",
+ "newLine": false,
+ "translation": {
+  "text": "e espalharam seus restos",
+  "tips": [
+   {
+    "text": "scattered",
+    "translatedText": "espalharam",
+    "explanation": null
+   },
+   {
+    "text": "remains",
+    "translatedText": "restos (mortais)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "in Tartarus",
+ "newLine": false,
+ "translation": {
+  "text": "no Tártaro",
+  "tips": [
+   {
+    "text": "Tartarus",
+    "translatedText": "Tártaro",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "the darkest part",
+ "newLine": false,
+ "translation": {
+  "text": "a parte mais escura",
+  "tips": [
+   {
+    "text": "darkest",
+    "translatedText": "mais escura",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "of the Underworld",
+ "newLine": false,
+ "translation": {
+  "text": "do Submundo",
+  "tips": [
+   {
+    "text": "Underworld",
+    "translatedText": "Submundo / Mundo Inferior",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "On that happy note",
+ "newLine": false,
+ "translation": {
+  "text": "Com essa nota alegre",
+  "tips": [
+   {
+    "text": "On that happy note",
+    "translatedText": "Com essa nota alegre",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "it’s time for lunch",
+ "newLine": false,
+ "translation": {
+  "text": "está na hora do almoço",
+  "tips": [
+   {
+    "text": "time for lunch",
+    "translatedText": "hora do almoço",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mrs. Dodds",
+ "newLine": false,
+ "translation": {
+  "text": "Sra. Dodds",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "would you lead us",
+ "newLine": false,
+ "translation": {
+  "text": "você nos conduziria",
+  "tips": [
+   {
+    "text": "lead us",
+    "translatedText": "nos conduzir / nos guiar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "back outside",
+ "newLine": false,
+ "translation": {
+  "text": "de volta para fora",
+  "tips": [
+   {
+    "text": "back outside",
+    "translatedText": "de volta para fora",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "The class drifted off",
+ "newLine": true,
+ "translation": {
+  "text": "A turma se dispersou",
+  "tips": [
+   {
+    "text": "class",
+    "translatedText": "turma / classe",
+    "explanation": null
+   },
+   {
+    "text": "drifted off",
+    "translatedText": "se dispersou / foi saindo aos poucos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "the girls holding their stomachs",
+ "newLine": false,
+ "translation": {
+  "text": "as garotas segurando o estômago",
+  "tips": [
+   {
+    "text": "holding",
+    "translatedText": "segurando",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "the guys pushing each other around",
+ "newLine": false,
+ "translation": {
+  "text": "os garotos se empurrando",
+  "tips": [
+   {
+    "text": "guys",
+    "translatedText": "garotos / rapazes",
+    "explanation": null
+   },
+   {
+    "text": "pushing each other around",
+    "translatedText": "empurrando uns aos outros",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and acting like doofuses",
+ "newLine": false,
+ "translation": {
+  "text": "e agindo como bobões",
+  "tips": [
+   {
+    "text": "acting like",
+    "translatedText": "agindo como",
+    "explanation": null
+   },
+   {
+    "text": "doofuses",
+    "translatedText": "bobões / pateta",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Grover and I",
+ "newLine": true,
+ "translation": {
+  "text": "Grover e eu",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "were about to follow",
+ "newLine": false,
+ "translation": {
+  "text": "estávamos prestes a seguir",
+  "tips": [
+   {
+    "text": "were about to",
+    "translatedText": "estávamos prestes a",
+    "explanation": null
+   },
+   {
+    "text": "follow",
+    "translatedText": "seguir / acompanhar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "when Mr. Brunner said",
+ "newLine": false,
+ "translation": {
+  "text": "quando o Sr. Brunner disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Jackson",
+ "newLine": false,
+ "translation": {
+  "text": "Sr. Jackson",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I knew that was coming",
+ "newLine": true,
+ "translation": {
+  "text": "Eu sabia que aquilo vinha",
+  "tips": [
+   {
+    "text": "that was coming",
+    "translatedText": "que aquilo estava por vir / era esperado",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I told Grover",
+ "newLine": true,
+ "translation": {
+  "text": "Eu disse ao Grover",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to keep going",
+ "newLine": false,
+ "translation": {
+  "text": "para seguir em frente",
+  "tips": [
+   {
+    "text": "keep going",
+    "translatedText": "continuar / seguir em frente",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Then I turned",
+ "newLine": false,
+ "translation": {
+  "text": "Então eu me virei",
+  "tips": [
+   {
+    "text": "turned",
+    "translatedText": "virei",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "toward Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "em direção ao Sr. Brunner",
+  "tips": [
+   {
+    "text": "toward",
+    "translatedText": "em direção a",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Sir",
+ "newLine": false,
+ "translation": {
+  "text": "Senhor",
+  "tips": []
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner",
+ "newLine": true,
+ "translation": {
+  "text": "O Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "had this look",
+ "newLine": false,
+ "translation": {
+  "text": "tinha um olhar",
+  "tips": [
+   {
+    "text": "look",
+    "translatedText": "olhar / expressão",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "that wouldn’t let you go",
+ "newLine": false,
+ "translation": {
+  "text": "que não te soltava",
+  "tips": [
+   {
+    "text": "wouldn’t let you go",
+    "translatedText": "não te deixava ir / não te soltava",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "- ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "intense brown eyes",
+ "newLine": false,
+ "translation": {
+  "text": "olhos castanhos intensos",
+  "tips": [
+   {
+    "text": "intense",
+    "translatedText": "intensos",
+    "explanation": null
+   },
+   {
+    "text": "brown eyes",
+    "translatedText": "olhos castanhos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "that could’ve been",
+ "newLine": false,
+ "translation": {
+  "text": "que poderiam ter",
+  "tips": [
+   {
+    "text": "could’ve been",
+    "translatedText": "poderiam ter sido / podiam ter",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "a thousand years old",
+ "newLine": false,
+ "translation": {
+  "text": "mil anos de idade",
+  "tips": [
+   {
+    "text": "a thousand",
+    "translatedText": "mil",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and had seen everything",
+ "newLine": false,
+ "translation": {
+  "text": "e ter visto de tudo",
+  "tips": [
+   {
+    "text": "seen everything",
+    "translatedText": "visto de tudo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "You must learn",
+ "newLine": false,
+ "translation": {
+  "text": "Você precisa aprender",
+  "tips": [
+   {
+    "text": "must learn",
+    "translatedText": "deve / precisa aprender",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "the answer to my question",
+ "newLine": false,
+ "translation": {
+  "text": "a resposta à minha pergunta",
+  "tips": [
+   {
+    "text": "answer",
+    "translatedText": "resposta",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Mr. Brunner told me",
+ "newLine": false,
+ "translation": {
+  "text": "o Sr. Brunner me disse",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "About the Titans",
+ "newLine": false,
+ "translation": {
+  "text": "Sobre os Titãs",
+  "tips": [
+   {
+    "text": "About",
+    "translatedText": "Sobre",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "?",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "About real life",
+ "newLine": false,
+ "translation": {
+  "text": "Sobre a vida real",
+  "tips": []
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "And how your studies",
+ "newLine": false,
+ "translation": {
+  "text": "E como seus estudos",
+  "tips": [
+   {
+    "text": "studies",
+    "translatedText": "estudos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "apply to it",
+ "newLine": false,
+ "translation": {
+  "text": "se aplicam a ela",
+  "tips": [
+   {
+    "text": "apply to",
+    "translatedText": "se aplicam a",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "Oh",
+ "newLine": false,
+ "translation": {
+  "text": "Ah",
+  "tips": []
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": true,
+ "translation": null
+},
+{
+ "text": "What you learn from me",
+ "newLine": false,
+ "translation": {
+  "text": "O que você aprende comigo",
+  "tips": [
+   {
+    "text": "learn from me",
+    "translatedText": "aprende comigo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ",",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "he said",
+ "newLine": false,
+ "translation": {
+  "text": "ele disse",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "is vitally important",
+ "newLine": false,
+ "translation": {
+  "text": "é de importância vital",
+  "tips": [
+   {
+    "text": "vitally important",
+    "translatedText": "de importância vital / fundamental",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I expect you",
+ "newLine": false,
+ "translation": {
+  "text": "Eu espero que você",
+  "tips": [
+   {
+    "text": "expect",
+    "translatedText": "espero / aguardo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to treat it as such",
+ "newLine": false,
+ "translation": {
+  "text": "o trate como tal",
+  "tips": [
+   {
+    "text": "treat it as such",
+    "translatedText": "o trate como tal",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I will accept",
+ "newLine": false,
+ "translation": {
+  "text": "Eu aceitarei",
+  "tips": [
+   {
+    "text": "accept",
+    "translatedText": "aceitar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "only the best from you",
+ "newLine": false,
+ "translation": {
+  "text": "apenas o melhor de você",
+  "tips": [
+   {
+    "text": "only the best",
+    "translatedText": "apenas o melhor",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Percy Jackson",
+ "newLine": false,
+ "translation": {
+  "text": "Percy Jackson",
+  "tips": [
+   {
+    "text": "Percy Jackson",
+    "translatedText": "Percy Jackson",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I wanted to get angry",
+ "newLine": true,
+ "translation": {
+  "text": "Eu queria ficar bravo",
+  "tips": [
+   {
+    "text": "get angry",
+    "translatedText": "ficar bravo / com raiva",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "this guy",
+ "newLine": false,
+ "translation": {
+  "text": "esse cara",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "pushed me so hard",
+ "newLine": false,
+ "translation": {
+  "text": "me cobrava tanto",
+  "tips": [
+   {
+    "text": "pushed me so hard",
+    "translatedText": "me pressionava/cobrava tanto",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I mean",
+ "newLine": true,
+ "translation": {
+  "text": "Quer dizer",
+  "tips": [
+   {
+    "text": "I mean",
+    "translatedText": "Quer dizer / Tipo assim",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "sure",
+ "newLine": false,
+ "translation": {
+  "text": "claro",
+  "tips": [
+   {
+    "text": "sure",
+    "translatedText": "claro / com certeza",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "it was kind of cool",
+ "newLine": false,
+ "translation": {
+  "text": "era meio legal",
+  "tips": [
+   {
+    "text": "kind of",
+    "translatedText": "meio / um tanto",
+    "explanation": null
+   },
+   {
+    "text": "cool",
+    "translatedText": "legal / bacana",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "on tournament days",
+ "newLine": false,
+ "translation": {
+  "text": "nos dias de torneio",
+  "tips": [
+   {
+    "text": "tournament",
+    "translatedText": "torneio",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "when he dressed up",
+ "newLine": false,
+ "translation": {
+  "text": "quando ele se vestia",
+  "tips": [
+   {
+    "text": "dressed up",
+    "translatedText": "se vestia / se fantasiava",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "in a suit of Roman armor",
+ "newLine": false,
+ "translation": {
+  "text": "com uma armadura romana",
+  "tips": [
+   {
+    "text": "suit of armor",
+    "translatedText": "armadura (completa)",
+    "explanation": null
+   },
+   {
+    "text": "Roman",
+    "translatedText": "romana",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and shouted",
+ "newLine": false,
+ "translation": {
+  "text": "e gritava",
+  "tips": [
+   {
+    "text": "shouted",
+    "translatedText": "gritava",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ": ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "“",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "What ho",
+ "newLine": false,
+ "translation": {
+  "text": "Avante",
+  "tips": [
+   {
+    "text": "What ho",
+    "translatedText": "Olá! / Avante! (saudação arcaica)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": "!",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "’",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "”",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and challenged us",
+ "newLine": false,
+ "translation": {
+  "text": "e nos desafiava",
+  "tips": [
+   {
+    "text": "challenged",
+    "translatedText": "desafiava",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "sword-point against chalk",
+ "newLine": false,
+ "translation": {
+  "text": "ponta de espada contra giz",
+  "tips": [
+   {
+    "text": "sword-point",
+    "translatedText": "ponta da espada",
+    "explanation": null
+   },
+   {
+    "text": "chalk",
+    "translatedText": "giz",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to run to the board",
+ "newLine": false,
+ "translation": {
+  "text": "para correr até o quadro",
+  "tips": [
+   {
+    "text": "board",
+    "translatedText": "quadro / lousa",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and name every",
+ "newLine": false,
+ "translation": {
+  "text": "e nomear cada",
+  "tips": [
+   {
+    "text": "name",
+    "translatedText": "nomear / citar",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "Greek and Roman person",
+ "newLine": false,
+ "translation": {
+  "text": "pessoa grega e romana",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "who had ever lived",
+ "newLine": false,
+ "translation": {
+  "text": "que já tivesse vivido",
+  "tips": [
+   {
+    "text": "who had ever lived",
+    "translatedText": "que já tivesse vivido",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and their mother",
+ "newLine": false,
+ "translation": {
+  "text": "e a mãe deles",
+  "tips": [
+   {
+    "text": "mother",
+    "translatedText": "mãe",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and what god",
+ "newLine": false,
+ "translation": {
+  "text": "e qual deus",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "they worshipped",
+ "newLine": false,
+ "translation": {
+  "text": "eles cultuavam",
+  "tips": [
+   {
+    "text": "worshipped",
+    "translatedText": "cultuavam / adoravam",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "But Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "Mas o Sr. Brunner",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "expected me to be",
+ "newLine": false,
+ "translation": {
+  "text": "esperava que eu fosse",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "as good as everybody else",
+ "newLine": false,
+ "translation": {
+  "text": "tão bom quanto todo mundo",
+  "tips": [
+   {
+    "text": "as good as",
+    "translatedText": "tão bom quanto",
+    "explanation": null
+   },
+   {
+    "text": "everybody else",
+    "translatedText": "todo mundo / os demais",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "despite the fact that",
+ "newLine": false,
+ "translation": {
+  "text": "apesar do fato de que",
+  "tips": [
+   {
+    "text": "despite",
+    "translatedText": "apesar de",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I have dyslexia",
+ "newLine": false,
+ "translation": {
+  "text": "eu tenho dislexia",
+  "tips": [
+   {
+    "text": "dyslexia",
+    "translatedText": "dislexia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and attention deficit disorder",
+ "newLine": false,
+ "translation": {
+  "text": "e transtorno de déficit de atenção",
+  "tips": [
+   {
+    "text": "attention deficit disorder",
+    "translatedText": "transtorno de déficit de atenção (TDAH)",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and I had never made",
+ "newLine": false,
+ "translation": {
+  "text": "e eu nunca tinha tirado",
+  "tips": [
+   {
+    "text": "made",
+    "translatedText": "tirado (nota) / conseguido",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "above a C- in my life",
+ "newLine": false,
+ "translation": {
+  "text": "acima de um C- na vida",
+  "tips": [
+   {
+    "text": "above",
+    "translatedText": "acima de",
+    "explanation": null
+   },
+   {
+    "text": "a C-",
+    "translatedText": "um C- (nota baixa)",
+    "explanation": "Nas escolas dos EUA as notas são letras: A (ótimo), B, C (médio), D, F (reprovado). Um \"C-\" é uma nota fraca."
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "No",
+ "newLine": false,
+ "translation": {
+  "text": "Não",
+  "tips": []
+ }
+},
+{
+ "text": "-",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "he didn’t expect me",
+ "newLine": false,
+ "translation": {
+  "text": "ele não esperava que eu fosse",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to be as good",
+ "newLine": false,
+ "translation": {
+  "text": "tão bom",
+  "tips": []
+ }
+},
+{
+ "text": "; ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "he expected me to be better",
+ "newLine": false,
+ "translation": {
+  "text": "ele esperava que eu fosse melhor",
+  "tips": [
+   {
+    "text": "better",
+    "translatedText": "melhor",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ". ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "And I just couldn’t learn",
+ "newLine": false,
+ "translation": {
+  "text": "E eu simplesmente não conseguia aprender",
+  "tips": [
+   {
+    "text": "just couldn’t",
+    "translatedText": "simplesmente não conseguia",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "all those names and facts",
+ "newLine": false,
+ "translation": {
+  "text": "todos aqueles nomes e fatos",
+  "tips": [
+   {
+    "text": "facts",
+    "translatedText": "fatos",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "much less spell them correctly",
+ "newLine": false,
+ "translation": {
+  "text": "muito menos soletrá-los corretamente",
+  "tips": [
+   {
+    "text": "much less",
+    "translatedText": "muito menos",
+    "explanation": null
+   },
+   {
+    "text": "spell",
+    "translatedText": "soletrar / escrever certo",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "I mumbled something",
+ "newLine": true,
+ "translation": {
+  "text": "Eu murmurei algo",
+  "tips": [
+   {
+    "text": "mumbled",
+    "translatedText": "murmurei / balbuciei",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "about trying harder",
+ "newLine": false,
+ "translation": {
+  "text": "sobre me esforçar mais",
+  "tips": [
+   {
+    "text": "trying harder",
+    "translatedText": "tentar mais / me esforçar mais",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "while Mr. Brunner",
+ "newLine": false,
+ "translation": {
+  "text": "enquanto o Sr. Brunner",
+  "tips": [
+   {
+    "text": "while",
+    "translatedText": "enquanto",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "took one long sad look",
+ "newLine": false,
+ "translation": {
+  "text": "deu um longo olhar triste",
+  "tips": [
+   {
+    "text": "long sad look",
+    "translatedText": "longo olhar triste",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "at the stele",
+ "newLine": false,
+ "translation": {
+  "text": "para a estela",
+  "tips": []
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "like he’d been",
+ "newLine": false,
+ "translation": {
+  "text": "como se tivesse estado",
+  "tips": [
+   {
+    "text": "like he’d been",
+    "translatedText": "como se ele tivesse estado",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "at this girl’s funeral",
+ "newLine": false,
+ "translation": {
+  "text": "no funeral dessa garota",
+  "tips": [
+   {
+    "text": "funeral",
+    "translatedText": "funeral / enterro",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "He told me",
+ "newLine": true,
+ "translation": {
+  "text": "Ele me disse",
+  "tips": []
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "to go outside",
+ "newLine": false,
+ "translation": {
+  "text": "para sair",
+  "tips": [
+   {
+    "text": "go outside",
+    "translatedText": "sair / ir para fora",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "and eat my lunch",
+ "newLine": false,
+ "translation": {
+  "text": "e comer meu almoço",
+  "tips": [
+   {
+    "text": "lunch",
+    "translatedText": "almoço",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "The class gathered",
+ "newLine": true,
+ "translation": {
+  "text": "A turma se reuniu",
+  "tips": [
+   {
+    "text": "gathered",
+    "translatedText": "se reuniu / se juntou",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "on the front steps",
+ "newLine": false,
+ "translation": {
+  "text": "na escadaria da frente",
+  "tips": [
+   {
+    "text": "front steps",
+    "translatedText": "degraus/escadaria da frente",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "of the museum",
+ "newLine": false,
+ "translation": {
+  "text": "do museu",
+  "tips": [
+   {
+    "text": "museum",
+    "translatedText": "museu",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ", ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "where we could watch",
+ "newLine": false,
+ "translation": {
+  "text": "de onde podíamos observar",
+  "tips": [
+   {
+    "text": "watch",
+    "translatedText": "observar / assistir",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "the foot traffic",
+ "newLine": false,
+ "translation": {
+  "text": "o movimento de pedestres",
+  "tips": [
+   {
+    "text": "foot traffic",
+    "translatedText": "movimento de pedestres / fluxo a pé",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": " ",
+ "newLine": false,
+ "translation": null
+},
+{
+ "text": "along Fifth Avenue",
+ "newLine": false,
+ "translation": {
+  "text": "pela Quinta Avenida",
+  "tips": [
+   {
+    "text": "Fifth Avenue",
+    "translatedText": "Quinta Avenida",
+    "explanation": null
+   }
+  ]
+ }
+},
+{
+ "text": ".",
+ "newLine": false,
+ "translation": null
+}
+]

@@ -1,0 +1,103 @@
+/* Landing deslogada — valores do .not-loggedin-header original. */
+
+.page {
+  min-height: 100vh;
+  background: #fff;
+}
+.header {
+  display: flex;
+  width: 100%;
+  padding: 20px 0;
+  height: 130px;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-image: url('/media/header-background.jpg');
+  background-position: right -35px top 0;
+  border-bottom: #dde9eb solid 1px;
+}
+.logoWrap {
+  display: flex;
+  max-width: 1080px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+.logoLine {
+  display: flex;
+}
+.gradedText,
+.readersText {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  text-transform: uppercase;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gradedText {
+  background-image: linear-gradient(180deg, #d92e37, #bf2830);
+}
+.readersText {
+  background-image: linear-gradient(180deg, #31b7d0, #2999ae);
+}
+.byMv {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: #bcced3;
+  margin-left: 15px;
+  margin-top: 14px;
+}
+
+.hero {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 90px 24px 60px;
+  text-align: center;
+}
+.heroTitle {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 52px;
+  font-weight: 700;
+  color: #124653;
+  margin: 0 0 14px;
+  line-height: 1;
+}
+.heroText {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: #6d969a;
+  margin: 0 0 40px;
+}
+.enterBtn {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #fff;
+  background-image: linear-gradient(90deg, #28a5c1, #38bfd3);
+  box-shadow: 0 10px 20px #28b1ca59;
+  border-radius: 5px;
+  padding: 14px 44px;
+  letter-spacing: 0.01em;
+}
+.enterBtn:hover {
+  background-image: linear-gradient(90deg, #2ebed9, #3fd1e4);
+}
+
+@media (max-width: 600px) {
+  .header {
+    background-image: none;
+    height: 90px;
+  }
+  .gradedText,
+  .readersText {
+    font-size: 36px;
+  }
+  .heroTitle {
+    font-size: 36px;
+  }
+}

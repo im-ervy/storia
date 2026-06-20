@@ -1,0 +1,4239 @@
+[
+ {
+  "text": "二人は",
+  "newLine": true,
+  "translation": {
+   "text": "futari wa — os dois",
+   "tips": [
+    {
+     "text": "二人",
+     "translatedText": "futari = duas pessoas / os dois",
+     "explanation": "二 (futa, dois) + 人 (ri/nin, contador de pessoas). 二人 é a leitura especial para \"duas pessoas\". Aqui são os dois heróis.",
+     "priority": "low"
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (marca o tópico)",
+     "explanation": "A partícula は escreve-se com o caractere de \"ha\" mas lê-se WA. Ela marca o TÓPICO: \"quanto aos dois...\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "赤ちゃんが",
+  "newLine": false,
+  "translation": {
+   "text": "akachan ga — o bebê",
+   "tips": [
+    {
+     "text": "赤ちゃん",
+     "translatedText": "akachan = bebê",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (marca o sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "いる",
+  "newLine": false,
+  "translation": {
+   "text": "iru — que tem",
+   "tips": [
+    {
+     "text": "いる",
+     "translatedText": "iru = haver / ter (vivo)",
+     "explanation": "いる é o \"haver/existir\" para SERES VIVOS (pessoas, bichos); para coisas usa-se ある. Como bebê é vivo, 赤ちゃんがいる = \"tem bebê\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "ドラゴンは",
+  "newLine": false,
+  "translation": {
+   "text": "doragon wa — a dragoa",
+   "tips": [
+    {
+     "text": "ドラゴン",
+     "translatedText": "doragon = dragão",
+     "explanation": "ドラゴン está em katakana porque é estrangeirismo (do inglês \"dragon\"). O japonês tem palavra própria (竜/りゅう), mas usa o katakana para o ser de conto ocidental.",
+     "priority": "low"
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "少し",
+  "newLine": false,
+  "translation": {
+   "text": "sukoshi — um pouco",
+   "tips": [
+    {
+     "text": "少し",
+     "translatedText": "sukoshi = um pouco",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "おこりっぽく",
+  "newLine": false,
+  "translation": {
+   "text": "okorippoku — irritadiça",
+   "tips": [
+    {
+     "text": "おこり",
+     "translatedText": "okori = (de おこる) ficar bravo",
+     "explanation": null
+    },
+    {
+     "text": "っぽく",
+     "translatedText": "ppoku = com tendência a",
+     "explanation": "〜っぽい cola num verbo/substantivo e significa \"com tendência a / que costuma\": おこりっぽい = \"que se irrita fácil, irritadiço\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "なると",
+  "newLine": false,
+  "translation": {
+   "text": "naru to — quando fica",
+   "tips": [
+    {
+     "text": "なる",
+     "translatedText": "naru = ficar / tornar-se",
+     "explanation": null
+    },
+    {
+     "text": "と",
+     "translatedText": "to = quando (sempre que)",
+     "explanation": "〜と aqui é o condicional de consequência natural: \"sempre que/quando X, então Y\". 〜なると = \"quando fica (assim)...\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "知っていました",
+  "newLine": false,
+  "translation": {
+   "text": "shitte imashita — sabiam",
+   "tips": [
+    {
+     "text": "知って",
+     "translatedText": "shitte = sabendo (de 知る)",
+     "explanation": null
+    },
+    {
+     "text": "いました",
+     "translatedText": "imashita = estavam (estado)",
+     "explanation": "\"Saber\" em japonês é o estado 知っている (lit. \"estar tendo sabido\"); no passado, 知っていました = \"sabiam\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "赤ちゃんを",
+  "newLine": false,
+  "translation": {
+   "text": "akachan o — o bebê",
+   "tips": [
+    {
+     "text": "赤ちゃん",
+     "translatedText": "akachan = bebê",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (marca o objeto)",
+     "explanation": "A partícula を marca o OBJETO direto — o que recebe a ação. Escreve-se com o caractere \"wo\" mas lê-se O.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "長い間",
+  "newLine": false,
+  "translation": {
+   "text": "nagai aida — por muito tempo",
+   "tips": [
+    {
+     "text": "長い",
+     "translatedText": "nagai = longo",
+     "explanation": null
+    },
+    {
+     "text": "間",
+     "translatedText": "aida = intervalo / durante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ひとりに",
+  "newLine": false,
+  "translation": {
+   "text": "hitori ni — sozinho",
+   "tips": [
+    {
+     "text": "ひとり",
+     "translatedText": "hitori = sozinho / uma pessoa",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = (estado em que se deixa)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "できない",
+  "newLine": false,
+  "translation": {
+   "text": "dekinai — não pode",
+   "tips": [
+    {
+     "text": "できない",
+     "translatedText": "dekinai = não consegue / não pode",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "から",
+  "newLine": false,
+  "translation": {
+   "text": "kara — porque",
+   "tips": [
+    {
+     "text": "から",
+     "translatedText": "kara = porque",
+     "explanation": "〜から no fim da oração significa \"porque\". A razão vem ANTES e から fecha: \"não pode deixar sozinho-PORQUE\" = \"porque não pode deixar sozinho\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "食べ物を",
+  "newLine": false,
+  "translation": {
+   "text": "tabemono o — comida",
+   "tips": [
+    {
+     "text": "食べ物",
+     "translatedText": "tabemono = comida",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "さがす",
+  "newLine": false,
+  "translation": {
+   "text": "sagasu — de procurar",
+   "tips": [
+    {
+     "text": "さがす",
+     "translatedText": "sagasu = procurar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "時間が",
+  "newLine": false,
+  "translation": {
+   "text": "jikan ga — o tempo",
+   "tips": [
+    {
+     "text": "時間",
+     "translatedText": "jikan = tempo / horas",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "少なく",
+  "newLine": false,
+  "translation": {
+   "text": "sukunaku — pouco",
+   "tips": [
+    {
+     "text": "少なく",
+     "translatedText": "sukunaku = pouco (forma adverbial)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "なります",
+  "newLine": false,
+  "translation": {
+   "text": "narimasu — fica",
+   "tips": [
+    {
+     "text": "なります",
+     "translatedText": "narimasu = fica / torna-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ドラゴンは",
+  "newLine": false,
+  "translation": {
+   "text": "doragon wa — a dragoa",
+   "tips": [
+    {
+     "text": "ドラゴン",
+     "translatedText": "doragon = dragão",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "おばけでは",
+  "newLine": false,
+  "translation": {
+   "text": "obake de wa — fantasma",
+   "tips": [
+    {
+     "text": "おばけ",
+     "translatedText": "obake = fantasma / monstro",
+     "explanation": "おばけ é o assombro/monstro dos contos japoneses (algo que \"se transforma\", de 化ける). Aqui o texto contrasta: a dragoa NÃO é uma おばけ malévola, é uma ドラゴン (criatura de conto).",
+     "priority": "high"
+    },
+    {
+     "text": "では",
+     "translatedText": "de wa = (não...)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ありません",
+  "newLine": false,
+  "translation": {
+   "text": "arimasen — não é",
+   "tips": [
+    {
+     "text": "ありません",
+     "translatedText": "arimasen = não é / não há",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "世界の",
+  "newLine": false,
+  "translation": {
+   "text": "sekai no — do mundo",
+   "tips": [
+    {
+     "text": "世界",
+     "translatedText": "sekai = mundo",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "はじめから",
+  "newLine": false,
+  "translation": {
+   "text": "hajime kara — desde o começo",
+   "tips": [
+    {
+     "text": "はじめ",
+     "translatedText": "hajime = começo / início",
+     "explanation": null
+    },
+    {
+     "text": "から",
+     "translatedText": "kara = desde / a partir de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "いる",
+  "newLine": false,
+  "translation": {
+   "text": "iru — que existe",
+   "tips": [
+    {
+     "text": "いる",
+     "translatedText": "iru = existir (vivo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "やさしくて",
+  "newLine": false,
+  "translation": {
+   "text": "yasashikute — gentil e",
+   "tips": [
+    {
+     "text": "やさしく",
+     "translatedText": "yasashiku = gentil",
+     "explanation": null
+    },
+    {
+     "text": "て",
+     "translatedText": "te = e (liga adjetivos)",
+     "explanation": "Para ligar dois i-adjetivos, o primeiro vira 〜くて: やさしい → やさしくて = \"gentil e (também)...\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "きれいな",
+  "newLine": false,
+  "translation": {
+   "text": "kirei na — bonita",
+   "tips": [
+    {
+     "text": "きれいな",
+     "translatedText": "kirei na = bonito(a)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ものです",
+  "newLine": false,
+  "translation": {
+   "text": "mono desu — é um ser",
+   "tips": [
+    {
+     "text": "もの",
+     "translatedText": "mono = coisa / ser",
+     "explanation": null
+    },
+    {
+     "text": "です",
+     "translatedText": "desu = é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "人を",
+  "newLine": false,
+  "translation": {
+   "text": "hito o — pessoas",
+   "tips": [
+    {
+     "text": "人",
+     "translatedText": "hito = pessoa",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "食べません",
+  "newLine": false,
+  "translation": {
+   "text": "tabemasen — não come",
+   "tips": [
+    {
+     "text": "食べません",
+     "translatedText": "tabemasen = não come",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "魚だけ",
+  "newLine": false,
+  "translation": {
+   "text": "sakana dake — só peixes",
+   "tips": [
+    {
+     "text": "魚",
+     "translatedText": "sakana = peixe",
+     "explanation": null
+    },
+    {
+     "text": "だけ",
+     "translatedText": "dake = só / apenas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "食べます",
+  "newLine": false,
+  "translation": {
+   "text": "tabemasu — come",
+   "tips": [
+    {
+     "text": "食べます",
+     "translatedText": "tabemasu = come",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "だから",
+  "newLine": true,
+  "translation": {
+   "text": "dakara — por isso",
+   "tips": [
+    {
+     "text": "だから",
+     "translatedText": "dakara = por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "右手と",
+  "newLine": false,
+  "translation": {
+   "text": "Migite to — Migite e",
+   "tips": [
+    {
+     "text": "右手",
+     "translatedText": "migite = Mão Direita",
+     "explanation": "Nome falante! 右 (migi) = direita + 手 (te) = mão → \"Mão Direita\". É um dos dois heróis (歩くヒーロー, \"os Heróis que Caminham\"). Não traduzimos no corpo — fica 右手.",
+     "priority": "low"
+    },
+    {
+     "text": "と",
+     "translatedText": "to = e / com",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "左手は",
+  "newLine": false,
+  "translation": {
+   "text": "Hidarite wa — Hidarite",
+   "tips": [
+    {
+     "text": "左手",
+     "translatedText": "hidarite = Mão Esquerda",
+     "explanation": "Nome falante! 左 (hidari) = esquerda + 手 (te) = mão → \"Mão Esquerda\", o outro herói. O par 右手/左手 (Mão Direita / Mão Esquerda) faz dupla — como duas mãos que se completam.",
+     "priority": "low"
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "何を",
+  "newLine": false,
+  "translation": {
+   "text": "nani o — o que",
+   "tips": [
+    {
+     "text": "何",
+     "translatedText": "nani = o quê",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "すれば",
+  "newLine": false,
+  "translation": {
+   "text": "sureba — se fizessem",
+   "tips": [
+    {
+     "text": "すれば",
+     "translatedText": "sureba = se fizer (condicional)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "いいか",
+  "newLine": false,
+  "translation": {
+   "text": "ii ka — o que era bom",
+   "tips": [
+    {
+     "text": "いい",
+     "translatedText": "ii = bom",
+     "explanation": null
+    },
+    {
+     "text": "か",
+     "translatedText": "ka = (pergunta embutida)",
+     "explanation": "〜すればいいか = \"o que seria bom fazer\". O か aqui marca uma pergunta DENTRO da frase (pergunta indireta): \"perceberam O QUE deviam fazer\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "分かりました",
+  "newLine": false,
+  "translation": {
+   "text": "wakarimashita — perceberam",
+   "tips": [
+    {
+     "text": "分かりました",
+     "translatedText": "wakarimashita = entenderam / perceberam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "二人は",
+  "newLine": false,
+  "translation": {
+   "text": "futari wa — os dois",
+   "tips": [
+    {
+     "text": "二人",
+     "translatedText": "futari = os dois",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "また",
+  "newLine": false,
+  "translation": {
+   "text": "mata — de novo",
+   "tips": [
+    {
+     "text": "また",
+     "translatedText": "mata = de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "王さまに",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama ni — com o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": "王 (ō) = rei + さま, sufixo de RESPEITO máximo (mais formal que さん). 王さま é o tratamento de conto de fadas para o rei. Note: o rei mora na しろ (castelo).",
+     "priority": "high"
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = a / com (alvo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "会いに",
+  "newLine": false,
+  "translation": {
+   "text": "ai ni — para encontrar",
+   "tips": [
+    {
+     "text": "会い",
+     "translatedText": "ai = encontrar",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = para (objetivo)",
+     "explanation": "〜に行く depois da raiz do verbo (会い+に+行く) marca a FINALIDADE do ir: \"foram PARA encontrar (o rei)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "行きました",
+  "newLine": false,
+  "translation": {
+   "text": "ikimashita — foram",
+   "tips": [
+    {
+     "text": "行きました",
+     "translatedText": "ikimashita = foram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "王さま",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama — rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "火の目は",
+  "newLine": false,
+  "translation": {
+   "text": "Hi no Me wa — Hi no Me",
+   "tips": [
+    {
+     "text": "火",
+     "translatedText": "hi = fogo",
+     "explanation": "Nome falante! 火 (hi) = fogo + の (de) + 目 (me) = olho → \"Olhos de Fogo\", a dragoa. Não se traduz no corpo, fica 火の目.",
+     "priority": "low"
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    },
+    {
+     "text": "目",
+     "translatedText": "me = olho(s)",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "緑の",
+  "newLine": false,
+  "translation": {
+   "text": "midori no — verde",
+   "tips": [
+    {
+     "text": "緑",
+     "translatedText": "midori = verde",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = (ligação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ドラゴンです",
+  "newLine": false,
+  "translation": {
+   "text": "doragon desu — é uma dragoa",
+   "tips": [
+    {
+     "text": "ドラゴン",
+     "translatedText": "doragon = dragão",
+     "explanation": null
+    },
+    {
+     "text": "です",
+     "translatedText": "desu = é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "お母さんで",
+  "newLine": false,
+  "translation": {
+   "text": "okāsan de — é mãe e",
+   "tips": [
+    {
+     "text": "お母さん",
+     "translatedText": "okāsan = mãe",
+     "explanation": null
+    },
+    {
+     "text": "で",
+     "translatedText": "de = é... e (liga frases)",
+     "explanation": "O で aqui é a forma de ligação de です: \"é mãe E (além disso)...\". Liga duas afirmações: \"é mãe, e cuida do bebê\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "赤ちゃんの",
+  "newLine": false,
+  "translation": {
+   "text": "akachan no — do bebê",
+   "tips": [
+    {
+     "text": "赤ちゃん",
+     "translatedText": "akachan = bebê",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "せわを",
+  "newLine": false,
+  "translation": {
+   "text": "sewa o — cuidado",
+   "tips": [
+    {
+     "text": "せわ",
+     "translatedText": "sewa = cuidado / zelo",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "しています",
+  "newLine": false,
+  "translation": {
+   "text": "shite imasu — está cuidando",
+   "tips": [
+    {
+     "text": "しています",
+     "translatedText": "shite imasu = está fazendo",
+     "explanation": "せわをする = \"cuidar (de alguém)\". Na forma 〜ている (しています) indica ação em curso: \"está cuidando do bebê\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (marca a fala citada)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "右手が",
+  "newLine": false,
+  "translation": {
+   "text": "Migite ga — Migite",
+   "tips": [
+    {
+     "text": "右手",
+     "translatedText": "migite = Mão Direita",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "みんなは",
+  "newLine": false,
+  "translation": {
+   "text": "minna wa — todos",
+   "tips": [
+    {
+     "text": "みんな",
+     "translatedText": "minna = todos",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "魚を",
+  "newLine": false,
+  "translation": {
+   "text": "sakana o — peixes",
+   "tips": [
+    {
+     "text": "魚",
+     "translatedText": "sakana = peixe",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "あげて",
+  "newLine": false,
+  "translation": {
+   "text": "agete — dando",
+   "tips": [
+    {
+     "text": "あげて",
+     "translatedText": "agete = dar (forma -te)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "たすける",
+  "newLine": false,
+  "translation": {
+   "text": "tasukeru — ajudar",
+   "tips": [
+    {
+     "text": "たすける",
+     "translatedText": "tasukeru = ajudar / salvar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ことが",
+  "newLine": false,
+  "translation": {
+   "text": "koto ga — (o ato de)",
+   "tips": [
+    {
+     "text": "こと",
+     "translatedText": "koto = coisa / ato",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "できます",
+  "newLine": false,
+  "translation": {
+   "text": "dekimasu — podem",
+   "tips": [
+    {
+     "text": "できます",
+     "translatedText": "dekimasu = conseguir / poder",
+     "explanation": "〜ことができる = \"conseguir/poder fazer\". Verbo + こと (transforma em substantivo \"o ato de\") + ができる. たすけることができます = \"podem ajudar\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "左手が",
+  "newLine": false,
+  "translation": {
+   "text": "Hidarite ga — Hidarite",
+   "tips": [
+    {
+     "text": "左手",
+     "translatedText": "hidarite = Mão Esquerda",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ドラゴンや",
+  "newLine": false,
+  "translation": {
+   "text": "doragon ya — do dragão ou",
+   "tips": [
+    {
+     "text": "ドラゴン",
+     "translatedText": "doragon = dragão",
+     "explanation": null
+    },
+    {
+     "text": "や",
+     "translatedText": "ya = e / ou (entre outros)",
+     "explanation": "A partícula や lista exemplos NÃO exaustivos (\"X, Y, entre outros\"), diferente de と que lista tudo. ドラゴンや赤ちゃん = \"do dragão, do bebê (e afins)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "赤ちゃんに",
+  "newLine": false,
+  "translation": {
+   "text": "akachan ni — do bebê",
+   "tips": [
+    {
+     "text": "赤ちゃん",
+     "translatedText": "akachan = bebê",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = de / a (alvo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "近づきすぎる",
+  "newLine": false,
+  "translation": {
+   "text": "chikazuki-sugiru — chegar perto demais",
+   "tips": [
+    {
+     "text": "近づき",
+     "translatedText": "chikazuki = aproximar-se",
+     "explanation": null
+    },
+    {
+     "text": "すぎる",
+     "translatedText": "sugiru = demais",
+     "explanation": "〜すぎる cola na raiz do verbo e significa \"fazer DEMAIS\": 近づく (aproximar-se) → 近づきすぎる = \"aproximar-se demais\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "のは",
+  "newLine": false,
+  "translation": {
+   "text": "no wa — (o ato de)",
+   "tips": [
+    {
+     "text": "の",
+     "translatedText": "no = (nominaliza)",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "よくないです",
+  "newLine": false,
+  "translation": {
+   "text": "yokunai desu — não é bom",
+   "tips": [
+    {
+     "text": "よくない",
+     "translatedText": "yokunai = não é bom",
+     "explanation": null
+    },
+    {
+     "text": "です",
+     "translatedText": "desu = (cópula)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "二人は",
+  "newLine": false,
+  "translation": {
+   "text": "futari wa — os dois",
+   "tips": [
+    {
+     "text": "二人",
+     "translatedText": "futari = os dois",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "つづけました",
+  "newLine": false,
+  "translation": {
+   "text": "tsuzukemashita — continuaram",
+   "tips": [
+    {
+     "text": "つづけました",
+     "translatedText": "tsuzukemashita = continuaram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "魚を",
+  "newLine": false,
+  "translation": {
+   "text": "sakana o — peixes",
+   "tips": [
+    {
+     "text": "魚",
+     "translatedText": "sakana = peixe",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "木の",
+  "newLine": false,
+  "translation": {
+   "text": "ki no — da árvore",
+   "tips": [
+    {
+     "text": "木",
+     "translatedText": "ki = árvore",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "近くに",
+  "newLine": false,
+  "translation": {
+   "text": "chikaku ni — perto",
+   "tips": [
+    {
+     "text": "近く",
+     "translatedText": "chikaku = perto / proximidade",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em (lugar)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "おいてください",
+  "newLine": false,
+  "translation": {
+   "text": "oite kudasai — deixem, por favor",
+   "tips": [
+    {
+     "text": "おいて",
+     "translatedText": "oite = pôr / deixar (forma -te)",
+     "explanation": null
+    },
+    {
+     "text": "ください",
+     "translatedText": "kudasai = por favor (peça)",
+     "explanation": "〜てください = pedido educado: verbo na forma -て + ください = \"faça, por favor\". おいてください = \"deixe (os peixes), por favor\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "火の目は",
+  "newLine": false,
+  "translation": {
+   "text": "Hi no Me wa — Hi no Me",
+   "tips": [
+    {
+     "text": "火の目",
+     "translatedText": "Hi no Me = Olhos de Fogo (a dragoa)",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "元気に",
+  "newLine": false,
+  "translation": {
+   "text": "genki ni — forte",
+   "tips": [
+    {
+     "text": "元気",
+     "translatedText": "genki = forte / saudável",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = (para o estado)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "なって",
+  "newLine": false,
+  "translation": {
+   "text": "natte — ficando e",
+   "tips": [
+    {
+     "text": "なって",
+     "translatedText": "natte = tornar-se (forma -te)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "いつか",
+  "newLine": false,
+  "translation": {
+   "text": "itsuka — um dia",
+   "tips": [
+    {
+     "text": "いつか",
+     "translatedText": "itsuka = um dia / algum dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "国を",
+  "newLine": false,
+  "translation": {
+   "text": "kuni o — o país",
+   "tips": [
+    {
+     "text": "国",
+     "translatedText": "kuni = país / reino",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "たすけて",
+  "newLine": false,
+  "translation": {
+   "text": "tasukete — ajudar",
+   "tips": [
+    {
+     "text": "たすけて",
+     "translatedText": "tasukete = ajudar (forma -te)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "くれる",
+  "newLine": false,
+  "translation": {
+   "text": "kureru — por nós",
+   "tips": [
+    {
+     "text": "くれる",
+     "translatedText": "kureru = fazer por mim/nós",
+     "explanation": "〜てくれる indica que alguém faz a ação EM BENEFÍCIO do falante: たすけてくれる = \"ajuda (a gente)\" — favor recebido de fora para dentro.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "かもしれません",
+  "newLine": false,
+  "translation": {
+   "text": "kamoshiremasen — talvez",
+   "tips": [
+    {
+     "text": "かもしれません",
+     "translatedText": "kamoshiremasen = talvez / pode ser que",
+     "explanation": "〜かもしれません = \"talvez, pode ser que\". Vai no fim da frase e marca possibilidade: たすけてくれるかもしれません = \"talvez (nos) ajude\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "王さまは",
+  "newLine": true,
+  "translation": {
+   "text": "ōsama wa — o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "みんなに",
+  "newLine": false,
+  "translation": {
+   "text": "minna ni — a todos",
+   "tips": [
+    {
+     "text": "みんな",
+     "translatedText": "minna = todos",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = a / para",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "火の目へ",
+  "newLine": false,
+  "translation": {
+   "text": "Hi no Me e — para Hi no Me",
+   "tips": [
+    {
+     "text": "火の目",
+     "translatedText": "Hi no Me = Olhos de Fogo (a dragoa)",
+     "explanation": null
+    },
+    {
+     "text": "へ",
+     "translatedText": "e = para / em direção a",
+     "explanation": "A partícula へ marca DIREÇÃO/destino e escreve-se com o caractere \"he\", mas lê-se E. 火の目へ = \"em direção à Hi no Me\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "たくさんの",
+  "newLine": false,
+  "translation": {
+   "text": "takusan no — muitos",
+   "tips": [
+    {
+     "text": "たくさん",
+     "translatedText": "takusan = muito(s)",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "魚を",
+  "newLine": false,
+  "translation": {
+   "text": "sakana o — peixes",
+   "tips": [
+    {
+     "text": "魚",
+     "translatedText": "sakana = peixe",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "あげる",
+  "newLine": false,
+  "translation": {
+   "text": "ageru — dar",
+   "tips": [
+    {
+     "text": "あげる",
+     "translatedText": "ageru = dar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ように",
+  "newLine": false,
+  "translation": {
+   "text": "yō ni — que (ordenou)",
+   "tips": [
+    {
+     "text": "ように",
+     "translatedText": "yō ni = de modo que / para que",
+     "explanation": "〜ように言う = \"mandar/dizer PARA que (alguém) faça\". É a forma de dar uma ordem indireta: あげるように言いました = \"mandou que dessem (peixes)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — mandou",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse / mandou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "国は",
+  "newLine": false,
+  "translation": {
+   "text": "kuni wa — o país",
+   "tips": [
+    {
+     "text": "国",
+     "translatedText": "kuni = país / reino",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "また",
+  "newLine": false,
+  "translation": {
+   "text": "mata — de novo",
+   "tips": [
+    {
+     "text": "また",
+     "translatedText": "mata = de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "よくなりました",
+  "newLine": false,
+  "translation": {
+   "text": "yoku narimashita — melhorou",
+   "tips": [
+    {
+     "text": "よく",
+     "translatedText": "yoku = bem",
+     "explanation": null
+    },
+    {
+     "text": "なりました",
+     "translatedText": "narimashita = ficou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "右手と",
+  "newLine": false,
+  "translation": {
+   "text": "Migite to — Migite e",
+   "tips": [
+    {
+     "text": "右手",
+     "translatedText": "migite = Mão Direita",
+     "explanation": null
+    },
+    {
+     "text": "と",
+     "translatedText": "to = e",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "左手が",
+  "newLine": false,
+  "translation": {
+   "text": "Hidarite ga — Hidarite",
+   "tips": [
+    {
+     "text": "左手",
+     "translatedText": "hidarite = Mão Esquerda",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "行く",
+  "newLine": false,
+  "translation": {
+   "text": "iku — de partir",
+   "tips": [
+    {
+     "text": "行く",
+     "translatedText": "iku = ir / partir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "時間に",
+  "newLine": false,
+  "translation": {
+   "text": "jikan ni — a hora",
+   "tips": [
+    {
+     "text": "時間",
+     "translatedText": "jikan = hora / tempo",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em (ponto no tempo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "なりました",
+  "newLine": false,
+  "translation": {
+   "text": "narimashita — chegou",
+   "tips": [
+    {
+     "text": "なりました",
+     "translatedText": "narimashita = chegou / tornou-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "王さま",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama — rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "わたしたちは",
+  "newLine": false,
+  "translation": {
+   "text": "watashitachi wa — nós",
+   "tips": [
+    {
+     "text": "わたしたち",
+     "translatedText": "watashitachi = nós",
+     "explanation": "わたし (eu) + たち (sufixo de plural para pessoas) = \"nós\". たち é o jeito mais comum de pluralizar gente (子どもたち = crianças).",
+     "priority": "low"
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "行かなければなりません",
+  "newLine": false,
+  "translation": {
+   "text": "ikanakereba narimasen — temos que ir",
+   "tips": [
+    {
+     "text": "行かなければ",
+     "translatedText": "ikanakereba = se não formos",
+     "explanation": null
+    },
+    {
+     "text": "なりません",
+     "translatedText": "narimasen = não dá / não vale",
+     "explanation": "〜なければなりません = \"TER QUE fazer\". Literalmente \"se não fizer, não vai (dar)\": 行かなければなりません = \"temos que ir\". É a forma mais formal de obrigação.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "行く",
+  "newLine": false,
+  "translation": {
+   "text": "iku — ir",
+   "tips": [
+    {
+     "text": "行く",
+     "translatedText": "iku = ir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "まえに",
+  "newLine": false,
+  "translation": {
+   "text": "mae ni — antes de",
+   "tips": [
+    {
+     "text": "まえ",
+     "translatedText": "mae = antes",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = de",
+     "explanation": "Verbo no dicionário + まえに = \"antes de fazer\": 行くまえに = \"antes de ir\". O verbo fica sempre na forma do dicionário antes de まえに.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "しごとの",
+  "newLine": false,
+  "translation": {
+   "text": "shigoto no — do trabalho",
+   "tips": [
+    {
+     "text": "しごと",
+     "translatedText": "shigoto = trabalho / serviço",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "お金を",
+  "newLine": false,
+  "translation": {
+   "text": "okane o — o dinheiro",
+   "tips": [
+    {
+     "text": "お金",
+     "translatedText": "okane = dinheiro",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "はらってください",
+  "newLine": false,
+  "translation": {
+   "text": "haratte kudasai — pague, por favor",
+   "tips": [
+    {
+     "text": "はらって",
+     "translatedText": "haratte = pagar (forma -te)",
+     "explanation": null
+    },
+    {
+     "text": "ください",
+     "translatedText": "kudasai = por favor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "右手が",
+  "newLine": false,
+  "translation": {
+   "text": "Migite ga — Migite",
+   "tips": [
+    {
+     "text": "右手",
+     "translatedText": "migite = Mão Direita",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "はい",
+  "newLine": false,
+  "translation": {
+   "text": "hai — sim",
+   "tips": [
+    {
+     "text": "はい",
+     "translatedText": "hai = sim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "知っています",
+  "newLine": false,
+  "translation": {
+   "text": "shitte imasu — eu sei",
+   "tips": [
+    {
+     "text": "知っています",
+     "translatedText": "shitte imasu = (eu) sei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "王さまが",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama ga — o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ほかの",
+  "newLine": false,
+  "translation": {
+   "text": "hoka no — outro",
+   "tips": [
+    {
+     "text": "ほか",
+     "translatedText": "hoka = outro / demais",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "どの",
+  "newLine": false,
+  "translation": {
+   "text": "dono — qualquer",
+   "tips": [
+    {
+     "text": "どの",
+     "translatedText": "dono = qual / nenhum (com neg.)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "国でも",
+  "newLine": false,
+  "translation": {
+   "text": "kuni demo — em país algum",
+   "tips": [
+    {
+     "text": "国",
+     "translatedText": "kuni = país",
+     "explanation": null
+    },
+    {
+     "text": "でも",
+     "translatedText": "demo = (nem) em / sequer",
+     "explanation": "どの国でも + negação = \"em país nenhum\". A combinação どの〜でも...ない significa \"em nenhum (dos) ...\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "見られない",
+  "newLine": false,
+  "translation": {
+   "text": "mirarenai — que não se pode ver",
+   "tips": [
+    {
+     "text": "見られない",
+     "translatedText": "mirarenai = não se pode ver",
+     "explanation": "見る (ver) → 見られる (poder ver, potencial) → 見られない (não poder ver). 見られないもの = \"algo que não se consegue ver (em outro lugar)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "ものを",
+  "newLine": false,
+  "translation": {
+   "text": "mono o — algo",
+   "tips": [
+    {
+     "text": "もの",
+     "translatedText": "mono = coisa",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "見せると",
+  "newLine": false,
+  "translation": {
+   "text": "miseru to — que mostraria",
+   "tips": [
+    {
+     "text": "見せる",
+     "translatedText": "miseru = mostrar",
+     "explanation": null
+    },
+    {
+     "text": "と",
+     "translatedText": "to = que (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — eu disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "わたしは",
+  "newLine": false,
+  "translation": {
+   "text": "watashi wa — eu",
+   "tips": [
+    {
+     "text": "わたし",
+     "translatedText": "watashi = eu",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "いつも",
+  "newLine": false,
+  "translation": {
+   "text": "itsumo — sempre",
+   "tips": [
+    {
+     "text": "いつも",
+     "translatedText": "itsumo = sempre",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "やくそくを",
+  "newLine": false,
+  "translation": {
+   "text": "yakusoku o — promessa",
+   "tips": [
+    {
+     "text": "やくそく",
+     "translatedText": "yakusoku = promessa",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "まもります",
+  "newLine": false,
+  "translation": {
+   "text": "mamorimasu — cumpro",
+   "tips": [
+    {
+     "text": "まもります",
+     "translatedText": "mamorimasu = guardar / cumprir",
+     "explanation": "やくそくをまもる (lit. \"proteger a promessa\") = \"cumprir a promessa / manter a palavra\". É a expressão fixa do japonês — まもる é o mesmo verbo de \"proteger/seguir (uma regra)\".",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "それは",
+  "newLine": false,
+  "translation": {
+   "text": "sore wa — isso",
+   "tips": [
+    {
+     "text": "それ",
+     "translatedText": "sore = isso",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "何ですか",
+  "newLine": false,
+  "translation": {
+   "text": "nan desu ka — o que é",
+   "tips": [
+    {
+     "text": "何",
+     "translatedText": "nan = o quê",
+     "explanation": null
+    },
+    {
+     "text": "ですか",
+     "translatedText": "desu ka = é? (pergunta)",
+     "explanation": "か no fim transforma a frase em PERGUNTA — o japonês não usa \"?\". それは何ですか = \"o que é isso?\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "王さま",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama — rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "左手が",
+  "newLine": false,
+  "translation": {
+   "text": "Hidarite ga — Hidarite",
+   "tips": [
+    {
+     "text": "左手",
+     "translatedText": "hidarite = Mão Esquerda",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "聞きました",
+  "newLine": false,
+  "translation": {
+   "text": "kikimashita — perguntou",
+   "tips": [
+    {
+     "text": "聞きました",
+     "translatedText": "kikimashita = perguntou / ouviu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "この",
+  "newLine": false,
+  "translation": {
+   "text": "kono — este",
+   "tips": [
+    {
+     "text": "この",
+     "translatedText": "kono = este / esta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "国に",
+  "newLine": false,
+  "translation": {
+   "text": "kuni ni — no país",
+   "tips": [
+    {
+     "text": "国",
+     "translatedText": "kuni = país / reino",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em (existência)",
+     "explanation": "に marca o lugar onde algo EXISTE: 国に川があります = \"no país HÁ um rio\". Combina com あります (haver, para coisas).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "川が",
+  "newLine": false,
+  "translation": {
+   "text": "kawa ga — um rio",
+   "tips": [
+    {
+     "text": "川",
+     "translatedText": "kawa = rio",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "あります",
+  "newLine": false,
+  "translation": {
+   "text": "arimasu — há",
+   "tips": [
+    {
+     "text": "あります",
+     "translatedText": "arimasu = há / existe (coisa)",
+     "explanation": "ある/あります é o \"haver\" para COISAS sem vida (rio, casa). Para seres vivos seria いる/います. Por isso o rio \"あります\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "王さまが",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama ga — o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "とても",
+  "newLine": false,
+  "translation": {
+   "text": "totemo — muito",
+   "tips": [
+    {
+     "text": "とても",
+     "translatedText": "totemo = muito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "大きい",
+  "newLine": false,
+  "translation": {
+   "text": "ōkii — grande",
+   "tips": [
+    {
+     "text": "大きい",
+     "translatedText": "ōkii = grande",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "川で",
+  "newLine": false,
+  "translation": {
+   "text": "kawa de — rio, e",
+   "tips": [
+    {
+     "text": "川",
+     "translatedText": "kawa = rio",
+     "explanation": null
+    },
+    {
+     "text": "で",
+     "translatedText": "de = é... e (liga frases)",
+     "explanation": "O で aqui liga afirmações (forma de です): \"é um rio muito grande, E...\". Não confunda com o で de lugar de ação.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "色の",
+  "newLine": false,
+  "translation": {
+   "text": "iro no — da cor",
+   "tips": [
+    {
+     "text": "色",
+     "translatedText": "iro = cor",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ために",
+  "newLine": false,
+  "translation": {
+   "text": "tame ni — por causa",
+   "tips": [
+    {
+     "text": "ために",
+     "translatedText": "tame ni = por causa de / para",
+     "explanation": "〜のために aqui é \"POR CAUSA de\": 色のために = \"por causa da cor\". (Com verbo de vontade, 〜ために também pode ser \"para/com o fim de\".)",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "『",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "青い水",
+  "newLine": false,
+  "translation": {
+   "text": "Aoi Mizu — Aoi Mizu",
+   "tips": [
+    {
+     "text": "青い",
+     "translatedText": "aoi = azul",
+     "explanation": "Nome falante! 青い (aoi) = azul + 水 (mizu) = água → \"Água Azul\", o nome do rio. Não traduzimos no corpo, fica 青い水.",
+     "priority": "low"
+    },
+    {
+     "text": "水",
+     "translatedText": "mizu = água",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "』",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — de (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (marca o nome citado)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "よびます",
+  "newLine": false,
+  "translation": {
+   "text": "yobimasu — chamamos",
+   "tips": [
+    {
+     "text": "よびます",
+     "translatedText": "yobimasu = chamamos",
+     "explanation": "〜とよぶ = \"chamar de ...\". O nome dado vem antes de と: 『青い水』とよびます = \"chamamos de 'Água Azul'\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "その",
+  "newLine": false,
+  "translation": {
+   "text": "sono — nesse",
+   "tips": [
+    {
+     "text": "その",
+     "translatedText": "sono = esse / aquele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "川に",
+  "newLine": false,
+  "translation": {
+   "text": "kawa ni — no rio",
+   "tips": [
+    {
+     "text": "川",
+     "translatedText": "kawa = rio",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em (existência)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "しまが",
+  "newLine": false,
+  "translation": {
+   "text": "shima ga — uma ilha",
+   "tips": [
+    {
+     "text": "しま",
+     "translatedText": "shima = ilha",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "あります",
+  "newLine": false,
+  "translation": {
+   "text": "arimasu — há",
+   "tips": [
+    {
+     "text": "あります",
+     "translatedText": "arimasu = há (coisa)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "この",
+  "newLine": false,
+  "translation": {
+   "text": "kono — esta",
+   "tips": [
+    {
+     "text": "この",
+     "translatedText": "kono = esta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "しまは",
+  "newLine": false,
+  "translation": {
+   "text": "shima wa — ilha",
+   "tips": [
+    {
+     "text": "しま",
+     "translatedText": "shima = ilha",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "『",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "幸せの場所",
+  "newLine": false,
+  "translation": {
+   "text": "Shiawase no Basho — Shiawase no Basho",
+   "tips": [
+    {
+     "text": "幸せ",
+     "translatedText": "shiawase = felicidade",
+     "explanation": "Nome falante! 幸せ (shiawase) = felicidade + の (de) + 場所 (basho) = lugar → \"O Lugar Feliz\", o nome da ilha. É também o título do livro. Não traduzimos no corpo, fica 幸せの場所.",
+     "priority": "low"
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    },
+    {
+     "text": "場所",
+     "translatedText": "basho = lugar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "』",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (marca o nome)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "よばれています",
+  "newLine": false,
+  "translation": {
+   "text": "yobarete imasu — é chamada",
+   "tips": [
+    {
+     "text": "よばれて",
+     "translatedText": "yobarete = ser chamada (passiva)",
+     "explanation": "〜とよばれる é a PASSIVA de よぶ (chamar): \"ser chamado de ...\". Compare: みんながよぶ = \"todos chamam\" → よばれる = \"é chamada\". A forma 〜ています indica o estado contínuo.",
+     "priority": "high"
+    },
+    {
+     "text": "います",
+     "translatedText": "imasu = (estado)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "幸せの場所",
+  "newLine": false,
+  "translation": {
+   "text": "Shiawase no Basho — O Lugar Feliz?",
+   "tips": [
+    {
+     "text": "幸せの場所",
+     "translatedText": "Shiawase no Basho = O Lugar Feliz (a ilha)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "？",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "右手が",
+  "newLine": false,
+  "translation": {
+   "text": "Migite ga — Migite",
+   "tips": [
+    {
+     "text": "右手",
+     "translatedText": "migite = Mão Direita",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "聞きました",
+  "newLine": false,
+  "translation": {
+   "text": "kikimashita — perguntou",
+   "tips": [
+    {
+     "text": "聞きました",
+     "translatedText": "kikimashita = perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "聞いた",
+  "newLine": false,
+  "translation": {
+   "text": "kiita — ouvir",
+   "tips": [
+    {
+     "text": "聞いた",
+     "translatedText": "kiita = ouvi (passado de 聞く)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ことが",
+  "newLine": false,
+  "translation": {
+   "text": "koto ga — (já tive a experiência)",
+   "tips": [
+    {
+     "text": "こと",
+     "translatedText": "koto = (ato / experiência)",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ありますが",
+  "newLine": false,
+  "translation": {
+   "text": "arimasu ga — já ouvi, mas",
+   "tips": [
+    {
+     "text": "あります",
+     "translatedText": "arimasu = há",
+     "explanation": "〜たことがある = \"já fez (alguma vez), ter a experiência de\". 聞いたことがあります = \"já ouvi falar\". Aqui no presente porque a experiência persiste.",
+     "priority": "low"
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = mas / porém",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ほんとうに",
+  "newLine": false,
+  "translation": {
+   "text": "hontō ni — de verdade",
+   "tips": [
+    {
+     "text": "ほんとうに",
+     "translatedText": "hontō ni = de verdade / realmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "あるとは",
+  "newLine": false,
+  "translation": {
+   "text": "aru to wa — que existisse",
+   "tips": [
+    {
+     "text": "ある",
+     "translatedText": "aru = existir (coisa)",
+     "explanation": null
+    },
+    {
+     "text": "とは",
+     "translatedText": "to wa = que (citação enfática)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "思いませんでした",
+  "newLine": false,
+  "translation": {
+   "text": "omoimasen deshita — não achava",
+   "tips": [
+    {
+     "text": "思いませんでした",
+     "translatedText": "omoimasen deshita = não pensava / não achava",
+     "explanation": "〜とは思いませんでした = \"eu não achava QUE...\". O と marca o conteúdo do pensamento; 思う = achar/pensar. \"Não achava que existisse de verdade.\"",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "ほんとうに",
+  "newLine": false,
+  "translation": {
+   "text": "hontō ni — de verdade",
+   "tips": [
+    {
+     "text": "ほんとうに",
+     "translatedText": "hontō ni = de verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ありますよ",
+  "newLine": false,
+  "translation": {
+   "text": "arimasu yo — existe sim!",
+   "tips": [
+    {
+     "text": "あります",
+     "translatedText": "arimasu = há / existe",
+     "explanation": null
+    },
+    {
+     "text": "よ",
+     "translatedText": "yo = (ênfase, viu!)",
+     "explanation": "よ no fim da frase passa uma informação NOVA ao ouvinte, com ênfase — como \"viu!/sim!\" em português. ありますよ = \"existe sim!\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "王さまが",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama ga — o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "ぜんぶの",
+  "newLine": false,
+  "translation": {
+   "text": "zenbu no — todos os",
+   "tips": [
+    {
+     "text": "ぜんぶ",
+     "translatedText": "zenbu = tudo / todos",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ゆめが",
+  "newLine": false,
+  "translation": {
+   "text": "yume ga — sonhos",
+   "tips": [
+    {
+     "text": "ゆめ",
+     "translatedText": "yume = sonho",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "かなう",
+  "newLine": false,
+  "translation": {
+   "text": "kanau — se realizam",
+   "tips": [
+    {
+     "text": "かなう",
+     "translatedText": "kanau = realizar-se (sonho)",
+     "explanation": "ゆめがかなう = \"o sonho se realiza\". かなう é o verbo fixo para sonhos/desejos que se concretizam — o sonho é o SUJEITO (が).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "ところ",
+  "newLine": false,
+  "translation": {
+   "text": "tokoro — o lugar",
+   "tips": [
+    {
+     "text": "ところ",
+     "translatedText": "tokoro = lugar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "では",
+  "newLine": false,
+  "translation": {
+   "text": "de wa — (não é...)",
+   "tips": [
+    {
+     "text": "では",
+     "translatedText": "de wa = (não é)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ありませんか",
+  "newLine": false,
+  "translation": {
+   "text": "arimasen ka — não é?",
+   "tips": [
+    {
+     "text": "ありません",
+     "translatedText": "arimasen = não é",
+     "explanation": null
+    },
+    {
+     "text": "か",
+     "translatedText": "ka = (pergunta)",
+     "explanation": "〜ではありませんか = \"não é (que)...?\" — pergunta retórica/de confirmação. \"Não é o lugar onde todos os sonhos se realizam?\"",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "左手が",
+  "newLine": false,
+  "translation": {
+   "text": "Hidarite ga — Hidarite",
+   "tips": [
+    {
+     "text": "左手",
+     "translatedText": "hidarite = Mão Esquerda",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "聞きました",
+  "newLine": false,
+  "translation": {
+   "text": "kikimashita — perguntou",
+   "tips": [
+    {
+     "text": "聞きました",
+     "translatedText": "kikimashita = perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "そうです",
+  "newLine": false,
+  "translation": {
+   "text": "sō desu — isso mesmo",
+   "tips": [
+    {
+     "text": "そう",
+     "translatedText": "sō = assim / isso",
+     "explanation": null
+    },
+    {
+     "text": "です",
+     "translatedText": "desu = é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "そこに",
+  "newLine": false,
+  "translation": {
+   "text": "soko ni — ali",
+   "tips": [
+    {
+     "text": "そこ",
+     "translatedText": "soko = ali / aquele lugar",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "いる",
+  "newLine": false,
+  "translation": {
+   "text": "iru — estiver",
+   "tips": [
+    {
+     "text": "いる",
+     "translatedText": "iru = estar (vivo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "間だけです",
+  "newLine": false,
+  "translation": {
+   "text": "aida dake desu — só enquanto",
+   "tips": [
+    {
+     "text": "間",
+     "translatedText": "aida = enquanto / durante",
+     "explanation": "いる間 = \"enquanto se está\". 間 marca o período durante o qual algo vale: \"só DURANTE o tempo em que se está ali\".",
+     "priority": "low"
+    },
+    {
+     "text": "だけ",
+     "translatedText": "dake = só / apenas",
+     "explanation": null
+    },
+    {
+     "text": "です",
+     "translatedText": "desu = é",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "と",
+  "newLine": false,
+  "translation": {
+   "text": "to — (citação)",
+   "tips": [
+    {
+     "text": "と",
+     "translatedText": "to = (citação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "王さまが",
+  "newLine": false,
+  "translation": {
+   "text": "ōsama ga — o rei",
+   "tips": [
+    {
+     "text": "王さま",
+     "translatedText": "ōsama = rei",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "言いました",
+  "newLine": false,
+  "translation": {
+   "text": "iimashita — disse",
+   "tips": [
+    {
+     "text": "言いました",
+     "translatedText": "iimashita = disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "「",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "大きな",
+  "newLine": false,
+  "translation": {
+   "text": "ōkina — grande",
+   "tips": [
+    {
+     "text": "大きな",
+     "translatedText": "ōkina = grande",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "家が",
+  "newLine": false,
+  "translation": {
+   "text": "ie ga — uma casa",
+   "tips": [
+    {
+     "text": "家",
+     "translatedText": "ie = casa",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ほしいなら",
+  "newLine": false,
+  "translation": {
+   "text": "hoshii nara — se quiser",
+   "tips": [
+    {
+     "text": "ほしい",
+     "translatedText": "hoshii = querer (ter)",
+     "explanation": "ほしい = \"querer (uma coisa)\". O que se quer leva が: 家がほしい = \"quero uma casa\".",
+     "priority": "low"
+    },
+    {
+     "text": "なら",
+     "translatedText": "nara = se (for o caso)",
+     "explanation": "なら é o condicional de SUPOSIÇÃO/tópico: \"se (for o caso de) querer...\". Diferente do たら, なら toma o que o outro disse como hipótese: ほしいなら = \"se (você) quiser\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "もらえます",
+  "newLine": false,
+  "translation": {
+   "text": "moraemasu — recebe",
+   "tips": [
+    {
+     "text": "もらえます",
+     "translatedText": "moraemasu = pode receber / consegue",
+     "explanation": "もらう (receber) → もらえる (poder receber, potencial) → もらえます = \"você recebe / consegue (ter)\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "しまを",
+  "newLine": false,
+  "translation": {
+   "text": "shima o — a ilha",
+   "tips": [
+    {
+     "text": "しま",
+     "translatedText": "shima = ilha",
+     "explanation": null
+    },
+    {
+     "text": "を",
+     "translatedText": "o = (objeto)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "出たら",
+  "newLine": false,
+  "translation": {
+   "text": "detara — se sair",
+   "tips": [
+    {
+     "text": "出",
+     "translatedText": "de = sair (de 出る)",
+     "explanation": null
+    },
+    {
+     "text": "たら",
+     "translatedText": "tara = se / quando",
+     "explanation": "〜たら é o condicional \"se/quando (acontecer X, então Y)\": 出たら = \"se/quando sair\". Forma-se no passado (出た) + ら.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "少しの",
+  "newLine": false,
+  "translation": {
+   "text": "sukoshi no — um pouco de",
+   "tips": [
+    {
+     "text": "少し",
+     "translatedText": "sukoshi = um pouco",
+     "explanation": null
+    },
+    {
+     "text": "の",
+     "translatedText": "no = de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "間でも",
+  "newLine": false,
+  "translation": {
+   "text": "aida demo — mesmo por um instante",
+   "tips": [
+    {
+     "text": "間",
+     "translatedText": "aida = instante / período",
+     "explanation": null
+    },
+    {
+     "text": "でも",
+     "translatedText": "demo = mesmo / nem que seja",
+     "explanation": "〜でも aqui = \"mesmo (que seja)\": 少しの間でも = \"mesmo por um instante\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "家は",
+  "newLine": false,
+  "translation": {
+   "text": "ie wa — a casa",
+   "tips": [
+    {
+     "text": "家",
+     "translatedText": "ie = casa",
+     "explanation": null
+    },
+    {
+     "text": "は",
+     "translatedText": "wa = (tópico)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "きえます",
+  "newLine": false,
+  "translation": {
+   "text": "kiemasu — desaparece",
+   "tips": [
+    {
+     "text": "きえます",
+     "translatedText": "kiemasu = some / desaparece",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "きれいな",
+  "newLine": false,
+  "translation": {
+   "text": "kirei na — bonita",
+   "tips": [
+    {
+     "text": "きれいな",
+     "translatedText": "kirei na = bonito(a)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "家族が",
+  "newLine": false,
+  "translation": {
+   "text": "kazoku ga — uma família",
+   "tips": [
+    {
+     "text": "家族",
+     "translatedText": "kazoku = família",
+     "explanation": null
+    },
+    {
+     "text": "が",
+     "translatedText": "ga = (sujeito)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "ほしいなら",
+  "newLine": false,
+  "translation": {
+   "text": "hoshii nara — se quiser",
+   "tips": [
+    {
+     "text": "ほしい",
+     "translatedText": "hoshii = querer (ter)",
+     "explanation": null
+    },
+    {
+     "text": "なら",
+     "translatedText": "nara = se (for o caso)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "そこに",
+  "newLine": false,
+  "translation": {
+   "text": "soko ni — ali",
+   "tips": [
+    {
+     "text": "そこ",
+     "translatedText": "soko = ali",
+     "explanation": null
+    },
+    {
+     "text": "に",
+     "translatedText": "ni = em",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "います",
+  "newLine": false,
+  "translation": {
+   "text": "imasu — está",
+   "tips": [
+    {
+     "text": "います",
+     "translatedText": "imasu = está (vivo)",
+     "explanation": "います (não あります) porque família são PESSOAS, seres vivos. \"A família está ali.\"",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "でも",
+  "newLine": false,
+  "translation": {
+   "text": "demo — mas",
+   "tips": [
+    {
+     "text": "でも",
+     "translatedText": "demo = mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "行ってしまったら",
+  "newLine": false,
+  "translation": {
+   "text": "itte shimattara — se for embora",
+   "tips": [
+    {
+     "text": "行って",
+     "translatedText": "itte = ir (forma -te)",
+     "explanation": null
+    },
+    {
+     "text": "しまったら",
+     "translatedText": "shimattara = se acabar (fazendo)",
+     "explanation": "〜てしまう indica ação COMPLETA/irreversível, muitas vezes com pena: 行ってしまう = \"ir embora (de vez)\". Com たら vira condicional: 行ってしまったら = \"se (você) for embora\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "みんな",
+  "newLine": false,
+  "translation": {
+   "text": "minna — todos",
+   "tips": [
+    {
+     "text": "みんな",
+     "translatedText": "minna = todos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "きえて",
+  "newLine": false,
+  "translation": {
+   "text": "kiete — somem e",
+   "tips": [
+    {
+     "text": "きえて",
+     "translatedText": "kiete = sumir (forma -te)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "、",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "はじめから",
+  "newLine": false,
+  "translation": {
+   "text": "hajime kara — desde o início",
+   "tips": [
+    {
+     "text": "はじめ",
+     "translatedText": "hajime = início",
+     "explanation": null
+    },
+    {
+     "text": "から",
+     "translatedText": "kara = desde",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "いなかった",
+  "newLine": false,
+  "translation": {
+   "text": "inakatta — não existiram",
+   "tips": [
+    {
+     "text": "いなかった",
+     "translatedText": "inakatta = não havia (vivos)",
+     "explanation": "いる no passado negativo = いなかった (\"não estavam / não existiam\"). Para coisas seria なかった.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "ように",
+  "newLine": false,
+  "translation": {
+   "text": "yō ni — como se",
+   "tips": [
+    {
+     "text": "ように",
+     "translatedText": "yō ni = como se / como",
+     "explanation": "〜ようになる = \"passa a ficar como (se)...\". Aqui: いなかったようになります = \"fica como se nunca tivessem existido\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": "なります",
+  "newLine": false,
+  "translation": {
+   "text": "narimasu — fica",
+   "tips": [
+    {
+     "text": "なります",
+     "translatedText": "narimasu = fica / torna-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "。",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "」",
+  "newLine": false,
+  "translation": null
+ }
+]

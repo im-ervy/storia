@@ -1,0 +1,2537 @@
+[
+  {
+    "text": "Un peu plus tard",
+    "newLine": true,
+    "translation": {
+      "text": "Um pouco mais tarde",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit",
+    "newLine": false,
+    "translation": {
+      "text": "disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " :",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "A velha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "te cherche",
+    "newLine": false,
+    "translation": {
+      "text": "está procurando você",
+      "tips": [
+        {
+          "text": "te cherche",
+          "translatedText": "procura você / está procurando você",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elle va",
+    "newLine": false,
+    "translation": {
+      "text": "Ela vai",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "te trouver bientôt",
+    "newLine": false,
+    "translation": {
+      "text": "te encontrar logo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand tu la vois",
+    "newLine": false,
+    "translation": {
+      "text": "Quando você a vir",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "jette l'eau",
+    "newLine": false,
+    "translation": {
+      "text": "jogue a água",
+      "tips": [
+        {
+          "text": "jette ... sur elle",
+          "translatedText": "jogue ... sobre ela / atire sobre ela",
+          "explanation": "\"jeter\" = jogar / atirar / lançar. Aqui é o imperativo \"jette\" (= jogue). Atenção: não é o verbo \"jogar\" no sentido de brincar (que em francês é \"jouer\"); \"jeter\" é jogar/atirar algo. \"jette l'eau sur elle\" = jogue a água sobre ela. Repare também na preposição \"sur\" (= sobre/em cima de)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la Rivière Noire",
+    "newLine": false,
+    "translation": {
+      "text": "do Rio Negro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur elle",
+    "newLine": false,
+    "translation": {
+      "text": "sobre ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et",
+    "newLine": true,
+    "translation": {
+      "text": "E",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "très vite",
+    "newLine": false,
+    "translation": {
+      "text": "bem rápido",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le garçon a vu",
+    "newLine": false,
+    "translation": {
+      "text": "o menino viu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "a velha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec beaucoup",
+    "newLine": false,
+    "translation": {
+      "text": "com muitos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de petites bêtes",
+    "newLine": false,
+    "translation": {
+      "text": "bichinhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "autour d'elle",
+    "newLine": false,
+    "translation": {
+      "text": "ao redor dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a jeté l'eau",
+    "newLine": false,
+    "translation": {
+      "text": "ele jogou a água",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la Rivière Noire",
+    "newLine": false,
+    "translation": {
+      "text": "do Rio Negro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur elle",
+    "newLine": false,
+    "translation": {
+      "text": "sobre ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle s'est transformée",
+    "newLine": false,
+    "translation": {
+      "text": "e ela se transformou",
+      "tips": [
+        {
+          "text": "elle s'est transformée",
+          "translatedText": "ela se transformou",
+          "explanation": "Verbo pronominal \"se transformer\" (= transformar-se) no passé composé. Verbos pronominais usam sempre o auxiliar \"être\" (= ser/estar), e o particípio concorda com o sujeito: como \"elle\" é feminino, escreve-se \"transformée\" (com -e a mais). \"elle s'est transformée\" = ela se transformou."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "en petit insecte",
+    "newLine": false,
+    "translation": {
+      "text": "em um pequeno inseto",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais",
+    "newLine": false,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "en même temps",
+    "newLine": false,
+    "translation": {
+      "text": "ao mesmo tempo",
+      "tips": [
+        {
+          "text": "en même temps",
+          "translatedText": "ao mesmo tempo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les petites bêtes",
+    "newLine": false,
+    "translation": {
+      "text": "os bichinhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "se sont transformées",
+    "newLine": false,
+    "translation": {
+      "text": "se transformaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "en personnes",
+    "newLine": false,
+    "translation": {
+      "text": "em pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "des hommes",
+    "newLine": false,
+    "translation": {
+      "text": "homens",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "des femmes",
+    "newLine": false,
+    "translation": {
+      "text": "mulheres",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et même des enfants",
+    "newLine": false,
+    "translation": {
+      "text": "e até crianças",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'étaient des personnes",
+    "newLine": false,
+    "translation": {
+      "text": "Eram pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que la vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "que a velha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avait enchantées",
+    "newLine": false,
+    "translation": {
+      "text": "tinha enfeitiçado",
+      "tips": [
+        {
+          "text": "avait enchantées",
+          "translatedText": "tinha enfeitiçado",
+          "explanation": "\"enchanter\" = encantar / enfeitiçar (lançar um feitiço). Aqui no mais-que-perfeito \"avait enchantées\" (= tinha enfeitiçado). Note o -es no fim do particípio: quando o objeto direto (\"des personnes\", feminino plural) vem ANTES do verbo com auxiliar \"avoir\", o particípio concorda com ele. Como \"personnes\" é feminino plural, escreve-se \"enchantées\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il y a",
+    "newLine": false,
+    "translation": {
+      "text": "há",
+      "tips": [
+        {
+          "text": "il y a ... longtemps",
+          "translatedText": "há muito tempo / muito tempo atrás",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "très longtemps",
+    "newLine": false,
+    "translation": {
+      "text": "muito tempo",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le garçon",
+    "newLine": true,
+    "translation": {
+      "text": "O menino",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est alors retourné",
+    "newLine": false,
+    "translation": {
+      "text": "então voltou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à la ville",
+    "newLine": false,
+    "translation": {
+      "text": "para a cidade",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "para a casa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où sa sœur habitait",
+    "newLine": false,
+    "translation": {
+      "text": "onde a irmã dele morava",
+      "tips": [
+        {
+          "text": "où sa sœur habitait",
+          "translatedText": "onde a irmã dele morava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ils étaient très heureux",
+    "newLine": false,
+    "translation": {
+      "text": "Eles estavam muito felizes",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de se revoir",
+    "newLine": false,
+    "translation": {
+      "text": "de se reverem",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "mas agora",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils avaient",
+    "newLine": false,
+    "translation": {
+      "text": "tinham",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un autre problème",
+    "newLine": false,
+    "translation": {
+      "text": "outro problema",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comment amener",
+    "newLine": false,
+    "translation": {
+      "text": "como levar",
+      "tips": [
+        {
+          "text": "amener",
+          "translatedText": "levar / trazer (alguém ou algo)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au Roi",
+    "newLine": false,
+    "translation": {
+      "text": "ao Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les mauvaises personnes",
+    "newLine": false,
+    "translation": {
+      "text": "As pessoas más",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la cour",
+    "newLine": false,
+    "translation": {
+      "text": "da corte",
+      "tips": [
+        {
+          "text": "la cour",
+          "translatedText": "a corte",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "allaient essayer",
+    "newLine": false,
+    "translation": {
+      "text": "iam tentar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de les arrêter",
+    "newLine": false,
+    "translation": {
+      "text": "detê-los",
+      "tips": [
+        {
+          "text": "les arrêter",
+          "translatedText": "detê-los / pará-los",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avant de parler",
+    "newLine": false,
+    "translation": {
+      "text": "antes de falar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "com o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "D'abord",
+    "newLine": true,
+    "translation": {
+      "text": "Primeiro",
+      "tips": [
+        {
+          "text": "D'abord",
+          "translatedText": "primeiro / antes de mais nada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le frère",
+    "newLine": false,
+    "translation": {
+      "text": "o irmão",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et la sœur",
+    "newLine": false,
+    "translation": {
+      "text": "e a irmã",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ont fait",
+    "newLine": false,
+    "translation": {
+      "text": "fizeram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un plan",
+    "newLine": false,
+    "translation": {
+      "text": "um plano",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils ont commencé",
+    "newLine": false,
+    "translation": {
+      "text": "começaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à dire",
+    "newLine": false,
+    "translation": {
+      "text": "a dizer",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à tout le monde",
+    "newLine": false,
+    "translation": {
+      "text": "a todos",
+      "tips": [
+        {
+          "text": "tout le monde",
+          "translatedText": "todo mundo / todos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "que o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "était",
+    "newLine": false,
+    "translation": {
+      "text": "estava",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans la ville",
+    "newLine": false,
+    "translation": {
+      "text": "na cidade",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'ils voulaient",
+    "newLine": false,
+    "translation": {
+      "text": "porque queriam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que le Roi entende",
+    "newLine": false,
+    "translation": {
+      "text": "que o Rei ouvisse",
+      "tips": [
+        {
+          "text": "ils voulaient que le Roi entende",
+          "translatedText": "queriam que o Rei ouvisse / ficasse sabendo",
+          "explanation": "Depois de \"vouloir que\" (= querer que) o francês usa o subjuntivo, igual ao português. Por isso \"entende\" (e não \"entend\"): é o subjuntivo de \"entendre\" (= ouvir). \"ils voulaient que le Roi entende parler de ça\" = eles queriam que o Rei ouvisse falar disso. \"entendre parler de\" é uma expressão fixa = ouvir falar de / ficar sabendo de."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parler de ça",
+    "newLine": false,
+    "translation": {
+      "text": "falar disso",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le plan a marché",
+    "newLine": true,
+    "translation": {
+      "text": "O plano funcionou",
+      "tips": [
+        {
+          "text": "Le plan a marché",
+          "translatedText": "o plano funcionou / deu certo",
+          "explanation": "Reforçando a nota do livro 10: o verbo \"marcher\" significa literalmente \"andar / caminhar\", mas para coisas e planos quer dizer \"funcionar / dar certo\". \"Le plan a marché\" = o plano funcionou, deu certo. Pense também em \"Ça marche !\" (= Funciona! / Combinado!), expressão muito comum no dia a dia."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "O Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a entendu parler",
+    "newLine": false,
+    "translation": {
+      "text": "ouviu falar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de cet oiseau spécial",
+    "newLine": false,
+    "translation": {
+      "text": "desse pássaro especial",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il voulait",
+    "newLine": false,
+    "translation": {
+      "text": "e queria",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le voir",
+    "newLine": false,
+    "translation": {
+      "text": "vê-lo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais les mauvaises personnes",
+    "newLine": false,
+    "translation": {
+      "text": "Mas as pessoas más",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la cour",
+    "newLine": false,
+    "translation": {
+      "text": "da corte",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne voulaient pas ça",
+    "newLine": false,
+    "translation": {
+      "text": "não queriam isso",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elles pensaient",
+    "newLine": false,
+    "translation": {
+      "text": "elas achavam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que l'oiseau",
+    "newLine": false,
+    "translation": {
+      "text": "que o pássaro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "allait raconter",
+    "newLine": false,
+    "translation": {
+      "text": "ia contar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au Roi",
+    "newLine": false,
+    "translation": {
+      "text": "ao Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tout ce qu'elles",
+    "newLine": false,
+    "translation": {
+      "text": "tudo o que elas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avaient fait",
+    "newLine": false,
+    "translation": {
+      "text": "tinham feito",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à sa femme",
+    "newLine": false,
+    "translation": {
+      "text": "à esposa dele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et à ses enfants",
+    "newLine": false,
+    "translation": {
+      "text": "e aos filhos dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "enfin",
+    "newLine": false,
+    "translation": {
+      "text": "enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le Roi a dit",
+    "newLine": false,
+    "translation": {
+      "text": "o Rei disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que la personne",
+    "newLine": false,
+    "translation": {
+      "text": "que a pessoa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui avait",
+    "newLine": false,
+    "translation": {
+      "text": "que tinha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devait venir",
+    "newLine": false,
+    "translation": {
+      "text": "devia vir",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au palais",
+    "newLine": false,
+    "translation": {
+      "text": "ao palácio",
+      "tips": [
+        {
+          "text": "le palais",
+          "translatedText": "o palácio",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tout de suite",
+    "newLine": false,
+    "translation": {
+      "text": "imediatamente",
+      "tips": [
+        {
+          "text": "tout de suite",
+          "translatedText": "imediatamente / já",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " — ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et c'était un ordre",
+    "newLine": false,
+    "translation": {
+      "text": "e era uma ordem",
+      "tips": [
+        {
+          "text": "c'était un ordre",
+          "translatedText": "era uma ordem",
+          "explanation": "\"c'était\" = era (imperfeito de \"c'est\" = é). \"un ordre\" = uma ordem (um comando). Cuidado com o falso amigo: \"un ordre\" pode significar também \"ordem\" no sentido de arrumação, mas aqui é claramente o sentido de mando: o Rei deu uma ordem. \"et c'était un ordre !\" = e era uma ordem!"
+        }
+      ]
+    }
+  },
+  {
+    "text": " !",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les enfants sont allés",
+    "newLine": true,
+    "translation": {
+      "text": "As crianças foram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au palais",
+    "newLine": false,
+    "translation": {
+      "text": "ao palácio",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais des personnes",
+    "newLine": false,
+    "translation": {
+      "text": "mas pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la cour",
+    "newLine": false,
+    "translation": {
+      "text": "da corte",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les attendaient",
+    "newLine": false,
+    "translation": {
+      "text": "as esperavam",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elles",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne les ont pas",
+    "newLine": false,
+    "translation": {
+      "text": "não as deixaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "laissés entrer",
+    "newLine": false,
+    "translation": {
+      "text": "entrar",
+      "tips": [
+        {
+          "text": "ne les ont pas laissés entrer",
+          "translatedText": "não as deixaram entrar",
+          "explanation": "\"laisser\" + infinitivo = deixar (alguém fazer algo). \"laisser entrer\" = deixar entrar. O \"les\" (= os/as) é o objeto, que vem antes do verbo. Como o objeto está antes, o particípio \"laissés\" concorda com ele no plural (-és). \"elles ne les ont pas laissés entrer\" = elas não os/as deixaram entrar."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elles ont dit",
+    "newLine": false,
+    "translation": {
+      "text": "Disseram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "aux gardes",
+    "newLine": false,
+    "translation": {
+      "text": "aos guardas",
+      "tips": [
+        {
+          "text": "les gardes",
+          "translatedText": "os guardas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de les tenir",
+    "newLine": false,
+    "translation": {
+      "text": "de segurá-los",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et de ne pas",
+    "newLine": false,
+    "translation": {
+      "text": "e de não",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les laisser partir",
+    "newLine": false,
+    "translation": {
+      "text": "os deixar ir embora",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais elles",
+    "newLine": false,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne pouvaient pas prendre",
+    "newLine": false,
+    "translation": {
+      "text": "não podiam pegar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'il était",
+    "newLine": false,
+    "translation": {
+      "text": "porque ele era",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "très petit",
+    "newLine": false,
+    "translation": {
+      "text": "muito pequeno",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il pouvait voler",
+    "newLine": false,
+    "translation": {
+      "text": "ele podia voar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans le palais",
+    "newLine": false,
+    "translation": {
+      "text": "dentro do palácio",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Dès qu'il a vu",
+    "newLine": true,
+    "translation": {
+      "text": "Assim que viu",
+      "tips": [
+        {
+          "text": "Dès qu'il a vu",
+          "translatedText": "assim que ele viu / logo que viu",
+          "explanation": "\"dès que\" = assim que / logo que. Indica que uma coisa acontece imediatamente após outra. \"Dès qu'il a vu le Roi\" = assim que ele viu o Rei. Não confunda com \"depuis que\" (= desde que): \"dès que\" marca o momento exato em que algo começa."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'oiseau a dit",
+    "newLine": false,
+    "translation": {
+      "text": "o pássaro disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " :",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ô Roi",
+    "newLine": false,
+    "translation": {
+      "text": "Ó Rei",
+      "tips": [
+        {
+          "text": "Ô Roi",
+          "translatedText": "Ó Rei (vocativo solene dos contos)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je suis",
+    "newLine": false,
+    "translation": {
+      "text": "eu sou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'Oiseau de Vérité",
+    "newLine": false,
+    "translation": {
+      "text": "o Pássaro da Verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le garçon",
+    "newLine": false,
+    "translation": {
+      "text": "O menino",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et la fille",
+    "newLine": false,
+    "translation": {
+      "text": "e a menina",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui m'ont amené ici",
+    "newLine": false,
+    "translation": {
+      "text": "que me trouxeram aqui",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne peuvent pas entrer",
+    "newLine": false,
+    "translation": {
+      "text": "não podem entrar",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais cette maison",
+    "newLine": false,
+    "translation": {
+      "text": "mas esta casa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est leur maison",
+    "newLine": false,
+    "translation": {
+      "text": "é a casa deles",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'ils sont",
+    "newLine": false,
+    "translation": {
+      "text": "porque eles são",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "votre fils",
+    "newLine": false,
+    "translation": {
+      "text": "o seu filho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et votre fille",
+    "newLine": false,
+    "translation": {
+      "text": "e a sua filha",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Votre femme",
+    "newLine": false,
+    "translation": {
+      "text": "A sua esposa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'a jamais eu",
+    "newLine": false,
+    "translation": {
+      "text": "nunca teve",
+      "tips": [
+        {
+          "text": "n'a jamais eu",
+          "translatedText": "nunca teve",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un chien",
+    "newLine": false,
+    "translation": {
+      "text": "um cão",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et un poisson",
+    "newLine": false,
+    "translation": {
+      "text": "e um peixe",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme enfants",
+    "newLine": false,
+    "translation": {
+      "text": "como filhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vos deux beaux enfants",
+    "newLine": false,
+    "translation": {
+      "text": "os seus dois belos filhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "attendent dehors",
+    "newLine": false,
+    "translation": {
+      "text": "esperam lá fora",
+      "tips": [
+        {
+          "text": "dehors",
+          "translatedText": "lá fora / do lado de fora",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Dès que le Roi",
+    "newLine": true,
+    "translation": {
+      "text": "Assim que o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a entendu",
+    "newLine": false,
+    "translation": {
+      "text": "ouviu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la vraie histoire",
+    "newLine": false,
+    "translation": {
+      "text": "a verdadeira história",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de sa famille",
+    "newLine": false,
+    "translation": {
+      "text": "da sua família",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que les enfants",
+    "newLine": false,
+    "translation": {
+      "text": "que as crianças",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devaient entrer",
+    "newLine": false,
+    "translation": {
+      "text": "deviam entrar",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand il",
+    "newLine": false,
+    "translation": {
+      "text": "Quando ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les a vus",
+    "newLine": false,
+    "translation": {
+      "text": "os viu",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il les a pris",
+    "newLine": false,
+    "translation": {
+      "text": "ele os pegou",
+      "tips": [
+        {
+          "text": "il les a pris dans ses bras",
+          "translatedText": "ele os pegou nos braços / ele os abraçou",
+          "explanation": "\"prendre quelqu'un dans ses bras\" (literalmente: pegar alguém nos seus braços) é a forma idiomática francesa de dizer \"abraçar\". \"il les a pris dans ses bras\" = ele os abraçou. O particípio de \"prendre\" é irregular: \"pris\". Guarde esta expressão afetuosa: é assim que se diz \"dar um abraço\" em francês."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans ses bras",
+    "newLine": false,
+    "translation": {
+      "text": "nos braços",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "Depois ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que sa femme",
+    "newLine": false,
+    "translation": {
+      "text": "que a sua esposa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devait être libérée",
+    "newLine": false,
+    "translation": {
+      "text": "devia ser libertada",
+      "tips": [
+        {
+          "text": "être libérée",
+          "translatedText": "ser libertada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand la pauvre femme",
+    "newLine": false,
+    "translation": {
+      "text": "Quando a pobre mulher",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est entrée",
+    "newLine": false,
+    "translation": {
+      "text": "entrou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans la salle",
+    "newLine": false,
+    "translation": {
+      "text": "na sala",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle était très blanche",
+    "newLine": false,
+    "translation": {
+      "text": "ela estava muito pálida",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais son visage",
+    "newLine": false,
+    "translation": {
+      "text": "Mas o rosto dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est devenu plein",
+    "newLine": false,
+    "translation": {
+      "text": "ficou cheio",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de couleur et d'amour",
+    "newLine": false,
+    "translation": {
+      "text": "de cor e de amor",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand elle a vu",
+    "newLine": false,
+    "translation": {
+      "text": "quando viu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ses enfants",
+    "newLine": false,
+    "translation": {
+      "text": "os filhos dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "e o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'a prise",
+    "newLine": false,
+    "translation": {
+      "text": "a abraçou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans ses bras",
+    "newLine": false,
+    "translation": {
+      "text": "nos braços",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi a aussi",
+    "newLine": true,
+    "translation": {
+      "text": "O Rei também",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dit merci",
+    "newLine": false,
+    "translation": {
+      "text": "agradeceu",
+      "tips": [
+        {
+          "text": "a dit merci",
+          "translatedText": "disse obrigado / agradeceu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à l'homme bon",
+    "newLine": false,
+    "translation": {
+      "text": "ao homem bom",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui avait pris",
+    "newLine": false,
+    "translation": {
+      "text": "que tinha tirado",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ses enfants",
+    "newLine": false,
+    "translation": {
+      "text": "os filhos dele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la rivière",
+    "newLine": false,
+    "translation": {
+      "text": "do rio",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a donné",
+    "newLine": false,
+    "translation": {
+      "text": "e deu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "beaucoup d'argent",
+    "newLine": false,
+    "translation": {
+      "text": "muito dinheiro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à lui",
+    "newLine": false,
+    "translation": {
+      "text": "a ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et à sa famille",
+    "newLine": false,
+    "translation": {
+      "text": "e à família dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'homme a pu vivre",
+    "newLine": false,
+    "translation": {
+      "text": "o homem pôde viver",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une bonne vie",
+    "newLine": false,
+    "translation": {
+      "text": "uma boa vida",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "jusqu'à la fin",
+    "newLine": false,
+    "translation": {
+      "text": "até o fim",
+      "tips": [
+        {
+          "text": "jusqu'à la fin de ses jours",
+          "translatedText": "até o fim dos seus dias",
+          "explanation": "Fórmula de fechamento típica dos contos, equivalente ao nosso \"e viveram felizes para sempre\". \"jusqu'à\" = até; \"la fin\" = o fim; \"ses jours\" = os seus dias (= a sua vida). \"jusqu'à la fin de ses jours\" = até o fim dos seus dias, ou seja, pelo resto da vida. É assim que muitas histórias francesas terminam."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de ses jours",
+    "newLine": false,
+    "translation": {
+      "text": "dos seus dias",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

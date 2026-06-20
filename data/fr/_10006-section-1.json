@@ -1,0 +1,2267 @@
+[
+ {
+  "text": "Il était une fois",
+  "newLine": true,
+  "translation": {
+   "text": "Era uma vez",
+   "tips": [
+    {
+     "text": "Il était une fois",
+     "translatedText": "Era uma vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un vieil homme",
+  "newLine": false,
+  "translation": {
+   "text": "um velho",
+   "tips": [
+    {
+     "text": "un vieil homme",
+     "translatedText": "um velho / um homem velho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui avait",
+  "newLine": false,
+  "translation": {
+   "text": "que tinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "trois enfants",
+  "newLine": false,
+  "translation": {
+   "text": "três filhos",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Deux d'entre eux",
+  "newLine": false,
+  "translation": {
+   "text": "Dois deles",
+   "tips": [
+    {
+     "text": "Deux d'entre eux",
+     "translatedText": "dois deles",
+     "explanation": "\"d'entre eux\" = \"dentre eles / deles\". \"Deux d'entre eux\" = \"dois deles\", isto é, dois do grupo."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avaient déjà",
+  "newLine": false,
+  "translation": {
+   "text": "já tinham",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "leur propre famille",
+  "newLine": false,
+  "translation": {
+   "text": "sua própria família",
+   "tips": [
+    {
+     "text": "propre",
+     "translatedText": "própria (antes do nome) / limpa (depois)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et un n'en avait pas",
+  "newLine": false,
+  "translation": {
+   "text": "e um não tinha",
+   "tips": [
+    {
+     "text": "un n'en avait pas",
+     "translatedText": "um não tinha (família)",
+     "explanation": "O pronome \"en\" substitui \"de + algo\" já mencionado (aqui \"de família\"): equivale a \"dela / disso\". \"un n'en avait pas\" = \"um não tinha (família)\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Celui qui",
+  "newLine": false,
+  "translation": {
+   "text": "Aquele que",
+   "tips": [
+    {
+     "text": "Celui qui",
+     "translatedText": "aquele que",
+     "explanation": "\"Celui\" é um pronome demonstrativo masculino (\"aquele / o\"). \"Celui qui\" = \"aquele que / o que\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'avait pas",
+  "newLine": false,
+  "translation": {
+   "text": "não tinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sa propre famille",
+  "newLine": false,
+  "translation": {
+   "text": "sua própria família",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "s'appelait Bon Cœur",
+  "newLine": false,
+  "translation": {
+   "text": "se chamava Bon Cœur",
+   "tips": [
+    {
+     "text": "Bon Cœur",
+     "translatedText": "Bom Coração (nome do personagem, mantido em francês)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et c'était",
+  "newLine": false,
+  "translation": {
+   "text": "e era",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une personne vraiment gentille",
+  "newLine": false,
+  "translation": {
+   "text": "uma pessoa realmente gentil",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un jour",
+  "newLine": false,
+  "translation": {
+   "text": "um dia",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur est allé",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur foi",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voir son père",
+  "newLine": false,
+  "translation": {
+   "text": "ver seu pai",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et lui a demandé",
+  "newLine": false,
+  "translation": {
+   "text": "e pediu a ele",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de l'argent",
+  "newLine": false,
+  "translation": {
+   "text": "dinheiro",
+   "tips": []
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il voulait",
+  "newLine": false,
+  "translation": {
+   "text": "ele queria",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voir le monde",
+  "newLine": false,
+  "translation": {
+   "text": "ver o mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avant d'avoir",
+  "newLine": false,
+  "translation": {
+   "text": "antes de ter",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une femme et des enfants",
+  "newLine": false,
+  "translation": {
+   "text": "uma esposa e filhos",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Son père a pensé",
+  "newLine": true,
+  "translation": {
+   "text": "Seu pai pensou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que c'était une idée intelligente",
+  "newLine": false,
+  "translation": {
+   "text": "que era uma ideia inteligente",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il lui a donné",
+  "newLine": false,
+  "translation": {
+   "text": "e deu a ele",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de l'argent",
+  "newLine": false,
+  "translation": {
+   "text": "dinheiro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur est parti",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur partiu",
+   "tips": [
+    {
+     "text": "est parti",
+     "translatedText": "partiu / foi embora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voir le monde",
+  "newLine": false,
+  "translation": {
+   "text": "ver o mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Après un moment",
+  "newLine": false,
+  "translation": {
+   "text": "Depois de um tempo",
+   "tips": [
+    {
+     "text": "Après un moment",
+     "translatedText": "depois de um tempo / passado um tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il est arrivé",
+  "newLine": false,
+  "translation": {
+   "text": "ele chegou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans une ville",
+  "newLine": false,
+  "translation": {
+   "text": "a uma cidade",
+   "tips": [
+    {
+     "text": "une ville",
+     "translatedText": "uma cidade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "où un groupe de personnes",
+  "newLine": false,
+  "translation": {
+   "text": "onde um grupo de pessoas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "courait après un chien",
+  "newLine": false,
+  "translation": {
+   "text": "corria atrás de um cachorro",
+   "tips": [
+    {
+     "text": "courait après un chien",
+     "translatedText": "corria atrás de um cachorro",
+     "explanation": "\"courir après\" = \"correr atrás de / perseguir\". \"courait\" é o imparfait (passado contínuo): \"corria\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur leur a demandé",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur perguntou a eles",
+   "tips": [
+    {
+     "text": "leur a demandé",
+     "translatedText": "perguntou a eles / lhes perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pourquoi",
+  "newLine": false,
+  "translation": {
+   "text": "por quê",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils ont dit",
+  "newLine": false,
+  "translation": {
+   "text": "e eles disseram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que le chien était un problème",
+  "newLine": false,
+  "translation": {
+   "text": "que o cachorro era um problema",
+   "tips": []
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il trouvait toujours",
+  "newLine": false,
+  "translation": {
+   "text": "ele sempre encontrava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une manière de manger",
+  "newLine": false,
+  "translation": {
+   "text": "uma maneira de comer",
+   "tips": [
+    {
+     "text": "une manière de",
+     "translatedText": "uma maneira de / um jeito de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les oiseaux du Roi",
+  "newLine": false,
+  "translation": {
+   "text": "os pássaros do Rei",
+   "tips": [
+    {
+     "text": "les oiseaux",
+     "translatedText": "os pássaros",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le Roi a dit",
+  "newLine": false,
+  "translation": {
+   "text": "o Rei disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il allait donner",
+  "newLine": false,
+  "translation": {
+   "text": "que ia dar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une récompense",
+  "newLine": false,
+  "translation": {
+   "text": "uma recompensa",
+   "tips": [
+    {
+     "text": "une récompense",
+     "translatedText": "uma recompensa",
+     "explanation": "\"une récompense\" = \"uma recompensa\" (o prêmio por um feito). Não confundir com \"recompensar\", que é o verbo \"récompenser\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la personne qui pouvait",
+  "newLine": false,
+  "translation": {
+   "text": "à pessoa que pudesse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mettre fin à la vie du chien",
+  "newLine": false,
+  "translation": {
+   "text": "pôr fim à vida do cachorro",
+   "tips": [
+    {
+     "text": "mettre fin à",
+     "translatedText": "pôr fim a / acabar com",
+     "explanation": "\"mettre fin à\" é uma expressão fixa: \"pôr fim a / acabar com\". Aqui, \"mettre fin à la vie du chien\" = \"acabar com a vida do cachorro\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais Bon Cœur a dit",
+  "newLine": true,
+  "translation": {
+   "text": "Mas Bon Cœur disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ne tuez pas le chien",
+  "newLine": false,
+  "translation": {
+   "text": "Não matem o cachorro",
+   "tips": [
+    {
+     "text": "Ne tuez pas",
+     "translatedText": "Não matem",
+     "explanation": "Imperativo negativo: \"ne ... pas\" envolve o verbo. \"tuez\" é \"matai/matem\" (vós/vocês). \"Ne tuez pas\" = \"Não matem\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Donnez-le-moi",
+  "newLine": false,
+  "translation": {
+   "text": "Deem-no a mim",
+   "tips": [
+    {
+     "text": "Donnez-le-moi",
+     "translatedText": "Deem-no a mim / Me deem ele",
+     "explanation": "Imperativo afirmativo com DOIS pronomes depois do verbo, ligados por hífen: \"le\" (o/ele) + \"moi\" (a mim). \"Donnez-le-moi\" = \"Deem-no a mim\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je vais vous payer",
+  "newLine": false,
+  "translation": {
+   "text": "Vou pagar a vocês",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Après",
+  "newLine": false,
+  "translation": {
+   "text": "Depois",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vous pouvez aller",
+  "newLine": false,
+  "translation": {
+   "text": "vocês podem ir",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voir le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "ver o Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dire que vous avez tué le chien",
+  "newLine": false,
+  "translation": {
+   "text": "dizer que vocês mataram o cachorro",
+   "tips": [
+    {
+     "text": "vous avez tué",
+     "translatedText": "vocês mataram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et demander la récompense",
+  "newLine": false,
+  "translation": {
+   "text": "e pedir a recompensa",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais si le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "Mas se o Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "veut voir le corps",
+  "newLine": false,
+  "translation": {
+   "text": "quiser ver o corpo",
+   "tips": [
+    {
+     "text": "le corps",
+     "translatedText": "o corpo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dites-lui",
+  "newLine": false,
+  "translation": {
+   "text": "digam a ele",
+   "tips": [
+    {
+     "text": "dites-lui",
+     "translatedText": "digam a ele / digam-lhe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'un homme est venu",
+  "newLine": false,
+  "translation": {
+   "text": "que um homem veio",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et l'a demandé",
+  "newLine": false,
+  "translation": {
+   "text": "e o pediu",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parce qu'il pensait",
+  "newLine": false,
+  "translation": {
+   "text": "porque ele pensava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'un chien",
+  "newLine": false,
+  "translation": {
+   "text": "que um cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui pouvait manger",
+  "newLine": false,
+  "translation": {
+   "text": "que conseguia comer",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les oiseaux du Roi",
+  "newLine": false,
+  "translation": {
+   "text": "os pássaros do Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "serait vraiment",
+  "newLine": false,
+  "translation": {
+   "text": "seria realmente",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un délicieux dîner",
+  "newLine": false,
+  "translation": {
+   "text": "um jantar delicioso",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vous lui avez donné le chien",
+  "newLine": false,
+  "translation": {
+   "text": "vocês deram a ele o cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Les gens ont pensé",
+  "newLine": true,
+  "translation": {
+   "text": "As pessoas acharam",
+   "tips": [
+    {
+     "text": "Les gens",
+     "translatedText": "as pessoas / a gente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que c'était un excellent plan",
+  "newLine": false,
+  "translation": {
+   "text": "que era um excelente plano",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils ont donné le chien",
+  "newLine": false,
+  "translation": {
+   "text": "e deram o cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à Bon Cœur",
+  "newLine": false,
+  "translation": {
+   "text": "a Bon Cœur",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il leur a donné",
+  "newLine": false,
+  "translation": {
+   "text": "Ele deu a eles",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de l'argent",
+  "newLine": false,
+  "translation": {
+   "text": "dinheiro",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils sont retournés",
+  "newLine": false,
+  "translation": {
+   "text": "e voltaram",
+   "tips": [
+    {
+     "text": "sont retournés",
+     "translatedText": "voltaram / retornaram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voir le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "ver o Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils ont reçu",
+  "newLine": false,
+  "translation": {
+   "text": "e receberam",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la récompense aussi",
+  "newLine": false,
+  "translation": {
+   "text": "a recompensa também",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout le monde était content",
+  "newLine": false,
+  "translation": {
+   "text": "todo mundo estava contente",
+   "tips": [
+    {
+     "text": "tout le monde",
+     "translatedText": "todo mundo / todos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Après un moment",
+  "newLine": true,
+  "translation": {
+   "text": "Depois de um tempo",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur est arrivé",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur chegou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans une autre ville",
+  "newLine": false,
+  "translation": {
+   "text": "a uma outra cidade",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "où un groupe de personnes",
+  "newLine": false,
+  "translation": {
+   "text": "onde um grupo de pessoas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "courait après un autre chien",
+  "newLine": false,
+  "translation": {
+   "text": "corria atrás de outro cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "encore une fois",
+  "newLine": false,
+  "translation": {
+   "text": "mais uma vez",
+   "tips": [
+    {
+     "text": "encore une fois",
+     "translatedText": "mais uma vez / de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il a demandé pourquoi",
+  "newLine": false,
+  "translation": {
+   "text": "ele perguntou por quê",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils ont dit",
+  "newLine": false,
+  "translation": {
+   "text": "e eles disseram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que le chien trouvait toujours",
+  "newLine": false,
+  "translation": {
+   "text": "que o cachorro sempre encontrava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une manière de manger",
+  "newLine": false,
+  "translation": {
+   "text": "uma maneira de comer",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les poissons du Roi",
+  "newLine": false,
+  "translation": {
+   "text": "os peixes do Rei",
+   "tips": [
+    {
+     "text": "les poissons",
+     "translatedText": "os peixes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parce qu'il pouvait",
+  "newLine": false,
+  "translation": {
+   "text": "porque conseguia",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très bien nager",
+  "newLine": false,
+  "translation": {
+   "text": "nadar muito bem",
+   "tips": [
+    {
+     "text": "nager",
+     "translatedText": "nadar",
+     "explanation": "\"nager\" = \"nadar\". \"il pouvait très bien nager\" = \"ele conseguia/sabia nadar muito bem\" (por isso pegava os peixes)."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le Roi a dit",
+  "newLine": false,
+  "translation": {
+   "text": "o Rei disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il allait donner une récompense",
+  "newLine": false,
+  "translation": {
+   "text": "que ia dar uma recompensa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la personne qui pouvait",
+  "newLine": false,
+  "translation": {
+   "text": "à pessoa que pudesse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mettre fin à la vie du chien",
+  "newLine": false,
+  "translation": {
+   "text": "pôr fim à vida do cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur a dit",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il voulait acheter le chien",
+  "newLine": false,
+  "translation": {
+   "text": "que queria comprar o cachorro",
+   "tips": [
+    {
+     "text": "acheter",
+     "translatedText": "comprar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils le lui ont donné",
+  "newLine": false,
+  "translation": {
+   "text": "e eles o deram a ele",
+   "tips": [
+    {
+     "text": "ils le lui ont donné",
+     "translatedText": "eles o deram a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur leur a donné",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur deu a eles",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de l'argent",
+  "newLine": false,
+  "translation": {
+   "text": "dinheiro",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il a continué son voyage",
+  "newLine": false,
+  "translation": {
+   "text": "e continuou sua viagem",
+   "tips": [
+    {
+     "text": "son voyage",
+     "translatedText": "sua viagem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "maintenant avec deux nouveaux amis",
+  "newLine": false,
+  "translation": {
+   "text": "agora com dois novos amigos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à côté de lui",
+  "newLine": false,
+  "translation": {
+   "text": "ao lado dele",
+   "tips": [
+    {
+     "text": "à côté de lui",
+     "translatedText": "ao lado dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bientôt",
+  "newLine": true,
+  "translation": {
+   "text": "Logo",
+   "tips": [
+    {
+     "text": "Bientôt",
+     "translatedText": "logo / em breve",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il a vu un groupe d'hommes",
+  "newLine": false,
+  "translation": {
+   "text": "ele viu um grupo de homens",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il est allé vers eux",
+  "newLine": false,
+  "translation": {
+   "text": "Ele foi até eles",
+   "tips": [
+    {
+     "text": "vers eux",
+     "translatedText": "até eles / em direção a eles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il a demandé",
+  "newLine": false,
+  "translation": {
+   "text": "e ele perguntou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce qu'ils faisaient",
+  "newLine": false,
+  "translation": {
+   "text": "o que faziam",
+   "tips": [
+    {
+     "text": "ce qu'ils faisaient",
+     "translatedText": "o que eles faziam",
+     "explanation": "\"ce que\" = \"o que / aquilo que\". \"faisaient\" é o imparfait de \"faire\" (fazer): \"faziam\". \"ce qu'ils faisaient\" = \"o que eles faziam\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ils ont dit",
+  "newLine": false,
+  "translation": {
+   "text": "Eles disseram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'ils cherchaient",
+  "newLine": false,
+  "translation": {
+   "text": "que procuravam",
+   "tips": [
+    {
+     "text": "cherchaient",
+     "translatedText": "procuravam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un petit chien",
+  "newLine": false,
+  "translation": {
+   "text": "um cachorrinho",
+   "tips": [
+    {
+     "text": "un petit chien",
+     "translatedText": "um cachorrinho / um cão pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui trouvait toujours",
+  "newLine": false,
+  "translation": {
+   "text": "que sempre encontrava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une manière de manger",
+  "newLine": false,
+  "translation": {
+   "text": "uma maneira de comer",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la nourriture du Roi",
+  "newLine": false,
+  "translation": {
+   "text": "a comida do Rei",
+   "tips": [
+    {
+     "text": "la nourriture",
+     "translatedText": "a comida / o alimento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le Roi avait dit",
+  "newLine": false,
+  "translation": {
+   "text": "O Rei tinha dito",
+   "tips": [
+    {
+     "text": "avait dit",
+     "translatedText": "tinha dito / dissera",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que la personne qui pouvait",
+  "newLine": false,
+  "translation": {
+   "text": "que a pessoa que pudesse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mettre fin à la vie de ce chien",
+  "newLine": false,
+  "translation": {
+   "text": "pôr fim à vida desse cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "allait recevoir",
+  "newLine": false,
+  "translation": {
+   "text": "ia receber",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "beaucoup d'argent",
+  "newLine": false,
+  "translation": {
+   "text": "muito dinheiro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "encore une fois",
+  "newLine": false,
+  "translation": {
+   "text": "mais uma vez",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur a dit",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il voulait acheter le chien",
+  "newLine": false,
+  "translation": {
+   "text": "que queria comprar o cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quand ils ont enfin attrapé",
+  "newLine": false,
+  "translation": {
+   "text": "Quando finalmente pegaram",
+   "tips": [
+    {
+     "text": "ont enfin attrapé",
+     "translatedText": "finalmente pegaram / agarraram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le petit chien",
+  "newLine": false,
+  "translation": {
+   "text": "o cachorrinho",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ils l'ont donné à Bon Cœur",
+  "newLine": false,
+  "translation": {
+   "text": "eles o deram a Bon Cœur",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il a continué son voyage",
+  "newLine": false,
+  "translation": {
+   "text": "e continuou sua viagem",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec trois nouveaux amis",
+  "newLine": false,
+  "translation": {
+   "text": "com três novos amigos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à côté de lui",
+  "newLine": false,
+  "translation": {
+   "text": "ao lado dele",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur a marché et marché",
+  "newLine": true,
+  "translation": {
+   "text": "Bon Cœur andou e andou",
+   "tips": [
+    {
+     "text": "a marché",
+     "translatedText": "andou / caminhou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et",
+  "newLine": false,
+  "translation": {
+   "text": "e",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "après un moment",
+  "newLine": false,
+  "translation": {
+   "text": "depois de um tempo",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il a trouvé",
+  "newLine": false,
+  "translation": {
+   "text": "ele encontrou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un groupe d'hommes",
+  "newLine": false,
+  "translation": {
+   "text": "um grupo de homens",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui courait après un grand chien",
+  "newLine": false,
+  "translation": {
+   "text": "que corria atrás de um cachorro grande",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui avait mordu",
+  "newLine": false,
+  "translation": {
+   "text": "que tinha mordido",
+   "tips": [
+    {
+     "text": "qui avait mordu",
+     "translatedText": "que tinha mordido",
+     "explanation": "\"mordu\" é o particípio de \"mordre\" (morder). \"avait mordu\" é o mais-que-perfeito: \"tinha mordido\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "beaucoup de personnes",
+  "newLine": false,
+  "translation": {
+   "text": "muitas pessoas",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur a dit encore une fois",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur disse mais uma vez",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il voulait l'acheter",
+  "newLine": false,
+  "translation": {
+   "text": "que queria comprá-lo",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Les hommes lui ont donné le chien",
+  "newLine": false,
+  "translation": {
+   "text": "Os homens deram a ele o cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais",
+  "newLine": false,
+  "translation": {
+   "text": "mas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "comme il n'avait plus d'argent",
+  "newLine": false,
+  "translation": {
+   "text": "como não tinha mais dinheiro",
+   "tips": [
+    {
+     "text": "n'avait plus d'argent",
+     "translatedText": "não tinha mais dinheiro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon Cœur a décidé",
+  "newLine": false,
+  "translation": {
+   "text": "Bon Cœur decidiu",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de rentrer à la maison",
+  "newLine": false,
+  "translation": {
+   "text": "voltar para casa",
+   "tips": [
+    {
+     "text": "rentrer à la maison",
+     "translatedText": "voltar para casa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec quatre nouveaux amis",
+  "newLine": false,
+  "translation": {
+   "text": "com quatro novos amigos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à côté de lui",
+  "newLine": false,
+  "translation": {
+   "text": "ao lado dele",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

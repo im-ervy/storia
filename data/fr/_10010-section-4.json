@@ -1,0 +1,2201 @@
+[
+  {
+    "text": "Enfin",
+    "newLine": true,
+    "translation": {
+      "text": "Enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les trois hommes se sont revus",
+    "newLine": false,
+    "translation": {
+      "text": "os três homens se reencontraram",
+      "tips": [
+        {
+          "text": "se sont revus",
+          "translatedText": "se reviram / se reencontraram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à l'endroit",
+    "newLine": false,
+    "translation": {
+      "text": "no lugar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où ils s'étaient quittés",
+    "newLine": false,
+    "translation": {
+      "text": "onde eles tinham se separado",
+      "tips": [
+        {
+          "text": "ils s'étaient quittés",
+          "translatedText": "eles tinham se separado / se despedido",
+          "explanation": "\"se quitter\" = separar-se, despedir-se um do outro. Aqui está no mais-que-perfeito (plus-que-parfait): \"s'étaient quittés\" = tinham se separado. Forma-se com o auxiliar \"être\" no imperfeito (\"étaient\") + particípio. Como é verbo pronominal, o particípio concorda: \"quittés\" (masculino plural, pelos três homens)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "presque une année avant",
+    "newLine": false,
+    "translation": {
+      "text": "quase um ano antes",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils étaient heureux",
+    "newLine": false,
+    "translation": {
+      "text": "e estavam felizes",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de se voir",
+    "newLine": false,
+    "translation": {
+      "text": "de se ver",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ils ont parlé",
+    "newLine": false,
+    "translation": {
+      "text": "Eles falaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de ce qu'ils avaient vu",
+    "newLine": false,
+    "translation": {
+      "text": "do que tinham visto",
+      "tips": [
+        {
+          "text": "ce qu'ils avaient vu",
+          "translatedText": "o que tinham visto",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et chacun a montré",
+    "newLine": false,
+    "translation": {
+      "text": "e cada um mostrou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la chose intéressante",
+    "newLine": false,
+    "translation": {
+      "text": "a coisa interessante",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il ramenait à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "que trazia para casa",
+      "tips": [
+        {
+          "text": "qu'il ramenait",
+          "translatedText": "que ele trazia (de volta)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Étoile a montré le tapis",
+    "newLine": false,
+    "translation": {
+      "text": "Estrela mostrou o tapete",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a montré le verre rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Olhos Negros mostrou o vidro vermelho",
+      "tips": [
+        {
+          "text": "le verre rouge",
+          "translatedText": "o vidro/copo vermelho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et Longs Bras a montré la tasse blanche",
+    "newLine": false,
+    "translation": {
+      "text": "e Braços Longos mostrou a xícara branca",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ces choses",
+    "newLine": false,
+    "translation": {
+      "text": "Essas coisas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne sont pas seulement intéressantes",
+    "newLine": false,
+    "translation": {
+      "text": "não são só interessantes",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "on peut aussi les utiliser",
+    "newLine": false,
+    "translation": {
+      "text": "também dá para usá-las",
+      "tips": [
+        {
+          "text": "on peut aussi les utiliser",
+          "translatedText": "também se pode usá-las",
+          "explanation": "Três pontos: 1) \"on\" é um sujeito impessoal, traduzido aqui como \"se\" ou \"a gente\"; 2) \"peut\" vem de \"pouvoir\" (= poder); 3) \"les\" é o pronome objeto (= as/elas, as coisas) e vem ANTES do infinitivo \"utiliser\". Em francês o pronome objeto fica colado ao verbo que rege: \"les utiliser\" = usá-las."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour faire le bien",
+    "newLine": false,
+    "translation": {
+      "text": "para fazer o bem",
+      "tips": [
+        {
+          "text": "faire le bien",
+          "translatedText": "fazer o bem",
+          "explanation": "Expressão cultural: \"faire le bien\" = fazer o bem (praticar boas ações). Note que \"le bien\" usa o artigo \"le\": aqui \"bien\" é um substantivo (= o bem), não o advérbio \"bien\" (= bem). O oposto é \"faire le mal\" (= fazer o mal)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "disse Olhos Negros",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je suis d'accord avec toi",
+    "newLine": false,
+    "translation": {
+      "text": "Concordo com você",
+      "tips": [
+        {
+          "text": "je suis d'accord avec toi",
+          "translatedText": "concordo com você",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Étoile",
+    "newLine": false,
+    "translation": {
+      "text": "disse Estrela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Moi aussi",
+    "newLine": false,
+    "translation": {
+      "text": "Eu também",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Longs Bras",
+    "newLine": false,
+    "translation": {
+      "text": "disse Braços Longos",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "Agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je veux voir",
+    "newLine": false,
+    "translation": {
+      "text": "eu quero ver",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comment vos choses intéressantes marchent",
+    "newLine": false,
+    "translation": {
+      "text": "como as suas coisas interessantes funcionam",
+      "tips": [
+        {
+          "text": "marchent",
+          "translatedText": "funcionam",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Étoile",
+    "newLine": false,
+    "translation": {
+      "text": "disse Estrela",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a pris le verre rouge",
+    "newLine": false,
+    "translation": {
+      "text": "ele pegou o vidro vermelho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de son frère",
+    "newLine": false,
+    "translation": {
+      "text": "do irmão dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il l'a tenu",
+    "newLine": false,
+    "translation": {
+      "text": "e o segurou",
+      "tips": [
+        {
+          "text": "il l'a tenu",
+          "translatedText": "ele o segurou",
+          "explanation": "\"tenu\" é o particípio passado irregular de \"tenir\" (= segurar). No passé composé: \"il a tenu\" = ele segurou. O \"l'\" é o pronome objeto (= o, o vidro) antes do auxiliar \"a\". Cuidado: o particípio de \"tenir\" é \"tenu\", não \"teni\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devant ses yeux",
+    "newLine": false,
+    "translation": {
+      "text": "diante dos olhos dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a pensé à leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "ele pensou na mãe deles",
+      "tips": [
+        {
+          "text": "penser à",
+          "translatedText": "pensar em",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce que",
+    "newLine": false,
+    "translation": {
+      "text": "porque",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après tout ce temps",
+    "newLine": false,
+    "translation": {
+      "text": "depois de todo esse tempo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il voulait vraiment la voir",
+    "newLine": false,
+    "translation": {
+      "text": "ele queria muito vê-la",
+      "tips": [
+        {
+          "text": "la voir",
+          "translatedText": "vê-la",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et c'est comme ça",
+    "newLine": true,
+    "translation": {
+      "text": "E foi assim",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'Étoile a découvert",
+    "newLine": false,
+    "translation": {
+      "text": "que Estrela descobriu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que leur mère n'allait pas bien",
+    "newLine": false,
+    "translation": {
+      "text": "que a mãe deles não estava bem",
+      "tips": [
+        {
+          "text": "n'allait pas bien",
+          "translatedText": "não estava bem (de saúde)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elle était dans son lit",
+    "newLine": false,
+    "translation": {
+      "text": "Ela estava na cama dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec les yeux fermés",
+    "newLine": false,
+    "translation": {
+      "text": "com os olhos fechados",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et son visage était très blanc",
+    "newLine": false,
+    "translation": {
+      "text": "e o rosto dela estava muito pálido",
+      "tips": [
+        {
+          "text": "son visage était très blanc",
+          "translatedText": "o rosto dela estava muito pálido",
+          "explanation": "Em francês, para descrever alguém doente ou sem cor, diz-se que o rosto está \"blanc\" (= branco). Traduzimos por \"pálido\". Então \"son visage était très blanc\" = o rosto dela estava muito pálido (de doente), e não literalmente \"branco\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Étoile a donné le verre rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Estrela deu o vidro vermelho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "para Olhos Negros",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour voir lui-même",
+    "newLine": false,
+    "translation": {
+      "text": "para ver ele mesmo",
+      "tips": [
+        {
+          "text": "lui-même",
+          "translatedText": "ele mesmo / ele próprio",
+          "explanation": "\"lui-même\" = ele mesmo / ele próprio. Forma-se com o pronome tônico (\"lui\") + \"-même\". A ideia é que Olhos Negros visse com os próprios olhos. Compare: \"moi-même\" (eu mesmo), \"toi-même\" (você mesmo), \"elle-même\" (ela mesma)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a vu leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "Olhos Negros viu a mãe deles",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur son lit",
+    "newLine": false,
+    "translation": {
+      "text": "na cama dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec les yeux fermés",
+    "newLine": false,
+    "translation": {
+      "text": "com os olhos fechados",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle ne semblait pas bien",
+    "newLine": false,
+    "translation": {
+      "text": "e ela não parecia bem",
+      "tips": [
+        {
+          "text": "elle ne semblait pas bien",
+          "translatedText": "ela não parecia bem",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a donné le verre rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Olhos Negros deu o vidro vermelho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Longs Bras",
+    "newLine": false,
+    "translation": {
+      "text": "para Braços Longos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour voir lui-même",
+    "newLine": false,
+    "translation": {
+      "text": "para ver ele mesmo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Longs Bras a vu",
+    "newLine": false,
+    "translation": {
+      "text": "Braços Longos viu",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "lui aussi",
+    "newLine": false,
+    "translation": {
+      "text": "ele também",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que leur mère n'allait pas bien",
+    "newLine": false,
+    "translation": {
+      "text": "que a mãe deles não estava bem",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle était sur son lit",
+    "newLine": false,
+    "translation": {
+      "text": "ela estava na cama dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec les yeux fermés",
+    "newLine": false,
+    "translation": {
+      "text": "com os olhos fechados",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Nous devons rentrer à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "Nós precisamos voltar para casa",
+      "tips": [
+        {
+          "text": "nous devons rentrer",
+          "translatedText": "nós precisamos voltar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "agora",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "disse Olhos Negros",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Oui",
+    "newLine": false,
+    "translation": {
+      "text": "Sim",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Étoile",
+    "newLine": false,
+    "translation": {
+      "text": "disse Estrela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je suis d'accord avec toi",
+    "newLine": false,
+    "translation": {
+      "text": "Concordo com você",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Longs Bras",
+    "newLine": false,
+    "translation": {
+      "text": "disse Braços Longos",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Nous allons rentrer à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "Nós vamos voltar para casa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur le tapis bleu",
+    "newLine": false,
+    "translation": {
+      "text": "no tapete azul",
+      "tips": [
+        {
+          "text": "sur le tapis bleu",
+          "translatedText": "no tapete azul",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand nous arrivons",
+    "newLine": false,
+    "translation": {
+      "text": "quando chegarmos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "nous allons lui donner de l'eau",
+    "newLine": false,
+    "translation": {
+      "text": "vamos dar a ela um pouco de água",
+      "tips": [
+        {
+          "text": "lui donner de l'eau",
+          "translatedText": "dar água a ela",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la tasse blanche",
+    "newLine": false,
+    "translation": {
+      "text": "da xícara branca",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle va aller mieux",
+    "newLine": false,
+    "translation": {
+      "text": "e ela vai melhorar",
+      "tips": [
+        {
+          "text": "aller mieux",
+          "translatedText": "melhorar / ficar melhor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "disse Olhos Negros",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": true,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les trois frères sont montés",
+    "newLine": false,
+    "translation": {
+      "text": "os três irmãos subiram",
+      "tips": [
+        {
+          "text": "sont montés",
+          "translatedText": "subiram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur le tapis bleu",
+    "newLine": false,
+    "translation": {
+      "text": "no tapete azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils ont pensé à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "e pensaram em casa",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Bientôt",
+    "newLine": false,
+    "translation": {
+      "text": "Logo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils étaient à côté de leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "eles estavam ao lado da mãe deles",
+      "tips": [
+        {
+          "text": "à côté de",
+          "translatedText": "ao lado de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Longs Bras a mis de l'eau",
+    "newLine": false,
+    "translation": {
+      "text": "Braços Longos pôs água",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans la tasse blanche",
+    "newLine": false,
+    "translation": {
+      "text": "na xícara branca",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il l'a donnée à leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "e a deu para a mãe deles",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après quelques minutes",
+    "newLine": true,
+    "translation": {
+      "text": "Depois de alguns minutos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le visage de Soleil",
+    "newLine": false,
+    "translation": {
+      "text": "o rosto de Sol",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'était plus si blanc",
+    "newLine": false,
+    "translation": {
+      "text": "não estava mais tão pálido",
+      "tips": [
+        {
+          "text": "n'était plus si blanc",
+          "translatedText": "não estava mais tão pálido",
+          "explanation": "Duas estruturas: 1) \"ne ... plus\" = não ... mais (algo deixou de ser), aqui em volta de \"était\"; 2) \"si\" antes de adjetivo = tão. Então \"n'était plus si blanc\" = não estava mais tão branco/pálido. Lembre que \"blanc\" descrevendo o rosto = pálido (espelha a visão anterior, quando estava \"très blanc\")."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elle a ouvert les yeux",
+    "newLine": false,
+    "translation": {
+      "text": "Ela abriu os olhos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a vu ses trois garçons",
+    "newLine": false,
+    "translation": {
+      "text": "ela viu os seus três meninos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à côté d'elle",
+    "newLine": false,
+    "translation": {
+      "text": "ao lado dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle était très heureuse",
+    "newLine": false,
+    "translation": {
+      "text": "e estava muito feliz",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle s'est levée",
+    "newLine": false,
+    "translation": {
+      "text": "ela se levantou",
+      "tips": [
+        {
+          "text": "elle s'est levée",
+          "translatedText": "ela se levantou",
+          "explanation": "\"se lever\" = levantar-se. É verbo pronominal, por isso usa o auxiliar \"être\" no passé composé: \"elle s'est levée\". O particípio concorda com o sujeito feminino: \"levée\" (com -e final). Não confunda \"se lever\" (levantar-se) com \"lever\" (levantar algo)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle a dit",
+    "newLine": false,
+    "translation": {
+      "text": "e disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'elle allait beaucoup mieux",
+    "newLine": false,
+    "translation": {
+      "text": "que estava muito melhor",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je pouvais sentir",
+    "newLine": false,
+    "translation": {
+      "text": "Eu sentia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que mon heure arrivait",
+    "newLine": false,
+    "translation": {
+      "text": "que a minha hora estava chegando",
+      "tips": [
+        {
+          "text": "mon heure arrivait",
+          "translatedText": "a minha hora estava chegando",
+          "explanation": "Eufemismo: \"mon heure arrivait\" (= a minha hora chegava/estava chegando) é uma forma delicada de falar da morte, equivalente ao nosso \"minha hora estava chegando\". \"heure\" aqui não é \"hora do relógio\", mas \"a hora final\". O imperfeito \"arrivait\" dá a ideia de um processo em curso."
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Soleil à ses garçons",
+    "newLine": false,
+    "translation": {
+      "text": "disse Sol aos seus meninos",
+      "tips": []
+    }
+  },
+  {
+    "text": ". « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "Mas agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je vais beaucoup mieux",
+    "newLine": false,
+    "translation": {
+      "text": "estou muito melhor",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et j'ai une longue vie devant moi",
+    "newLine": false,
+    "translation": {
+      "text": "e tenho uma longa vida pela frente",
+      "tips": [
+        {
+          "text": "une longue vie devant moi",
+          "translatedText": "uma longa vida pela frente",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Merci",
+    "newLine": false,
+    "translation": {
+      "text": "Obrigada",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mes beaux garçons",
+    "newLine": false,
+    "translation": {
+      "text": "meus belos meninos",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ils sont tous allés voir le Roi",
+    "newLine": true,
+    "translation": {
+      "text": "Todos foram ver o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi pensait",
+    "newLine": false,
+    "translation": {
+      "text": "O Rei pensava",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il devait encore attendre",
+    "newLine": false,
+    "translation": {
+      "text": "que ainda precisava esperar",
+      "tips": [
+        {
+          "text": "il devait encore attendre",
+          "translatedText": "ele ainda precisava esperar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour voir ses fils",
+    "newLine": false,
+    "translation": {
+      "text": "para ver os filhos dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'une année",
+    "newLine": false,
+    "translation": {
+      "text": "porque um ano",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'avait pas encore passé",
+    "newLine": false,
+    "translation": {
+      "text": "ainda não tinha passado",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il était incroyablement heureux",
+    "newLine": false,
+    "translation": {
+      "text": "ele estava incrivelmente feliz",
+      "tips": [
+        {
+          "text": "incroyablement",
+          "translatedText": "incrivelmente",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de les voir",
+    "newLine": false,
+    "translation": {
+      "text": "de vê-los",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et il était très heureux aussi",
+    "newLine": false,
+    "translation": {
+      "text": "E também estava muito feliz",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de voir sa belle femme",
+    "newLine": false,
+    "translation": {
+      "text": "de ver a sua bela esposa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "aller bien encore une fois",
+    "newLine": false,
+    "translation": {
+      "text": "bem mais uma vez",
+      "tips": [
+        {
+          "text": "aller bien encore une fois",
+          "translatedText": "estar bem mais uma vez",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": true,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chaque fils a raconté au Roi",
+    "newLine": false,
+    "translation": {
+      "text": "cada filho contou ao Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ce qu'il avait vu et acheté",
+    "newLine": false,
+    "translation": {
+      "text": "o que tinha visto e comprado",
+      "tips": [
+        {
+          "text": "ce qu'il avait vu et acheté",
+          "translatedText": "o que tinha visto e comprado",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils lui ont raconté",
+    "newLine": false,
+    "translation": {
+      "text": "eles contaram a ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comment ils avaient vu leur mère",
+    "newLine": false,
+    "translation": {
+      "text": "como tinham visto a mãe deles",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de très loin",
+    "newLine": false,
+    "translation": {
+      "text": "de muito longe",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et comment ils avaient décidé",
+    "newLine": false,
+    "translation": {
+      "text": "e como tinham decidido",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de revenir pour l'aider",
+    "newLine": false,
+    "translation": {
+      "text": "voltar para ajudá-la",
+      "tips": [
+        {
+          "text": "pour l'aider",
+          "translatedText": "para ajudá-la",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mes garçons",
+    "newLine": false,
+    "translation": {
+      "text": "Meus meninos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je suis incroyablement heureux",
+    "newLine": false,
+    "translation": {
+      "text": "estou incrivelmente feliz",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et j'ai enfin décidé",
+    "newLine": false,
+    "translation": {
+      "text": "e finalmente decidi",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui va être le prochain roi",
+    "newLine": false,
+    "translation": {
+      "text": "quem vai ser o próximo rei",
+      "tips": [
+        {
+          "text": "le prochain roi",
+          "translatedText": "o próximo rei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Vous avez si bien travaillé ensemble",
+    "newLine": false,
+    "translation": {
+      "text": "Vocês trabalharam tão bem juntos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que je pense",
+    "newLine": false,
+    "translation": {
+      "text": "que eu acho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que vous devez continuer à travailler ensemble",
+    "newLine": false,
+    "translation": {
+      "text": "que vocês devem continuar a trabalhar juntos",
+      "tips": [
+        {
+          "text": "continuer à travailler",
+          "translatedText": "continuar a trabalhar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour notre pays",
+    "newLine": false,
+    "translation": {
+      "text": "pelo nosso país",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "notre pays va être",
+    "newLine": false,
+    "translation": {
+      "text": "o nosso país vai ser",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le pays des trois rois",
+    "newLine": false,
+    "translation": {
+      "text": "o país dos três reis",
+      "tips": [
+        {
+          "text": "le pays des trois rois",
+          "translatedText": "o país dos três reis (eco do título)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et je sais",
+    "newLine": false,
+    "translation": {
+      "text": "e eu sei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que ce sera un endroit",
+    "newLine": false,
+    "translation": {
+      "text": "que será um lugar",
+      "tips": [
+        {
+          "text": "ce sera un endroit",
+          "translatedText": "será um lugar",
+          "explanation": "\"sera\" é o futuro do verbo \"être\" (= ser/estar): \"il/elle/ce sera\" = ele/ela/isso será. Aqui \"ce sera\" = (isso) será. \"un endroit\" = um lugar. Compare com o presente \"c'est\" (= é) e o futuro \"ce sera\" (= será)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "exceptionnellement bon",
+    "newLine": false,
+    "translation": {
+      "text": "excepcionalmente bom",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour tous les gens qui habitent ici",
+    "newLine": false,
+    "translation": {
+      "text": "para todas as pessoas que moram aqui",
+      "tips": [
+        {
+          "text": "les gens qui habitent ici",
+          "translatedText": "as pessoas que moram aqui",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

@@ -1,0 +1,1419 @@
+[
+  {
+    "text": "Sur le chemin",
+    "newLine": true,
+    "translation": {
+      "text": "No caminho",
+      "tips": [
+        {
+          "text": "Sur le chemin",
+          "translatedText": "no caminho",
+          "explanation": "\"Sur le chemin\" significa \"no caminho / a caminho\". Literalmente é \"sobre o caminho\", mas a preposição \"sur\" aqui equivale ao nosso \"no/pelo\". \"le chemin\" = o caminho."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le grand chien a dit",
+    "newLine": false,
+    "translation": {
+      "text": "o grande cachorro disse",
+      "tips": [
+        {
+          "text": "le grand chien",
+          "translatedText": "o grande cachorro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ces hommes allaient certainement",
+    "newLine": false,
+    "translation": {
+      "text": "esses homens certamente iam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mettre fin à ma vie",
+    "newLine": false,
+    "translation": {
+      "text": "acabar com a minha vida",
+      "tips": [
+        {
+          "text": "mettre fin à",
+          "translatedText": "pôr fim a / acabar com",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Viens avec moi",
+    "newLine": false,
+    "translation": {
+      "text": "Venha comigo",
+      "tips": [
+        {
+          "text": "Viens",
+          "translatedText": "venha (imperativo de \"venir\")",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chez moi",
+    "newLine": false,
+    "translation": {
+      "text": "para a minha casa",
+      "tips": [
+        {
+          "text": "chez moi",
+          "translatedText": "na/para a minha casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où mon père et ma mère habitent",
+    "newLine": false,
+    "translation": {
+      "text": "onde meu pai e minha mãe moram",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et nous allons te donner",
+    "newLine": false,
+    "translation": {
+      "text": "e nós vamos te dar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tout ce que tu demandes",
+    "newLine": false,
+    "translation": {
+      "text": "tudo o que você pedir",
+      "tips": [
+        {
+          "text": "tout ce que",
+          "translatedText": "tudo o que",
+          "explanation": "\"tout ce que\" significa \"tudo o que / tudo aquilo que\". É a junção de \"tout\" (tudo) + \"ce que\" (o que / aquilo que). Usa-se quando o \"que\" é objeto do verbo seguinte (\"tu demandes\" = você pede)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais Bon Cœur a dit",
+    "newLine": true,
+    "translation": {
+      "text": "Mas Bon Cœur disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand je serai là-bas",
+    "newLine": false,
+    "translation": {
+      "text": "Quando eu estiver lá",
+      "tips": [
+        {
+          "text": "Quand je serai là-bas",
+          "translatedText": "quando eu estiver lá",
+          "explanation": "Depois de \"quand\" (quando), referindo-se ao futuro, o francês usa o futuro do indicativo: \"je serai\" = \"eu estarei\". Em português usamos o futuro do subjuntivo (\"quando eu estiver\"). Atenção: a lógica é diferente entre as línguas!"
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tu vas me manger",
+    "newLine": false,
+    "translation": {
+      "text": "você vai me comer",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et si tu ne me manges pas",
+    "newLine": false,
+    "translation": {
+      "text": "E se você não me comer",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ton père et ta mère",
+    "newLine": false,
+    "translation": {
+      "text": "teu pai e tua mãe",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vont le faire",
+    "newLine": false,
+    "translation": {
+      "text": "vão fazer isso",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais le grand chien a dit",
+    "newLine": true,
+    "translation": {
+      "text": "Mas o grande cachorro disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il ne ferait jamais",
+    "newLine": false,
+    "translation": {
+      "text": "que ele nunca faria",
+      "tips": [
+        {
+          "text": "il ne ferait jamais",
+          "translatedText": "ele nunca faria",
+          "explanation": "\"ferait\" é o condicional (conditionnel) de \"faire\" (fazer): \"faria\". A negação \"ne... jamais\" significa \"nunca\". Juntos: \"il ne ferait jamais\" = \"ele nunca faria\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une chose si terrible",
+    "newLine": false,
+    "translation": {
+      "text": "uma coisa tão terrível",
+      "tips": [
+        {
+          "text": "si terrible",
+          "translatedText": "tão terrível",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "enfin",
+    "newLine": false,
+    "translation": {
+      "text": "enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Bon Cœur a dit",
+    "newLine": false,
+    "translation": {
+      "text": "Bon Cœur disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il allait aller chez lui",
+    "newLine": false,
+    "translation": {
+      "text": "que ele iria à casa dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais seulement",
+    "newLine": false,
+    "translation": {
+      "text": "mas somente",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après avoir laissé",
+    "newLine": false,
+    "translation": {
+      "text": "depois de ter deixado",
+      "tips": [
+        {
+          "text": "après avoir laissé",
+          "translatedText": "depois de ter deixado",
+          "explanation": "\"après avoir + particípio\" expressa uma ação concluída antes de outra: \"après avoir laissé\" = \"depois de ter deixado\". Usa-se o infinitivo do auxiliar (\"avoir\") + particípio (\"laissé\")."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "les trois autres",
+    "newLine": false,
+    "translation": {
+      "text": "os outros três",
+      "tips": [
+        {
+          "text": "les trois autres",
+          "translatedText": "os outros três",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans sa propre maison",
+    "newLine": false,
+    "translation": {
+      "text": "na sua própria casa",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'est ce qu'il a fait",
+    "newLine": false,
+    "translation": {
+      "text": "Foi o que ele fez",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et puis il est parti seul",
+    "newLine": false,
+    "translation": {
+      "text": "e depois ele partiu sozinho",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec le grand chien",
+    "newLine": false,
+    "translation": {
+      "text": "com o grande cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Enfin",
+    "newLine": false,
+    "translation": {
+      "text": "Por fim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après quelques jours",
+    "newLine": false,
+    "translation": {
+      "text": "depois de alguns dias",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils sont arrivés",
+    "newLine": false,
+    "translation": {
+      "text": "eles chegaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à la maison du grand chien",
+    "newLine": false,
+    "translation": {
+      "text": "à casa do grande cachorro",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le grand chien a dit",
+    "newLine": false,
+    "translation": {
+      "text": "O grande cachorro disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "a Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'attendre dehors",
+    "newLine": false,
+    "translation": {
+      "text": "para esperar do lado de fora",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant qu'il racontait",
+    "newLine": false,
+    "translation": {
+      "text": "enquanto ele contava",
+      "tips": [
+        {
+          "text": "pendant qu'il racontait",
+          "translatedText": "enquanto ele contava",
+          "explanation": "\"pendant que\" significa \"enquanto\" (ações simultâneas). Não confunda com \"pendant\" sozinho (durante). O verbo \"racontait\" está no imperfeito (imparfait): ação em andamento no passado."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tout à ses parents",
+    "newLine": false,
+    "translation": {
+      "text": "tudo aos pais dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il a aussi dit",
+    "newLine": false,
+    "translation": {
+      "text": "Ele também disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "a Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que",
+    "newLine": false,
+    "translation": {
+      "text": "que",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand on lui demanderait",
+    "newLine": false,
+    "translation": {
+      "text": "quando lhe pedissem",
+      "tips": [
+        {
+          "text": "quand on lui demanderait",
+          "translatedText": "quando lhe pedissem",
+          "explanation": "Dois pontos importantes: \"on\" é um sujeito impessoal (\"a gente / alguém\"), aqui traduzido como o impessoal \"pedissem\". E \"demanderait\" está no condicional, usado para o futuro dentro de um relato no passado (futuro do pretérito)."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de choisir une récompense",
+    "newLine": false,
+    "translation": {
+      "text": "para escolher uma recompensa",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il devait dire",
+    "newLine": false,
+    "translation": {
+      "text": "ele devia dizer",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il voulait la clé bleue",
+    "newLine": false,
+    "translation": {
+      "text": "que ele queria a chave azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Parce que",
+    "newLine": false,
+    "translation": {
+      "text": "Porque",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si on mettait cette clé",
+    "newLine": false,
+    "translation": {
+      "text": "se colocassem essa chave",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans un verre d'eau",
+    "newLine": false,
+    "translation": {
+      "text": "num copo d'água",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "on pouvait lui demander",
+    "newLine": false,
+    "translation": {
+      "text": "podia-se pedir a ela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'importe quoi",
+    "newLine": false,
+    "translation": {
+      "text": "qualquer coisa",
+      "tips": [
+        {
+          "text": "n'importe quoi",
+          "translatedText": "qualquer coisa",
+          "explanation": "\"n'importe quoi\" significa \"qualquer coisa / não importa o quê\". Faz parte da família \"n'importe...\": n'importe qui (qualquer um), n'importe où (em qualquer lugar), n'importe quand (a qualquer hora)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle le donnait",
+    "newLine": false,
+    "translation": {
+      "text": "e ela dava",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le grand chien est alors entré",
+    "newLine": true,
+    "translation": {
+      "text": "O grande cachorro então entrou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chez lui",
+    "newLine": false,
+    "translation": {
+      "text": "na casa dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et son père et sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "e seu pai e sua mãe",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "étaient très heureux",
+    "newLine": false,
+    "translation": {
+      "text": "estavam muito felizes",
+      "tips": [
+        {
+          "text": "étaient heureux",
+          "translatedText": "estavam felizes",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de voir leur fils",
+    "newLine": false,
+    "translation": {
+      "text": "de ver o filho deles",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le grand chien leur a raconté",
+    "newLine": false,
+    "translation": {
+      "text": "O grande cachorro contou a eles",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il était allé",
+    "newLine": false,
+    "translation": {
+      "text": "que ele tinha ido",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au pays des hommes",
+    "newLine": false,
+    "translation": {
+      "text": "à terra dos homens",
+      "tips": [
+        {
+          "text": "le pays des hommes",
+          "translatedText": "a terra / o país dos homens",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et que les gens",
+    "newLine": false,
+    "translation": {
+      "text": "e que as pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "étaient horribles avec lui",
+    "newLine": false,
+    "translation": {
+      "text": "eram horríveis com ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "presque tout le temps",
+    "newLine": false,
+    "translation": {
+      "text": "quase o tempo todo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais il a aussi dit",
+    "newLine": false,
+    "translation": {
+      "text": "Mas ele também disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "que Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avait toujours été gentil",
+    "newLine": false,
+    "translation": {
+      "text": "tinha sempre sido gentil",
+      "tips": [
+        {
+          "text": "avait toujours été",
+          "translatedText": "tinha sempre sido",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec lui",
+    "newLine": false,
+    "translation": {
+      "text": "com ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et qu'il avait même sauvé sa vie",
+    "newLine": false,
+    "translation": {
+      "text": "e que ele até tinha salvado a vida dele",
+      "tips": [
+        {
+          "text": "il avait même sauvé sa vie",
+          "translatedText": "ele até tinha salvado a vida dele",
+          "explanation": "\"même\" aqui significa \"até / inclusive\" (enfatiza algo surpreendente). \"sauver\" = salvar; \"avait sauvé\" no mais-que-perfeito (\"tinha salvado\"). \"sa vie\" = a vida dele (de Bon Cœur, o cachorro)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après",
+    "newLine": true,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le grand chien a amené Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "o grande cachorro levou Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chez ses parents",
+    "newLine": false,
+    "translation": {
+      "text": "à casa dos pais dele",
+      "tips": [
+        {
+          "text": "chez ses parents",
+          "translatedText": "à casa dos seus pais",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et",
+    "newLine": false,
+    "translation": {
+      "text": "e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant deux jours",
+    "newLine": false,
+    "translation": {
+      "text": "durante dois dias",
+      "tips": [
+        {
+          "text": "pendant deux jours",
+          "translatedText": "durante dois dias",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils lui ont donné",
+    "newLine": false,
+    "translation": {
+      "text": "eles deram a ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "beaucoup de nourriture",
+    "newLine": false,
+    "translation": {
+      "text": "muita comida",
+      "tips": [
+        {
+          "text": "beaucoup de nourriture",
+          "translatedText": "muita comida",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le troisième jour",
+    "newLine": false,
+    "translation": {
+      "text": "no terceiro dia",
+      "tips": [
+        {
+          "text": "le troisième jour",
+          "translatedText": "o terceiro dia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le père a demandé",
+    "newLine": false,
+    "translation": {
+      "text": "o pai perguntou",
+      "tips": [
+        {
+          "text": "a demandé",
+          "translatedText": "perguntou / pediu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "a Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ce qu'il voulait comme récompense",
+    "newLine": false,
+    "translation": {
+      "text": "o que ele queria como recompensa",
+      "tips": [
+        {
+          "text": "ce qu'il voulait comme récompense",
+          "translatedText": "o que ele queria como recompensa",
+          "explanation": "\"ce que\" = \"o que / aquilo que\". \"comme\" aqui significa \"como\" no sentido de \"a título de\": \"comme récompense\" = \"como recompensa\". \"voulait\" é o imperfeito de \"vouloir\" (queria)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Bon Cœur a dit",
+    "newLine": true,
+    "translation": {
+      "text": "Bon Cœur disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je veux la clé bleue",
+    "newLine": false,
+    "translation": {
+      "text": "Eu quero a chave azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Si vous ne me donnez pas la clé",
+    "newLine": false,
+    "translation": {
+      "text": "Se vocês não me derem a chave",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je ne vais rien prendre",
+    "newLine": false,
+    "translation": {
+      "text": "eu não vou pegar nada",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Vous allez vous souvenir de moi",
+    "newLine": false,
+    "translation": {
+      "text": "Vocês vão se lembrar de mim",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "toute votre vie",
+    "newLine": false,
+    "translation": {
+      "text": "a vida toda",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et c'est assez pour moi",
+    "newLine": false,
+    "translation": {
+      "text": "e isso já me basta",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les parents ont pensé",
+    "newLine": true,
+    "translation": {
+      "text": "Os pais pensaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant un moment",
+    "newLine": false,
+    "translation": {
+      "text": "por um momento",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "puis",
+    "newLine": false,
+    "translation": {
+      "text": "depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "enfin",
+    "newLine": false,
+    "translation": {
+      "text": "enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la mère a dit",
+    "newLine": false,
+    "translation": {
+      "text": "a mãe disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Nous allons te donner la clé bleue",
+    "newLine": false,
+    "translation": {
+      "text": "Nós vamos te dar a chave azul",
+      "tips": [
+        {
+          "text": "Nous allons te donner",
+          "translatedText": "nós vamos te dar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le père a donné la clé bleue",
+    "newLine": true,
+    "translation": {
+      "text": "O pai deu a chave azul",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à Bon Cœur",
+    "newLine": false,
+    "translation": {
+      "text": "a Bon Cœur",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et le jeune homme",
+    "newLine": false,
+    "translation": {
+      "text": "e o jovem",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est rentré chez lui",
+    "newLine": false,
+    "translation": {
+      "text": "voltou para casa",
+      "tips": [
+        {
+          "text": "est rentré chez lui",
+          "translatedText": "voltou para casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

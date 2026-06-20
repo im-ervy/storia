@@ -1,0 +1,2134 @@
+[
+ {
+  "text": "Había una vez",
+  "newLine": true,
+  "translation": {
+   "text": "Era uma vez",
+   "tips": [
+    {
+     "text": "Había",
+     "translatedText": "Havia / Existia",
+     "explanation": "\"Había una vez\" é a fórmula fixa que abre os contos em espanhol, exatamente o nosso \"Era uma vez\". O verbo \"había\" (de haber) é impessoal: significa \"havia/existia\" e é INVARIÁVEL — nunca muda no plural (\"había dos niños\" = havia dois meninos). Cuidado para não confundir com \"tenía\" (tinha)."
+    },
+    {
+     "text": "una vez",
+     "translatedText": "uma vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un niño",
+  "newLine": false,
+  "translation": {
+   "text": "um menino",
+   "tips": [
+    {
+     "text": "niño",
+     "translatedText": "menino / criança",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que vivía",
+  "newLine": false,
+  "translation": {
+   "text": "que morava",
+   "tips": [
+    {
+     "text": "vivía",
+     "translatedText": "morava / vivia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en una bonita casa azul",
+  "newLine": false,
+  "translation": {
+   "text": "em uma bonita casa azul",
+   "tips": [
+    {
+     "text": "bonita",
+     "translatedText": "bonita / linda",
+     "explanation": null
+    },
+    {
+     "text": "casa azul",
+     "translatedText": "casa azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con su familia",
+  "newLine": false,
+  "translation": {
+   "text": "com sua família",
+   "tips": [
+    {
+     "text": "con",
+     "translatedText": "com",
+     "explanation": null
+    },
+    {
+     "text": "su familia",
+     "translatedText": "sua família",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en un pueblo pequeño",
+  "newLine": false,
+  "translation": {
+   "text": "em um povoado pequeno",
+   "tips": [
+    {
+     "text": "pueblo",
+     "translatedText": "povoado / vilarejo",
+     "explanation": null
+    },
+    {
+     "text": "pequeño",
+     "translatedText": "pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Era un pueblo",
+  "newLine": false,
+  "translation": {
+   "text": "Era um povoado",
+   "tips": [
+    {
+     "text": "Era",
+     "translatedText": "Era",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "muy bonito",
+  "newLine": false,
+  "translation": {
+   "text": "muito bonito",
+   "tips": [
+    {
+     "text": "muy",
+     "translatedText": "muito",
+     "explanation": null
+    },
+    {
+     "text": "bonito",
+     "translatedText": "bonito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "con muchos árboles",
+  "newLine": false,
+  "translation": {
+   "text": "com muitas árvores",
+   "tips": [
+    {
+     "text": "muchos",
+     "translatedText": "muitos / muitas",
+     "explanation": null
+    },
+    {
+     "text": "árboles",
+     "translatedText": "árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y un río",
+  "newLine": false,
+  "translation": {
+   "text": "e um rio",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "río",
+     "translatedText": "rio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "lleno de peces",
+  "newLine": false,
+  "translation": {
+   "text": "cheio de peixes",
+   "tips": [
+    {
+     "text": "lleno de",
+     "translatedText": "cheio de",
+     "explanation": null
+    },
+    {
+     "text": "peces",
+     "translatedText": "peixes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "No hacía",
+  "newLine": false,
+  "translation": {
+   "text": "Não fazia",
+   "tips": [
+    {
+     "text": "No",
+     "translatedText": "Não",
+     "explanation": null
+    },
+    {
+     "text": "hacía",
+     "translatedText": "fazia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ni mucho calor",
+  "newLine": false,
+  "translation": {
+   "text": "nem muito calor",
+   "tips": [
+    {
+     "text": "ni",
+     "translatedText": "nem",
+     "explanation": null
+    },
+    {
+     "text": "mucho calor",
+     "translatedText": "muito calor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ni mucho frío",
+  "newLine": false,
+  "translation": {
+   "text": "nem muito frio",
+   "tips": [
+    {
+     "text": "frío",
+     "translatedText": "frio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y llovía",
+  "newLine": false,
+  "translation": {
+   "text": "e chovia",
+   "tips": [
+    {
+     "text": "llovía",
+     "translatedText": "chovia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "justo lo necesario",
+  "newLine": false,
+  "translation": {
+   "text": "exatamente o necessário",
+   "tips": [
+    {
+     "text": "justo",
+     "translatedText": "exatamente / na medida",
+     "explanation": null
+    },
+    {
+     "text": "lo necesario",
+     "translatedText": "o necessário",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Era como si el sol",
+  "newLine": false,
+  "translation": {
+   "text": "Era como se o sol",
+   "tips": [
+    {
+     "text": "como si",
+     "translatedText": "como se",
+     "explanation": "Depois de \"como si\" (como se) o espanhol EXIGE o subjuntivo imperfeito: \"como si el sol fuera\" = \"como se o sol fosse\". Aqui \"fuera\" é o subjuntivo de \"ser\". O português faz igual: \"como se fosse\"."
+    },
+    {
+     "text": "el sol",
+     "translatedText": "o sol",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "fuera un buen amigo",
+  "newLine": false,
+  "translation": {
+   "text": "fosse um bom amigo",
+   "tips": [
+    {
+     "text": "fuera",
+     "translatedText": "fosse",
+     "explanation": null
+    },
+    {
+     "text": "un buen amigo",
+     "translatedText": "um bom amigo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "siempre de buen humor",
+  "newLine": false,
+  "translation": {
+   "text": "sempre de bom humor",
+   "tips": [
+    {
+     "text": "siempre",
+     "translatedText": "sempre",
+     "explanation": null
+    },
+    {
+     "text": "de buen humor",
+     "translatedText": "de bom humor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "así que la gente",
+  "newLine": false,
+  "translation": {
+   "text": "então as pessoas",
+   "tips": [
+    {
+     "text": "así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    },
+    {
+     "text": "la gente",
+     "translatedText": "as pessoas / o povo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "solía ser amable",
+  "newLine": false,
+  "translation": {
+   "text": "costumava ser amável",
+   "tips": [
+    {
+     "text": "solía ser",
+     "translatedText": "costumava ser",
+     "explanation": null
+    },
+    {
+     "text": "amable",
+     "translatedText": "amável / gentil",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "También había",
+  "newLine": false,
+  "translation": {
+   "text": "Também havia",
+   "tips": [
+    {
+     "text": "También",
+     "translatedText": "Também",
+     "explanation": null
+    },
+    {
+     "text": "había",
+     "translatedText": "havia / existia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "una ciudad grande",
+  "newLine": false,
+  "translation": {
+   "text": "uma cidade grande",
+   "tips": [
+    {
+     "text": "ciudad",
+     "translatedText": "cidade",
+     "explanation": null
+    },
+    {
+     "text": "grande",
+     "translatedText": "grande",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "no muy lejos",
+  "newLine": false,
+  "translation": {
+   "text": "não muito longe",
+   "tips": [
+    {
+     "text": "lejos",
+     "translatedText": "longe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero el pueblo",
+  "newLine": false,
+  "translation": {
+   "text": "mas o povoado",
+   "tips": [
+    {
+     "text": "pero",
+     "translatedText": "mas / porém",
+     "explanation": null
+    },
+    {
+     "text": "el pueblo",
+     "translatedText": "o povoado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "era de verdad",
+  "newLine": false,
+  "translation": {
+   "text": "era de verdade",
+   "tips": [
+    {
+     "text": "de verdad",
+     "translatedText": "de verdade / realmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un muy buen lugar",
+  "newLine": false,
+  "translation": {
+   "text": "um lugar muito bom",
+   "tips": [
+    {
+     "text": "muy buen",
+     "translatedText": "muito bom",
+     "explanation": null
+    },
+    {
+     "text": "lugar",
+     "translatedText": "lugar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "para vivir",
+  "newLine": false,
+  "translation": {
+   "text": "para viver / para morar",
+   "tips": [
+    {
+     "text": "vivir",
+     "translatedText": "viver / morar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Había cinco personas",
+  "newLine": true,
+  "translation": {
+   "text": "Havia cinco pessoas",
+   "tips": [
+    {
+     "text": "Había",
+     "translatedText": "Havia / Existiam",
+     "explanation": null
+    },
+    {
+     "text": "cinco personas",
+     "translatedText": "cinco pessoas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en la familia del niño",
+  "newLine": false,
+  "translation": {
+   "text": "na família do menino",
+   "tips": [
+    {
+     "text": "del niño",
+     "translatedText": "do menino",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la madre",
+  "newLine": false,
+  "translation": {
+   "text": "a mãe",
+   "tips": [
+    {
+     "text": "madre",
+     "translatedText": "mãe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "el padre",
+  "newLine": false,
+  "translation": {
+   "text": "o pai",
+   "tips": [
+    {
+     "text": "padre",
+     "translatedText": "pai",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "una hermana pequeña",
+  "newLine": false,
+  "translation": {
+   "text": "uma irmã pequena",
+   "tips": [
+    {
+     "text": "hermana",
+     "translatedText": "irmã",
+     "explanation": null
+    },
+    {
+     "text": "pequeña",
+     "translatedText": "pequena / mais nova",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un hermano mayor",
+  "newLine": false,
+  "translation": {
+   "text": "um irmão mais velho",
+   "tips": [
+    {
+     "text": "hermano",
+     "translatedText": "irmão",
+     "explanation": null
+    },
+    {
+     "text": "mayor",
+     "translatedText": "mais velho / maior",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y el niño",
+  "newLine": false,
+  "translation": {
+   "text": "e o menino",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "También tenían un perro",
+  "newLine": false,
+  "translation": {
+   "text": "Também tinham um cão",
+   "tips": [
+    {
+     "text": "tenían",
+     "translatedText": "tinham",
+     "explanation": null
+    },
+    {
+     "text": "perro",
+     "translatedText": "cão / cachorro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un perro grande y negro",
+  "newLine": false,
+  "translation": {
+   "text": "um cão grande e preto",
+   "tips": [
+    {
+     "text": "grande y negro",
+     "translatedText": "grande e preto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "llamado Verde",
+  "newLine": false,
+  "translation": {
+   "text": "chamado Verde",
+   "tips": [
+    {
+     "text": "llamado",
+     "translatedText": "chamado",
+     "explanation": null
+    },
+    {
+     "text": "Verde",
+     "translatedText": "Verde",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "por sus bonitos ojos verdes",
+  "newLine": false,
+  "translation": {
+   "text": "por seus bonitos olhos verdes",
+   "tips": [
+    {
+     "text": "por",
+     "translatedText": "por causa de / por",
+     "explanation": null
+    },
+    {
+     "text": "sus",
+     "translatedText": "seus / suas",
+     "explanation": null
+    },
+    {
+     "text": "ojos verdes",
+     "translatedText": "olhos verdes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "El perro era grande",
+  "newLine": false,
+  "translation": {
+   "text": "O cão era grande",
+   "tips": [
+    {
+     "text": "era grande",
+     "translatedText": "era grande",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero muy bueno",
+  "newLine": false,
+  "translation": {
+   "text": "mas muito bom / mas muito manso",
+   "tips": [
+    {
+     "text": "muy bueno",
+     "translatedText": "muito bom / muito manso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "El niño se llamaba Pedro",
+  "newLine": true,
+  "translation": {
+   "text": "O menino se chamava Pedro",
+   "tips": [
+    {
+     "text": "se llamaba",
+     "translatedText": "se chamava / chamava-se",
+     "explanation": null
+    },
+    {
+     "text": "Pedro",
+     "translatedText": "Pedro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pero todos lo llamaban",
+  "newLine": false,
+  "translation": {
+   "text": "mas todos o chamavam",
+   "tips": [
+    {
+     "text": "todos",
+     "translatedText": "todos",
+     "explanation": null
+    },
+    {
+     "text": "lo llamaban",
+     "translatedText": "o chamavam / chamavam-no",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bocón",
+  "newLine": false,
+  "translation": {
+   "text": "Bocón (Bocão / Tagarela)",
+   "tips": [
+    {
+     "text": "Bocón",
+     "translatedText": "Bocão / Tagarela",
+     "explanation": "\"Bocón\" vem de \"boca\" + o sufixo aumentativo -ón, e quer dizer \"boca grande\" / pessoa que fala demais, fanfarrão, tagarela — é o equivalente ao \"Big Mouth\" do inglês. O sufixo -ón forma aumentativos em espanhol (casa → casón, hombre → hombrón). Por ser nome falante, mantemos \"Bocón\" no corpo."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aunque su boca",
+  "newLine": false,
+  "translation": {
+   "text": "embora sua boca",
+   "tips": [
+    {
+     "text": "aunque",
+     "translatedText": "embora / ainda que",
+     "explanation": null
+    },
+    {
+     "text": "su boca",
+     "translatedText": "sua boca",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "no era especialmente grande",
+  "newLine": false,
+  "translation": {
+   "text": "não era especialmente grande",
+   "tips": [
+    {
+     "text": "especialmente",
+     "translatedText": "especialmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Lo llamaban Bocón",
+  "newLine": false,
+  "translation": {
+   "text": "Chamavam-no Bocón",
+   "tips": [
+    {
+     "text": "Lo llamaban",
+     "translatedText": "O chamavam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "porque siempre",
+  "newLine": false,
+  "translation": {
+   "text": "porque sempre",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "contaba historias",
+  "newLine": false,
+  "translation": {
+   "text": "contava histórias",
+   "tips": [
+    {
+     "text": "contaba",
+     "translatedText": "contava",
+     "explanation": null
+    },
+    {
+     "text": "historias",
+     "translatedText": "histórias",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Esas historias",
+  "newLine": false,
+  "translation": {
+   "text": "Essas histórias",
+   "tips": [
+    {
+     "text": "Esas",
+     "translatedText": "Essas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "solían ser muy interesantes",
+  "newLine": false,
+  "translation": {
+   "text": "costumavam ser muito interessantes",
+   "tips": [
+    {
+     "text": "solían ser",
+     "translatedText": "costumavam ser",
+     "explanation": null
+    },
+    {
+     "text": "interesantes",
+     "translatedText": "interessantes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y a la gente del pueblo",
+  "newLine": false,
+  "translation": {
+   "text": "e ao povo do povoado",
+   "tips": [
+    {
+     "text": "a la gente del pueblo",
+     "translatedText": "ao povo do povoado / às pessoas da vila",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le gustaban",
+  "newLine": false,
+  "translation": {
+   "text": "agradavam / gostavam delas",
+   "tips": [
+    {
+     "text": "le gustaban",
+     "translatedText": "lhe agradavam",
+     "explanation": "O verbo \"gustar\" funciona ao contrário do nosso \"gostar de\": o que se gosta é o SUJEITO do verbo. \"A la gente le gustaban las historias\" = literalmente \"ao povo lhe agradavam as histórias\". Por isso o verbo concorda com \"las historias\" (plural) → \"gustaban\", e aparece o \"le\" (a ele/eles). Em PT pensamos \"o povo gostava das histórias\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sin embargo",
+  "newLine": false,
+  "translation": {
+   "text": "No entanto / Porém",
+   "tips": [
+    {
+     "text": "Sin embargo",
+     "translatedText": "No entanto / Porém",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a veces el niño",
+  "newLine": false,
+  "translation": {
+   "text": "às vezes o menino",
+   "tips": [
+    {
+     "text": "a veces",
+     "translatedText": "às vezes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "no quería inventar una historia",
+  "newLine": false,
+  "translation": {
+   "text": "não queria inventar uma história",
+   "tips": [
+    {
+     "text": "no quería",
+     "translatedText": "não queria",
+     "explanation": null
+    },
+    {
+     "text": "inventar",
+     "translatedText": "inventar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sobre un Rey fuerte",
+  "newLine": false,
+  "translation": {
+   "text": "sobre um Rei forte",
+   "tips": [
+    {
+     "text": "sobre",
+     "translatedText": "sobre / a respeito de",
+     "explanation": null
+    },
+    {
+     "text": "Rey fuerte",
+     "translatedText": "Rei forte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "o un pez que hablaba",
+  "newLine": false,
+  "translation": {
+   "text": "ou um peixe que falava",
+   "tips": [
+    {
+     "text": "o",
+     "translatedText": "ou",
+     "explanation": null
+    },
+    {
+     "text": "un pez",
+     "translatedText": "um peixe",
+     "explanation": null
+    },
+    {
+     "text": "que hablaba",
+     "translatedText": "que falava",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Esos días",
+  "newLine": false,
+  "translation": {
+   "text": "Naqueles dias",
+   "tips": [
+    {
+     "text": "Esos días",
+     "translatedText": "Naqueles dias / Nesses dias",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "simplemente",
+  "newLine": false,
+  "translation": {
+   "text": "simplesmente",
+   "tips": [
+    {
+     "text": "simplemente",
+     "translatedText": "simplesmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les decía a las personas",
+  "newLine": false,
+  "translation": {
+   "text": "dizia às pessoas",
+   "tips": [
+    {
+     "text": "les decía",
+     "translatedText": "lhes dizia / dizia a elas",
+     "explanation": null
+    },
+    {
+     "text": "a las personas",
+     "translatedText": "às pessoas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "cosas que no eran verdad",
+  "newLine": false,
+  "translation": {
+   "text": "coisas que não eram verdade",
+   "tips": [
+    {
+     "text": "cosas",
+     "translatedText": "coisas",
+     "explanation": null
+    },
+    {
+     "text": "no eran verdad",
+     "translatedText": "não eram verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y aunque hacía como si dijera",
+  "newLine": false,
+  "translation": {
+   "text": "e embora fizesse como se dissesse",
+   "tips": [
+    {
+     "text": "hacía como si",
+     "translatedText": "fazia como se / fingia que",
+     "explanation": null
+    },
+    {
+     "text": "dijera",
+     "translatedText": "dissesse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la verdad",
+  "newLine": false,
+  "translation": {
+   "text": "a verdade",
+   "tips": [
+    {
+     "text": "verdad",
+     "translatedText": "verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en general solo mentía",
+  "newLine": false,
+  "translation": {
+   "text": "em geral só mentia",
+   "tips": [
+    {
+     "text": "en general",
+     "translatedText": "em geral / no geral",
+     "explanation": null
+    },
+    {
+     "text": "solo",
+     "translatedText": "só / somente",
+     "explanation": null
+    },
+    {
+     "text": "mentía",
+     "translatedText": "mentia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Un día",
+  "newLine": true,
+  "translation": {
+   "text": "Um dia",
+   "tips": [
+    {
+     "text": "Un día",
+     "translatedText": "Um dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le dijo a su hermana pequeña",
+  "newLine": false,
+  "translation": {
+   "text": "disse à sua irmã pequena",
+   "tips": [
+    {
+     "text": "le dijo",
+     "translatedText": "lhe disse / disse a ele(a)",
+     "explanation": null
+    },
+    {
+     "text": "hermana pequeña",
+     "translatedText": "irmã pequena / irmã mais nova",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que un gran monstruo",
+  "newLine": false,
+  "translation": {
+   "text": "que um grande monstro",
+   "tips": [
+    {
+     "text": "gran monstruo",
+     "translatedText": "grande monstro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vivía debajo de su cama",
+  "newLine": false,
+  "translation": {
+   "text": "morava debaixo da sua cama",
+   "tips": [
+    {
+     "text": "debajo de",
+     "translatedText": "debaixo de / embaixo de",
+     "explanation": null
+    },
+    {
+     "text": "su cama",
+     "translatedText": "sua cama",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y la pobre niña",
+  "newLine": false,
+  "translation": {
+   "text": "e a pobre menina",
+   "tips": [
+    {
+     "text": "pobre niña",
+     "translatedText": "pobre menina / coitada da menina",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "no durmió bien",
+  "newLine": false,
+  "translation": {
+   "text": "não dormiu bem",
+   "tips": [
+    {
+     "text": "durmió",
+     "translatedText": "dormiu",
+     "explanation": null
+    },
+    {
+     "text": "bien",
+     "translatedText": "bem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "durante toda una semana",
+  "newLine": false,
+  "translation": {
+   "text": "durante uma semana inteira",
+   "tips": [
+    {
+     "text": "durante",
+     "translatedText": "durante",
+     "explanation": null
+    },
+    {
+     "text": "toda una semana",
+     "translatedText": "uma semana inteira",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y sacó una mala nota",
+  "newLine": false,
+  "translation": {
+   "text": "e tirou uma nota ruim",
+   "tips": [
+    {
+     "text": "sacó una nota",
+     "translatedText": "tirou uma nota",
+     "explanation": null
+    },
+    {
+     "text": "mala nota",
+     "translatedText": "nota ruim / nota baixa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en su examen de historia",
+  "newLine": false,
+  "translation": {
+   "text": "na sua prova de história",
+   "tips": [
+    {
+     "text": "examen",
+     "translatedText": "prova / exame",
+     "explanation": null
+    },
+    {
+     "text": "historia",
+     "translatedText": "história (matéria)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Después",
+  "newLine": false,
+  "translation": {
+   "text": "Depois",
+   "tips": [
+    {
+     "text": "Después",
+     "translatedText": "Depois",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "otro día",
+  "newLine": false,
+  "translation": {
+   "text": "outro dia",
+   "tips": [
+    {
+     "text": "otro",
+     "translatedText": "outro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le dijo a su hermano",
+  "newLine": false,
+  "translation": {
+   "text": "disse ao seu irmão",
+   "tips": [
+    {
+     "text": "le dijo",
+     "translatedText": "lhe disse / disse a ele",
+     "explanation": null
+    },
+    {
+     "text": "su hermano",
+     "translatedText": "seu irmão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que Verde se había escapado",
+  "newLine": false,
+  "translation": {
+   "text": "que Verde tinha fugido",
+   "tips": [
+    {
+     "text": "se había escapado",
+     "translatedText": "tinha fugido / havia escapado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "y el pobre joven",
+  "newLine": false,
+  "translation": {
+   "text": "e o pobre rapaz",
+   "tips": [
+    {
+     "text": "joven",
+     "translatedText": "jovem / rapaz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pasó todo un día buscándolo",
+  "newLine": false,
+  "translation": {
+   "text": "passou o dia inteiro procurando-o",
+   "tips": [
+    {
+     "text": "pasó todo un día",
+     "translatedText": "passou um dia inteiro",
+     "explanation": null
+    },
+    {
+     "text": "buscándolo",
+     "translatedText": "procurando-o",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sin embargo",
+  "newLine": false,
+  "translation": {
+   "text": "No entanto / Porém",
+   "tips": [
+    {
+     "text": "Sin embargo",
+     "translatedText": "No entanto / Porém",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "el perro había pasado",
+  "newLine": false,
+  "translation": {
+   "text": "o cão tinha passado",
+   "tips": [
+    {
+     "text": "había pasado",
+     "translatedText": "tinha passado / havia passado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ese mismo día",
+  "newLine": false,
+  "translation": {
+   "text": "esse mesmo dia",
+   "tips": [
+    {
+     "text": "ese mismo día",
+     "translatedText": "esse mesmo dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "durmiendo debajo de la cama del joven",
+  "newLine": false,
+  "translation": {
+   "text": "dormindo debaixo da cama do rapaz",
+   "tips": [
+    {
+     "text": "durmiendo",
+     "translatedText": "dormindo",
+     "explanation": null
+    },
+    {
+     "text": "debajo de la cama",
+     "translatedText": "debaixo da cama",
+     "explanation": null
+    },
+    {
+     "text": "del joven",
+     "translatedText": "do rapaz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Otro día",
+  "newLine": true,
+  "translation": {
+   "text": "Outro dia",
+   "tips": [
+    {
+     "text": "Otro día",
+     "translatedText": "Outro dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le dijo a su maestra",
+  "newLine": false,
+  "translation": {
+   "text": "disse à sua professora",
+   "tips": [
+    {
+     "text": "le dijo",
+     "translatedText": "lhe disse / disse a ela",
+     "explanation": null
+    },
+    {
+     "text": "maestra",
+     "translatedText": "professora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que un grupo de niños y niñas",
+  "newLine": false,
+  "translation": {
+   "text": "que um grupo de meninos e meninas",
+   "tips": [
+    {
+     "text": "un grupo de",
+     "translatedText": "um grupo de",
+     "explanation": null
+    },
+    {
+     "text": "niños y niñas",
+     "translatedText": "meninos e meninas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de su clase",
+  "newLine": false,
+  "translation": {
+   "text": "da sua turma",
+   "tips": [
+    {
+     "text": "clase",
+     "translatedText": "turma / aula / sala",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "había tirado piedras a un perro",
+  "newLine": false,
+  "translation": {
+   "text": "tinha atirado pedras em um cão",
+   "tips": [
+    {
+     "text": "había tirado",
+     "translatedText": "tinha atirado / havia jogado",
+     "explanation": null
+    },
+    {
+     "text": "piedras",
+     "translatedText": "pedras",
+     "explanation": null
+    },
+    {
+     "text": "a un perro",
+     "translatedText": "em um cão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Hasta que la maestra descubrió",
+  "newLine": false,
+  "translation": {
+   "text": "Até que a professora descobriu",
+   "tips": [
+    {
+     "text": "Hasta que",
+     "translatedText": "Até que",
+     "explanation": null
+    },
+    {
+     "text": "descubrió",
+     "translatedText": "descobriu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que no era verdad",
+  "newLine": false,
+  "translation": {
+   "text": "que não era verdade",
+   "tips": [
+    {
+     "text": "no era verdad",
+     "translatedText": "não era verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "estuvo muy decepcionada",
+  "newLine": false,
+  "translation": {
+   "text": "ficou muito decepcionada",
+   "tips": [
+    {
+     "text": "estuvo decepcionada",
+     "translatedText": "ficou/esteve decepcionada",
+     "explanation": "Aqui usa-se ESTAR (\"estuvo\") porque é um ESTADO/emoção, não uma característica — contraste com o SER de \"era un pueblo bonito\". Esta é a distinção que mais confunde o brasileiro: SER = como a coisa é; ESTAR = como ela está/se sente num momento."
+    }
+   ]
+  }
+ },
+ {
+  "text": " con sus alumnos",
+  "newLine": false,
+  "translation": {
+   "text": "com seus alunos",
+   "tips": [
+    {
+     "text": "alumnos",
+     "translatedText": "alunos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pero cuando supo",
+  "newLine": false,
+  "translation": {
+   "text": "Mas quando soube",
+   "tips": [
+    {
+     "text": "cuando",
+     "translatedText": "quando",
+     "explanation": null
+    },
+    {
+     "text": "supo",
+     "translatedText": "soube",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que Bocón no había dicho la verdad",
+  "newLine": false,
+  "translation": {
+   "text": "que Bocón não tinha dito a verdade",
+   "tips": [
+    {
+     "text": "no había dicho",
+     "translatedText": "não tinha dito",
+     "explanation": null
+    },
+    {
+     "text": "la verdad",
+     "translatedText": "a verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "se sintió un poco mejor",
+  "newLine": false,
+  "translation": {
+   "text": "sentiu-se um pouco melhor",
+   "tips": [
+    {
+     "text": "se sintió",
+     "translatedText": "sentiu-se",
+     "explanation": null
+    },
+    {
+     "text": "un poco mejor",
+     "translatedText": "um pouco melhor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "solo estaba decepcionada con él",
+  "newLine": false,
+  "translation": {
+   "text": "só estava decepcionada com ele",
+   "tips": [
+    {
+     "text": "estaba decepcionada",
+     "translatedText": "estava decepcionada",
+     "explanation": null
+    },
+    {
+     "text": "con él",
+     "translatedText": "com ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

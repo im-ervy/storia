@@ -1,0 +1,1879 @@
+[
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Oui, maman",
+    "newLine": false,
+    "translation": {
+      "text": "Sim, mamãe",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Fort",
+    "newLine": false,
+    "translation": {
+      "text": "disse Fort",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Alors tu sais très bien",
+    "newLine": false,
+    "translation": {
+      "text": "Então você sabe muito bem",
+      "tips": [
+        {
+          "text": "tu sais très bien",
+          "translatedText": "você sabe muito bem",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que tu ne dois pas sortir avec elle",
+    "newLine": false,
+    "translation": {
+      "text": "que você não deve namorar ela",
+      "tips": [
+        {
+          "text": "tu ne dois pas sortir avec elle",
+          "translatedText": "você não deve sair com ela / namorar ela",
+          "explanation": "Atenção: \"sortir avec quelqu'un\" significa literalmente \"sair com alguém\", mas é a forma normal de dizer \"namorar\" em francês. \"tu ne dois pas sortir avec elle\" = você não deve namorar ela. O verbo \"sortir\" sozinho é \"sair\", mas com \"avec\" + pessoa vira \"namorar\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "disse a mãe dele",
+      "tips": [
+        {
+          "text": "sa mère",
+          "translatedText": "a mãe dele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "Por quê",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Fort",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Fort",
+      "tips": [
+        {
+          "text": "a demandé",
+          "translatedText": "perguntou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Parce qu'elle est un membre",
+    "newLine": false,
+    "translation": {
+      "text": "Porque ela é um membro",
+      "tips": [
+        {
+          "text": "Parce qu'elle est",
+          "translatedText": "Porque ela é",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la famille Bleue",
+    "newLine": false,
+    "translation": {
+      "text": "da família Azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "voilà pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "eis o porquê",
+      "tips": [
+        {
+          "text": "voilà pourquoi",
+          "translatedText": "eis o porquê / é por isso",
+          "explanation": "\"voilà\" significa \"eis aqui / aí está\", e \"pourquoi\" = porquê. Juntos, \"voilà pourquoi\" = \"eis o porquê / é por isso mesmo\". É usado para concluir, apontando a razão de algo. Aqui a mãe usa como se fosse uma razão final e definitiva."
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ela disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Et",
+    "newLine": false,
+    "translation": {
+      "text": "E",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Fort",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Fort",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Je ne veux plus parler",
+    "newLine": false,
+    "translation": {
+      "text": "Eu não quero mais falar",
+      "tips": [
+        {
+          "text": "Je ne veux plus parler",
+          "translatedText": "Eu não quero mais falar",
+          "explanation": "A negação \"ne ... plus\" significa \"não ... mais\". \"je veux\" = eu quero; com \"ne ... plus\" fica \"je ne veux plus\" = eu não quero mais. O \"plus\" aqui reforça que algo que acontecia para de acontecer. \"Je ne veux plus parler\" = eu não quero mais falar."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec toi maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "com você agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Va parler avec ton père",
+    "newLine": false,
+    "translation": {
+      "text": "Vá falar com o seu pai",
+      "tips": [
+        {
+          "text": "Va parler",
+          "translatedText": "Vá falar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu a mãe dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis Fort a eu",
+    "newLine": true,
+    "translation": {
+      "text": "Depois Fort teve",
+      "tips": [
+        {
+          "text": "a eu",
+          "translatedText": "teve",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la même conversation",
+    "newLine": false,
+    "translation": {
+      "text": "a mesma conversa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec son père",
+    "newLine": false,
+    "translation": {
+      "text": "com o pai dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ce même soir",
+    "newLine": true,
+    "translation": {
+      "text": "Nessa mesma noite",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Jolie a dit à sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "Jolie disse à mãe dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maman",
+    "newLine": false,
+    "translation": {
+      "text": "Mamãe",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "j'ai rencontré",
+    "newLine": false,
+    "translation": {
+      "text": "eu conheci",
+      "tips": [
+        {
+          "text": "j'ai rencontré",
+          "translatedText": "eu conheci / encontrei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un jeune homme très gentil",
+    "newLine": false,
+    "translation": {
+      "text": "um rapaz muito gentil",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Je suis contente",
+    "newLine": false,
+    "translation": {
+      "text": "Eu estou contente",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'entendre ça",
+    "newLine": false,
+    "translation": {
+      "text": "de ouvir isso",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ma fille",
+    "newLine": false,
+    "translation": {
+      "text": "minha filha",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "disse a mãe dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Son nom est Pierre Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "O nome dele é Pierre Rouge",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "disse Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après un moment",
+    "newLine": true,
+    "translation": {
+      "text": "Depois de um momento",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui a semblé durer une année",
+    "newLine": false,
+    "translation": {
+      "text": "que pareceu durar um ano",
+      "tips": [
+        {
+          "text": "qui a semblé durer une année",
+          "translatedText": "que pareceu durar um ano",
+          "explanation": "Aqui há dois verbos juntos: \"sembler\" (= parecer) seguido de \"durer\" (= durar) no infinitivo. \"a semblé durer\" = pareceu durar. A construção \"sembler + infinitivo\" expressa uma impressão (\"parece fazer algo\"). \"qui a semblé durer une année\" = que pareceu durar um ano (de tão longa que foi a espera)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sa mère a répondu",
+    "newLine": false,
+    "translation": {
+      "text": "a mãe dela respondeu",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Rouge",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il est un membre",
+    "newLine": false,
+    "translation": {
+      "text": "Ele é um membro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la famille Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "da família Vermelha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Oui, maman",
+    "newLine": false,
+    "translation": {
+      "text": "Sim, mamãe",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "disse Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Alors tu sais très bien",
+    "newLine": false,
+    "translation": {
+      "text": "Então você sabe muito bem",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que tu ne dois pas sortir avec lui",
+    "newLine": false,
+    "translation": {
+      "text": "que você não deve namorar ele",
+      "tips": [
+        {
+          "text": "sortir avec lui",
+          "translatedText": "namorar ele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "disse a mãe dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "Por quê",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Parce qu'il est un membre",
+    "newLine": false,
+    "translation": {
+      "text": "Porque ele é um membro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la famille Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "da família Vermelha",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "voilà pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "eis o porquê",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ela disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Et",
+    "newLine": false,
+    "translation": {
+      "text": "E",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Je ne veux plus parler",
+    "newLine": false,
+    "translation": {
+      "text": "Eu não quero mais falar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec toi maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "com você agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Va parler avec ton père",
+    "newLine": false,
+    "translation": {
+      "text": "Vá falar com o seu pai",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu sa mère",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu a mãe dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis Jolie a eu",
+    "newLine": true,
+    "translation": {
+      "text": "Depois Jolie teve",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la même conversation",
+    "newLine": false,
+    "translation": {
+      "text": "a mesma conversa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec son père",
+    "newLine": false,
+    "translation": {
+      "text": "com o pai dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le soir suivant",
+    "newLine": true,
+    "translation": {
+      "text": "Na noite seguinte",
+      "tips": [
+        {
+          "text": "Le soir suivant",
+          "translatedText": "Na noite seguinte",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Jolie a dit à ses parents",
+    "newLine": false,
+    "translation": {
+      "text": "Jolie disse aos pais dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maman, papa",
+    "newLine": false,
+    "translation": {
+      "text": "Mamãe, papai",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je vais arrêter de voir",
+    "newLine": false,
+    "translation": {
+      "text": "eu vou parar de ver",
+      "tips": [
+        {
+          "text": "je vais arrêter de voir",
+          "translatedText": "eu vou parar de ver",
+          "explanation": "\"arrêter de\" + infinitivo significa \"parar de\" fazer algo. \"je vais arrêter\" = eu vou parar (futuro com \"aller\"). \"arrêter de voir\" = parar de ver. Então \"je vais arrêter de voir Pierre\" = eu vou parar de ver / encontrar o Pierre."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pierre Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Pierre Rouge",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si vous me donnez",
+    "newLine": false,
+    "translation": {
+      "text": "se vocês me derem",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Il est de la famille Rouge",
+    "newLine": false,
+    "translation": {
+      "text": "Ele é da família Vermelha",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "c'est une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "essa é uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit son père",
+    "newLine": false,
+    "translation": {
+      "text": "disse o pai dela",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Non, papa",
+    "newLine": false,
+    "translation": {
+      "text": "Não, papai",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "S'il te plaît",
+    "newLine": false,
+    "translation": {
+      "text": "Por favor",
+      "tips": [
+        {
+          "text": "S'il te plaît",
+          "translatedText": "Por favor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dis-moi exactement pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "me diga exatamente por que",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je ne dois pas l'aimer",
+    "newLine": false,
+    "translation": {
+      "text": "eu não devo amá-lo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quelque chose de raisonnable",
+    "newLine": false,
+    "translation": {
+      "text": "Algo razoável",
+      "tips": [
+        {
+          "text": "Quelque chose de raisonnable",
+          "translatedText": "Algo razoável",
+          "explanation": "Quando \"quelque chose\" (= algo / alguma coisa) é seguido de um adjetivo, entra o \"de\" no meio: \"quelque chose DE raisonnable\" = algo razoável. Essa partícula \"de\" é obrigatória e não se traduz. Mesmo padrão: \"quelque chose de bon\" = algo bom, \"quelque chose d'important\" = algo importante."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et de rationnel",
+    "newLine": false,
+    "translation": {
+      "text": "e racional",
+      "tips": []
+    }
+  },
+  {
+    "text": ". \"",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'est comme ça depuis toujours",
+    "newLine": false,
+    "translation": {
+      "text": "É assim desde sempre",
+      "tips": [
+        {
+          "text": "depuis toujours",
+          "translatedText": "desde sempre",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "\" ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'est pas une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "não é uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ce même soir",
+    "newLine": true,
+    "translation": {
+      "text": "Nessa mesma noite",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Fort a dit à ses parents",
+    "newLine": false,
+    "translation": {
+      "text": "Fort disse aos pais dele",
+      "tips": []
+    }
+  },
+  {
+    "text": " : « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maman, papa",
+    "newLine": false,
+    "translation": {
+      "text": "Mamãe, papai",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je vais arrêter de voir",
+    "newLine": false,
+    "translation": {
+      "text": "eu vou parar de ver",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Anna Bleue",
+    "newLine": false,
+    "translation": {
+      "text": "Anna Bleue",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si vous me donnez",
+    "newLine": false,
+    "translation": {
+      "text": "se vocês me derem",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Elle est de la famille Bleue",
+    "newLine": false,
+    "translation": {
+      "text": "Ela é da família Azul",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "c'est une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "essa é uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit son père",
+    "newLine": false,
+    "translation": {
+      "text": "disse o pai dele",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Non, papa",
+    "newLine": false,
+    "translation": {
+      "text": "Não, papai",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "S'il te plaît",
+    "newLine": false,
+    "translation": {
+      "text": "Por favor",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dis-moi exactement pourquoi",
+    "newLine": false,
+    "translation": {
+      "text": "me diga exatamente por que",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je ne dois pas l'aimer",
+    "newLine": false,
+    "translation": {
+      "text": "eu não devo amá-la",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quelque chose de raisonnable",
+    "newLine": false,
+    "translation": {
+      "text": "Algo razoável",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et de rationnel",
+    "newLine": false,
+    "translation": {
+      "text": "e racional",
+      "tips": []
+    }
+  },
+  {
+    "text": ". \"",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'est comme ça depuis toujours",
+    "newLine": false,
+    "translation": {
+      "text": "É assim desde sempre",
+      "tips": []
+    }
+  },
+  {
+    "text": "\" ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'est pas une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "não é uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu Fort",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu Fort",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais",
+    "newLine": true,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme leurs parents",
+    "newLine": false,
+    "translation": {
+      "text": "como os pais deles",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ne pouvaient pas trouver",
+    "newLine": false,
+    "translation": {
+      "text": "não conseguiam encontrar",
+      "tips": [
+        {
+          "text": "ne pouvaient pas trouver",
+          "translatedText": "não conseguiam encontrar",
+          "explanation": "Literalmente \"ne pouvaient pas trouver\" é \"não podiam encontrar\", mas em português soa mais natural \"não conseguiam encontrar\". O verbo \"pouvoir\" (= poder) muitas vezes equivale a \"conseguir\" quando se fala de capacidade. \"comme leurs parents ne pouvaient pas trouver une bonne raison\" = como os pais deles não conseguiam encontrar uma boa razão."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une bonne raison",
+    "newLine": false,
+    "translation": {
+      "text": "uma boa razão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Fort et Jolie",
+    "newLine": false,
+    "translation": {
+      "text": "Fort e Jolie",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ont continué à sortir ensemble",
+    "newLine": false,
+    "translation": {
+      "text": "continuaram a namorar",
+      "tips": [
+        {
+          "text": "ont continué à sortir ensemble",
+          "translatedText": "continuaram a sair juntos / namorar",
+          "explanation": "\"continuer à\" + infinitivo significa \"continuar a\" fazer algo. \"ont continué\" = continuaram. \"sortir ensemble\" = \"sair juntos\", que é a forma de dizer \"namorar\" (como vimos com \"sortir avec\"). Então \"ont continué à sortir ensemble\" = continuaram a namorar / a se ver."
+        }
+      ]
+    }
+  },
+  {
+    "text": " — ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "mas agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans leur propre ville",
+    "newLine": false,
+    "translation": {
+      "text": "na própria cidade deles",
+      "tips": [
+        {
+          "text": "leur propre ville",
+          "translatedText": "a própria cidade deles",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après un moment",
+    "newLine": false,
+    "translation": {
+      "text": "Depois de um tempo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "leurs mères ont ouvert",
+    "newLine": false,
+    "translation": {
+      "text": "as mães deles abriram",
+      "tips": [
+        {
+          "text": "ont ouvert",
+          "translatedText": "abriram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un restaurant ensemble",
+    "newLine": false,
+    "translation": {
+      "text": "um restaurante juntas",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "En fait",
+    "newLine": false,
+    "translation": {
+      "text": "Na verdade",
+      "tips": [
+        {
+          "text": "En fait",
+          "translatedText": "Na verdade / Aliás",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "leurs mères avaient toujours été",
+    "newLine": false,
+    "translation": {
+      "text": "as mães deles sempre tinham sido",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de bonnes amies",
+    "newLine": false,
+    "translation": {
+      "text": "boas amigas",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et leurs pères",
+    "newLine": false,
+    "translation": {
+      "text": "E os pais deles",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ont enfin commencé",
+    "newLine": false,
+    "translation": {
+      "text": "enfim começaram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à s'inviter au barbecue",
+    "newLine": false,
+    "translation": {
+      "text": "a se convidar para o churrasco",
+      "tips": [
+        {
+          "text": "à s'inviter au barbecue",
+          "translatedText": "a se convidar para o churrasco",
+          "explanation": "\"inviter\" significa \"convidar\". Na forma pronominal recíproca \"s'inviter\" quer dizer \"convidar um ao outro / se convidarem\". \"au barbecue\" = para o churrasco (\"barbecue\" é a palavra francesa para churrasco). Então \"s'inviter au barbecue\" = um convidar o outro para o churrasco."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "du dimanche",
+    "newLine": false,
+    "translation": {
+      "text": "de domingo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "même s'ils parlaient déjà",
+    "newLine": false,
+    "translation": {
+      "text": "mesmo já conversando",
+      "tips": [
+        {
+          "text": "même s'ils parlaient déjà",
+          "translatedText": "mesmo que já conversassem / mesmo já conversando",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur internet",
+    "newLine": false,
+    "translation": {
+      "text": "pela internet",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "depuis très longtemps",
+    "newLine": false,
+    "translation": {
+      "text": "há muito tempo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "des meilleures manières de cuisiner",
+    "newLine": false,
+    "translation": {
+      "text": "sobre as melhores maneiras de cozinhar",
+      "tips": [
+        {
+          "text": "les meilleures manières de cuisiner",
+          "translatedText": "as melhores maneiras de cozinhar",
+          "explanation": "\"meilleur\" é o superlativo/comparativo irregular de \"bon\" (= bom): \"bon\" → \"meilleur\" (= melhor). No feminino plural fica \"meilleures\". \"les meilleures manières\" = as melhores maneiras. \"de cuisiner\" = de cozinhar (\"cuisiner\" = cozinhar). Então é \"as melhores maneiras de cozinhar\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

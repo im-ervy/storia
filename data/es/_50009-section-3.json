@@ -1,0 +1,3654 @@
+[
+ {
+  "text": "Todos en la corte",
+  "newLine": true,
+  "translation": {
+   "text": "Todos na corte",
+   "tips": [
+    {
+     "text": "Todos",
+     "translatedText": "todos",
+     "explanation": null
+    },
+    {
+     "text": "en la corte",
+     "translatedText": "na corte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "quedaron sorprendidos",
+  "translation": {
+   "text": "ficaram surpresos",
+   "tips": [
+    {
+     "text": "quedaron sorprendidos",
+     "translatedText": "ficaram surpresos",
+     "explanation": "ESTRUTURA-ESPELHO: \"quedarse\" + adjetivo = \"ficar\" (passar a um estado). \"quedaron sorprendidos\" = ficaram surpresos. Cuidado: \"quedar\" também significa \"combinar/marcar\" (quedamos a las cinco = combinamos às cinco).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por esto",
+  "translation": {
+   "text": "com isso",
+   "tips": [
+    {
+     "text": "por esto",
+     "translatedText": "por isso / com isso",
+     "explanation": "POR vs PARA: aqui é \"por\" porque indica CAUSA (o motivo da surpresa). \"para\" seria finalidade. Regra: por = causa/motivo; para = objetivo/destino.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y el viejo",
+  "translation": {
+   "text": "e o velho",
+   "tips": [
+    {
+     "text": "y",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "el viejo",
+     "translatedText": "o velho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "más que todos los demás",
+  "translation": {
+   "text": "mais do que todos os outros",
+   "tips": [
+    {
+     "text": "más que",
+     "translatedText": "mais do que",
+     "explanation": null
+    },
+    {
+     "text": "todos los demás",
+     "translatedText": "todos os outros / os demais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Entonces",
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "aunque no mostró",
+  "translation": {
+   "text": "embora não mostrasse",
+   "tips": [
+    {
+     "text": "aunque",
+     "translatedText": "embora / ainda que",
+     "explanation": null
+    },
+    {
+     "text": "no mostró",
+     "translatedText": "não mostrou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "su sorpresa",
+  "translation": {
+   "text": "sua surpresa",
+   "tips": [
+    {
+     "text": "su sorpresa",
+     "translatedText": "sua surpresa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "le dijo al Rey",
+  "translation": {
+   "text": "disse ao Rei",
+   "tips": [
+    {
+     "text": "le dijo",
+     "translatedText": "disse a ele",
+     "explanation": null
+    },
+    {
+     "text": "al Rey",
+     "translatedText": "ao Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Ahora puedes ver",
+  "translation": {
+   "text": "Agora você pode ver",
+   "tips": [
+    {
+     "text": "Ahora",
+     "translatedText": "agora",
+     "explanation": null
+    },
+    {
+     "text": "puedes ver",
+     "translatedText": "você pode ver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que te dije la verdad",
+  "translation": {
+   "text": "que te disse a verdade",
+   "tips": [
+    {
+     "text": "te dije",
+     "translatedText": "eu te disse",
+     "explanation": null
+    },
+    {
+     "text": "la verdad",
+     "translatedText": "a verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Estoy seguro de que",
+  "translation": {
+   "text": "Estou certo de que",
+   "tips": [
+    {
+     "text": "Estoy seguro",
+     "translatedText": "estou certo / tenho certeza",
+     "explanation": "SER vs ESTAR: usa-se ESTAR para estados (\"estoy seguro\" = estou certo/convencido). Note a estrutura-espelho \"estar seguro DE que\" (com a preposição \"de\").",
+     "priority": "low"
+    },
+    {
+     "text": "de que",
+     "translatedText": "de que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "el hombre puede ocuparse",
+  "translation": {
+   "text": "o homem pode cuidar",
+   "tips": [
+    {
+     "text": "el hombre",
+     "translatedText": "o homem",
+     "explanation": null
+    },
+    {
+     "text": "puede ocuparse",
+     "translatedText": "pode cuidar / ocupar-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de los lobos",
+  "translation": {
+   "text": "dos lobos",
+   "tips": [
+    {
+     "text": "los lobos",
+     "translatedText": "os lobos",
+     "explanation": "FALSO AMIGO: \"lobo\" em espanhol = LOBO (o animal), não \"lobo\" no sentido de lóbulo. Cuidado com o som: o \"o\" inicial pode confundir, mas é exatamente o nosso lobo.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "igual de bien",
+  "translation": {
+   "text": "igualmente bem",
+   "tips": [
+    {
+     "text": "igual de bien",
+     "translatedText": "igualmente bem / tão bem quanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que de los osos",
+  "translation": {
+   "text": "quanto dos ursos",
+   "tips": [
+    {
+     "text": "que de los osos",
+     "translatedText": "como dos ursos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "si solo lo amenazas",
+  "translation": {
+   "text": "se você apenas o ameaçar",
+   "tips": [
+    {
+     "text": "si",
+     "translatedText": "se",
+     "explanation": null
+    },
+    {
+     "text": "solo lo amenazas",
+     "translatedText": "apenas o ameaça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "como antes",
+  "translation": {
+   "text": "como antes",
+   "tips": [
+    {
+     "text": "como antes",
+     "translatedText": "como antes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Así que",
+  "newLine": true,
+  "translation": {
+   "text": "Assim que / Então",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "al día siguiente",
+  "translation": {
+   "text": "no dia seguinte",
+   "tips": [
+    {
+     "text": "al día siguiente",
+     "translatedText": "no dia seguinte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el Rey llamó",
+  "translation": {
+   "text": "o Rei chamou",
+   "tips": [
+    {
+     "text": "el Rey",
+     "translatedText": "o Rei",
+     "explanation": null
+    },
+    {
+     "text": "llamó",
+     "translatedText": "chamou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "al pobre príncipe",
+  "translation": {
+   "text": "o pobre príncipe",
+   "tips": [
+    {
+     "text": "al pobre príncipe",
+     "translatedText": "o pobre príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "ante él",
+  "translation": {
+   "text": "diante dele",
+   "tips": [
+    {
+     "text": "ante él",
+     "translatedText": "diante dele / perante ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y le dijo",
+  "translation": {
+   "text": "e lhe disse",
+   "tips": [
+    {
+     "text": "y le dijo",
+     "translatedText": "e lhe disse / e disse a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que llevara a los lobos",
+  "translation": {
+   "text": "que levasse os lobos",
+   "tips": [
+    {
+     "text": "que llevara",
+     "translatedText": "que levasse",
+     "explanation": "SUBJUNTIVO: depois de \"decir\" com sentido de ordem/pedido (\"le dijo que...\") usa-se o subjuntivo. \"llevara\" é imperfeito do subjuntivo (levasse). O \"a\" antes de \"los lobos\" é o \"a pessoal/animado\" do espanhol.",
+     "priority": "low"
+    },
+    {
+     "text": "a los lobos",
+     "translatedText": "os lobos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "al campo",
+  "translation": {
+   "text": "ao campo",
+   "tips": [
+    {
+     "text": "al campo",
+     "translatedText": "ao campo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para que encontraran su comida",
+  "translation": {
+   "text": "para que encontrassem sua comida",
+   "tips": [
+    {
+     "text": "para que encontraran",
+     "translatedText": "para que encontrassem",
+     "explanation": "POR/PARA + SUBJUNTIVO: \"para que\" (finalidade → sempre \"para\", nunca \"por\") exige o SUBJUNTIVO quando os sujeitos são diferentes: \"para que encontraran\" = para que (eles) encontrassem.",
+     "priority": "low"
+    },
+    {
+     "text": "su comida",
+     "translatedText": "sua comida / sua própria comida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y los trajera de vuelta",
+  "translation": {
+   "text": "e os trouxesse de volta",
+   "tips": [
+    {
+     "text": "los trajera",
+     "translatedText": "os trouxesse",
+     "explanation": null
+    },
+    {
+     "text": "de vuelta",
+     "translatedText": "de volta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a sus jaulas",
+  "translation": {
+   "text": "às suas jaulas",
+   "tips": [
+    {
+     "text": "a sus jaulas",
+     "translatedText": "às suas jaulas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por la noche",
+  "translation": {
+   "text": "à noite",
+   "tips": [
+    {
+     "text": "por la noche",
+     "translatedText": "à noite / de noite",
+     "explanation": "POR vs PARA: \"por la noche/mañana/tarde\" = de noite/manhã/tarde (\"por\" indica tempo aproximado em que algo ocorre). Em PT traduz-se com \"à/de\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Si no lo haces",
+  "translation": {
+   "text": "Se você não fizer",
+   "tips": [
+    {
+     "text": "Si no lo haces",
+     "translatedText": "se você não fizer / se não o fizeres",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " —",
+  "translation": null
+ },
+ {
+  "text": "dijo el Rey",
+  "translation": {
+   "text": "disse o Rei",
+   "tips": [
+    {
+     "text": "dijo el Rey",
+     "translatedText": "disse o Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "como antes",
+  "translation": {
+   "text": "como antes",
+   "tips": [
+    {
+     "text": "como antes",
+     "translatedText": "como antes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "—, ",
+  "translation": null
+ },
+ {
+  "text": "perderás la cabeza",
+  "translation": {
+   "text": "perderá a cabeça",
+   "tips": [
+    {
+     "text": "perderás",
+     "translatedText": "(você) perderá",
+     "explanation": null
+    },
+    {
+     "text": "la cabeza",
+     "translatedText": "a cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "El príncipe intentó explicar",
+  "newLine": true,
+  "translation": {
+   "text": "O príncipe tentou explicar",
+   "tips": [
+    {
+     "text": "El príncipe",
+     "translatedText": "o príncipe",
+     "explanation": null
+    },
+    {
+     "text": "intentó explicar",
+     "translatedText": "tentou explicar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que era imposible",
+  "translation": {
+   "text": "que era impossível",
+   "tips": [
+    {
+     "text": "que era",
+     "translatedText": "que era",
+     "explanation": null
+    },
+    {
+     "text": "imposible",
+     "translatedText": "impossível",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "hacer algo así",
+  "translation": {
+   "text": "fazer algo assim",
+   "tips": [
+    {
+     "text": "hacer algo así",
+     "translatedText": "fazer algo assim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "pero el Rey",
+  "translation": {
+   "text": "mas o Rei",
+   "tips": [
+    {
+     "text": "pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "el Rey",
+     "translatedText": "o Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "no quiso escucharlo",
+  "translation": {
+   "text": "não quis ouvi-lo",
+   "tips": [
+    {
+     "text": "no quiso",
+     "translatedText": "não quis",
+     "explanation": null
+    },
+    {
+     "text": "escucharlo",
+     "translatedText": "ouvi-lo / escutá-lo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y solo dijo",
+  "translation": {
+   "text": "e só disse",
+   "tips": [
+    {
+     "text": "y solo dijo",
+     "translatedText": "e só disse / e apenas disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Mejor inténtalo",
+  "translation": {
+   "text": "É melhor você tentar",
+   "tips": [
+    {
+     "text": "Mejor",
+     "translatedText": "melhor / é melhor",
+     "explanation": null
+    },
+    {
+     "text": "inténtalo",
+     "translatedText": "tente / experimente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "porque",
+  "translation": {
+   "text": "porque",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "te niegues o falles",
+  "translation": {
+   "text": "quer você se recuse ou falhe",
+   "tips": [
+    {
+     "text": "te niegues",
+     "translatedText": "(quer) você se recuse",
+     "explanation": "SUBJUNTIVO concessivo (\"te niegues o falles\"): essa estrutura sem conjunção, com dois verbos no subjuntivo, equivale ao nosso \"quer... quer...\" / \"seja por se recusar, seja por falhar\". O subjuntivo expressa hipótese indefinida.",
+     "priority": "low"
+    },
+    {
+     "text": "o falles",
+     "translatedText": "ou (você) falhe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sin duda",
+  "translation": {
+   "text": "sem dúvida",
+   "tips": [
+    {
+     "text": "sin duda",
+     "translatedText": "sem dúvida / com certeza",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "perderás la cabeza",
+  "translation": {
+   "text": "perderá a cabeça",
+   "tips": [
+    {
+     "text": "perderás la cabeza",
+     "translatedText": "(você) perderá a cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Entonces hizo",
+  "newLine": true,
+  "translation": {
+   "text": "Então fez",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "hizo",
+     "translatedText": "fez / mandou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que el príncipe abriera la puerta",
+  "translation": {
+   "text": "que o príncipe abrisse a porta",
+   "tips": [
+    {
+     "text": "que el príncipe abriera",
+     "translatedText": "que o príncipe abrisse",
+     "explanation": "SUBJUNTIVO com \"hacer que\": a estrutura \"hizo que... abriera\" (= fez com que abrisse) exige o subjuntivo, porque um sujeito provoca a ação de outro. \"abriera\" e \"dejara\" são imperfeitos do subjuntivo.",
+     "priority": "low"
+    },
+    {
+     "text": "la puerta",
+     "translatedText": "a porta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y dejara salir a los lobos",
+  "translation": {
+   "text": "e deixasse sair os lobos",
+   "tips": [
+    {
+     "text": "dejara salir",
+     "translatedText": "deixasse sair",
+     "explanation": null
+    },
+    {
+     "text": "a los lobos",
+     "translatedText": "os lobos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "pero en cuanto",
+  "translation": {
+   "text": "mas assim que",
+   "tips": [
+    {
+     "text": "en cuanto",
+     "translatedText": "assim que / logo que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "el príncipe lo hizo",
+  "translation": {
+   "text": "o príncipe o fez",
+   "tips": [
+    {
+     "text": "el príncipe lo hizo",
+     "translatedText": "o príncipe o fez / assim fez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "los lobos pasaron corriendo",
+  "translation": {
+   "text": "os lobos passaram correndo",
+   "tips": [
+    {
+     "text": "los lobos",
+     "translatedText": "os lobos",
+     "explanation": null
+    },
+    {
+     "text": "pasaron corriendo",
+     "translatedText": "passaram correndo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a su lado",
+  "translation": {
+   "text": "ao seu lado / por ele",
+   "tips": [
+    {
+     "text": "a su lado",
+     "translatedText": "ao lado dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "hacia el campo",
+  "translation": {
+   "text": "em direção ao campo",
+   "tips": [
+    {
+     "text": "hacia el campo",
+     "translatedText": "em direção ao campo / rumo ao campo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "igual que los osos antes",
+  "translation": {
+   "text": "assim como os ursos antes",
+   "tips": [
+    {
+     "text": "igual que",
+     "translatedText": "assim como / igual a",
+     "explanation": null
+    },
+    {
+     "text": "los osos antes",
+     "translatedText": "os ursos antes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Él los siguió",
+  "translation": {
+   "text": "Ele os seguiu",
+   "tips": [
+    {
+     "text": "Él los siguió",
+     "translatedText": "ele os seguiu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y se sentó",
+  "translation": {
+   "text": "e se sentou",
+   "tips": [
+    {
+     "text": "y se sentó",
+     "translatedText": "e se sentou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sintiendo pena",
+  "translation": {
+   "text": "sentindo pena",
+   "tips": [
+    {
+     "text": "sintiendo pena",
+     "translatedText": "sentindo pena / com pena",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por su situación",
+  "translation": {
+   "text": "por sua situação",
+   "tips": [
+    {
+     "text": "por su situación",
+     "translatedText": "por sua situação",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "otra vez",
+  "translation": {
+   "text": "de novo",
+   "tips": [
+    {
+     "text": "otra vez",
+     "translatedText": "outra vez / de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Sin embargo",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Sin embargo",
+     "translatedText": "no entanto / contudo",
+     "explanation": "FALSO AMIGO útil: \"sin embargo\" = \"no entanto/contudo\". É justamente o que o português expressa com \"todavia\" — e NÃO se diz \"todavía\" em espanhol para isso (\"todavía\" = ainda).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "mientras estaba sentado pensando",
+  "translation": {
+   "text": "enquanto estava sentado pensando",
+   "tips": [
+    {
+     "text": "mientras",
+     "translatedText": "enquanto",
+     "explanation": null
+    },
+    {
+     "text": "estaba sentado pensando",
+     "translatedText": "estava sentado pensando",
+     "explanation": "ESTAR + particípio/gerúndio: \"estaba sentado pensando\" descreve posição e ação em curso (estados → ESTAR, nunca SER). \"sentado\" funciona como estado resultante (estar sentado), e \"pensando\" é o gerúndio da ação simultânea.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el ser mágico",
+  "translation": {
+   "text": "o ser mágico",
+   "tips": [
+    {
+     "text": "el ser mágico",
+     "translatedText": "o ser mágico",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "salió de entre los árboles",
+  "translation": {
+   "text": "saiu do meio das árvores",
+   "tips": [
+    {
+     "text": "salió",
+     "translatedText": "saiu",
+     "explanation": null
+    },
+    {
+     "text": "de entre los árboles",
+     "translatedText": "do meio das árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y le preguntó",
+  "translation": {
+   "text": "e lhe perguntou",
+   "tips": [
+    {
+     "text": "y le preguntó",
+     "translatedText": "e lhe perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "igual que el día anterior",
+  "translation": {
+   "text": "assim como no dia anterior",
+   "tips": [
+    {
+     "text": "igual que",
+     "translatedText": "assim como",
+     "explanation": null
+    },
+    {
+     "text": "el día anterior",
+     "translatedText": "o dia anterior",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "qué hacía",
+  "translation": {
+   "text": "o que ele fazia",
+   "tips": [
+    {
+     "text": "qué hacía",
+     "translatedText": "o que fazia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sentado allí",
+  "translation": {
+   "text": "sentado ali",
+   "tips": [
+    {
+     "text": "sentado allí",
+     "translatedText": "sentado ali",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que el príncipe",
+  "translation": {
+   "text": "Então o príncipe",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    },
+    {
+     "text": "el príncipe",
+     "translatedText": "o príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "se lo contó de nuevo",
+  "translation": {
+   "text": "contou a ele de novo",
+   "tips": [
+    {
+     "text": "se lo contó",
+     "translatedText": "contou isso a ele",
+     "explanation": null
+    },
+    {
+     "text": "de nuevo",
+     "translatedText": "de novo / novamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y el ser le dio",
+  "translation": {
+   "text": "e o ser lhe deu",
+   "tips": [
+    {
+     "text": "el ser",
+     "translatedText": "o ser",
+     "explanation": null
+    },
+    {
+     "text": "le dio",
+     "translatedText": "lhe deu / deu a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "otra pequeña llave",
+  "translation": {
+   "text": "outra pequena chave",
+   "tips": [
+    {
+     "text": "otra",
+     "translatedText": "outra",
+     "explanation": null
+    },
+    {
+     "text": "pequeña llave",
+     "translatedText": "pequena chave",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "esta vez azul",
+  "translation": {
+   "text": "desta vez azul",
+   "tips": [
+    {
+     "text": "esta vez",
+     "translatedText": "desta vez",
+     "explanation": null
+    },
+    {
+     "text": "azul",
+     "translatedText": "azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y dijo",
+  "translation": {
+   "text": "e disse",
+   "tips": [
+    {
+     "text": "y dijo",
+     "translatedText": "e disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Cuando quieras",
+  "translation": {
+   "text": "Quando você quiser",
+   "tips": [
+    {
+     "text": "Cuando quieras",
+     "translatedText": "quando você quiser",
+     "explanation": "SUBJUNTIVO campeão: \"cuando\" + presente do SUBJUNTIVO (\"quieras\") aponta para o FUTURO/eventualidade = \"quando você quiser\". O espanhol nunca usa o futuro do indicativo depois de \"cuando\" nesse sentido (≠ \"cuando querrás\").",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que los lobos vuelvan",
+  "translation": {
+   "text": "que os lobos voltem",
+   "tips": [
+    {
+     "text": "que los lobos vuelvan",
+     "translatedText": "que os lobos voltem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "solo sostén esta llave",
+  "translation": {
+   "text": "apenas segure esta chave",
+   "tips": [
+    {
+     "text": "solo",
+     "translatedText": "apenas / só",
+     "explanation": null
+    },
+    {
+     "text": "sostén",
+     "translatedText": "segure / sustente",
+     "explanation": "IMPERATIVO irregular: \"sostén\" (de sostener = segurar/sustentar) é o imperativo afirmativo de \"tú\". Vários verbos têm imperativo curto e irregular: ten (tener), pon (poner), ven (venir), sal (salir).",
+     "priority": "low"
+    },
+    {
+     "text": "esta llave",
+     "translatedText": "esta chave",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sobre tu cabeza",
+  "translation": {
+   "text": "sobre tua cabeça",
+   "tips": [
+    {
+     "text": "sobre tu cabeza",
+     "translatedText": "sobre tua cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y todos vendrán",
+  "translation": {
+   "text": "e todos virão",
+   "tips": [
+    {
+     "text": "todos vendrán",
+     "translatedText": "todos virão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y te seguirán",
+  "translation": {
+   "text": "e te seguirão",
+   "tips": [
+    {
+     "text": "te seguirán",
+     "translatedText": "te seguirão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Dicho esto",
+  "translation": {
+   "text": "Dito isso",
+   "tips": [
+    {
+     "text": "Dicho esto",
+     "translatedText": "dito isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "volvió a entrar",
+  "translation": {
+   "text": "voltou a entrar",
+   "tips": [
+    {
+     "text": "volvió a entrar",
+     "translatedText": "voltou a entrar / entrou de novo",
+     "explanation": "ESTRUTURA-ESPELHO: \"volver a + infinitivo\" = \"voltar a / tornar a fazer algo\" (repetição). \"volvió a entrar\" = entrou novamente. Não confunda com \"volver\" = voltar (movimento).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "entre los árboles",
+  "translation": {
+   "text": "entre as árvores",
+   "tips": [
+    {
+     "text": "entre los árboles",
+     "translatedText": "entre as árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y dejó al príncipe solo",
+  "translation": {
+   "text": "e deixou o príncipe sozinho",
+   "tips": [
+    {
+     "text": "dejó",
+     "translatedText": "deixou",
+     "explanation": null
+    },
+    {
+     "text": "al príncipe solo",
+     "translatedText": "o príncipe sozinho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Así que",
+  "newLine": true,
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "justo antes de que oscureciera",
+  "translation": {
+   "text": "logo antes de escurecer",
+   "tips": [
+    {
+     "text": "justo",
+     "translatedText": "exatamente / logo",
+     "explanation": null
+    },
+    {
+     "text": "antes de que oscureciera",
+     "translatedText": "antes que escurecesse",
+     "explanation": "SUBJUNTIVO: \"antes de que\" SEMPRE pede subjuntivo (\"oscureciera\" = escurecesse, imperfeito do subj.). É uma das conjunções que nunca aceitam indicativo. Compare com \"antes de\" + infinitivo (antes de escurecer).",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el príncipe hizo",
+  "translation": {
+   "text": "o príncipe fez",
+   "tips": [
+    {
+     "text": "el príncipe hizo",
+     "translatedText": "o príncipe fez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "lo que le dijeron",
+  "translation": {
+   "text": "o que lhe disseram",
+   "tips": [
+    {
+     "text": "lo que le dijeron",
+     "translatedText": "o que lhe disseram / o que mandaram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y se sintió feliz",
+  "translation": {
+   "text": "e se sentiu feliz",
+   "tips": [
+    {
+     "text": "se sintió feliz",
+     "translatedText": "sentiu-se feliz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "cuando todos los lobos",
+  "translation": {
+   "text": "quando todos os lobos",
+   "tips": [
+    {
+     "text": "cuando",
+     "translatedText": "quando",
+     "explanation": null
+    },
+    {
+     "text": "todos los lobos",
+     "translatedText": "todos os lobos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "vinieron corriendo hacia él",
+  "translation": {
+   "text": "vieram correndo em direção a ele",
+   "tips": [
+    {
+     "text": "vinieron corriendo",
+     "translatedText": "vieram correndo",
+     "explanation": null
+    },
+    {
+     "text": "hacia él",
+     "translatedText": "em direção a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "desde el campo",
+  "translation": {
+   "text": "desde o campo",
+   "tips": [
+    {
+     "text": "desde el campo",
+     "translatedText": "desde o campo / do campo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y lo siguieron",
+  "translation": {
+   "text": "e o seguiram",
+   "tips": [
+    {
+     "text": "y lo siguieron",
+     "translatedText": "e o seguiram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sin un sonido",
+  "translation": {
+   "text": "sem um som",
+   "tips": [
+    {
+     "text": "sin un sonido",
+     "translatedText": "sem um som / sem fazer barulho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de vuelta a sus jaulas",
+  "translation": {
+   "text": "de volta às suas jaulas",
+   "tips": [
+    {
+     "text": "de vuelta",
+     "translatedText": "de volta",
+     "explanation": null
+    },
+    {
+     "text": "a sus jaulas",
+     "translatedText": "às suas jaulas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Al ver esto",
+  "newLine": true,
+  "translation": {
+   "text": "Ao ver isso",
+   "tips": [
+    {
+     "text": "Al ver esto",
+     "translatedText": "ao ver isso",
+     "explanation": "ESTRUTURA-ESPELHO: \"al + infinitivo\" (al ver, al llegar) = \"ao + infinitivo\" em PT = \"quando/ao fazer algo\". É uma forma comum de marcar simultaneidade no espanhol.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el viejo entonces",
+  "translation": {
+   "text": "o velho então",
+   "tips": [
+    {
+     "text": "el viejo",
+     "translatedText": "o velho",
+     "explanation": null
+    },
+    {
+     "text": "entonces",
+     "translatedText": "então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "le dijo al Rey",
+  "translation": {
+   "text": "disse ao Rei",
+   "tips": [
+    {
+     "text": "le dijo al Rey",
+     "translatedText": "disse ao Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que mandara salir a los pájaros",
+  "translation": {
+   "text": "que mandasse soltar os pássaros",
+   "tips": [
+    {
+     "text": "que mandara salir",
+     "translatedText": "que mandasse sair / soltar",
+     "explanation": "SUBJUNTIVO após ordem indireta: \"le dijo que mandara\" (= disse que mandasse) usa o subjuntivo \"mandara\". A estrutura \"mandar salir\" = mandar sair/soltar.",
+     "priority": "low"
+    },
+    {
+     "text": "a los pájaros",
+     "translatedText": "os pássaros",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y que amenazara al joven",
+  "translation": {
+   "text": "e que ameaçasse o jovem",
+   "tips": [
+    {
+     "text": "que amenazara",
+     "translatedText": "que ameaçasse",
+     "explanation": null
+    },
+    {
+     "text": "al joven",
+     "translatedText": "o jovem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con perder la cabeza",
+  "translation": {
+   "text": "de perder a cabeça",
+   "tips": [
+    {
+     "text": "con perder la cabeza",
+     "translatedText": "com / de perder a cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "si no los traía de vuelta",
+  "translation": {
+   "text": "se não os trouxesse de volta",
+   "tips": [
+    {
+     "text": "si no los traía",
+     "translatedText": "se não os trouxesse",
+     "explanation": null
+    },
+    {
+     "text": "de vuelta",
+     "translatedText": "de volta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por la tarde",
+  "translation": {
+   "text": "à tarde",
+   "tips": [
+    {
+     "text": "por la tarde",
+     "translatedText": "à tarde / de tarde",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que",
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "al día siguiente",
+  "translation": {
+   "text": "no dia seguinte",
+   "tips": [
+    {
+     "text": "al día siguiente",
+     "translatedText": "no dia seguinte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el Rey le dijo al príncipe",
+  "translation": {
+   "text": "o Rei disse ao príncipe",
+   "tips": [
+    {
+     "text": "el Rey le dijo",
+     "translatedText": "o Rei disse a ele",
+     "explanation": null
+    },
+    {
+     "text": "al príncipe",
+     "translatedText": "ao príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que dejara salir",
+  "translation": {
+   "text": "que deixasse sair",
+   "tips": [
+    {
+     "text": "que dejara salir",
+     "translatedText": "que deixasse sair / soltasse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a todas las palomas",
+  "translation": {
+   "text": "todas as pombas",
+   "tips": [
+    {
+     "text": "todas las palomas",
+     "translatedText": "todas as pombas",
+     "explanation": "FALSO AMIGO: \"paloma\" = POMBA/pombo, não \"paloma\" (que em PT nem existe como ave; lembra o nome próprio). A \"palomita\" é o pombinho; em alguns países \"palomitas\" também são pipocas.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y las trajera de vuelta",
+  "translation": {
+   "text": "e as trouxesse de volta",
+   "tips": [
+    {
+     "text": "las trajera",
+     "translatedText": "as trouxesse",
+     "explanation": null
+    },
+    {
+     "text": "de vuelta",
+     "translatedText": "de volta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a sus diferentes jaulas",
+  "translation": {
+   "text": "às suas diferentes jaulas",
+   "tips": [
+    {
+     "text": "a sus diferentes jaulas",
+     "translatedText": "às suas diferentes jaulas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "antes de que cayera la noche",
+  "translation": {
+   "text": "antes que caísse a noite",
+   "tips": [
+    {
+     "text": "antes de que cayera",
+     "translatedText": "antes que caísse",
+     "explanation": "SUBJUNTIVO: de novo \"antes de que\" + subjuntivo (\"cayera\" = caísse). \"cayera la noche\" = anoitecesse / a noite caísse. Conjunções temporais de anterioridade exigem subjuntivo.",
+     "priority": "low"
+    },
+    {
+     "text": "la noche",
+     "translatedText": "a noite",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Pero",
+  "newLine": true,
+  "translation": {
+   "text": "Mas",
+   "tips": [
+    {
+     "text": "Pero",
+     "translatedText": "mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "igual que las veces anteriores",
+  "translation": {
+   "text": "assim como das vezes anteriores",
+   "tips": [
+    {
+     "text": "igual que",
+     "translatedText": "assim como",
+     "explanation": null
+    },
+    {
+     "text": "las veces anteriores",
+     "translatedText": "as vezes anteriores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "en cuanto el pobre príncipe",
+  "translation": {
+   "text": "assim que o pobre príncipe",
+   "tips": [
+    {
+     "text": "en cuanto",
+     "translatedText": "assim que",
+     "explanation": null
+    },
+    {
+     "text": "el pobre príncipe",
+     "translatedText": "o pobre príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "empezó a abrir la puerta",
+  "translation": {
+   "text": "começou a abrir a porta",
+   "tips": [
+    {
+     "text": "empezó a abrir",
+     "translatedText": "começou a abrir",
+     "explanation": null
+    },
+    {
+     "text": "la puerta",
+     "translatedText": "a porta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "las palomas se levantaron",
+  "translation": {
+   "text": "as pombas se ergueram",
+   "tips": [
+    {
+     "text": "las palomas",
+     "translatedText": "as pombas",
+     "explanation": null
+    },
+    {
+     "text": "se levantaron",
+     "translatedText": "se ergueram / levantaram voo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "como una nube",
+  "translation": {
+   "text": "como uma nuvem",
+   "tips": [
+    {
+     "text": "como una nube",
+     "translatedText": "como uma nuvem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en el aire",
+  "translation": {
+   "text": "no ar",
+   "tips": [
+    {
+     "text": "en el aire",
+     "translatedText": "no ar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y desaparecieron",
+  "translation": {
+   "text": "e desapareceram",
+   "tips": [
+    {
+     "text": "y desaparecieron",
+     "translatedText": "e desapareceram",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por encima de los árboles",
+  "translation": {
+   "text": "por cima das árvores",
+   "tips": [
+    {
+     "text": "por encima de",
+     "translatedText": "por cima de / acima de",
+     "explanation": null
+    },
+    {
+     "text": "los árboles",
+     "translatedText": "as árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que el príncipe",
+  "translation": {
+   "text": "Então o príncipe",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então",
+     "explanation": null
+    },
+    {
+     "text": "el príncipe",
+     "translatedText": "o príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "fue al campo",
+  "translation": {
+   "text": "foi ao campo",
+   "tips": [
+    {
+     "text": "fue al campo",
+     "translatedText": "foi ao campo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y se sentó otra vez",
+  "translation": {
+   "text": "e se sentou de novo",
+   "tips": [
+    {
+     "text": "se sentó otra vez",
+     "translatedText": "sentou-se de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en el suelo",
+  "translation": {
+   "text": "no chão",
+   "tips": [
+    {
+     "text": "en el suelo",
+     "translatedText": "no chão",
+     "explanation": "Vocabulário: \"el suelo\" = o chão/o solo. Não confunda com \"el suelo\" e \"el suelto\" (troco). Aqui é simplesmente o chão onde ele se senta.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Y mientras estaba allí sentado",
+  "translation": {
+   "text": "E enquanto estava ali sentado",
+   "tips": [
+    {
+     "text": "mientras",
+     "translatedText": "enquanto",
+     "explanation": null
+    },
+    {
+     "text": "estaba allí sentado",
+     "translatedText": "estava ali sentado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "pensando que",
+  "translation": {
+   "text": "pensando que",
+   "tips": [
+    {
+     "text": "pensando que",
+     "translatedText": "pensando que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "lo que el Rey le había pedido",
+  "translation": {
+   "text": "o que o Rei lhe tinha pedido",
+   "tips": [
+    {
+     "text": "lo que",
+     "translatedText": "o que / aquilo que",
+     "explanation": null
+    },
+    {
+     "text": "le había pedido",
+     "translatedText": "lhe tinha pedido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "no era posible",
+  "translation": {
+   "text": "não era possível",
+   "tips": [
+    {
+     "text": "no era posible",
+     "translatedText": "não era possível",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "no pudo evitar",
+  "translation": {
+   "text": "não conseguiu evitar",
+   "tips": [
+    {
+     "text": "no pudo evitar",
+     "translatedText": "não conseguiu evitar / não pôde deixar de",
+     "explanation": "ESTRUTURA-ESPELHO: \"no poder evitar + infinitivo\" = \"não conseguir evitar / não poder deixar de fazer algo\". \"no pudo evitar empezar a llorar\" = não conseguiu evitar começar a chorar (= acabou chorando sem querer).",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "empezar a llorar",
+  "translation": {
+   "text": "começar a chorar",
+   "tips": [
+    {
+     "text": "empezar a llorar",
+     "translatedText": "começar a chorar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y pensar en su vida pasada",
+  "translation": {
+   "text": "e pensar em sua vida passada",
+   "tips": [
+    {
+     "text": "pensar en",
+     "translatedText": "pensar em",
+     "explanation": null
+    },
+    {
+     "text": "su vida pasada",
+     "translatedText": "sua vida passada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y en sus problemas de ahora",
+  "translation": {
+   "text": "e em seus problemas de agora",
+   "tips": [
+    {
+     "text": "sus problemas",
+     "translatedText": "seus problemas",
+     "explanation": null
+    },
+    {
+     "text": "de ahora",
+     "translatedText": "de agora / atuais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Un momento después",
+  "newLine": true,
+  "translation": {
+   "text": "Um momento depois",
+   "tips": [
+    {
+     "text": "Un momento después",
+     "translatedText": "um momento depois",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sin embargo",
+  "translation": {
+   "text": "no entanto",
+   "tips": [
+    {
+     "text": "sin embargo",
+     "translatedText": "no entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el mismo ser mágico",
+  "translation": {
+   "text": "o mesmo ser mágico",
+   "tips": [
+    {
+     "text": "el mismo ser mágico",
+     "translatedText": "o mesmo ser mágico",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "vino de entre los árboles",
+  "translation": {
+   "text": "veio do meio das árvores",
+   "tips": [
+    {
+     "text": "vino",
+     "translatedText": "veio",
+     "explanation": null
+    },
+    {
+     "text": "de entre los árboles",
+     "translatedText": "do meio das árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "cerca de él",
+  "translation": {
+   "text": "perto dele",
+   "tips": [
+    {
+     "text": "cerca de él",
+     "translatedText": "perto dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y le preguntó",
+  "translation": {
+   "text": "e lhe perguntou",
+   "tips": [
+    {
+     "text": "y le preguntó",
+     "translatedText": "e lhe perguntou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "qué nuevo problema",
+  "translation": {
+   "text": "que novo problema",
+   "tips": [
+    {
+     "text": "qué nuevo problema",
+     "translatedText": "que novo problema",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "tenía ahora",
+  "translation": {
+   "text": "ele tinha agora",
+   "tips": [
+    {
+     "text": "tenía ahora",
+     "translatedText": "tinha agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "así que el príncipe",
+  "translation": {
+   "text": "então o príncipe",
+   "tips": [
+    {
+     "text": "así que el príncipe",
+     "translatedText": "então o príncipe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "se lo contó",
+  "translation": {
+   "text": "contou a ele",
+   "tips": [
+    {
+     "text": "se lo contó",
+     "translatedText": "contou isso a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Entonces",
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Entonces",
+     "translatedText": "então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "otra vez",
+  "translation": {
+   "text": "de novo",
+   "tips": [
+    {
+     "text": "otra vez",
+     "translatedText": "outra vez / de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el ser le dio",
+  "translation": {
+   "text": "o ser lhe deu",
+   "tips": [
+    {
+     "text": "el ser le dio",
+     "translatedText": "o ser lhe deu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "una tercera pequeña llave",
+  "translation": {
+   "text": "uma terceira pequena chave",
+   "tips": [
+    {
+     "text": "una tercera",
+     "translatedText": "uma terceira",
+     "explanation": null
+    },
+    {
+     "text": "pequeña llave",
+     "translatedText": "pequena chave",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "una verde",
+  "translation": {
+   "text": "uma verde",
+   "tips": [
+    {
+     "text": "una verde",
+     "translatedText": "uma verde",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y dijo",
+  "translation": {
+   "text": "e disse",
+   "tips": [
+    {
+     "text": "y dijo",
+     "translatedText": "e disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "Cuando quieras",
+  "translation": {
+   "text": "Quando você quiser",
+   "tips": [
+    {
+     "text": "Cuando quieras",
+     "translatedText": "quando você quiser",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que las palomas vuelvan",
+  "translation": {
+   "text": "que as pombas voltem",
+   "tips": [
+    {
+     "text": "que las palomas vuelvan",
+     "translatedText": "que as pombas voltem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a sus jaulas",
+  "translation": {
+   "text": "às suas jaulas",
+   "tips": [
+    {
+     "text": "a sus jaulas",
+     "translatedText": "às suas jaulas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "solo tienes que sostener",
+  "translation": {
+   "text": "você só tem que segurar",
+   "tips": [
+    {
+     "text": "solo tienes que",
+     "translatedText": "você só tem que",
+     "explanation": null
+    },
+    {
+     "text": "sostener",
+     "translatedText": "segurar / sustentar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "esta pequeña llave",
+  "translation": {
+   "text": "esta pequena chave",
+   "tips": [
+    {
+     "text": "esta pequeña llave",
+     "translatedText": "esta pequena chave",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sobre tu cabeza",
+  "translation": {
+   "text": "sobre tua cabeça",
+   "tips": [
+    {
+     "text": "sobre tu cabeza",
+     "translatedText": "sobre tua cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Y otra vez",
+  "translation": {
+   "text": "E de novo",
+   "tips": [
+    {
+     "text": "Y otra vez",
+     "translatedText": "e outra vez / e de novo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "pasó de verdad",
+  "translation": {
+   "text": "aconteceu de verdade",
+   "tips": [
+    {
+     "text": "pasó",
+     "translatedText": "aconteceu / passou",
+     "explanation": null
+    },
+    {
+     "text": "de verdad",
+     "translatedText": "de verdade / mesmo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "porque en cuanto",
+  "translation": {
+   "text": "porque assim que",
+   "tips": [
+    {
+     "text": "porque en cuanto",
+     "translatedText": "porque assim que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "el príncipe lo hizo",
+  "translation": {
+   "text": "o príncipe o fez",
+   "tips": [
+    {
+     "text": "el príncipe lo hizo",
+     "translatedText": "o príncipe o fez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "todas las palomas",
+  "translation": {
+   "text": "todas as pombas",
+   "tips": [
+    {
+     "text": "todas las palomas",
+     "translatedText": "todas as pombas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "vinieron volando",
+  "translation": {
+   "text": "vieram voando",
+   "tips": [
+    {
+     "text": "vinieron volando",
+     "translatedText": "vieram voando",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "alrededor de él",
+  "translation": {
+   "text": "ao redor dele",
+   "tips": [
+    {
+     "text": "alrededor de él",
+     "translatedText": "ao redor dele / em volta dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "así que volvió",
+  "translation": {
+   "text": "então voltou",
+   "tips": [
+    {
+     "text": "así que volvió",
+     "translatedText": "então voltou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a la tierra del Rey",
+  "translation": {
+   "text": "às terras do Rei",
+   "tips": [
+    {
+     "text": "a la tierra del Rey",
+     "translatedText": "à terra / às terras do Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y las encerró",
+  "translation": {
+   "text": "e as encerrou",
+   "tips": [
+    {
+     "text": "y las encerró",
+     "translatedText": "e as trancou / encerrou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en sus diferentes jaulas",
+  "translation": {
+   "text": "em suas diferentes jaulas",
+   "tips": [
+    {
+     "text": "en sus diferentes jaulas",
+     "translatedText": "em suas diferentes jaulas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sin la menor dificultad",
+  "translation": {
+   "text": "sem a menor dificuldade",
+   "tips": [
+    {
+     "text": "sin la menor dificultad",
+     "translatedText": "sem a menor dificuldade",
+     "explanation": "ESTRUTURA: \"sin la menor + substantivo\" = \"sem a menor...\" (negação enfática). \"sin\" = sem (≠ \"con\" = com). Note o superlativo \"la menor\" (a menor) marcando o mínimo absoluto.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Sin embargo",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Sin embargo",
+     "translatedText": "no entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "para entonces",
+  "translation": {
+   "text": "a essa altura",
+   "tips": [
+    {
+     "text": "para entonces",
+     "translatedText": "a essa altura / nessa altura",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el Rey tenía",
+  "translation": {
+   "text": "o Rei tinha",
+   "tips": [
+    {
+     "text": "el Rey tenía",
+     "translatedText": "o Rei tinha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "un asunto mucho más importante",
+  "translation": {
+   "text": "um assunto muito mais importante",
+   "tips": [
+    {
+     "text": "un asunto",
+     "translatedText": "um assunto / uma questão",
+     "explanation": null
+    },
+    {
+     "text": "mucho más importante",
+     "translatedText": "muito mais importante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que encontrar comida",
+  "translation": {
+   "text": "do que encontrar comida",
+   "tips": [
+    {
+     "text": "que encontrar comida",
+     "translatedText": "do que encontrar comida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para sus animales",
+  "translation": {
+   "text": "para seus animais",
+   "tips": [
+    {
+     "text": "para sus animales",
+     "translatedText": "para seus animais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sin pagar por ella",
+  "translation": {
+   "text": "sem pagar por ela",
+   "tips": [
+    {
+     "text": "sin pagar",
+     "translatedText": "sem pagar",
+     "explanation": null
+    },
+    {
+     "text": "por ella",
+     "translatedText": "por ela",
+     "explanation": "POR vs PARA: aqui \"por\" indica TROCA/preço (\"pagar por algo\" = pagar por algo). \"ella\" retoma \"la comida\". Regra: comprar/pagar POR algo (troca) usa sempre \"por\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "De hecho",
+  "translation": {
+   "text": "Na verdade",
+   "tips": [
+    {
+     "text": "De hecho",
+     "translatedText": "na verdade / de fato",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "un asunto muy importante",
+  "translation": {
+   "text": "um assunto muito importante",
+   "tips": [
+    {
+     "text": "un asunto muy importante",
+     "translatedText": "um assunto muito importante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "empezó a ocuparlo",
+  "translation": {
+   "text": "começou a ocupá-lo",
+   "tips": [
+    {
+     "text": "empezó a ocuparlo",
+     "translatedText": "começou a ocupá-lo / tomar seu tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ": ",
+  "translation": null
+ },
+ {
+  "text": "intentar encontrar",
+  "translation": {
+   "text": "tentar encontrar",
+   "tips": [
+    {
+     "text": "intentar encontrar",
+     "translatedText": "tentar encontrar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "un marido adecuado",
+  "translation": {
+   "text": "um marido adequado",
+   "tips": [
+    {
+     "text": "un marido adecuado",
+     "translatedText": "um marido adequado / apropriado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para su hija",
+  "translation": {
+   "text": "para sua filha",
+   "tips": [
+    {
+     "text": "para su hija",
+     "translatedText": "para sua filha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Para eso",
+  "translation": {
+   "text": "Para isso",
+   "tips": [
+    {
+     "text": "Para eso",
+     "translatedText": "para isso",
+     "explanation": "POR vs PARA: \"para eso\" = para isso (FINALIDADE → \"para\"). Compare com \"por eso\" = por isso (= por essa razão, CAUSA). Trocar um pelo outro muda totalmente o sentido.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "dejó que todos supieran",
+  "translation": {
+   "text": "deixou que todos soubessem",
+   "tips": [
+    {
+     "text": "dejó que",
+     "translatedText": "deixou que",
+     "explanation": "SUBJUNTIVO: \"dejar que\" (permitir que) + subjuntivo (\"supieran\" = soubessem, imperf. do subj. de saber). Verbos de permissão/vontade com sujeitos diferentes sempre pedem subjuntivo.",
+     "priority": "low"
+    },
+    {
+     "text": "todos supieran",
+     "translatedText": "todos soubessem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que haría una carrera",
+  "translation": {
+   "text": "que faria uma corrida",
+   "tips": [
+    {
+     "text": "que haría",
+     "translatedText": "que faria",
+     "explanation": null
+    },
+    {
+     "text": "una carrera",
+     "translatedText": "uma corrida",
+     "explanation": "FALSO AMIGO: \"carrera\" tem vários sentidos: aqui = CORRIDA (prova). Também significa \"curso/graduação\" (estudiar una carrera) e \"carreira\" profissional. O contexto decide.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "durante tres días",
+  "translation": {
+   "text": "durante três dias",
+   "tips": [
+    {
+     "text": "durante tres días",
+     "translatedText": "durante três dias",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y que recompensaría",
+  "translation": {
+   "text": "e que recompensaria",
+   "tips": [
+    {
+     "text": "y que recompensaría",
+     "translatedText": "e que recompensaria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "al ganador de cada día",
+  "translation": {
+   "text": "o vencedor de cada dia",
+   "tips": [
+    {
+     "text": "al ganador",
+     "translatedText": "o vencedor",
+     "explanation": null
+    },
+    {
+     "text": "de cada día",
+     "translatedText": "de cada dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con un libro especial",
+  "translation": {
+   "text": "com um livro especial",
+   "tips": [
+    {
+     "text": "con un libro especial",
+     "translatedText": "com um livro especial",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y que el hombre",
+  "translation": {
+   "text": "e que o homem",
+   "tips": [
+    {
+     "text": "y que el hombre",
+     "translatedText": "e que o homem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que lograra ganar los tres libros",
+  "translation": {
+   "text": "que conseguisse ganhar os três livros",
+   "tips": [
+    {
+     "text": "que lograra ganar",
+     "translatedText": "que conseguisse ganhar",
+     "explanation": "SUBJUNTIVO em antecedente indefinido: \"el hombre que lograra...\" (um homem ainda não identificado) leva subjuntivo. \"lograr + inf\" = conseguir fazer algo (estrutura-espelho útil).",
+     "priority": "low"
+    },
+    {
+     "text": "los tres libros",
+     "translatedText": "os três livros",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "tendría el placer",
+  "translation": {
+   "text": "teria o prazer",
+   "tips": [
+    {
+     "text": "tendría el placer",
+     "translatedText": "teria o prazer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de tener a la joven princesa",
+  "translation": {
+   "text": "de ter a jovem princesa",
+   "tips": [
+    {
+     "text": "de tener",
+     "translatedText": "de ter",
+     "explanation": null
+    },
+    {
+     "text": "a la joven princesa",
+     "translatedText": "a jovem princesa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "como esposa",
+  "translation": {
+   "text": "como esposa",
+   "tips": [
+    {
+     "text": "como esposa",
+     "translatedText": "como esposa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ }
+]

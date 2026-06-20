@@ -1,0 +1,36 @@
+# NB: quando este arquivo existe, a Vercel IGNORA o .gitignore — por isso
+# re-listamos aqui tudo o que não deve subir.
+
+# deps / artefatos de build (a Vercel reconstrói)
+node_modules
+.next
+out
+.vercel
+tsconfig.tsbuildinfo
+*.log
+
+# capturas / arquivos de trabalho da engenharia reversa
+*.har
+raw
+assets_raw
+graded-readers
+shots
+
+# Fontes de PRODUÇÃO dos idiomas: .txt/.json de seção, glossários, etc.
+# NÃO são lidos em runtime — o app só lê data/content/** e data/*.json.
+data/fr
+data/es
+data/zh
+data/it
+data/ja
+data/ru
+data/realbooks
+data/fr.zip
+data/userState.json
+
+# áudios pesados gerados (a leitura em voz usa Web Speech API no navegador)
+public/audio
+
+# scripts de geração/QA e docs não participam do build
+scripts
+docs

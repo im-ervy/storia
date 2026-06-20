@@ -1,0 +1,2385 @@
+[
+ {
+  "text": "En algunas partes",
+  "newLine": true,
+  "translation": {
+   "text": "Em algumas partes",
+   "tips": [
+    {
+     "text": "En algunas",
+     "translatedText": "em algumas",
+     "explanation": null
+    },
+    {
+     "text": "partes",
+     "translatedText": "partes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "del mar",
+  "translation": {
+   "text": "do mar",
+   "tips": [
+    {
+     "text": "del mar",
+     "translatedText": "do mar",
+     "explanation": "GÊNERO/VOCAB: \"el mar\" é masculino em espanhol (como em PT: o mar), então a contração é \"del mar\" (de + el). \"Mar\" é vocabulário reciclado do conto.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "hay muchas medusas blancas",
+  "translation": {
+   "text": "há muitas águas-vivas brancas",
+   "tips": [
+    {
+     "text": "hay",
+     "translatedText": "há / existe(m)",
+     "explanation": null
+    },
+    {
+     "text": "muchas medusas blancas",
+     "translatedText": "muitas águas-vivas brancas",
+     "explanation": "VOCAB/NOTA: \"medusa\" = ÁGUA-VIVA (o animal marinho). Cuidado: NÃO é a \"Medusa\"/górgona da mitologia nem \"medusa\" no sentido figurado. É a protagonista do conto.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que nadan unos metros",
+  "translation": {
+   "text": "que nadam alguns metros",
+   "tips": [
+    {
+     "text": "que nadan",
+     "translatedText": "que nadam",
+     "explanation": null
+    },
+    {
+     "text": "unos metros",
+     "translatedText": "alguns metros",
+     "explanation": "\"unos/unas\" + número = \"alguns / uns / cerca de\". Aqui \"unos metros\" = alguns metros.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "bajo la superficie",
+  "translation": {
+   "text": "abaixo da superfície",
+   "tips": [
+    {
+     "text": "bajo",
+     "translatedText": "abaixo de / sob",
+     "explanation": null
+    },
+    {
+     "text": "la superficie",
+     "translatedText": "a superfície",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Podemos ver",
+  "translation": {
+   "text": "Podemos ver",
+   "tips": [
+    {
+     "text": "Podemos ver",
+     "translatedText": "podemos ver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "los barcos grandes",
+  "translation": {
+   "text": "os barcos grandes",
+   "tips": [
+    {
+     "text": "los barcos grandes",
+     "translatedText": "os barcos grandes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "pasar entre ellas",
+  "translation": {
+   "text": "passar entre elas",
+   "tips": [
+    {
+     "text": "pasar",
+     "translatedText": "passar",
+     "explanation": null
+    },
+    {
+     "text": "entre ellas",
+     "translatedText": "entre elas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "igual que",
+  "translation": {
+   "text": "assim como",
+   "tips": [
+    {
+     "text": "igual que",
+     "translatedText": "assim como / da mesma forma que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "los aviones pasan",
+  "translation": {
+   "text": "os aviões passam",
+   "tips": [
+    {
+     "text": "los aviones",
+     "translatedText": "os aviões",
+     "explanation": null
+    },
+    {
+     "text": "pasan",
+     "translatedText": "passam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "entre las grandes nubes blancas",
+  "translation": {
+   "text": "entre as grandes nuvens brancas",
+   "tips": [
+    {
+     "text": "entre las grandes nubes",
+     "translatedText": "entre as grandes nuvens",
+     "explanation": "VOCAB: \"la nube\" = a nuvem (gênero feminino, como em PT). \"nubes\" = nuvens.",
+     "priority": "low"
+    },
+    {
+     "text": "blancas",
+     "translatedText": "brancas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Cerca del agua",
+  "translation": {
+   "text": "Perto da água",
+   "tips": [
+    {
+     "text": "Cerca de",
+     "translatedText": "perto de",
+     "explanation": null
+    },
+    {
+     "text": "del agua",
+     "translatedText": "da água",
+     "explanation": "ESTRUTURA: \"agua\" é feminino (\"el agua fría\"), mas leva o artigo \"el\" no singular por começar com \"a\" tônico — daí a contração \"del agua\". No plural volta ao normal: \"las aguas\". \"Agua\" é vocabulário reciclado.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "los niños y las niñas",
+  "translation": {
+   "text": "os meninos e as meninas",
+   "tips": [
+    {
+     "text": "los niños",
+     "translatedText": "os meninos",
+     "explanation": null
+    },
+    {
+     "text": "las niñas",
+     "translatedText": "as meninas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que juegan",
+  "translation": {
+   "text": "que brincam",
+   "tips": [
+    {
+     "text": "que juegan",
+     "translatedText": "que brincam",
+     "explanation": "\"jugar\" = brincar / jogar. Repare na alteração de raiz e>ue: \"juegan\" (e não \"jugan\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "las mueven",
+  "translation": {
+   "text": "as movem / as empurram",
+   "tips": [
+    {
+     "text": "las mueven",
+     "translatedText": "as movem (as águas-vivas)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de un lado a otro",
+  "translation": {
+   "text": "de um lado para o outro",
+   "tips": [
+    {
+     "text": "de un lado a otro",
+     "translatedText": "de um lado para o outro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con palos largos",
+  "translation": {
+   "text": "com varas compridas",
+   "tips": [
+    {
+     "text": "con palos",
+     "translatedText": "com varas / paus",
+     "explanation": null
+    },
+    {
+     "text": "largos",
+     "translatedText": "compridos / longos",
+     "explanation": "FALSO AMIGO campeão: \"largo\" = COMPRIDO / LONGO (extensão), NÃO \"largo\" (de largura). \"Largo\" no sentido brasileiro (largura) em espanhol é \"ancho\".",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Esto es fácil",
+  "translation": {
+   "text": "Isso é fácil",
+   "tips": [
+    {
+     "text": "Esto",
+     "translatedText": "isto / isso",
+     "explanation": null
+    },
+    {
+     "text": "es fácil",
+     "translatedText": "é fácil",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "porque las medusas",
+  "translation": {
+   "text": "porque as águas-vivas",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "las medusas",
+     "translatedText": "as águas-vivas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "no tienen caparazón",
+  "translation": {
+   "text": "não têm carapaça",
+   "tips": [
+    {
+     "text": "no tienen",
+     "translatedText": "não têm",
+     "explanation": null
+    },
+    {
+     "text": "caparazón",
+     "translatedText": "carapaça / casca / concha",
+     "explanation": "VOCAB-CHAVE do conto: \"caparazón\" = a CARAPAÇA / casca dura (como a da tartaruga ou do caranguejo). É o que a água-viva perde na história.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "así que",
+  "translation": {
+   "text": "então / por isso",
+   "tips": [
+    {
+     "text": "así que",
+     "translatedText": "então / portanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "tienen que andar",
+  "translation": {
+   "text": "têm que andar",
+   "tips": [
+    {
+     "text": "tienen que",
+     "translatedText": "têm que",
+     "explanation": "ESTRUTURA: \"tener que + infinitivo\" = ter que / precisar (obrigação), exatamente como o nosso \"ter que fazer\".",
+     "priority": "low"
+    },
+    {
+     "text": "andar",
+     "translatedText": "andar / circular",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por ahí",
+  "translation": {
+   "text": "por aí",
+   "tips": [
+    {
+     "text": "por ahí",
+     "translatedText": "por aí",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sin nada a su alrededor",
+  "translation": {
+   "text": "sem nada ao seu redor",
+   "tips": [
+    {
+     "text": "sin nada",
+     "translatedText": "sem nada",
+     "explanation": null
+    },
+    {
+     "text": "a su alrededor",
+     "translatedText": "ao seu redor / em volta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "para protegerse",
+  "translation": {
+   "text": "para se proteger",
+   "tips": [
+    {
+     "text": "para protegerse",
+     "translatedText": "para se proteger",
+     "explanation": "Eixo POR/PARA: aqui é \"PARA\" + infinitivo porque indica FINALIDADE (o objetivo de ter algo em volta = proteger-se). Regra: \"para\" = finalidade/destino; \"por\" = causa/motivo.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "A veces",
+  "newLine": true,
+  "translation": {
+   "text": "Às vezes",
+   "tips": [
+    {
+     "text": "A veces",
+     "translatedText": "às vezes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "hay medusas",
+  "translation": {
+   "text": "há águas-vivas",
+   "tips": [
+    {
+     "text": "hay medusas",
+     "translatedText": "há águas-vivas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de uno o dos metros",
+  "translation": {
+   "text": "de um ou dois metros",
+   "tips": [
+    {
+     "text": "de uno o dos metros",
+     "translatedText": "de um ou dois metros",
+     "explanation": "ATENÇÃO: \"o\" (sem acento) = \"ou\" em espanhol; não confundir com o artigo. E \"uno\" perde o -o virando \"un\" antes de substantivo masculino (un metro), mas como número solto fica \"uno\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "muy cerca de la orilla",
+  "translation": {
+   "text": "bem perto da margem",
+   "tips": [
+    {
+     "text": "muy cerca",
+     "translatedText": "bem perto / muito perto",
+     "explanation": null
+    },
+    {
+     "text": "de la orilla",
+     "translatedText": "da margem / da beira",
+     "explanation": "VOCAB: \"la orilla\" = a margem / a beira (do mar, do rio). Aqui, a beira da praia.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Alrededor de ellas",
+  "translation": {
+   "text": "Ao redor delas",
+   "tips": [
+    {
+     "text": "Alrededor de ellas",
+     "translatedText": "ao redor delas / em volta delas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "podemos ver",
+  "translation": {
+   "text": "podemos ver",
+   "tips": [
+    {
+     "text": "podemos ver",
+     "translatedText": "podemos ver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sus largos tentáculos",
+  "translation": {
+   "text": "seus longos tentáculos",
+   "tips": [
+    {
+     "text": "sus largos",
+     "translatedText": "seus longos / compridos",
+     "explanation": "De novo \"largo\" = LONGO/COMPRIDO (não \"largo\"). \"tentáculos largos\" = tentáculos compridos.",
+     "priority": "low"
+    },
+    {
+     "text": "tentáculos",
+     "translatedText": "tentáculos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "En ese momento",
+  "translation": {
+   "text": "Nesse momento",
+   "tips": [
+    {
+     "text": "En ese momento",
+     "translatedText": "nesse momento / naquele momento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "ninguna otra cosa",
+  "translation": {
+   "text": "nenhuma outra coisa",
+   "tips": [
+    {
+     "text": "ninguna otra cosa",
+     "translatedText": "nenhuma outra coisa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "podría parecer más bonita",
+  "translation": {
+   "text": "poderia parecer mais bonita",
+   "tips": [
+    {
+     "text": "podría parecer",
+     "translatedText": "poderia parecer",
+     "explanation": null
+    },
+    {
+     "text": "más bonita",
+     "translatedText": "mais bonita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Pero",
+  "newLine": true,
+  "translation": {
+   "text": "Mas",
+   "tips": [
+    {
+     "text": "Pero",
+     "translatedText": "mas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "¡",
+  "translation": null
+ },
+ {
+  "text": "no es fácil",
+  "translation": {
+   "text": "não é fácil",
+   "tips": [
+    {
+     "text": "no es",
+     "translatedText": "não é",
+     "explanation": "Eixo SER/ESTAR: aqui é SER (\"es\") porque expressa uma CARACTERÍSTICA/avaliação geral e permanente (algo é fácil ou difícil por natureza), não um estado passageiro.",
+     "priority": "low"
+    },
+    {
+     "text": "fácil",
+     "translatedText": "fácil",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "ser algo",
+  "translation": {
+   "text": "ser algo",
+   "tips": [
+    {
+     "text": "ser algo",
+     "translatedText": "ser algo / ser uma coisa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "hecho casi solo de agua",
+  "translation": {
+   "text": "feito quase só de água",
+   "tips": [
+    {
+     "text": "hecho",
+     "translatedText": "feito",
+     "explanation": "\"hecho\" = particípio de \"hacer\" (fazer) = feito. Cuidado: escreve-se com H mudo; não confundir com \"echo\" (de echar).",
+     "priority": "low"
+    },
+    {
+     "text": "casi solo",
+     "translatedText": "quase só / quase somente",
+     "explanation": null
+    },
+    {
+     "text": "de agua",
+     "translatedText": "de água",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "! ",
+  "translation": null
+ },
+ {
+  "text": "Una ola fuerte",
+  "translation": {
+   "text": "Uma onda forte",
+   "tips": [
+    {
+     "text": "Una ola",
+     "translatedText": "uma onda",
+     "explanation": "VOCAB: \"la ola\" = a ONDA (do mar). Não confundir com \"¡Hola!\" (oi), que se pronuncia igual mas tem H.",
+     "priority": "low"
+    },
+    {
+     "text": "fuerte",
+     "translatedText": "forte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "o un golpe de viento",
+  "translation": {
+   "text": "ou uma rajada de vento",
+   "tips": [
+    {
+     "text": "o",
+     "translatedText": "ou",
+     "explanation": null
+    },
+    {
+     "text": "un golpe de viento",
+     "translatedText": "uma rajada / golpe de vento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "puede hacer que",
+  "translation": {
+   "text": "pode fazer com que",
+   "tips": [
+    {
+     "text": "puede hacer que",
+     "translatedText": "pode fazer com que",
+     "explanation": "SUBJUNTIVO: \"hacer que\" (fazer com que) exige o subjuntivo no verbo seguinte — por isso vem \"se mueva\" (e não \"se mueve\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "la medusa se mueva",
+  "translation": {
+   "text": "a água-viva se mova",
+   "tips": [
+    {
+     "text": "la medusa",
+     "translatedText": "a água-viva",
+     "explanation": null
+    },
+    {
+     "text": "se mueva",
+     "translatedText": "se mova",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y quede atrapada",
+  "translation": {
+   "text": "e fique presa",
+   "tips": [
+    {
+     "text": "y quede",
+     "translatedText": "e fique",
+     "explanation": null
+    },
+    {
+     "text": "atrapada",
+     "translatedText": "presa / encalhada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en la playa",
+  "translation": {
+   "text": "na praia",
+   "tips": [
+    {
+     "text": "en la playa",
+     "translatedText": "na praia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "como un trozo de pastel",
+  "translation": {
+   "text": "como um pedaço de bolo",
+   "tips": [
+    {
+     "text": "como un trozo",
+     "translatedText": "como um pedaço",
+     "explanation": "FALSO AMIGO: \"trozo\" = PEDAÇO (de algo), não \"troço/coisa\". \"un trozo de pan\" = um pedaço de pão.",
+     "priority": "low"
+    },
+    {
+     "text": "de pastel",
+     "translatedText": "de bolo",
+     "explanation": "FALSO AMIGO campeão: \"pastel\" = BOLO / doce (não o nosso \"pastel\" frito salgado). Em vários países \"torta/pastel\" se usam para bolo; nosso pastel brasileiro não existe assim no mundo hispânico.",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que acaba de caer",
+  "translation": {
+   "text": "que acabou de cair",
+   "tips": [
+    {
+     "text": "acaba de caer",
+     "translatedText": "acabou de cair",
+     "explanation": "ESTRUTURA-ESPELHO: \"acabar de + infinitivo\" = acabar de (ter feito algo agora há pouco). \"acaba de caer\" = acabou de cair.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de la boca de un niño pequeño",
+  "translation": {
+   "text": "da boca de um menino pequeno",
+   "tips": [
+    {
+     "text": "de la boca",
+     "translatedText": "da boca",
+     "explanation": null
+    },
+    {
+     "text": "de un niño pequeño",
+     "translatedText": "de um menino pequeno",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Incluso una",
+  "newLine": true,
+  "translation": {
+   "text": "Inclusive uma",
+   "tips": [
+    {
+     "text": "Incluso",
+     "translatedText": "inclusive / até mesmo",
+     "explanation": null
+    },
+    {
+     "text": "una",
+     "translatedText": "uma (água-viva)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "tan grande como un perro",
+  "translation": {
+   "text": "tão grande como um cão",
+   "tips": [
+    {
+     "text": "tan grande como",
+     "translatedText": "tão grande como / quanto",
+     "explanation": "ESTRUTURA: comparativo de igualdade \"tan + adjetivo + como\" = tão... como/quanto. \"tan grande como\" = tão grande quanto.",
+     "priority": "low"
+    },
+    {
+     "text": "un perro",
+     "translatedText": "um cão / cachorro",
+     "explanation": "FALSO AMIGO/VOCAB reciclado: \"perro\" = CÃO / cachorro (não \"perro\" no sentido de teimoso). Já apareceu em livros anteriores da coleção.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y tan pesada como un niño",
+  "translation": {
+   "text": "e tão pesada como uma criança",
+   "tips": [
+    {
+     "text": "tan pesada como",
+     "translatedText": "tão pesada quanto",
+     "explanation": null
+    },
+    {
+     "text": "un niño",
+     "translatedText": "uma criança / um menino",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "casi desaparece",
+  "translation": {
+   "text": "quase desaparece",
+   "tips": [
+    {
+     "text": "casi",
+     "translatedText": "quase",
+     "explanation": null
+    },
+    {
+     "text": "desaparece",
+     "translatedText": "desaparece",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "después de unas horas",
+  "translation": {
+   "text": "depois de algumas horas",
+   "tips": [
+    {
+     "text": "después de",
+     "translatedText": "depois de",
+     "explanation": null
+    },
+    {
+     "text": "unas horas",
+     "translatedText": "algumas horas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "bajo el sol",
+  "translation": {
+   "text": "sob o sol",
+   "tips": [
+    {
+     "text": "bajo el sol",
+     "translatedText": "sob o sol / debaixo do sol",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "porque su cuerpo",
+  "translation": {
+   "text": "porque seu corpo",
+   "tips": [
+    {
+     "text": "porque",
+     "translatedText": "porque",
+     "explanation": null
+    },
+    {
+     "text": "su cuerpo",
+     "translatedText": "seu corpo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "es poco más que",
+  "translation": {
+   "text": "é pouco mais que",
+   "tips": [
+    {
+     "text": "es poco más que",
+     "translatedText": "é pouco mais do que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "una bola de agua",
+  "translation": {
+   "text": "uma bola de água",
+   "tips": [
+    {
+     "text": "una bola de agua",
+     "translatedText": "uma bola de água",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en movimiento",
+  "translation": {
+   "text": "em movimento",
+   "tips": [
+    {
+     "text": "en movimiento",
+     "translatedText": "em movimento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Por la noche",
+  "translation": {
+   "text": "À noite",
+   "tips": [
+    {
+     "text": "Por la noche",
+     "translatedText": "à noite / de noite",
+     "explanation": "Eixo POR/PARA + NOTA: \"por la noche\" = à noite / durante a noite. Espanhol usa \"por\" para partes do dia: \"por la mañana\" (de manhã), \"por la tarde\" (à tarde), \"por la noche\" (à noite).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "sin embargo",
+  "translation": {
+   "text": "no entanto",
+   "tips": [
+    {
+     "text": "sin embargo",
+     "translatedText": "no entanto / contudo / todavia",
+     "explanation": "NOTA: \"sin embargo\" = no entanto / contudo. É justamente o que em PT chamamos \"todavia\" — e que NÃO se diz \"todavía\" em espanhol (esse é falso amigo e significa \"ainda\").",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "justo donde murió",
+  "translation": {
+   "text": "bem onde morreu",
+   "tips": [
+    {
+     "text": "justo",
+     "translatedText": "bem / exatamente",
+     "explanation": null
+    },
+    {
+     "text": "donde murió",
+     "translatedText": "onde morreu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "el día anterior",
+  "translation": {
+   "text": "no dia anterior",
+   "tips": [
+    {
+     "text": "el día anterior",
+     "translatedText": "no dia anterior / na véspera",
+     "explanation": "VOCAB: \"el día\" é masculino apesar de terminar em -a (\"el día anterior\"). \"anterior\" = anterior / de antes.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el suelo parece brillar",
+  "translation": {
+   "text": "o chão parece brilhar",
+   "tips": [
+    {
+     "text": "el suelo",
+     "translatedText": "o chão / o solo",
+     "explanation": "VOCAB: \"el suelo\" = o chão / o solo. Aqui, o fundo/areia onde a água-viva ficou.",
+     "priority": "low"
+    },
+    {
+     "text": "parece brillar",
+     "translatedText": "parece brilhar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y la gente",
+  "translation": {
+   "text": "e as pessoas",
+   "tips": [
+    {
+     "text": "y la gente",
+     "translatedText": "e as pessoas / a gente",
+     "explanation": "ESTRUTURA: \"la gente\" é SINGULAR em espanhol e leva verbo no singular (\"la gente llama\" = as pessoas chamam). Em PT também é singular, mas costumamos traduzir por \"as pessoas\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "llama a eso",
+  "translation": {
+   "text": "chama isso de",
+   "tips": [
+    {
+     "text": "llama a eso",
+     "translatedText": "chama isso (de)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "«",
+  "translation": null
+ },
+ {
+  "text": "la luz del dragón",
+  "translation": {
+   "text": "a luz do dragão",
+   "tips": [
+    {
+     "text": "la luz",
+     "translatedText": "a luz",
+     "explanation": null
+    },
+    {
+     "text": "del dragón",
+     "translatedText": "do dragão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": "»",
+  "translation": null
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Pero las medusas",
+  "newLine": true,
+  "translation": {
+   "text": "Mas as águas-vivas",
+   "tips": [
+    {
+     "text": "Pero",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "las medusas",
+     "translatedText": "as águas-vivas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "tuvieron una vez",
+  "translation": {
+   "text": "tiveram um dia",
+   "tips": [
+    {
+     "text": "tuvieron",
+     "translatedText": "tiveram",
+     "explanation": "\"tuvieron\" = pretérito de \"tener\" (ter), 3ª pessoa do plural = (eles/elas) tiveram. Verbo irregular muito útil.",
+     "priority": "low"
+    },
+    {
+     "text": "una vez",
+     "translatedText": "um dia / uma vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "un caparazón muy duro",
+  "translation": {
+   "text": "uma carapaça muito dura",
+   "tips": [
+    {
+     "text": "un caparazón",
+     "translatedText": "uma carapaça",
+     "explanation": null
+    },
+    {
+     "text": "muy duro",
+     "translatedText": "muito duro / rígido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y eran muy fuertes",
+  "translation": {
+   "text": "e eram muito fortes",
+   "tips": [
+    {
+     "text": "eran",
+     "translatedText": "eram",
+     "explanation": "Eixo SER/ESTAR: \"eran\" (imperfeito de SER) porque descreve uma CARACTERÍSTICA permanente das águas-vivas naquela época (eram fortes por natureza), não um estado momentâneo.",
+     "priority": "low"
+    },
+    {
+     "text": "muy fuertes",
+     "translatedText": "muito fortes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Así que",
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Así que",
+     "translatedText": "então / por isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "esta es la historia",
+  "translation": {
+   "text": "esta é a história",
+   "tips": [
+    {
+     "text": "esta es",
+     "translatedText": "esta é",
+     "explanation": null
+    },
+    {
+     "text": "la historia",
+     "translatedText": "a história",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de cómo lo perdieron",
+  "translation": {
+   "text": "de como o perderam",
+   "tips": [
+    {
+     "text": "de cómo",
+     "translatedText": "de como",
+     "explanation": null
+    },
+    {
+     "text": "lo perdieron",
+     "translatedText": "o perderam (o caparazón)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Hace mucho tiempo",
+  "newLine": true,
+  "translation": {
+   "text": "Há muito tempo",
+   "tips": [
+    {
+     "text": "Hace mucho tiempo",
+     "translatedText": "há muito tempo / muito tempo atrás",
+     "explanation": "ESTRUTURA-ESPELHO: \"hace + tempo\" = faz/há + tempo (tempo decorrido). \"hace mucho tiempo\" = há muito tempo (atrás).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "había una medusa",
+  "translation": {
+   "text": "havia uma água-viva",
+   "tips": [
+    {
+     "text": "había una medusa",
+     "translatedText": "havia uma água-viva",
+     "explanation": "\"había\" = havia / existia (imperfeito de \"haber\" impessoal). Sempre no singular, mesmo com plural: \"había muchas medusas\".",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que era una sirvienta",
+  "translation": {
+   "text": "que era uma serva",
+   "tips": [
+    {
+     "text": "que era",
+     "translatedText": "que era",
+     "explanation": "Eixo SER/ESTAR: \"era una sirvienta\" usa SER porque define a IDENTIDADE/função dela (o que ela era). Identidade e profissão → SER.",
+     "priority": "low"
+    },
+    {
+     "text": "una sirvienta",
+     "translatedText": "uma serva / criada",
+     "explanation": "VOCAB: \"sirvienta\" = serva / criada / empregada (de uma casa ou corte). Aqui, na corte do Rei.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "en la corte del Rey",
+  "translation": {
+   "text": "na corte do Rei",
+   "tips": [
+    {
+     "text": "en la corte",
+     "translatedText": "na corte",
+     "explanation": "VOCAB: \"la corte\" = a corte (do rei). Feminino. Não confundir com \"el corte\" (o corte/talho), masculino — par mínimo de gênero.",
+     "priority": "low"
+    },
+    {
+     "text": "del Rey",
+     "translatedText": "do Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "del Mundo Bajo el Mar",
+  "translation": {
+   "text": "do Mundo Sob o Mar",
+   "tips": [
+    {
+     "text": "del Mundo",
+     "translatedText": "do Mundo",
+     "explanation": null
+    },
+    {
+     "text": "Bajo el Mar",
+     "translatedText": "sob o mar / debaixo do mar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "En aquellos días",
+  "translation": {
+   "text": "Naqueles dias",
+   "tips": [
+    {
+     "text": "En aquellos días",
+     "translatedText": "naqueles dias / naquele tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "su cabeza era dura",
+  "translation": {
+   "text": "sua cabeça era dura",
+   "tips": [
+    {
+     "text": "su cabeza",
+     "translatedText": "sua cabeça",
+     "explanation": null
+    },
+    {
+     "text": "era dura",
+     "translatedText": "era dura",
+     "explanation": "Eixo SER/ESTAR: \"era dura\" usa SER porque descreve uma QUALIDADE/característica inerente da cabeça (dureza como propriedade). Compare: \"estaba dura\" sugeriria um estado passageiro.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "y nadie podía",
+  "translation": {
+   "text": "e ninguém podia",
+   "tips": [
+    {
+     "text": "nadie",
+     "translatedText": "ninguém",
+     "explanation": null
+    },
+    {
+     "text": "podía",
+     "translatedText": "podia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "ser malo con ella",
+  "translation": {
+   "text": "ser mau com ela",
+   "tips": [
+    {
+     "text": "ser malo",
+     "translatedText": "ser mau",
+     "explanation": null
+    },
+    {
+     "text": "con ella",
+     "translatedText": "com ela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "tratarla mal",
+  "translation": {
+   "text": "tratá-la mal",
+   "tips": [
+    {
+     "text": "tratarla mal",
+     "translatedText": "tratá-la mal",
+     "explanation": "O pronome \"la\" (a ela) gruda no fim do infinitivo: \"tratar + la\" = tratá-la. Espanhol cola o objeto no infinitivo (igual ao PT).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "ni hacerle daño",
+  "translation": {
+   "text": "nem machucá-la",
+   "tips": [
+    {
+     "text": "ni",
+     "translatedText": "nem",
+     "explanation": null
+    },
+    {
+     "text": "hacerle daño",
+     "translatedText": "machucá-la / fazer mal a ela",
+     "explanation": "ESTRUTURA-ESPELHO: \"hacer daño a alguien\" = machucar / fazer mal a alguém. O \"le\" é o objeto indireto (a ela). \"hacerle daño\" = fazer-lhe mal.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "de ninguna manera",
+  "translation": {
+   "text": "de jeito nenhum",
+   "tips": [
+    {
+     "text": "de ninguna manera",
+     "translatedText": "de jeito nenhum / de forma alguma",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "En resumen",
+  "translation": {
+   "text": "Em resumo",
+   "tips": [
+    {
+     "text": "En resumen",
+     "translatedText": "em resumo / resumindo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "en vez de ser",
+  "translation": {
+   "text": "em vez de ser",
+   "tips": [
+    {
+     "text": "en vez de ser",
+     "translatedText": "em vez de ser",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "la gran bola de agua",
+  "translation": {
+   "text": "a grande bola de água",
+   "tips": [
+    {
+     "text": "la gran bola",
+     "translatedText": "a grande bola",
+     "explanation": "NOTA: \"grande\" vira \"gran\" antes de substantivo singular (apócope): \"una gran bola\". Antes de plural ou depois do nome fica \"grande(s)\".",
+     "priority": "low"
+    },
+    {
+     "text": "de agua",
+     "translatedText": "de água",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que vemos ahora",
+  "translation": {
+   "text": "que vemos agora",
+   "tips": [
+    {
+     "text": "que vemos",
+     "translatedText": "que vemos",
+     "explanation": null
+    },
+    {
+     "text": "ahora",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "era un ser fuerte",
+  "translation": {
+   "text": "era um ser forte",
+   "tips": [
+    {
+     "text": "era un ser",
+     "translatedText": "era um ser",
+     "explanation": "Curiosidade: \"el ser\" aqui é SUBSTANTIVO (= um ser, uma criatura), vindo do verbo \"ser\". \"un ser fuerte\" = um ser forte.",
+     "priority": "low"
+    },
+    {
+     "text": "fuerte",
+     "translatedText": "forte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que podía defenderse",
+  "translation": {
+   "text": "que podia se defender",
+   "tips": [
+    {
+     "text": "que podía",
+     "translatedText": "que podia",
+     "explanation": null
+    },
+    {
+     "text": "defenderse",
+     "translatedText": "se defender / defender-se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y hacer casi todo",
+  "translation": {
+   "text": "e fazer quase tudo",
+   "tips": [
+    {
+     "text": "y hacer",
+     "translatedText": "e fazer",
+     "explanation": null
+    },
+    {
+     "text": "casi todo",
+     "translatedText": "quase tudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a su manera",
+  "translation": {
+   "text": "do seu jeito",
+   "tips": [
+    {
+     "text": "a su manera",
+     "translatedText": "do seu jeito / à sua maneira",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Trabajaba para el Rey",
+  "translation": {
+   "text": "Trabalhava para o Rei",
+   "tips": [
+    {
+     "text": "Trabajaba",
+     "translatedText": "trabalhava",
+     "explanation": null
+    },
+    {
+     "text": "para el Rey",
+     "translatedText": "para o Rei",
+     "explanation": "Eixo POR/PARA: \"para el Rey\" usa PARA porque indica o destinatário/beneficiário do trabalho (trabalhar PARA alguém). \"Rey\" é vocabulário reciclado da coleção.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y estaba muy feliz",
+  "translation": {
+   "text": "e estava muito feliz",
+   "tips": [
+    {
+     "text": "estaba",
+     "translatedText": "estava",
+     "explanation": "Eixo SER/ESTAR: \"estaba feliz\" usa ESTAR porque \"feliz\" aqui é um ESTADO/emoção (como ela se sentia), não uma característica permanente. Estado e emoção → ESTAR.",
+     "priority": "high"
+    },
+    {
+     "text": "muy feliz",
+     "translatedText": "muito feliz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con su trabajo",
+  "translation": {
+   "text": "com seu trabalho",
+   "tips": [
+    {
+     "text": "con su trabajo",
+     "translatedText": "com seu trabalho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Incluso era amiga",
+  "translation": {
+   "text": "Inclusive era amiga",
+   "tips": [
+    {
+     "text": "Incluso",
+     "translatedText": "inclusive / até",
+     "explanation": null
+    },
+    {
+     "text": "era amiga",
+     "translatedText": "era amiga",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "del dragón del Rey",
+  "translation": {
+   "text": "do dragão do Rei",
+   "tips": [
+    {
+     "text": "del dragón",
+     "translatedText": "do dragão",
+     "explanation": null
+    },
+    {
+     "text": "del Rey",
+     "translatedText": "do Rei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "que era tan grande",
+  "translation": {
+   "text": "que era tão grande",
+   "tips": [
+    {
+     "text": "que era",
+     "translatedText": "que era",
+     "explanation": null
+    },
+    {
+     "text": "tan grande",
+     "translatedText": "tão grande",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "que casi todos",
+  "translation": {
+   "text": "que quase todos",
+   "tips": [
+    {
+     "text": "que casi todos",
+     "translatedText": "que quase todos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "se mantenían lejos",
+  "translation": {
+   "text": "se mantinham longe",
+   "tips": [
+    {
+     "text": "se mantenían",
+     "translatedText": "se mantinham / ficavam",
+     "explanation": null
+    },
+    {
+     "text": "lejos",
+     "translatedText": "longe",
+     "explanation": "FALSO AMIGO leve: \"lejos\" = LONGE (não \"laje\"). O oposto é \"cerca\" (perto).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ },
+ {
+  "text": "Un día",
+  "newLine": true,
+  "translation": {
+   "text": "Um dia",
+   "tips": [
+    {
+     "text": "Un día",
+     "translatedText": "um dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "el Rey se puso muy enfermo",
+  "translation": {
+   "text": "o Rei ficou muito doente",
+   "tips": [
+    {
+     "text": "el Rey",
+     "translatedText": "o Rei",
+     "explanation": null
+    },
+    {
+     "text": "se puso muy enfermo",
+     "translatedText": "ficou muito doente",
+     "explanation": "ESTRUTURA-CHAVE: \"ponerse + adjetivo\" = FICAR (mudança de estado súbita): \"se puso enfermo\" = ficou doente; \"se puso triste\" = ficou triste. Diferente de \"estar enfermo\" (já estar doente).",
+     "priority": "high"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y se sentía peor",
+  "translation": {
+   "text": "e se sentia pior",
+   "tips": [
+    {
+     "text": "se sentía",
+     "translatedText": "se sentia",
+     "explanation": null
+    },
+    {
+     "text": "peor",
+     "translatedText": "pior",
+     "explanation": "VOCAB: \"peor\" = pior (comparativo irregular de \"malo\"). O oposto é \"mejor\" (melhor).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "a cada hora",
+  "translation": {
+   "text": "a cada hora",
+   "tips": [
+    {
+     "text": "a cada hora",
+     "translatedText": "a cada hora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "Había tristeza",
+  "translation": {
+   "text": "Havia tristeza",
+   "tips": [
+    {
+     "text": "Había tristeza",
+     "translatedText": "havia tristeza",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "por todo el mundo del agua",
+  "translation": {
+   "text": "por todo o mundo da água",
+   "tips": [
+    {
+     "text": "por todo el mundo",
+     "translatedText": "por todo o mundo",
+     "explanation": "Eixo POR/PARA: \"por\" indica aqui a EXTENSÃO/lugar percorrido (\"por todo el mundo\" = por todo o mundo / pelo mundo todo).",
+     "priority": "low"
+    },
+    {
+     "text": "del agua",
+     "translatedText": "da água",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "translation": null
+ },
+ {
+  "text": "desde las bonitas sirenas",
+  "translation": {
+   "text": "desde as bonitas sereias",
+   "tips": [
+    {
+     "text": "desde",
+     "translatedText": "desde",
+     "explanation": null
+    },
+    {
+     "text": "las bonitas sirenas",
+     "translatedText": "as bonitas sereias",
+     "explanation": "VOCAB: \"la sirena\" = a sereia (e também a sirene de alarme). Aqui são as sereias do mar, personagens do conto.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y los grandes dragones",
+  "translation": {
+   "text": "e os grandes dragões",
+   "tips": [
+    {
+     "text": "y los grandes dragones",
+     "translatedText": "e os grandes dragões",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "hasta los pequeños peces",
+  "translation": {
+   "text": "até os pequenos peixes",
+   "tips": [
+    {
+     "text": "hasta",
+     "translatedText": "até",
+     "explanation": "ESTRUTURA: \"desde... hasta...\" = desde... até... (de um extremo ao outro). \"desde las sirenas hasta los peces\" = das sereias aos peixes.",
+     "priority": "low"
+    },
+    {
+     "text": "los pequeños peces",
+     "translatedText": "os pequenos peixes",
+     "explanation": "VOCAB: \"el pez\" = o peixe (vivo, na água); plural \"los peces\". Cuidado: \"el pescado\" é o peixe já como comida.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "lejanos del río",
+  "translation": {
+   "text": "distantes do rio",
+   "tips": [
+    {
+     "text": "lejanos",
+     "translatedText": "distantes / longínquos",
+     "explanation": null
+    },
+    {
+     "text": "del río",
+     "translatedText": "do rio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "translation": null
+ },
+ {
+  "text": "El alegre calamar",
+  "translation": {
+   "text": "A alegre lula",
+   "tips": [
+    {
+     "text": "El alegre",
+     "translatedText": "o alegre",
+     "explanation": null
+    },
+    {
+     "text": "calamar",
+     "translatedText": "lula",
+     "explanation": "VOCAB/NOTA: \"el calamar\" = a LULA (gênero masculino em espanhol: \"el calamar\"). É um personagem do conto, o músico.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "dejó de tocar",
+  "translation": {
+   "text": "parou de tocar",
+   "tips": [
+    {
+     "text": "dejó de tocar",
+     "translatedText": "parou de tocar",
+     "explanation": "ESTRUTURA-ESPELHO: \"dejar de + infinitivo\" = PARAR de fazer algo. \"dejó de tocar\" = parou de tocar. Não confundir \"dejar\" (deixar/parar) com tradução literal.",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "sus tambores",
+  "translation": {
+   "text": "seus tambores",
+   "tips": [
+    {
+     "text": "sus tambores",
+     "translatedText": "seus tambores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "con sus seis brazos",
+  "translation": {
+   "text": "com seus seis braços",
+   "tips": [
+    {
+     "text": "con sus seis brazos",
+     "translatedText": "com seus seis braços",
+     "explanation": "ATENÇÃO ortográfica: \"seis\" = seis (número), mas \"sus\" = seus/suas. Não confundir \"seis\" com \"sus\". \"brazo\" = braço (z em vez de ç).",
+     "priority": "low"
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "translation": null
+ },
+ {
+  "text": "y se fue a su casa",
+  "translation": {
+   "text": "e foi para sua casa",
+   "tips": [
+    {
+     "text": "se fue",
+     "translatedText": "foi embora / foi",
+     "explanation": "\"irse\" (se ir / ir embora) é diferente de \"ir\". \"se fue\" = foi embora. \"casa\" é vocabulário reciclado da coleção.",
+     "priority": "low"
+    },
+    {
+     "text": "a su casa",
+     "translatedText": "para sua casa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "translation": null
+ }
+]

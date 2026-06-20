@@ -1,0 +1,222 @@
+[
+  { "text": "Alors", "newLine": true, "translation": { "text": "Então", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Main Droite et Main Gauche", "newLine": false, "translation": { "text": "Mão Direita e Mão Esquerda", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "savaient quoi faire", "newLine": false, "translation": { "text": "sabiam o que fazer", "tips": [
+    { "text": "savaient", "translatedText": "sabiam", "explanation": null },
+    { "text": "quoi faire", "translatedText": "o que fazer", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et ils sont allés", "newLine": false, "translation": { "text": "e eles foram", "tips": [
+    { "text": "ils sont allés", "translatedText": "eles foram", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "voir le Roi", "newLine": false, "translation": { "text": "ver o Rei", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "encore une fois", "newLine": false, "translation": { "text": "mais uma vez", "tips": [
+    { "text": "encore une fois", "translatedText": "mais uma vez", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Mon Roi", "newLine": false, "translation": { "text": "Meu Rei", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Yeux de Feu est un dragon vert", "newLine": false, "translation": { "text": "Yeux de Feu é um dragão verde", "tips": [
+    { "text": "un dragon vert", "translatedText": "um dragão verde", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "C'est aussi une mère", "newLine": false, "translation": { "text": "É também uma mãe", "tips": [
+    { "text": "C'est aussi", "translatedText": "É também", "explanation": null },
+    { "text": "une mère", "translatedText": "uma mãe", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et elle s'occupe de son bébé", "newLine": false, "translation": { "text": "e ela cuida do seu bebê", "tips": [
+    { "text": "elle s'occupe", "translatedText": "ela cuida / se ocupa", "explanation": "\"s'occuper de\" é um verbo pronominal que significa \"cuidar de / ocupar-se de\". O \"se\" faz parte do verbo; em português dizemos só \"cuidar de\"." },
+    { "text": "de son bébé", "translatedText": "do seu bebê", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Main Droite", "newLine": false, "translation": { "text": "disse Mão Direita", "tips": [
+    { "text": "a dit", "translatedText": "disse", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Et les gens peuvent l'aider", "newLine": false, "translation": { "text": "E as pessoas podem ajudá-la", "tips": [
+    { "text": "les gens", "translatedText": "as pessoas", "explanation": "\"les gens\" significa \"as pessoas / a gente\" no sentido coletivo, e leva o verbo no plural." },
+    { "text": "l'aider", "translatedText": "ajudá-la", "explanation": null } ] } },
+  { "text": " : ", "newLine": false, "translation": null },
+  { "text": "ils peuvent lui donner des poissons", "newLine": false, "translation": { "text": "podem dar peixes a ela", "tips": [
+    { "text": "lui donner", "translatedText": "dar a ela", "explanation": "\"lui\" é o pronome objeto indireto \"a ele / a ela\" e vem ANTES do infinitivo: \"lui donner\" = \"dar a ela\"." },
+    { "text": "des poissons", "translatedText": "peixes", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Main Gauche", "newLine": false, "translation": { "text": "disse Mão Esquerda", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Mais attention", "newLine": false, "translation": { "text": "Mas atenção", "tips": [
+    { "text": "attention", "translatedText": "atenção / cuidado", "explanation": null } ] } },
+  { "text": " : ", "newLine": false, "translation": null },
+  { "text": "aller trop près d'elle", "newLine": false, "translation": { "text": "chegar perto demais dela", "tips": [
+    { "text": "trop près", "translatedText": "perto demais", "explanation": null },
+    { "text": "d'elle", "translatedText": "dela", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "ou de son bébé", "newLine": false, "translation": { "text": "ou do seu bebê", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "n'est pas une très bonne idée", "newLine": false, "translation": { "text": "não é uma ideia muito boa", "tips": [
+    { "text": "n'est pas", "translatedText": "não é", "explanation": null },
+    { "text": "une très bonne idée", "translatedText": "uma ideia muito boa", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "ils ont continué", "newLine": false, "translation": { "text": "eles continuaram", "tips": [] } },
+  { "text": ". « ", "newLine": false, "translation": null },
+  { "text": "Les gens peuvent laisser les poissons", "newLine": false, "translation": { "text": "As pessoas podem deixar os peixes", "tips": [
+    { "text": "peuvent laisser", "translatedText": "podem deixar", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "près des arbres", "newLine": false, "translation": { "text": "perto das árvores", "tips": [
+    { "text": "près des arbres", "translatedText": "perto das árvores", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Yeux de Feu va se sentir mieux", "newLine": false, "translation": { "text": "Yeux de Feu vai se sentir melhor", "tips": [
+    { "text": "va se sentir", "translatedText": "vai se sentir", "explanation": null },
+    { "text": "mieux", "translatedText": "melhor", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et elle peut même aider", "newLine": false, "translation": { "text": "e ela pode até ajudar", "tips": [
+    { "text": "même", "translatedText": "até / mesmo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "votre pays un jour", "newLine": false, "translation": { "text": "o seu país um dia", "tips": [
+    { "text": "votre pays", "translatedText": "o seu país", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "si vous avez besoin d'elle", "newLine": false, "translation": { "text": "se vocês precisarem dela", "tips": [
+    { "text": "vous avez besoin d'", "translatedText": "vocês precisam de", "explanation": "\"avoir besoin de\" é uma expressão fixa que significa \"precisar de\". Literalmente \"ter necessidade de\"." } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "Alors", "newLine": true, "translation": { "text": "Então", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "le Roi a ordonné à son peuple", "newLine": false, "translation": { "text": "o Rei ordenou ao seu povo", "tips": [
+    { "text": "a ordonné", "translatedText": "ordenou", "explanation": null },
+    { "text": "à son peuple", "translatedText": "ao seu povo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de donner beaucoup de poissons", "newLine": false, "translation": { "text": "de dar muitos peixes", "tips": [
+    { "text": "beaucoup de", "translatedText": "muitos", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "à Yeux de Feu", "newLine": false, "translation": { "text": "a Yeux de Feu", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et de la laisser tranquille", "newLine": false, "translation": { "text": "e de deixá-la em paz", "tips": [
+    { "text": "la laisser tranquille", "translatedText": "deixá-la em paz", "explanation": "\"laisser tranquille\" é uma expressão que significa \"deixar em paz / não incomodar\". O \"la\" (a ela) vem antes do infinitivo." } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et comme les choses", "newLine": false, "translation": { "text": "e como as coisas", "tips": [
+    { "text": "comme", "translatedText": "como / já que", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sont redevenues bonnes", "newLine": false, "translation": { "text": "voltaram a ficar boas", "tips": [
+    { "text": "sont redevenues", "translatedText": "voltaram a ficar / tornaram-se de novo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "dans ce pays", "newLine": false, "translation": { "text": "neste país", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "c'était le moment", "newLine": false, "translation": { "text": "era o momento", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "pour Main Droite et Main Gauche", "newLine": false, "translation": { "text": "para Mão Direita e Mão Esquerda", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "de partir", "newLine": false, "translation": { "text": "de partir", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Mon Roi", "newLine": false, "translation": { "text": "Meu Rei", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "nous devons partir", "newLine": false, "translation": { "text": "nós devemos partir", "tips": [
+    { "text": "nous devons", "translatedText": "nós devemos", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais avant de partir", "newLine": false, "translation": { "text": "mas antes de partir", "tips": [
+    { "text": "avant de partir", "translatedText": "antes de partir", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "vous devez nous payer", "newLine": false, "translation": { "text": "o senhor deve nos pagar", "tips": [
+    { "text": "vous devez", "translatedText": "o senhor deve / vocês devem", "explanation": null },
+    { "text": "nous payer", "translatedText": "nos pagar", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pour notre service", "newLine": false, "translation": { "text": "pelo nosso serviço", "tips": [] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Main Droite", "newLine": false, "translation": { "text": "disse Mão Direita", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Oui", "newLine": false, "translation": { "text": "Sim", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "je sais", "newLine": false, "translation": { "text": "eu sei", "tips": [] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a répondu le Roi", "newLine": false, "translation": { "text": "respondeu o Rei", "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null } ] } },
+  { "text": ". « ", "newLine": false, "translation": null },
+  { "text": "J'ai dit", "newLine": false, "translation": { "text": "Eu disse", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que j'allais vous montrer", "newLine": false, "translation": { "text": "que eu ia mostrar a vocês", "tips": [
+    { "text": "j'allais", "translatedText": "eu ia", "explanation": "\"aller\" no imperfeito (\"allais\") + infinitivo forma o futuro do passado: \"j'allais montrer\" = \"eu ia mostrar\"." },
+    { "text": "vous montrer", "translatedText": "mostrar a vocês", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "une chose", "newLine": false, "translation": { "text": "uma coisa", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que vous ne trouveriez", "newLine": false, "translation": { "text": "que vocês não encontrariam", "tips": [
+    { "text": "vous ne trouveriez", "translatedText": "vocês não encontrariam", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "dans aucun autre pays", "newLine": false, "translation": { "text": "em nenhum outro país", "tips": [
+    { "text": "aucun autre", "translatedText": "nenhum outro", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et je tiens toujours ma parole", "newLine": false, "translation": { "text": "e eu sempre cumpro a minha palavra", "tips": [
+    { "text": "je tiens toujours ma parole", "translatedText": "eu sempre cumpro a minha palavra", "explanation": "\"tenir sa parole\" é uma expressão fixa: \"cumprir a palavra / manter a promessa\". \"je tiens\" é o presente de \"tenir\" (segurar/manter)." } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Qu'est-ce que c'est", "newLine": false, "translation": { "text": "O que é isso", "tips": [
+    { "text": "Qu'est-ce que c'est", "translatedText": "O que é isso", "explanation": "\"Qu'est-ce que c'est ?\" é a forma padrão de perguntar \"O que é (isso)?\". É uma estrutura fixa, decore-a inteira." } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mon Roi", "newLine": false, "translation": { "text": "meu Rei", "tips": [] } },
+  { "text": " ? » ", "newLine": false, "translation": null },
+  { "text": "a demandé Main Gauche", "newLine": false, "translation": { "text": "perguntou Mão Esquerda", "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Dans ce pays", "newLine": false, "translation": { "text": "Neste país", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "il y a une rivière", "newLine": false, "translation": { "text": "há um rio", "tips": [
+    { "text": "il y a", "translatedText": "há / existe", "explanation": "\"il y a\" é a expressão fixa para \"há / existe\". Não traduza palavra por palavra." },
+    { "text": "une rivière", "translatedText": "um rio", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit le Roi", "newLine": false, "translation": { "text": "disse o Rei", "tips": [] } },
+  { "text": ". « ", "newLine": false, "translation": null },
+  { "text": "C'est une très grande rivière", "newLine": false, "translation": { "text": "É um rio muito grande", "tips": [
+    { "text": "très grande", "translatedText": "muito grande", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et nous l'appelons Eau Bleue", "newLine": false, "translation": { "text": "e nós o chamamos de Eau Bleue", "tips": [
+    { "text": "nous l'appelons", "translatedText": "nós o chamamos", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "à cause de sa couleur", "newLine": false, "translation": { "text": "por causa da sua cor", "tips": [
+    { "text": "à cause de", "translatedText": "por causa de", "explanation": null },
+    { "text": "sa couleur", "translatedText": "sua cor", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Dans cette rivière", "newLine": false, "translation": { "text": "Neste rio", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "il y a une île", "newLine": false, "translation": { "text": "há uma ilha", "tips": [
+    { "text": "une île", "translatedText": "uma ilha", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et cette île s'appelle", "newLine": false, "translation": { "text": "e esta ilha se chama", "tips": [
+    { "text": "s'appelle", "translatedText": "se chama", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "l'Endroit Heureux", "newLine": false, "translation": { "text": "o Lugar Feliz", "tips": [] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "L'Endroit Heureux", "newLine": false, "translation": { "text": "O Lugar Feliz", "tips": [] } },
+  { "text": " ? » ", "newLine": false, "translation": null },
+  { "text": "a demandé Main Droite", "newLine": false, "translation": { "text": "perguntou Mão Direita", "tips": [] } },
+  { "text": ". « ", "newLine": false, "translation": null },
+  { "text": "J'ai entendu parler", "newLine": false, "translation": { "text": "Eu ouvi falar", "tips": [
+    { "text": "J'ai entendu parler", "translatedText": "Eu ouvi falar", "explanation": "\"entendre parler de\" é uma expressão fixa: \"ouvir falar de\". \"j'ai entendu parler de cet endroit\" = \"ouvi falar deste lugar\"." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de cet endroit", "newLine": false, "translation": { "text": "deste lugar", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais je ne pensais pas", "newLine": false, "translation": { "text": "mas eu não pensava", "tips": [
+    { "text": "je ne pensais pas", "translatedText": "eu não pensava", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qu'il était réel", "newLine": false, "translation": { "text": "que ele era real", "tips": [
+    { "text": "était réel", "translatedText": "era real", "explanation": null } ] } },
+  { "text": " ! »", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Il est très réel", "newLine": false, "translation": { "text": "Ele é muito real", "tips": [
+    { "text": "très réel", "translatedText": "muito real", "explanation": null } ] } },
+  { "text": " ! » ", "newLine": false, "translation": null },
+  { "text": "a déclaré le Roi", "newLine": false, "translation": { "text": "declarou o Rei", "tips": [
+    { "text": "a déclaré", "translatedText": "declarou", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null }
+]

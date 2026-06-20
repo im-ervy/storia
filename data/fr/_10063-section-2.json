@@ -1,0 +1,2388 @@
+[
+ {
+  "text": "J'ai appelé la sécurité",
+  "newLine": true,
+  "translation": {
+   "text": "Liguei para a segurança",
+   "tips": [
+    {
+     "text": "J'ai appelé",
+     "translatedText": "Eu liguei / chamei",
+     "explanation": null
+    },
+    {
+     "text": "la sécurité",
+     "translatedText": "a segurança",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais personne n'a répondu",
+  "newLine": false,
+  "translation": {
+   "text": "mas ninguém atendeu",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "personne n'a répondu",
+     "translatedText": "ninguém respondeu / atendeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le gardien faisait sûrement",
+  "newLine": false,
+  "translation": {
+   "text": "O vigia certamente fazia",
+   "tips": [
+    {
+     "text": "Le gardien",
+     "translatedText": "O vigia / zelador",
+     "explanation": null
+    },
+    {
+     "text": "faisait",
+     "translatedText": "fazia",
+     "explanation": null
+    },
+    {
+     "text": "sûrement",
+     "translatedText": "certamente / com certeza",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sa ronde",
+  "newLine": false,
+  "translation": {
+   "text": "sua ronda",
+   "tips": [
+    {
+     "text": "sa ronde",
+     "translatedText": "sua ronda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans l'immeuble",
+  "newLine": false,
+  "translation": {
+   "text": "no prédio",
+   "tips": [
+    {
+     "text": "dans l'immeuble",
+     "translatedText": "no prédio / edifício",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Est-ce que je dois attendre",
+  "newLine": false,
+  "translation": {
+   "text": "Será que devo esperar",
+   "tips": [
+    {
+     "text": "Est-ce que",
+     "translatedText": "Será que / (marca de pergunta)",
+     "explanation": null
+    },
+    {
+     "text": "je dois attendre",
+     "translatedText": "eu devo esperar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "me suis-je demandé",
+  "newLine": false,
+  "translation": {
+   "text": "perguntei-me",
+   "tips": [
+    {
+     "text": "me suis-je demandé",
+     "translatedText": "perguntei a mim mesma",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Les lumières pouvaient revenir",
+  "newLine": false,
+  "translation": {
+   "text": "As luzes podiam voltar",
+   "tips": [
+    {
+     "text": "Les lumières",
+     "translatedText": "As luzes",
+     "explanation": null
+    },
+    {
+     "text": "pouvaient revenir",
+     "translatedText": "podiam voltar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à tout moment",
+  "newLine": false,
+  "translation": {
+   "text": "a qualquer momento",
+   "tips": [
+    {
+     "text": "à tout moment",
+     "translatedText": "a qualquer momento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ou le gardien pouvait monter",
+  "newLine": false,
+  "translation": {
+   "text": "ou o vigia podia subir",
+   "tips": [
+    {
+     "text": "ou",
+     "translatedText": "ou",
+     "explanation": null
+    },
+    {
+     "text": "le gardien",
+     "translatedText": "o vigia",
+     "explanation": null
+    },
+    {
+     "text": "pouvait monter",
+     "translatedText": "podia subir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à mon étage",
+  "newLine": false,
+  "translation": {
+   "text": "ao meu andar",
+   "tips": [
+    {
+     "text": "à mon étage",
+     "translatedText": "ao meu andar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais combien de temps",
+  "newLine": false,
+  "translation": {
+   "text": "mas quanto tempo",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "combien de temps",
+     "translatedText": "quanto tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "devrais-je attendre",
+  "newLine": false,
+  "translation": {
+   "text": "eu deveria esperar",
+   "tips": [
+    {
+     "text": "devrais-je",
+     "translatedText": "eu deveria",
+     "explanation": null
+    },
+    {
+     "text": "attendre",
+     "translatedText": "esperar / aguardar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ?",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je dois rentrer maintenant",
+  "newLine": false,
+  "translation": {
+   "text": "Preciso voltar para casa agora",
+   "tips": [
+    {
+     "text": "Je dois rentrer",
+     "translatedText": "Eu devo / preciso voltar para casa",
+     "explanation": null
+    },
+    {
+     "text": "maintenant",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je décidé",
+  "newLine": false,
+  "translation": {
+   "text": "decidi",
+   "tips": [
+    {
+     "text": "ai-je décidé",
+     "translatedText": "(eu) decidi",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "J'ai besoin de dormir",
+  "newLine": false,
+  "translation": {
+   "text": "Preciso dormir",
+   "tips": [
+    {
+     "text": "J'ai besoin de",
+     "translatedText": "Eu preciso de",
+     "explanation": null
+    },
+    {
+     "text": "dormir",
+     "translatedText": "dormir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cependant",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Cependant",
+     "translatedText": "No entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à peine avais-je commencé à marcher",
+  "newLine": false,
+  "translation": {
+   "text": "mal eu tinha começado a andar",
+   "tips": [
+    {
+     "text": "à peine",
+     "translatedText": "mal / apenas",
+     "explanation": "A estrutura \"à peine... que...\" significa \"mal... (já)...\": uma ação acontece logo depois da outra. Quando \"à peine\" abre a frase, o sujeito e o verbo se INVERTEM: \"à peine avais-je commencé\" (em vez de \"j'avais à peine commencé\")."
+    },
+    {
+     "text": "avais-je commencé",
+     "translatedText": "eu tinha começado",
+     "explanation": null
+    },
+    {
+     "text": "à marcher",
+     "translatedText": "a andar / caminhar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que mon pied a heurté",
+  "newLine": false,
+  "translation": {
+   "text": "que meu pé bateu em",
+   "tips": [
+    {
+     "text": "que",
+     "translatedText": "que (e já)",
+     "explanation": null
+    },
+    {
+     "text": "mon pied",
+     "translatedText": "meu pé",
+     "explanation": null
+    },
+    {
+     "text": "a heurté",
+     "translatedText": "bateu / esbarrou em",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quelque chose",
+  "newLine": false,
+  "translation": {
+   "text": "alguma coisa",
+   "tips": [
+    {
+     "text": "quelque chose",
+     "translatedText": "alguma coisa / algo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ça m'a fait mal",
+  "newLine": false,
+  "translation": {
+   "text": "Isso me machucou",
+   "tips": [
+    {
+     "text": "Ça m'a fait mal",
+     "translatedText": "Isso me doeu / machucou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'était une boîte en bois",
+  "newLine": false,
+  "translation": {
+   "text": "Era uma caixa de madeira",
+   "tips": [
+    {
+     "text": "C'était",
+     "translatedText": "Era",
+     "explanation": null
+    },
+    {
+     "text": "une boîte",
+     "translatedText": "uma caixa",
+     "explanation": null
+    },
+    {
+     "text": "en bois",
+     "translatedText": "de madeira",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "J'ai marché un peu plus loin",
+  "newLine": false,
+  "translation": {
+   "text": "Andei um pouco mais longe",
+   "tips": [
+    {
+     "text": "J'ai marché",
+     "translatedText": "Eu andei / caminhei",
+     "explanation": null
+    },
+    {
+     "text": "un peu plus loin",
+     "translatedText": "um pouco mais longe / adiante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et je me suis cognée",
+  "newLine": false,
+  "translation": {
+   "text": "e bati / esbarrei",
+   "tips": [
+    {
+     "text": "et",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "je me suis cognée",
+     "translatedText": "eu bati / esbarrei",
+     "explanation": "\"se cogner (contre)\" = \"bater / esbarrar (em)\". É um verbo pronominal conjugado com \"être\", então o particípio CONCORDA com o sujeito: como a narradora é mulher, escreve-se \"cognée\" com -e final (no masculino seria \"cogné\")."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "contre une chaise",
+  "newLine": false,
+  "translation": {
+   "text": "contra uma cadeira",
+   "tips": [
+    {
+     "text": "contre",
+     "translatedText": "contra",
+     "explanation": null
+    },
+    {
+     "text": "une chaise",
+     "translatedText": "uma cadeira",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le bureau était un vrai désordre",
+  "newLine": false,
+  "translation": {
+   "text": "O escritório era uma verdadeira bagunça",
+   "tips": [
+    {
+     "text": "Le bureau",
+     "translatedText": "O escritório",
+     "explanation": null
+    },
+    {
+     "text": "était",
+     "translatedText": "era / estava",
+     "explanation": null
+    },
+    {
+     "text": "un vrai désordre",
+     "translatedText": "uma verdadeira bagunça / desordem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et essayer d'atteindre la porte",
+  "newLine": false,
+  "translation": {
+   "text": "e tentar alcançar a porta",
+   "tips": [
+    {
+     "text": "et essayer d'",
+     "translatedText": "e tentar",
+     "explanation": null
+    },
+    {
+     "text": "atteindre",
+     "translatedText": "alcançar / chegar a",
+     "explanation": null
+    },
+    {
+     "text": "la porte",
+     "translatedText": "a porta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'était comme marcher",
+  "newLine": false,
+  "translation": {
+   "text": "era como andar",
+   "tips": [
+    {
+     "text": "c'était comme",
+     "translatedText": "era como",
+     "explanation": null
+    },
+    {
+     "text": "marcher",
+     "translatedText": "andar / caminhar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans un labyrinthe",
+  "newLine": false,
+  "translation": {
+   "text": "num labirinto",
+   "tips": [
+    {
+     "text": "dans un labyrinthe",
+     "translatedText": "num labirinto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je ne voyais rien",
+  "newLine": false,
+  "translation": {
+   "text": "Eu não via nada",
+   "tips": [
+    {
+     "text": "Je ne voyais rien",
+     "translatedText": "Eu não via nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et les meubles semblaient",
+  "newLine": false,
+  "translation": {
+   "text": "e os móveis pareciam",
+   "tips": [
+    {
+     "text": "et les meubles",
+     "translatedText": "e os móveis",
+     "explanation": null
+    },
+    {
+     "text": "semblaient",
+     "translatedText": "pareciam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ne pas être à leur place",
+  "newLine": false,
+  "translation": {
+   "text": "não estar no seu lugar",
+   "tips": [
+    {
+     "text": "ne pas être",
+     "translatedText": "não estar",
+     "explanation": null
+    },
+    {
+     "text": "à leur place",
+     "translatedText": "no seu lugar / no lugar delas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Plus j'essayais",
+  "newLine": false,
+  "translation": {
+   "text": "Quanto mais eu tentava",
+   "tips": [
+    {
+     "text": "Plus",
+     "translatedText": "Quanto mais",
+     "explanation": null
+    },
+    {
+     "text": "j'essayais",
+     "translatedText": "eu tentava",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "plus je me sentais perdue",
+  "newLine": false,
+  "translation": {
+   "text": "mais eu me sentia perdida",
+   "tips": [
+    {
+     "text": "plus",
+     "translatedText": "mais",
+     "explanation": null
+    },
+    {
+     "text": "je me sentais",
+     "translatedText": "eu me sentia",
+     "explanation": null
+    },
+    {
+     "text": "perdue",
+     "translatedText": "perdida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bientôt",
+  "newLine": false,
+  "translation": {
+   "text": "Logo",
+   "tips": [
+    {
+     "text": "Bientôt",
+     "translatedText": "Logo / em breve",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'étais complètement perdue",
+  "newLine": false,
+  "translation": {
+   "text": "eu estava completamente perdida",
+   "tips": [
+    {
+     "text": "j'étais",
+     "translatedText": "eu estava",
+     "explanation": null
+    },
+    {
+     "text": "complètement",
+     "translatedText": "completamente",
+     "explanation": null
+    },
+    {
+     "text": "perdue",
+     "translatedText": "perdida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'est absurde",
+  "newLine": false,
+  "translation": {
+   "text": "Isto é absurdo",
+   "tips": [
+    {
+     "text": "C'est",
+     "translatedText": "Isto é / É",
+     "explanation": null
+    },
+    {
+     "text": "absurde",
+     "translatedText": "absurdo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je dit",
+  "newLine": false,
+  "translation": {
+   "text": "disse eu",
+   "tips": [
+    {
+     "text": "ai-je dit",
+     "translatedText": "(eu) disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "debout là",
+  "newLine": false,
+  "translation": {
+   "text": "de pé ali",
+   "tips": [
+    {
+     "text": "debout",
+     "translatedText": "de pé / em pé",
+     "explanation": null
+    },
+    {
+     "text": "là",
+     "translatedText": "ali / lá",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "entourée de silence",
+  "newLine": false,
+  "translation": {
+   "text": "cercada de silêncio",
+   "tips": [
+    {
+     "text": "entourée de",
+     "translatedText": "cercada de / rodeada de",
+     "explanation": null
+    },
+    {
+     "text": "silence",
+     "translatedText": "silêncio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de ténèbres",
+  "newLine": false,
+  "translation": {
+   "text": "e de trevas",
+   "tips": [
+    {
+     "text": "et de",
+     "translatedText": "e de",
+     "explanation": null
+    },
+    {
+     "text": "ténèbres",
+     "translatedText": "trevas / escuridão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je suis restée là un moment",
+  "newLine": true,
+  "translation": {
+   "text": "Fiquei ali um instante",
+   "tips": [
+    {
+     "text": "Je suis restée",
+     "translatedText": "Eu fiquei / permaneci",
+     "explanation": null
+    },
+    {
+     "text": "là un moment",
+     "translatedText": "ali um momento / instante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à penser vraiment",
+  "newLine": false,
+  "translation": {
+   "text": "pensando de verdade",
+   "tips": [
+    {
+     "text": "à penser",
+     "translatedText": "a pensar / pensando",
+     "explanation": null
+    },
+    {
+     "text": "vraiment",
+     "translatedText": "de verdade / realmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à mon prochain pas",
+  "newLine": false,
+  "translation": {
+   "text": "no meu próximo passo",
+   "tips": [
+    {
+     "text": "à mon prochain pas",
+     "translatedText": "no meu próximo passo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Puis",
+  "newLine": false,
+  "translation": {
+   "text": "Depois",
+   "tips": [
+    {
+     "text": "Puis",
+     "translatedText": "Depois / então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai décidé d'avancer",
+  "newLine": false,
+  "translation": {
+   "text": "decidi avançar",
+   "tips": [
+    {
+     "text": "j'ai décidé d'",
+     "translatedText": "eu decidi",
+     "explanation": null
+    },
+    {
+     "text": "avancer",
+     "translatedText": "avançar / seguir em frente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "même sans connaître",
+  "newLine": false,
+  "translation": {
+   "text": "mesmo sem conhecer",
+   "tips": [
+    {
+     "text": "même",
+     "translatedText": "mesmo",
+     "explanation": null
+    },
+    {
+     "text": "sans connaître",
+     "translatedText": "sem conhecer / saber",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la bonne direction",
+  "newLine": false,
+  "translation": {
+   "text": "a direção certa",
+   "tips": [
+    {
+     "text": "la bonne direction",
+     "translatedText": "a direção certa / boa direção",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une fois arrivée à un mur",
+  "newLine": false,
+  "translation": {
+   "text": "uma vez chegada a uma parede",
+   "tips": [
+    {
+     "text": "une fois arrivée",
+     "translatedText": "uma vez que chegasse / ao chegar",
+     "explanation": null
+    },
+    {
+     "text": "à un mur",
+     "translatedText": "a uma parede / muro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "je pourrais le suivre",
+  "newLine": false,
+  "translation": {
+   "text": "eu poderia segui-la",
+   "tips": [
+    {
+     "text": "je pourrais",
+     "translatedText": "eu poderia",
+     "explanation": null
+    },
+    {
+     "text": "le suivre",
+     "translatedText": "segui-lo (o muro)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "jusqu'à une porte",
+  "newLine": false,
+  "translation": {
+   "text": "até uma porta",
+   "tips": [
+    {
+     "text": "jusqu'à",
+     "translatedText": "até",
+     "explanation": null
+    },
+    {
+     "text": "une porte",
+     "translatedText": "uma porta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "J'étais maintenant désespérée",
+  "newLine": false,
+  "translation": {
+   "text": "Eu estava agora desesperada",
+   "tips": [
+    {
+     "text": "J'étais maintenant",
+     "translatedText": "Eu estava agora",
+     "explanation": null
+    },
+    {
+     "text": "désespérée",
+     "translatedText": "desesperada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de quitter l'endroit",
+  "newLine": false,
+  "translation": {
+   "text": "para sair do lugar",
+   "tips": [
+    {
+     "text": "de quitter",
+     "translatedText": "de deixar / sair de",
+     "explanation": null
+    },
+    {
+     "text": "l'endroit",
+     "translatedText": "o lugar / local",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cependant",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Cependant",
+     "translatedText": "No entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "je n'avais fait que quelques pas",
+  "newLine": false,
+  "translation": {
+   "text": "eu tinha dado apenas alguns passos",
+   "tips": [
+    {
+     "text": "je n'avais fait que",
+     "translatedText": "eu só tinha dado / tinha apenas",
+     "explanation": null
+    },
+    {
+     "text": "quelques pas",
+     "translatedText": "alguns passos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avant de trébucher",
+  "newLine": false,
+  "translation": {
+   "text": "antes de tropeçar",
+   "tips": [
+    {
+     "text": "avant de",
+     "translatedText": "antes de",
+     "explanation": null
+    },
+    {
+     "text": "trébucher",
+     "translatedText": "tropeçar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sur autre chose",
+  "newLine": false,
+  "translation": {
+   "text": "em outra coisa",
+   "tips": [
+    {
+     "text": "sur autre chose",
+     "translatedText": "em outra coisa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de tomber par terre",
+  "newLine": false,
+  "translation": {
+   "text": "e cair no chão",
+   "tips": [
+    {
+     "text": "et de tomber",
+     "translatedText": "e cair",
+     "explanation": null
+    },
+    {
+     "text": "par terre",
+     "translatedText": "no chão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je n'avais pas bien fermé",
+  "newLine": false,
+  "translation": {
+   "text": "Eu não tinha fechado bem",
+   "tips": [
+    {
+     "text": "Je n'avais pas bien fermé",
+     "translatedText": "Eu não tinha fechado bem",
+     "explanation": "Este é o plus-que-parfait (mais-que-perfeito): \"avais fermé\" (auxiliar \"avoir\" no imperfeito + particípio) descreve uma ação ANTERIOR a outra ação passada. Aqui: ela não tinha fechado bem a bolsa ANTES de tudo se espalhar."
+    },
+    {
+     "text": "mon sac",
+     "translatedText": "minha bolsa / mochila",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mon sac",
+  "newLine": false,
+  "translation": {
+   "text": "minha bolsa",
+   "tips": [
+    {
+     "text": "mon sac",
+     "translatedText": "minha bolsa / mochila",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et maintenant mes affaires",
+  "newLine": false,
+  "translation": {
+   "text": "e agora minhas coisas",
+   "tips": [
+    {
+     "text": "et maintenant",
+     "translatedText": "e agora",
+     "explanation": null
+    },
+    {
+     "text": "mes affaires",
+     "translatedText": "minhas coisas / pertences",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "étaient éparpillées partout",
+  "newLine": false,
+  "translation": {
+   "text": "estavam espalhadas por toda parte",
+   "tips": [
+    {
+     "text": "étaient",
+     "translatedText": "estavam",
+     "explanation": null
+    },
+    {
+     "text": "éparpillées",
+     "translatedText": "espalhadas",
+     "explanation": null
+    },
+    {
+     "text": "partout",
+     "translatedText": "por toda parte / em todo lugar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mes clés",
+  "newLine": false,
+  "translation": {
+   "text": "Minhas chaves",
+   "tips": [
+    {
+     "text": "Mes clés",
+     "translatedText": "Minhas chaves",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je pensé",
+  "newLine": false,
+  "translation": {
+   "text": "pensei",
+   "tips": [
+    {
+     "text": "ai-je pensé",
+     "translatedText": "(eu) pensei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en sentant une douleur aiguë",
+  "newLine": false,
+  "translation": {
+   "text": "sentindo uma dor aguda",
+   "tips": [
+    {
+     "text": "en sentant",
+     "translatedText": "sentindo / ao sentir",
+     "explanation": null
+    },
+    {
+     "text": "une douleur aiguë",
+     "translatedText": "uma dor aguda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au genou gauche",
+  "newLine": false,
+  "translation": {
+   "text": "no joelho esquerdo",
+   "tips": [
+    {
+     "text": "au genou",
+     "translatedText": "no joelho",
+     "explanation": null
+    },
+    {
+     "text": "gauche",
+     "translatedText": "esquerdo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ce n'est pas possible",
+  "newLine": false,
+  "translation": {
+   "text": "Não é possível",
+   "tips": [
+    {
+     "text": "Ce n'est pas possible",
+     "translatedText": "Não é possível / Não pode ser",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je dit",
+  "newLine": false,
+  "translation": {
+   "text": "disse eu",
+   "tips": [
+    {
+     "text": "ai-je dit",
+     "translatedText": "(eu) disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des larmes commençant à couler",
+  "newLine": false,
+  "translation": {
+   "text": "com lágrimas começando a escorrer",
+   "tips": [
+    {
+     "text": "des larmes",
+     "translatedText": "lágrimas",
+     "explanation": null
+    },
+    {
+     "text": "commençant à couler",
+     "translatedText": "começando a escorrer / correr",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sur mon visage",
+  "newLine": false,
+  "translation": {
+   "text": "no meu rosto",
+   "tips": [
+    {
+     "text": "sur mon visage",
+     "translatedText": "no meu rosto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je veux juste rentrer chez moi",
+  "newLine": false,
+  "translation": {
+   "text": "Só quero voltar para casa",
+   "tips": [
+    {
+     "text": "Je veux juste",
+     "translatedText": "Eu só quero",
+     "explanation": null
+    },
+    {
+     "text": "rentrer chez moi",
+     "translatedText": "voltar para casa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je veux rentrer maintenant",
+  "newLine": false,
+  "translation": {
+   "text": "Quero voltar agora",
+   "tips": [
+    {
+     "text": "Je veux rentrer",
+     "translatedText": "Eu quero voltar",
+     "explanation": null
+    },
+    {
+     "text": "maintenant",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors maintenant",
+  "newLine": true,
+  "translation": {
+   "text": "Então agora",
+   "tips": [
+    {
+     "text": "Alors maintenant",
+     "translatedText": "Então agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'étais à quatre pattes",
+  "newLine": false,
+  "translation": {
+   "text": "eu estava de quatro",
+   "tips": [
+    {
+     "text": "j'étais",
+     "translatedText": "eu estava",
+     "explanation": null
+    },
+    {
+     "text": "à quatre pattes",
+     "translatedText": "de quatro / engatinhando",
+     "explanation": "\"à quatre pattes\" = \"de quatro / de gatinhas\" (lit. \"sobre quatro patas\"). É a expressão usada quando alguém está apoiado nas mãos e nos joelhos, como aqui, tateando o chão."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "essayant de trouver mes clés",
+  "newLine": false,
+  "translation": {
+   "text": "tentando achar minhas chaves",
+   "tips": [
+    {
+     "text": "essayant de trouver",
+     "translatedText": "tentando encontrar / achar",
+     "explanation": null
+    },
+    {
+     "text": "mes clés",
+     "translatedText": "minhas chaves",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sans rien voir",
+  "newLine": false,
+  "translation": {
+   "text": "sem ver nada",
+   "tips": [
+    {
+     "text": "sans rien voir",
+     "translatedText": "sem ver nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'était comme si j'avais plongé",
+  "newLine": false,
+  "translation": {
+   "text": "Era como se eu tivesse mergulhado",
+   "tips": [
+    {
+     "text": "C'était comme si",
+     "translatedText": "Era como se",
+     "explanation": null
+    },
+    {
+     "text": "j'avais plongé",
+     "translatedText": "eu tivesse mergulhado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans une mer de ténèbres",
+  "newLine": false,
+  "translation": {
+   "text": "num mar de trevas",
+   "tips": [
+    {
+     "text": "dans une mer",
+     "translatedText": "num mar",
+     "explanation": null
+    },
+    {
+     "text": "de ténèbres",
+     "translatedText": "de trevas / escuridão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de silence",
+  "newLine": false,
+  "translation": {
+   "text": "e de silêncio",
+   "tips": [
+    {
+     "text": "et de silence",
+     "translatedText": "e de silêncio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Puis j'ai entendu quelque chose",
+  "newLine": false,
+  "translation": {
+   "text": "Depois ouvi alguma coisa",
+   "tips": [
+    {
+     "text": "Puis",
+     "translatedText": "Depois / então",
+     "explanation": null
+    },
+    {
+     "text": "j'ai entendu",
+     "translatedText": "eu ouvi",
+     "explanation": null
+    },
+    {
+     "text": "quelque chose",
+     "translatedText": "alguma coisa / algo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Oh, Dieu merci",
+  "newLine": false,
+  "translation": {
+   "text": "Ah, graças a Deus",
+   "tips": [
+    {
+     "text": "Oh",
+     "translatedText": "Ah / Oh",
+     "explanation": null
+    },
+    {
+     "text": "Dieu merci",
+     "translatedText": "graças a Deus",
+     "explanation": "\"Dieu merci\" = \"graças a Deus\" (lit. \"Deus obrigado/a\"). É uma interjeição fixa de alívio, equivalente ao nosso \"ainda bem!\" / \"graças a Deus!\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'est le gardien",
+  "newLine": false,
+  "translation": {
+   "text": "É o vigia",
+   "tips": [
+    {
+     "text": "C'est",
+     "translatedText": "É",
+     "explanation": null
+    },
+    {
+     "text": "le gardien",
+     "translatedText": "o vigia / zelador",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je pensé",
+  "newLine": false,
+  "translation": {
+   "text": "pensei",
+   "tips": [
+    {
+     "text": "ai-je pensé",
+     "translatedText": "(eu) pensei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et j'ai senti",
+  "newLine": false,
+  "translation": {
+   "text": "e senti",
+   "tips": [
+    {
+     "text": "et j'ai senti",
+     "translatedText": "e eu senti",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un énorme soulagement",
+  "newLine": false,
+  "translation": {
+   "text": "um enorme alívio",
+   "tips": [
+    {
+     "text": "un énorme",
+     "translatedText": "um enorme",
+     "explanation": null
+    },
+    {
+     "text": "soulagement",
+     "translatedText": "alívio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Bonjour",
+  "newLine": false,
+  "translation": {
+   "text": "Olá",
+   "tips": [
+    {
+     "text": "Bonjour",
+     "translatedText": "Olá / Bom dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il y a quelqu'un",
+  "newLine": false,
+  "translation": {
+   "text": "Tem alguém",
+   "tips": [
+    {
+     "text": "Il y a",
+     "translatedText": "Há / tem",
+     "explanation": null
+    },
+    {
+     "text": "quelqu'un",
+     "translatedText": "alguém",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "S'il vous plaît",
+  "newLine": false,
+  "translation": {
+   "text": "Por favor",
+   "tips": [
+    {
+     "text": "S'il vous plaît",
+     "translatedText": "Por favor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aidez-moi",
+  "newLine": false,
+  "translation": {
+   "text": "ajudem-me",
+   "tips": [
+    {
+     "text": "aidez-moi",
+     "translatedText": "ajude-me / ajudem-me",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ai-je dit",
+  "newLine": false,
+  "translation": {
+   "text": "disse eu",
+   "tips": [
+    {
+     "text": "ai-je dit",
+     "translatedText": "(eu) disse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aussi fort que possible",
+  "newLine": false,
+  "translation": {
+   "text": "o mais alto possível",
+   "tips": [
+    {
+     "text": "aussi fort que possible",
+     "translatedText": "o mais alto / forte possível",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais personne ne m'a répondu",
+  "newLine": false,
+  "translation": {
+   "text": "mas ninguém me respondeu",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "personne ne m'a répondu",
+     "translatedText": "ninguém me respondeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors j'ai essayé de nouveau",
+  "newLine": false,
+  "translation": {
+   "text": "Então tentei de novo",
+   "tips": [
+    {
+     "text": "Alors",
+     "translatedText": "Então",
+     "explanation": null
+    },
+    {
+     "text": "j'ai essayé",
+     "translatedText": "eu tentei",
+     "explanation": null
+    },
+    {
+     "text": "de nouveau",
+     "translatedText": "de novo / novamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en criant cette fois",
+  "newLine": false,
+  "translation": {
+   "text": "gritando desta vez",
+   "tips": [
+    {
+     "text": "en criant",
+     "translatedText": "gritando / ao gritar",
+     "explanation": null
+    },
+    {
+     "text": "cette fois",
+     "translatedText": "desta vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " : « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Aidez-moi",
+  "newLine": false,
+  "translation": {
+   "text": "Ajudem-me",
+   "tips": [
+    {
+     "text": "Aidez-moi",
+     "translatedText": "Ajude-me / ajudem-me",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Aidez-moi",
+  "newLine": false,
+  "translation": {
+   "text": "Ajudem-me",
+   "tips": [
+    {
+     "text": "Aidez-moi",
+     "translatedText": "Ajude-me / ajudem-me",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "s'il vous plaît",
+  "newLine": false,
+  "translation": {
+   "text": "por favor",
+   "tips": [
+    {
+     "text": "s'il vous plaît",
+     "translatedText": "por favor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais un lourd silence",
+  "newLine": false,
+  "translation": {
+   "text": "mas um pesado silêncio",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "un lourd silence",
+     "translatedText": "um pesado silêncio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a été la seule réponse",
+  "newLine": false,
+  "translation": {
+   "text": "foi a única resposta",
+   "tips": [
+    {
+     "text": "a été",
+     "translatedText": "foi",
+     "explanation": null
+    },
+    {
+     "text": "la seule réponse",
+     "translatedText": "a única resposta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

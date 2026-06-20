@@ -1,0 +1,343 @@
+[
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Cœur Froid", "newLine": false, "translation": { "text": "Cœur Froid", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "je suis vraiment désolé", "newLine": false, "translation": { "text": "eu sinto muito mesmo", "tips": [
+    { "text": "vraiment désolé", "translatedText": "muito mesmo / realmente arrependido", "explanation": null } ] } },
+  { "text": " ; ", "newLine": false, "translation": null },
+  { "text": "nous ne voulions pas", "newLine": false, "translation": { "text": "nós não queríamos", "tips": [
+    { "text": "nous ne voulions pas", "translatedText": "nós não queríamos", "explanation": "\"voulions\" é o imperfeito (imparfait) de \"vouloir\" (querer), usado aqui para uma intenção no passado. A frase fica interrompida (\"...\"): \"nós não queríamos...\", como quem não consegue terminar de se desculpar." } ] } },
+  { "text": "... » ", "newLine": false, "translation": null },
+  { "text": "le Roi a commencé à dire", "newLine": false, "translation": { "text": "o Rei começou a dizer", "tips": [
+    { "text": "a commencé à dire", "translatedText": "começou a dizer", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Je suis ici", "newLine": false, "translation": { "text": "Estou aqui", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pour donner quelque chose", "newLine": false, "translation": { "text": "para dar algo", "tips": [
+    { "text": "quelque chose", "translatedText": "algo / alguma coisa", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "au bébé", "newLine": false, "translation": { "text": "ao bebê", "tips": [] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Cœur Froid", "newLine": false, "translation": { "text": "disse Cœur Froid", "tips": [
+    { "text": "a dit", "translatedText": "disse", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "avec une voix très froide", "newLine": false, "translation": { "text": "com uma voz muito fria", "tips": [
+    { "text": "une voix froide", "translatedText": "uma voz fria", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Tu n'as pas besoin", "newLine": false, "translation": { "text": "Você não precisa", "tips": [
+    { "text": "Tu n'as pas besoin de", "translatedText": "você não precisa", "explanation": "\"avoir besoin de\" significa \"precisar de\". Literalmente \"ter necessidade de\". Na negativa: \"ne pas avoir besoin de\" = \"não precisar\". Sempre seguido de \"de\" + verbo no infinitivo ou substantivo." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de faire ça", "newLine": false, "translation": { "text": "fazer isso", "tips": [
+    { "text": "faire ça", "translatedText": "fazer isso", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Nous sommes incroyablement heureux", "newLine": false, "translation": { "text": "Nós estamos incrivelmente felizes", "tips": [
+    { "text": "incroyablement", "translatedText": "incrivelmente", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "que tu sois ici", "newLine": false, "translation": { "text": "que você esteja aqui", "tips": [
+    { "text": "que tu sois", "translatedText": "que você esteja", "explanation": "\"sois\" é o subjuntivo (subjonctif) de \"être\" (ser/estar). Depois de \"heureux que\" (feliz que), o francês exige o subjuntivo, assim como em português dizemos \"feliz que você esteja\" (e não \"está\")." } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "C'est assez", "newLine": false, "translation": { "text": "Já é o suficiente", "tips": [
+    { "text": "assez", "translatedText": "suficiente / bastante", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit la femme du Roi", "newLine": false, "translation": { "text": "disse a mulher do Rei", "tips": [
+    { "text": "la femme du Roi", "translatedText": "a mulher / esposa do Rei", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "en essayant très fort", "newLine": false, "translation": { "text": "tentando muito", "tips": [
+    { "text": "en essayant", "translatedText": "tentando", "explanation": "\"en\" + gerúndio (gérondif) indica uma ação simultânea: \"en essayant\" = \"tentando / ao tentar\". O gérondif é o particípio presente (essayant = tentando) precedido de \"en\"." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de sembler heureuse", "newLine": false, "translation": { "text": "de parecer feliz", "tips": [
+    { "text": "sembler", "translatedText": "parecer", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Mais je veux le faire", "newLine": false, "translation": { "text": "Mas eu quero fazer isso", "tips": [
+    { "text": "je veux le faire", "translatedText": "eu quero fazer isso", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a répondu Cœur Froid", "newLine": false, "translation": { "text": "respondeu Cœur Froid", "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "S'il te plaît", "newLine": false, "translation": { "text": "Por favor", "tips": [
+    { "text": "S'il te plaît", "translatedText": "por favor", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mange quelque chose d'abord", "newLine": false, "translation": { "text": "coma algo primeiro", "tips": [
+    { "text": "d'abord", "translatedText": "primeiro / antes de tudo", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit le Roi", "newLine": false, "translation": { "text": "disse o Rei", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "pour gagner du temps", "newLine": false, "translation": { "text": "para ganhar tempo", "tips": [
+    { "text": "pour gagner du temps", "translatedText": "para ganhar tempo", "explanation": "\"gagner du temps\" é a expressão para \"ganhar tempo\". O verbo \"gagner\" significa ganhar/vencer; com \"du temps\" forma a ideia de adiar, conseguir mais tempo." } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Je ne veux rien manger", "newLine": false, "translation": { "text": "Não quero comer nada", "tips": [
+    { "text": "ne veux rien", "translatedText": "não quero nada", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Après tout", "newLine": false, "translation": { "text": "Afinal de contas", "tips": [
+    { "text": "Après tout", "translatedText": "afinal de contas", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "je n'étais pas sur la liste", "newLine": false, "translation": { "text": "eu não estava na lista", "tips": [
+    { "text": "je n'étais pas", "translatedText": "eu não estava", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit Cœur Froid", "newLine": false, "translation": { "text": "disse Cœur Froid", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et elle est allée", "newLine": false, "translation": { "text": "e ela foi", "tips": [
+    { "text": "elle est allée", "translatedText": "ela foi", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "près du bébé", "newLine": false, "translation": { "text": "para perto do bebê", "tips": [
+    { "text": "près du", "translatedText": "perto do", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Le bébé avait", "newLine": true, "translation": { "text": "O bebê tinha", "tips": [
+    { "text": "avait", "translatedText": "tinha", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "des cheveux noirs", "newLine": false, "translation": { "text": "cabelos pretos", "tips": [
+    { "text": "cheveux noirs", "translatedText": "cabelos pretos", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et des yeux bleus gentils", "newLine": false, "translation": { "text": "e olhos azuis meigos", "tips": [
+    { "text": "yeux bleus", "translatedText": "olhos azuis", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et tout le monde", "newLine": false, "translation": { "text": "e todo mundo", "tips": [
+    { "text": "tout le monde", "translatedText": "todo mundo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "dans le pays", "newLine": false, "translation": { "text": "no país", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sentait déjà de l'amour", "newLine": false, "translation": { "text": "já sentia amor", "tips": [
+    { "text": "déjà", "translatedText": "já", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pour lui", "newLine": false, "translation": { "text": "por ele", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Bon", "newLine": false, "translation": { "text": "Bem", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "tout le monde", "newLine": false, "translation": { "text": "todo mundo", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais pas Cœur Froid", "newLine": false, "translation": { "text": "mas não Cœur Froid", "tips": [
+    { "text": "mais pas", "translatedText": "mas não", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Elle l'a regardé", "newLine": false, "translation": { "text": "Ela olhou para ele", "tips": [
+    { "text": "l'a regardé", "translatedText": "olhou para ele", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pendant un moment", "newLine": false, "translation": { "text": "por um momento", "tips": [
+    { "text": "pendant", "translatedText": "durante / por", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "puis elle a dit", "newLine": false, "translation": { "text": "depois ela disse", "tips": [
+    { "text": "puis", "translatedText": "depois / em seguida", "explanation": null } ] } },
+  { "text": " : « ", "newLine": false, "translation": null },
+  { "text": "Je te transforme en chien", "newLine": false, "translation": { "text": "Eu te transformo em cachorro", "tips": [
+    { "text": "transforme en chien", "translatedText": "transformo em cachorro", "explanation": "\"transformer en\" significa \"transformar em\". A preposição usada é \"en\" (e não \"dans\"): \"transformer quelqu'un en chien\" = \"transformar alguém em cachorro\"." } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "À ce moment-là", "newLine": true, "translation": { "text": "Naquele momento", "tips": [
+    { "text": "À ce moment-là", "translatedText": "naquele momento", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "le bébé s'est transformé en chien", "newLine": false, "translation": { "text": "o bebê se transformou em cachorro", "tips": [
+    { "text": "s'est transformé en", "translatedText": "se transformou em", "explanation": "Na forma pronominal (\"se transformer\"), o passé composé usa o auxiliar \"être\": \"s'est transformé\" = \"se transformou\". O particípio concorda com o sujeito. Seguido de \"en\" = \"em\"." } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Un petit chien", "newLine": false, "translation": { "text": "Um cachorrinho", "tips": [
+    { "text": "petit chien", "translatedText": "cachorrinho", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "avec le poil noir", "newLine": false, "translation": { "text": "com o pelo preto", "tips": [
+    { "text": "le poil", "translatedText": "o pelo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et des yeux bleus gentils", "newLine": false, "translation": { "text": "e olhos azuis meigos", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Et pendant que", "newLine": false, "translation": { "text": "E enquanto", "tips": [
+    { "text": "pendant que", "translatedText": "enquanto", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "le Roi la regardait", "newLine": false, "translation": { "text": "o Rei a olhava", "tips": [
+    { "text": "la regardait", "translatedText": "a olhava", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "horrifié", "newLine": false, "translation": { "text": "horrorizado", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Cœur Froid a tourné le dos", "newLine": false, "translation": { "text": "Cœur Froid virou as costas", "tips": [
+    { "text": "a tourné le dos", "translatedText": "virou as costas", "explanation": "\"tourner le dos\" significa \"virar as costas\". \"le dos\" = as costas (singular em francês). É a mesma imagem do português para indicar dar as costas a alguém." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et elle est sortie", "newLine": false, "translation": { "text": "e ela saiu", "tips": [
+    { "text": "est sortie", "translatedText": "saiu", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Puis", "newLine": true, "translation": { "text": "Depois", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "deux autres fées", "newLine": false, "translation": { "text": "duas outras fadas", "tips": [
+    { "text": "autres fées", "translatedText": "outras fadas", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sont venues près du bébé", "newLine": false, "translation": { "text": "vieram para perto do bebê", "tips": [
+    { "text": "sont venues", "translatedText": "vieram", "explanation": null } ] } },
+  { "text": " — ", "newLine": false, "translation": null },
+  { "text": "je veux dire", "newLine": false, "translation": { "text": "quero dizer", "tips": [
+    { "text": "je veux dire", "translatedText": "quero dizer", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "du chien", "newLine": false, "translation": { "text": "do cachorro", "tips": [] } },
+  { "text": " —, ", "newLine": false, "translation": null },
+  { "text": "parce qu'elles n'avaient pas encore", "newLine": false, "translation": { "text": "porque elas ainda não tinham", "tips": [
+    { "text": "pas encore", "translatedText": "ainda não", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "donné leurs cadeaux", "newLine": false, "translation": { "text": "dado seus presentes", "tips": [
+    { "text": "leurs cadeaux", "translatedText": "seus presentes", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Je te donne ton nom", "newLine": false, "translation": { "text": "Eu te dou o teu nome", "tips": [
+    { "text": "ton nom", "translatedText": "teu nome", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Bleu", "newLine": false, "translation": { "text": "Bleu", "tips": [
+    { "text": "Bleu", "translatedText": "Azul (nome próprio do cachorro)", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "à cause de tes beaux yeux", "newLine": false, "translation": { "text": "por causa dos teus belos olhos", "tips": [
+    { "text": "à cause de", "translatedText": "por causa de", "explanation": null } ] } },
+  { "text": " », ", "newLine": false, "translation": null },
+  { "text": "a dit une fée", "newLine": false, "translation": { "text": "disse uma fada", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "« ", "newLine": true, "translation": null },
+  { "text": "Et je te donne la capacité", "newLine": false, "translation": { "text": "E eu te dou a capacidade", "tips": [
+    { "text": "la capacité", "translatedText": "a capacidade", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de devenir humain", "newLine": false, "translation": { "text": "de tornar-te humano", "tips": [
+    { "text": "devenir", "translatedText": "tornar-se / virar", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "encore une fois", "newLine": false, "translation": { "text": "mais uma vez", "tips": [
+    { "text": "encore une fois", "translatedText": "mais uma vez", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Mais d'abord", "newLine": false, "translation": { "text": "Mas primeiro", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "tu dois quitter le château", "newLine": false, "translation": { "text": "você precisa deixar o castelo", "tips": [
+    { "text": "quitter le château", "translatedText": "deixar o castelo", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et faire quelque chose de bien", "newLine": false, "translation": { "text": "e fazer algo de bom", "tips": [
+    { "text": "quelque chose de bien", "translatedText": "algo de bom", "explanation": null } ] } },
+  { "text": ". »", "newLine": false, "translation": null },
+
+  { "text": "Et c'est comme ça que", "newLine": true, "translation": { "text": "E foi assim que", "tips": [
+    { "text": "c'est comme ça que", "translatedText": "foi assim que", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "le bébé est devenu un chien", "newLine": false, "translation": { "text": "o bebê virou um cachorro", "tips": [
+    { "text": "est devenu", "translatedText": "virou / tornou-se", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Alors", "newLine": false, "translation": { "text": "Então", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "après quelques mois", "newLine": false, "translation": { "text": "depois de alguns meses", "tips": [
+    { "text": "quelques mois", "translatedText": "alguns meses", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et avec le cœur lourd", "newLine": false, "translation": { "text": "e com o coração pesado", "tips": [
+    { "text": "avec le cœur lourd", "translatedText": "com o coração pesado", "explanation": "\"avec le cœur lourd\" significa \"com o coração pesado\", ou seja, triste, com pesar. \"lourd\" = pesado. É a mesma imagem do português para descrever tristeza." } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "le Roi l'a amené au village", "newLine": false, "translation": { "text": "o Rei o levou ao vilarejo", "tips": [
+    { "text": "l'a amené", "translatedText": "o levou", "explanation": null },
+    { "text": "au village", "translatedText": "ao vilarejo", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Il connaissait", "newLine": false, "translation": { "text": "Ele conhecia", "tips": [
+    { "text": "connaissait", "translatedText": "conhecia", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "une très bonne femme là-bas", "newLine": false, "translation": { "text": "uma mulher muito boa lá", "tips": [
+    { "text": "là-bas", "translatedText": "lá / ali", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et elle avait accepté de s'occuper", "newLine": false, "translation": { "text": "e ela tinha aceitado cuidar", "tips": [
+    { "text": "avait accepté de s'occuper", "translatedText": "tinha aceitado cuidar", "explanation": "\"avait accepté\" é o mais-que-perfeito (plus-que-parfait): uma ação anterior a outra no passado (\"tinha aceitado\"). \"s'occuper de\" é o verbo pronominal \"cuidar de / ocupar-se de\"." } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "du chien", "newLine": false, "translation": { "text": "do cachorro", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Le Roi croyait", "newLine": false, "translation": { "text": "O Rei acreditava", "tips": [
+    { "text": "croyait", "translatedText": "acreditava", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qu'il devait faire ça", "newLine": false, "translation": { "text": "que ele tinha que fazer isso", "tips": [
+    { "text": "il devait", "translatedText": "ele tinha que / devia", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pour avoir un fils humain", "newLine": false, "translation": { "text": "para ter um filho humano", "tips": [
+    { "text": "un fils", "translatedText": "um filho", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "encore une fois", "newLine": false, "translation": { "text": "mais uma vez", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "comme vous le savez tous", "newLine": false, "translation": { "text": "como vocês todos sabem", "tips": [
+    { "text": "vous le savez tous", "translatedText": "vocês todos sabem", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "maintenant", "newLine": false, "translation": { "text": "agora", "tips": [] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Bon", "newLine": true, "translation": { "text": "Bem", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "le Roi pensait", "newLine": false, "translation": { "text": "o Rei achava", "tips": [
+    { "text": "pensait", "translatedText": "achava / pensava", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "qu'elle était une bonne personne", "newLine": false, "translation": { "text": "que ela era uma boa pessoa", "tips": [
+    { "text": "une bonne personne", "translatedText": "uma boa pessoa", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "mais", "newLine": false, "translation": { "text": "mas", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "en fait", "newLine": false, "translation": { "text": "na verdade", "tips": [
+    { "text": "en fait", "translatedText": "na verdade / na realidade", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "c'était une personne très mauvaise", "newLine": false, "translation": { "text": "era uma pessoa muito má", "tips": [
+    { "text": "très mauvaise", "translatedText": "muito má", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "et elle était particulièrement méchante", "newLine": false, "translation": { "text": "e ela era particularmente malvada", "tips": [
+    { "text": "méchante", "translatedText": "malvada / má", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "avec Bleu", "newLine": false, "translation": { "text": "com Bleu", "tips": [] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Alors", "newLine": false, "translation": { "text": "Então", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "après quelques semaines", "newLine": false, "translation": { "text": "depois de algumas semanas", "tips": [
+    { "text": "quelques semaines", "translatedText": "algumas semanas", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "Bleu s'est enfui", "newLine": false, "translation": { "text": "Bleu fugiu", "tips": [
+    { "text": "s'est enfui", "translatedText": "fugiu", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null },
+
+  { "text": "Bleu a marché", "newLine": true, "translation": { "text": "Bleu andou", "tips": [
+    { "text": "a marché", "translatedText": "andou / caminhou", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "marché et marché", "newLine": false, "translation": { "text": "andou e andou", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "pendant des heures", "newLine": false, "translation": { "text": "por horas", "tips": [
+    { "text": "pendant des heures", "translatedText": "por horas", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais il ne savait pas quoi faire", "newLine": false, "translation": { "text": "mas ele não sabia o que fazer", "tips": [
+    { "text": "ne savait pas quoi faire", "translatedText": "não sabia o que fazer", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Il ne connaissait personne", "newLine": false, "translation": { "text": "Ele não conhecia ninguém", "tips": [
+    { "text": "ne connaissait personne", "translatedText": "não conhecia ninguém", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "là-bas", "newLine": false, "translation": { "text": "lá", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "et", "newLine": false, "translation": { "text": "e", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "à cette époque", "newLine": false, "translation": { "text": "naquela época", "tips": [
+    { "text": "à cette époque", "translatedText": "naquela época", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "être un chien", "newLine": false, "translation": { "text": "ser um cachorro", "tips": [] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "n'était pas très facile", "newLine": false, "translation": { "text": "não era muito fácil", "tips": [
+    { "text": "facile", "translatedText": "fácil", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "En fait", "newLine": false, "translation": { "text": "Na verdade", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "c'était extrêmement difficile", "newLine": false, "translation": { "text": "era extremamente difícil", "tips": [
+    { "text": "extrêmement difficile", "translatedText": "extremamente difícil", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Il avait aussi besoin", "newLine": false, "translation": { "text": "Ele também precisava", "tips": [
+    { "text": "avait besoin", "translatedText": "precisava", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "de nourriture et d'eau", "newLine": false, "translation": { "text": "de comida e água", "tips": [
+    { "text": "nourriture", "translatedText": "comida / alimento", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "mais personne ne voulait l'aider", "newLine": false, "translation": { "text": "mas ninguém queria ajudá-lo", "tips": [
+    { "text": "personne ne voulait", "translatedText": "ninguém queria", "explanation": null } ] } },
+  { "text": ". ", "newLine": false, "translation": null },
+  { "text": "Alors", "newLine": false, "translation": { "text": "Então", "tips": [] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "quand la nuit est arrivée", "newLine": false, "translation": { "text": "quando a noite chegou", "tips": [
+    { "text": "est arrivée", "translatedText": "chegou", "explanation": null } ] } },
+  { "text": ", ", "newLine": false, "translation": null },
+  { "text": "il est allé dormir", "newLine": false, "translation": { "text": "ele foi dormir", "tips": [
+    { "text": "il est allé", "translatedText": "ele foi", "explanation": null } ] } },
+  { "text": " ", "newLine": false, "translation": null },
+  { "text": "sous un banc", "newLine": false, "translation": { "text": "embaixo de um banco", "tips": [
+    { "text": "sous un banc", "translatedText": "embaixo de um banco", "explanation": null } ] } },
+  { "text": ".", "newLine": false, "translation": null }
+]

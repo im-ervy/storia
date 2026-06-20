@@ -1,0 +1,2496 @@
+[
+ {
+  "text": "Un jour",
+  "newLine": true,
+  "translation": {
+   "text": "Um dia",
+   "tips": [
+    {
+     "text": "Un jour",
+     "translatedText": "um dia / certo dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Geai a remarqué",
+  "newLine": false,
+  "translation": {
+   "text": "Geai notou",
+   "tips": [
+    {
+     "text": "Geai",
+     "translatedText": "Geai (= Gaio, apelido de James)",
+     "explanation": null
+    },
+    {
+     "text": "a remarqué",
+     "translatedText": "notou / percebeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que Moineau se comportait",
+  "newLine": false,
+  "translation": {
+   "text": "que Moineau se comportava",
+   "tips": [
+    {
+     "text": "Moineau",
+     "translatedText": "Moineau (= Pardal, apelido de Laure)",
+     "explanation": null
+    },
+    {
+     "text": "se comportait",
+     "translatedText": "se comportava / agia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "différemment envers lui",
+  "newLine": false,
+  "translation": {
+   "text": "de forma diferente com ele",
+   "tips": [
+    {
+     "text": "différemment",
+     "translatedText": "de forma diferente / diferentemente",
+     "explanation": null
+    },
+    {
+     "text": "envers lui",
+     "translatedText": "para com ele / em relação a ele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'était comme si",
+  "newLine": false,
+  "translation": {
+   "text": "Era como se",
+   "tips": [
+    {
+     "text": "C'était comme si",
+     "translatedText": "era como se",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle était soudain devenue timide",
+  "newLine": false,
+  "translation": {
+   "text": "ela tivesse ficado tímida de repente",
+   "tips": [
+    {
+     "text": "elle était devenue",
+     "translatedText": "ela tinha ficado / se tornara",
+     "explanation": null
+    },
+    {
+     "text": "soudain",
+     "translatedText": "de repente / subitamente",
+     "explanation": null
+    },
+    {
+     "text": "timide",
+     "translatedText": "tímida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais il a compris",
+  "newLine": false,
+  "translation": {
+   "text": "mas ele entendeu",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "il a compris",
+     "translatedText": "ele entendeu / compreendeu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout de suite",
+  "newLine": false,
+  "translation": {
+   "text": "logo / na hora",
+   "tips": [
+    {
+     "text": "tout de suite",
+     "translatedText": "logo / imediatamente / na hora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle sentait des papillons",
+  "newLine": false,
+  "translation": {
+   "text": "ela sentia borboletas",
+   "tips": [
+    {
+     "text": "elle sentait",
+     "translatedText": "ela sentia",
+     "explanation": null
+    },
+    {
+     "text": "des papillons",
+     "translatedText": "borboletas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans le ventre",
+  "newLine": false,
+  "translation": {
+   "text": "no estômago",
+   "tips": [
+    {
+     "text": "dans le ventre",
+     "translatedText": "na barriga / no estômago",
+     "explanation": "« Sentir des papillons dans le ventre » (literalmente « sentir borboletas na barriga ») é a expressão idiomática francesa para o friozinho na barriga de quem está apaixonado — idêntica ao português « frio na barriga / borboletas no estômago ». Note que o francês usa « ventre » (barriga/ventre) onde o português prefere « estômago »."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Elle tombait amoureuse de lui",
+  "newLine": false,
+  "translation": {
+   "text": "Ela estava se apaixonando por ele",
+   "tips": [
+    {
+     "text": "Elle tombait amoureuse",
+     "translatedText": "ela se apaixonava / estava se apaixonando",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " !",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cependant",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Cependant",
+     "translatedText": "no entanto / contudo / porém",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "loin de là",
+  "newLine": false,
+  "translation": {
+   "text": "bem longe dali",
+   "tips": [
+    {
+     "text": "loin de là",
+     "translatedText": "longe dali / bem longe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une ancienne colonie française",
+  "newLine": false,
+  "translation": {
+   "text": "uma antiga colônia francesa",
+   "tips": [
+    {
+     "text": "une ancienne colonie",
+     "translatedText": "uma antiga colônia / ex-colônia",
+     "explanation": null
+    },
+    {
+     "text": "française",
+     "translatedText": "francesa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en Asie",
+  "newLine": false,
+  "translation": {
+   "text": "na Ásia",
+   "tips": [
+    {
+     "text": "en Asie",
+     "translatedText": "na Ásia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avait été divisée en deux",
+  "newLine": false,
+  "translation": {
+   "text": "tinha sido dividida em duas",
+   "tips": [
+    {
+     "text": "avait été divisée",
+     "translatedText": "tinha sido dividida / fora dividida",
+     "explanation": "Mais-que-perfeito na voz PASSIVA: « avait » (auxiliar avoir no imparfait) + « été » (particípio de être) + « divisée » (particípio do verbo principal, concordando no feminino com « colonie »). Estrutura « avoir été + particípio » = « ter sido + particípio ». Exprime uma ação anterior a outra ação no passado: o país JÁ havia sido dividido antes do que vem a seguir."
+    },
+    {
+     "text": "en deux",
+     "translatedText": "em duas / em duas partes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La moitié nord du pays",
+  "newLine": false,
+  "translation": {
+   "text": "A metade norte do país",
+   "tips": [
+    {
+     "text": "La moitié nord",
+     "translatedText": "a metade norte",
+     "explanation": null
+    },
+    {
+     "text": "du pays",
+     "translatedText": "do país",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "était dirigée",
+  "newLine": false,
+  "translation": {
+   "text": "era dirigida",
+   "tips": [
+    {
+     "text": "était dirigée",
+     "translatedText": "era dirigida / governada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "par un homme",
+  "newLine": false,
+  "translation": {
+   "text": "por um homem",
+   "tips": [
+    {
+     "text": "par un homme",
+     "translatedText": "por um homem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui se battait",
+  "newLine": false,
+  "translation": {
+   "text": "que lutava",
+   "tips": [
+    {
+     "text": "qui se battait",
+     "translatedText": "que lutava / se batia",
+     "explanation": "« Se battre pour + infinitivo » = lutar para (fazer algo). É um verbo pronominal: « se battre » (lutar/brigar). No imparfait (« se battait ») descreve uma ação contínua no passado. Aqui: « un homme qui se battait pour libérer son peuple » = um homem que lutava para libertar seu povo."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour libérer son peuple",
+  "newLine": false,
+  "translation": {
+   "text": "para libertar seu povo",
+   "tips": [
+    {
+     "text": "pour libérer",
+     "translatedText": "para libertar",
+     "explanation": null
+    },
+    {
+     "text": "son peuple",
+     "translatedText": "seu povo / sua gente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des Français",
+  "newLine": false,
+  "translation": {
+   "text": "dos franceses",
+   "tips": [
+    {
+     "text": "des Français",
+     "translatedText": "dos franceses",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et croyait",
+  "newLine": false,
+  "translation": {
+   "text": "e acreditava",
+   "tips": [
+    {
+     "text": "et croyait",
+     "translatedText": "e acreditava / cria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aux idées communistes",
+  "newLine": false,
+  "translation": {
+   "text": "nas ideias comunistas",
+   "tips": [
+    {
+     "text": "aux idées",
+     "translatedText": "nas ideias",
+     "explanation": null
+    },
+    {
+     "text": "communistes",
+     "translatedText": "comunistas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la Chine et l'Union soviétique",
+  "newLine": false,
+  "translation": {
+   "text": "a China e a União Soviética",
+   "tips": [
+    {
+     "text": "la Chine",
+     "translatedText": "a China",
+     "explanation": null
+    },
+    {
+     "text": "l'Union soviétique",
+     "translatedText": "a União Soviética",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le soutenaient",
+  "newLine": false,
+  "translation": {
+   "text": "o apoiavam",
+   "tips": [
+    {
+     "text": "le soutenaient",
+     "translatedText": "o apoiavam / o sustentavam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La moitié sud",
+  "newLine": false,
+  "translation": {
+   "text": "A metade sul",
+   "tips": [
+    {
+     "text": "La moitié sud",
+     "translatedText": "a metade sul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "soutenue par les États-Unis",
+  "newLine": false,
+  "translation": {
+   "text": "apoiada pelos Estados Unidos",
+   "tips": [
+    {
+     "text": "soutenue par",
+     "translatedText": "apoiada por / sustentada por",
+     "explanation": null
+    },
+    {
+     "text": "les États-Unis",
+     "translatedText": "os Estados Unidos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et leurs alliés",
+  "newLine": false,
+  "translation": {
+   "text": "e seus aliados",
+   "tips": [
+    {
+     "text": "et leurs alliés",
+     "translatedText": "e seus aliados",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans la Guerre froide",
+  "newLine": false,
+  "translation": {
+   "text": "na Guerra Fria",
+   "tips": [
+    {
+     "text": "dans la Guerre froide",
+     "translatedText": "na Guerra Fria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "devait rester",
+  "newLine": false,
+  "translation": {
+   "text": "deveria continuar",
+   "tips": [
+    {
+     "text": "devait rester",
+     "translatedText": "deveria continuar / permanecer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un État indépendant anticommuniste",
+  "newLine": false,
+  "translation": {
+   "text": "um Estado independente anticomunista",
+   "tips": [
+    {
+     "text": "un État indépendant",
+     "translatedText": "um Estado independente",
+     "explanation": null
+    },
+    {
+     "text": "anticommuniste",
+     "translatedText": "anticomunista",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais peu après",
+  "newLine": false,
+  "translation": {
+   "text": "Mas pouco depois",
+   "tips": [
+    {
+     "text": "Mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "peu après",
+     "translatedText": "pouco depois / logo depois",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que tout cela",
+  "newLine": false,
+  "translation": {
+   "text": "que tudo isso",
+   "tips": [
+    {
+     "text": "que tout cela",
+     "translatedText": "que tudo isso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a été décidé",
+  "newLine": false,
+  "translation": {
+   "text": "foi decidido",
+   "tips": [
+    {
+     "text": "a été décidé",
+     "translatedText": "foi decidido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un conflit",
+  "newLine": false,
+  "translation": {
+   "text": "um conflito",
+   "tips": [
+    {
+     "text": "un conflit",
+     "translatedText": "um conflito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "entre ces deux parties",
+  "newLine": false,
+  "translation": {
+   "text": "entre essas duas partes",
+   "tips": [
+    {
+     "text": "entre ces deux parties",
+     "translatedText": "entre essas duas partes / lados",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a commencé",
+  "newLine": false,
+  "translation": {
+   "text": "começou",
+   "tips": [
+    {
+     "text": "a commencé",
+     "translatedText": "começou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il allait durer",
+  "newLine": false,
+  "translation": {
+   "text": "e ele ia durar",
+   "tips": [
+    {
+     "text": "il allait durer",
+     "translatedText": "ele ia durar / iria durar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au moins vingt ans",
+  "newLine": false,
+  "translation": {
+   "text": "pelo menos vinte anos",
+   "tips": [
+    {
+     "text": "au moins",
+     "translatedText": "pelo menos / no mínimo",
+     "explanation": null
+    },
+    {
+     "text": "vingt ans",
+     "translatedText": "vinte anos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pendant un certain temps",
+  "newLine": true,
+  "translation": {
+   "text": "Durante um certo tempo",
+   "tips": [
+    {
+     "text": "Pendant",
+     "translatedText": "durante",
+     "explanation": null
+    },
+    {
+     "text": "un certain temps",
+     "translatedText": "um certo tempo / algum tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout cela semblait loin",
+  "newLine": false,
+  "translation": {
+   "text": "tudo isso parecia distante",
+   "tips": [
+    {
+     "text": "tout cela",
+     "translatedText": "tudo isso",
+     "explanation": null
+    },
+    {
+     "text": "semblait loin",
+     "translatedText": "parecia distante / longe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de Geai et Moineau",
+  "newLine": false,
+  "translation": {
+   "text": "de Geai e Moineau",
+   "tips": [
+    {
+     "text": "de Geai et Moineau",
+     "translatedText": "de Geai e Moineau",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout ce à quoi",
+  "newLine": false,
+  "translation": {
+   "text": "tudo aquilo em que",
+   "tips": [
+    {
+     "text": "tout ce à quoi",
+     "translatedText": "tudo aquilo em que / a tudo a que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ils pouvaient penser",
+  "newLine": false,
+  "translation": {
+   "text": "eles conseguiam pensar",
+   "tips": [
+    {
+     "text": "ils pouvaient penser",
+     "translatedText": "eles podiam / conseguiam pensar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'était l'un à l'autre",
+  "newLine": false,
+  "translation": {
+   "text": "era um no outro",
+   "tips": [
+    {
+     "text": "c'était",
+     "translatedText": "era",
+     "explanation": null
+    },
+    {
+     "text": "l'un à l'autre",
+     "translatedText": "um no outro / um ao outro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et à leur avenir ensemble",
+  "newLine": false,
+  "translation": {
+   "text": "e no futuro deles juntos",
+   "tips": [
+    {
+     "text": "et à leur avenir",
+     "translatedText": "e no futuro deles",
+     "explanation": null
+    },
+    {
+     "text": "ensemble",
+     "translatedText": "juntos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Néanmoins",
+  "newLine": false,
+  "translation": {
+   "text": "Apesar disso",
+   "tips": [
+    {
+     "text": "Néanmoins",
+     "translatedText": "apesar disso / contudo / no entanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la guerre est devenue",
+  "newLine": false,
+  "translation": {
+   "text": "a guerra se tornou",
+   "tips": [
+    {
+     "text": "la guerre",
+     "translatedText": "a guerra",
+     "explanation": null
+    },
+    {
+     "text": "est devenue",
+     "translatedText": "se tornou / virou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une réalité pour eux",
+  "newLine": false,
+  "translation": {
+   "text": "uma realidade para eles",
+   "tips": [
+    {
+     "text": "une réalité",
+     "translatedText": "uma realidade",
+     "explanation": null
+    },
+    {
+     "text": "pour eux",
+     "translatedText": "para eles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le jour où",
+  "newLine": false,
+  "translation": {
+   "text": "no dia em que",
+   "tips": [
+    {
+     "text": "le jour où",
+     "translatedText": "no dia em que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Geai a appris",
+  "newLine": false,
+  "translation": {
+   "text": "Geai soube",
+   "tips": [
+    {
+     "text": "Geai a appris",
+     "translatedText": "Geai soube / ficou sabendo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il allait être envoyé",
+  "newLine": false,
+  "translation": {
+   "text": "que ele ia ser enviado",
+   "tips": [
+    {
+     "text": "qu'il allait être envoyé",
+     "translatedText": "que ele ia ser enviado / seria mandado",
+     "explanation": "« Aller + infinitivo » no imparfait = futuro do pretérito. Aqui combina-se com a voz passiva: « allait être envoyé » = « ia ser enviado / seria enviado ». Decompondo: « allait » (aller, imparfait) + « être » (ser) + « envoyé » (particípio, voz passiva). Do ponto de vista daquele dia, o envio ainda estava por vir."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au Vietnam",
+  "newLine": false,
+  "translation": {
+   "text": "ao Vietnã",
+   "tips": [
+    {
+     "text": "au Vietnam",
+     "translatedText": "ao Vietnã / para o Vietnã",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Partout aux États-Unis",
+  "newLine": false,
+  "translation": {
+   "text": "Por todos os Estados Unidos",
+   "tips": [
+    {
+     "text": "Partout",
+     "translatedText": "por toda parte / em todo lugar",
+     "explanation": null
+    },
+    {
+     "text": "aux États-Unis",
+     "translatedText": "nos Estados Unidos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les gens protestaient",
+  "newLine": false,
+  "translation": {
+   "text": "as pessoas protestavam",
+   "tips": [
+    {
+     "text": "les gens",
+     "translatedText": "as pessoas / o povo",
+     "explanation": null
+    },
+    {
+     "text": "protestaient",
+     "translatedText": "protestavam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "contre la guerre",
+  "newLine": false,
+  "translation": {
+   "text": "contra a guerra",
+   "tips": [
+    {
+     "text": "contre la guerre",
+     "translatedText": "contra a guerra",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et contre ce qu'on appelait",
+  "newLine": false,
+  "translation": {
+   "text": "e contra o que se chamava",
+   "tips": [
+    {
+     "text": "et contre",
+     "translatedText": "e contra",
+     "explanation": null
+    },
+    {
+     "text": "ce qu'on appelait",
+     "translatedText": "o que se chamava / chamavam",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la conscription",
+  "newLine": false,
+  "translation": {
+   "text": "o recrutamento obrigatório",
+   "tips": [
+    {
+     "text": "la conscription",
+     "translatedText": "a conscrição / o recrutamento militar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "autrement dit",
+  "newLine": false,
+  "translation": {
+   "text": "ou seja",
+   "tips": [
+    {
+     "text": "autrement dit",
+     "translatedText": "ou seja / em outras palavras",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "l'enrôlement obligatoire",
+  "newLine": false,
+  "translation": {
+   "text": "o alistamento obrigatório",
+   "tips": [
+    {
+     "text": "l'enrôlement",
+     "translatedText": "o alistamento / a convocação",
+     "explanation": null
+    },
+    {
+     "text": "obligatoire",
+     "translatedText": "obrigatório",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans l'armée",
+  "newLine": false,
+  "translation": {
+   "text": "no exército",
+   "tips": [
+    {
+     "text": "dans l'armée",
+     "translatedText": "no exército / nas forças armadas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cependant",
+  "newLine": false,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Cependant",
+     "translatedText": "no entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Geai",
+  "newLine": false,
+  "translation": {
+   "text": "Geai",
+   "tips": [
+    {
+     "text": "Geai",
+     "translatedText": "Geai (= Gaio)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui n'était pas marié",
+  "newLine": false,
+  "translation": {
+   "text": "que não era casado",
+   "tips": [
+    {
+     "text": "qui n'était pas marié",
+     "translatedText": "que não era casado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'avait pas d'enfants",
+  "newLine": false,
+  "translation": {
+   "text": "não tinha filhos",
+   "tips": [
+    {
+     "text": "n'avait pas d'enfants",
+     "translatedText": "não tinha filhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et n'était pas étudiant",
+  "newLine": false,
+  "translation": {
+   "text": "e não era estudante",
+   "tips": [
+    {
+     "text": "et n'était pas étudiant",
+     "translatedText": "e não era estudante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'avait pas vraiment le choix",
+  "newLine": false,
+  "translation": {
+   "text": "não tinha realmente escolha",
+   "tips": [
+    {
+     "text": "n'avait pas vraiment",
+     "translatedText": "não tinha realmente / na verdade não tinha",
+     "explanation": null
+    },
+    {
+     "text": "le choix",
+     "translatedText": "a escolha / opção",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le garçon",
+  "newLine": false,
+  "translation": {
+   "text": "o rapaz",
+   "tips": [
+    {
+     "text": "le garçon",
+     "translatedText": "o rapaz / o menino",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dont le rêve",
+  "newLine": false,
+  "translation": {
+   "text": "cujo sonho",
+   "tips": [
+    {
+     "text": "dont le rêve",
+     "translatedText": "cujo sonho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "était de devenir menuisier",
+  "newLine": false,
+  "translation": {
+   "text": "era se tornar marceneiro",
+   "tips": [
+    {
+     "text": "était de devenir",
+     "translatedText": "era se tornar / virar",
+     "explanation": null
+    },
+    {
+     "text": "menuisier",
+     "translatedText": "marceneiro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "allait maintenant devenir soldat",
+  "newLine": false,
+  "translation": {
+   "text": "ia agora se tornar soldado",
+   "tips": [
+    {
+     "text": "allait maintenant",
+     "translatedText": "ia agora / iria agora",
+     "explanation": null
+    },
+    {
+     "text": "devenir soldat",
+     "translatedText": "se tornar soldado / virar soldado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quand Geai est revenu",
+  "newLine": true,
+  "translation": {
+   "text": "Quando Geai voltou",
+   "tips": [
+    {
+     "text": "Quand",
+     "translatedText": "quando",
+     "explanation": null
+    },
+    {
+     "text": "Geai est revenu",
+     "translatedText": "Geai voltou / regressou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la guerre",
+  "newLine": false,
+  "translation": {
+   "text": "da guerra",
+   "tips": [
+    {
+     "text": "de la guerre",
+     "translatedText": "da guerra",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout semblait très différent",
+  "newLine": false,
+  "translation": {
+   "text": "tudo parecia muito diferente",
+   "tips": [
+    {
+     "text": "tout semblait",
+     "translatedText": "tudo parecia",
+     "explanation": null
+    },
+    {
+     "text": "très différent",
+     "translatedText": "muito diferente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il avait changé",
+  "newLine": false,
+  "translation": {
+   "text": "Ele tinha mudado",
+   "tips": [
+    {
+     "text": "Il avait changé",
+     "translatedText": "ele tinha mudado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et le pays avait changé aussi",
+  "newLine": false,
+  "translation": {
+   "text": "e o país tinha mudado também",
+   "tips": [
+    {
+     "text": "et le pays",
+     "translatedText": "e o país",
+     "explanation": null
+    },
+    {
+     "text": "avait changé aussi",
+     "translatedText": "tinha mudado também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais il avait un plan",
+  "newLine": false,
+  "translation": {
+   "text": "Mas ele tinha um plano",
+   "tips": [
+    {
+     "text": "Mais il avait",
+     "translatedText": "mas ele tinha",
+     "explanation": null
+    },
+    {
+     "text": "un plan",
+     "translatedText": "um plano",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "remettre sa vie sur les rails",
+  "newLine": false,
+  "translation": {
+   "text": "colocar a vida nos trilhos",
+   "tips": [
+    {
+     "text": "remettre sa vie",
+     "translatedText": "recolocar a vida / pôr a vida de volta",
+     "explanation": null
+    },
+    {
+     "text": "sur les rails",
+     "translatedText": "nos trilhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ensuite chercher Moineau",
+  "newLine": false,
+  "translation": {
+   "text": "e depois procurar Moineau",
+   "tips": [
+    {
+     "text": "et ensuite",
+     "translatedText": "e depois / em seguida",
+     "explanation": null
+    },
+    {
+     "text": "chercher Moineau",
+     "translatedText": "procurar Moineau",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il croyait",
+  "newLine": false,
+  "translation": {
+   "text": "Ele acreditava",
+   "tips": [
+    {
+     "text": "Il croyait",
+     "translatedText": "ele acreditava / cria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'ils pouvaient encore",
+  "newLine": false,
+  "translation": {
+   "text": "que eles ainda podiam",
+   "tips": [
+    {
+     "text": "qu'ils pouvaient",
+     "translatedText": "que eles podiam",
+     "explanation": null
+    },
+    {
+     "text": "encore",
+     "translatedText": "ainda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "réaliser leurs rêves",
+  "newLine": false,
+  "translation": {
+   "text": "realizar seus sonhos",
+   "tips": [
+    {
+     "text": "réaliser",
+     "translatedText": "realizar / concretizar",
+     "explanation": null
+    },
+    {
+     "text": "leurs rêves",
+     "translatedText": "seus sonhos / os sonhos deles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cependant",
+  "newLine": true,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    {
+     "text": "Cependant",
+     "translatedText": "no entanto / contudo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "remettre sa vie sur les rails",
+  "newLine": false,
+  "translation": {
+   "text": "colocar a vida nos trilhos",
+   "tips": [
+    {
+     "text": "remettre sa vie sur les rails",
+     "translatedText": "recolocar a vida nos trilhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a été plus difficile",
+  "newLine": false,
+  "translation": {
+   "text": "foi mais difícil",
+   "tips": [
+    {
+     "text": "a été plus difficile",
+     "translatedText": "foi mais difícil",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que Geai ne l'avait prévu",
+  "newLine": false,
+  "translation": {
+   "text": "do que Geai tinha previsto",
+   "tips": [
+    {
+     "text": "que Geai",
+     "translatedText": "do que Geai",
+     "explanation": null
+    },
+    {
+     "text": "ne l'avait prévu",
+     "translatedText": "tinha previsto",
+     "explanation": "Este « ne » é o « ne explétif »: NÃO é negação! Ele aparece depois de comparativos (« plus... que »), e de expressões como « avant que », « à moins que », sem traduzir nada. « Plus difficile que Geai ne l'avait prévu » = « mais difícil do que Geai tinha previsto » (e não « não tinha previsto »)."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il a trouvé un travail",
+  "newLine": false,
+  "translation": {
+   "text": "Ele encontrou um emprego",
+   "tips": [
+    {
+     "text": "Il a trouvé",
+     "translatedText": "ele encontrou / achou",
+     "explanation": null
+    },
+    {
+     "text": "un travail",
+     "translatedText": "um trabalho / emprego",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans une entreprise",
+  "newLine": false,
+  "translation": {
+   "text": "numa empresa",
+   "tips": [
+    {
+     "text": "dans une entreprise",
+     "translatedText": "numa empresa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui rénovait des maisons",
+  "newLine": false,
+  "translation": {
+   "text": "que reformava casas",
+   "tips": [
+    {
+     "text": "qui rénovait",
+     "translatedText": "que reformava / renovava",
+     "explanation": null
+    },
+    {
+     "text": "des maisons",
+     "translatedText": "casas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais il n'arrivait pas",
+  "newLine": false,
+  "translation": {
+   "text": "mas ele não conseguia",
+   "tips": [
+    {
+     "text": "mais",
+     "translatedText": "mas",
+     "explanation": null
+    },
+    {
+     "text": "il n'arrivait pas à",
+     "translatedText": "ele não conseguia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à y trouver de la joie",
+  "newLine": false,
+  "translation": {
+   "text": "a achar alegria nisso",
+   "tips": [
+    {
+     "text": "à y trouver",
+     "translatedText": "a achar nisso / encontrar ali",
+     "explanation": null
+    },
+    {
+     "text": "de la joie",
+     "translatedText": "alegria",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il faisait de son mieux",
+  "newLine": false,
+  "translation": {
+   "text": "Ele dava o seu melhor",
+   "tips": [
+    {
+     "text": "Il faisait de son mieux",
+     "translatedText": "ele dava o seu melhor / fazia o possível",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais la passion avait disparu",
+  "newLine": false,
+  "translation": {
+   "text": "mas a paixão tinha sumido",
+   "tips": [
+    {
+     "text": "mais la passion",
+     "translatedText": "mas a paixão",
+     "explanation": null
+    },
+    {
+     "text": "avait disparu",
+     "translatedText": "tinha desaparecido / sumido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La nuit",
+  "newLine": false,
+  "translation": {
+   "text": "À noite",
+   "tips": [
+    {
+     "text": "La nuit",
+     "translatedText": "à noite / de noite",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il faisait des cauchemars",
+  "newLine": false,
+  "translation": {
+   "text": "ele tinha pesadelos",
+   "tips": [
+    {
+     "text": "il faisait",
+     "translatedText": "ele fazia / tinha",
+     "explanation": null
+    },
+    {
+     "text": "des cauchemars",
+     "translatedText": "pesadelos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et se réveillait en criant",
+  "newLine": false,
+  "translation": {
+   "text": "e acordava gritando",
+   "tips": [
+    {
+     "text": "et se réveillait",
+     "translatedText": "e acordava / despertava",
+     "explanation": null
+    },
+    {
+     "text": "en criant",
+     "translatedText": "gritando / aos gritos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il a commencé à avoir peur",
+  "newLine": false,
+  "translation": {
+   "text": "Ele começou a ter medo",
+   "tips": [
+    {
+     "text": "Il a commencé à",
+     "translatedText": "ele começou a",
+     "explanation": null
+    },
+    {
+     "text": "avoir peur",
+     "translatedText": "ter medo / sentir medo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de s'endormir",
+  "newLine": false,
+  "translation": {
+   "text": "de adormecer",
+   "tips": [
+    {
+     "text": "de s'endormir",
+     "translatedText": "de adormecer / pegar no sono",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors il regardait la télé",
+  "newLine": false,
+  "translation": {
+   "text": "então ele assistia TV",
+   "tips": [
+    {
+     "text": "alors",
+     "translatedText": "então / por isso",
+     "explanation": null
+    },
+    {
+     "text": "il regardait la télé",
+     "translatedText": "ele assistia TV",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et buvait de la bière",
+  "newLine": false,
+  "translation": {
+   "text": "e bebia cerveja",
+   "tips": [
+    {
+     "text": "et buvait",
+     "translatedText": "e bebia",
+     "explanation": null
+    },
+    {
+     "text": "de la bière",
+     "translatedText": "cerveja",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "jusqu'à tomber de sommeil",
+  "newLine": false,
+  "translation": {
+   "text": "até cair de sono",
+   "tips": [
+    {
+     "text": "jusqu'à",
+     "translatedText": "até",
+     "explanation": null
+    },
+    {
+     "text": "tomber de sommeil",
+     "translatedText": "cair de sono / morrer de sono",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pendant la journée",
+  "newLine": false,
+  "translation": {
+   "text": "Durante o dia",
+   "tips": [
+    {
+     "text": "Pendant la journée",
+     "translatedText": "durante o dia / ao longo do dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il était fatigué",
+  "newLine": false,
+  "translation": {
+   "text": "ele estava cansado",
+   "tips": [
+    {
+     "text": "il était fatigué",
+     "translatedText": "ele estava cansado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et n'arrivait pas à se concentrer",
+  "newLine": false,
+  "translation": {
+   "text": "e não conseguia se concentrar",
+   "tips": [
+    {
+     "text": "et n'arrivait pas à",
+     "translatedText": "e não conseguia",
+     "explanation": null
+    },
+    {
+     "text": "se concentrer",
+     "translatedText": "se concentrar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors il a perdu ce travail",
+  "newLine": false,
+  "translation": {
+   "text": "então ele perdeu esse emprego",
+   "tips": [
+    {
+     "text": "alors il a perdu",
+     "translatedText": "então ele perdeu",
+     "explanation": null
+    },
+    {
+     "text": "ce travail",
+     "translatedText": "esse trabalho / emprego",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et beaucoup d'autres travaux",
+  "newLine": false,
+  "translation": {
+   "text": "e muitos outros empregos",
+   "tips": [
+    {
+     "text": "et beaucoup d'autres",
+     "translatedText": "e muitos outros",
+     "explanation": null
+    },
+    {
+     "text": "travaux",
+     "translatedText": "trabalhos / empregos (plural de « travail »)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il a eus après",
+  "newLine": false,
+  "translation": {
+   "text": "que ele teve depois",
+   "tips": [
+    {
+     "text": "qu'il a eus",
+     "translatedText": "que ele teve",
+     "explanation": null
+    },
+    {
+     "text": "après",
+     "translatedText": "depois",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il déménageait aussi",
+  "newLine": false,
+  "translation": {
+   "text": "Ele também se mudava",
+   "tips": [
+    {
+     "text": "Il déménageait",
+     "translatedText": "ele se mudava (de casa)",
+     "explanation": null
+    },
+    {
+     "text": "aussi",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très souvent",
+  "newLine": false,
+  "translation": {
+   "text": "com muita frequência",
+   "tips": [
+    {
+     "text": "très souvent",
+     "translatedText": "com muita frequência / muitas vezes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ses rêves",
+  "newLine": false,
+  "translation": {
+   "text": "Seus sonhos",
+   "tips": [
+    {
+     "text": "Ses rêves",
+     "translatedText": "seus sonhos / os sonhos dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "semblaient maintenant",
+  "newLine": false,
+  "translation": {
+   "text": "agora pareciam",
+   "tips": [
+    {
+     "text": "semblaient",
+     "translatedText": "pareciam",
+     "explanation": null
+    },
+    {
+     "text": "maintenant",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "appartenir au passé",
+  "newLine": false,
+  "translation": {
+   "text": "pertencer ao passado",
+   "tips": [
+    {
+     "text": "appartenir au passé",
+     "translatedText": "pertencer ao passado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des idées stupides",
+  "newLine": false,
+  "translation": {
+   "text": "ideias bobas",
+   "tips": [
+    {
+     "text": "des idées stupides",
+     "translatedText": "ideias bobas / estúpidas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "venues de l'esprit",
+  "newLine": false,
+  "translation": {
+   "text": "vindas da mente",
+   "tips": [
+    {
+     "text": "venues de",
+     "translatedText": "vindas de",
+     "explanation": null
+    },
+    {
+     "text": "l'esprit",
+     "translatedText": "a mente / o espírito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "d'un garçon innocent",
+  "newLine": false,
+  "translation": {
+   "text": "de um rapaz inocente",
+   "tips": [
+    {
+     "text": "d'un garçon innocent",
+     "translatedText": "de um rapaz / menino inocente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

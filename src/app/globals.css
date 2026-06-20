@@ -1,0 +1,163 @@
+/* ---- Self-hosted fonts (extracted from the original) ---- */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300 800;
+  font-display: swap;
+  src: url('/fonts/opensans-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/barlow-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/barlow-700.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('/fonts/barlowcondensed-300.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/barlowcondensed-400.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/fonts/barlowcondensed-600.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/barlowcondensed-700.woff2') format('woff2');
+}
+
+:root {
+  --teal: #37bdd2;
+  --teal-dark: #28a5c1;
+  --teal-light: #38bfd3;
+  --teal-shadow: rgba(40, 177, 202, 0.48);
+  --green-a: #72b923;
+  --green-b: #9acb31;
+  --red-a: #d5242c;
+  --red-b: #e43742;
+  --brown-a: #5c4930;
+  --brown-b: #a39377;
+  --ink: #212529;
+  --muted: #6c757d;
+  --line: #dee2e6;
+  --bg: #f4f7f8;
+  --card: #ffffff;
+  --gold: #ffc107;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', system-ui, sans-serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+h1,
+h2,
+h3,
+h4,
+.condensed {
+  font-family: 'Barlow Condensed', 'Barlow', sans-serif;
+  letter-spacing: 0.01em;
+}
+
+a {
+  color: var(--teal);
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* ---- Brand buttons ---- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 11px 26px;
+  transition: transform 0.12s ease, box-shadow 0.12s ease, filter 0.12s ease;
+}
+.btn:active {
+  transform: translateY(1px);
+}
+.btn-teal {
+  background-image: linear-gradient(90deg, var(--teal-dark), var(--teal-light));
+  box-shadow: 0 9px 20px var(--teal-shadow);
+}
+.btn-green {
+  background-image: linear-gradient(90deg, var(--green-a), var(--green-b));
+  box-shadow: 0 9px 20px rgba(40, 177, 202, 0.35);
+}
+.btn-red {
+  background-image: linear-gradient(90deg, var(--red-a), var(--red-b));
+  box-shadow: 0 9px 20px rgba(40, 177, 202, 0.35);
+}
+.btn:hover {
+  filter: brightness(1.04);
+}
+.btn:disabled {
+  filter: grayscale(0.4) brightness(0.95);
+  cursor: default;
+  box-shadow: none;
+}
+
+.container {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* icon mask helper */
+.icon-mask {
+  display: inline-block;
+  background-color: currentColor;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}

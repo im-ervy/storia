@@ -1,0 +1,12 @@
+# Usado pelo EAS Build NO LUGAR do .gitignore para decidir o que subir.
+# IMPORTANTE: os assets gerados (assets/content, assets/covers, src/catalog,
+# src/generated) são gitignored, mas PRECISAM ir para o build — então NÃO são
+# listados aqui. Rode `npm run assets` antes de buildar se ../data mudou.
+node_modules/
+.expo/
+dist/
+web-build/
+/ios
+/android
+*.log
+.DS_Store

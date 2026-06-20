@@ -1,0 +1,2322 @@
+[
+ {
+  "text": "Il était une fois",
+  "newLine": true,
+  "translation": {
+   "text": "Era uma vez",
+   "tips": [
+    {
+     "text": "Il était une fois",
+     "translatedText": "Era uma vez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans un pays lointain",
+  "newLine": false,
+  "translation": {
+   "text": "num país distante",
+   "tips": [
+    {
+     "text": "lointain",
+     "translatedText": "distante / longínquo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un Roi appelé Cheveux Noirs",
+  "newLine": false,
+  "translation": {
+   "text": "um Rei chamado Cheveux Noirs",
+   "tips": [
+    {
+     "text": "Cheveux Noirs",
+     "translatedText": "Cabelos Negros (nome do Rei, mantido em francês)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'était son nom",
+  "newLine": false,
+  "translation": {
+   "text": "Era esse o nome dele",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parce qu'il avait",
+  "newLine": false,
+  "translation": {
+   "text": "porque ele tinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de très, très longs",
+  "newLine": false,
+  "translation": {
+   "text": "muito, muito longos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et beaux cheveux noirs",
+  "newLine": false,
+  "translation": {
+   "text": "e belos cabelos negros",
+   "tips": [
+    {
+     "text": "les cheveux",
+     "translatedText": "os cabelos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Lui et sa femme",
+  "newLine": false,
+  "translation": {
+   "text": "Ele e sua esposa",
+   "tips": [
+    {
+     "text": "sa femme",
+     "translatedText": "sua esposa / mulher",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "venaient d'avoir",
+  "newLine": false,
+  "translation": {
+   "text": "acabavam de ter",
+   "tips": [
+    {
+     "text": "venaient d'avoir",
+     "translatedText": "acabavam de ter",
+     "explanation": "\"venir de + infinitivo\" indica algo que acabou de acontecer. No imparfait, \"venaient d'avoir\" = \"acabavam de ter\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "leur premier enfant",
+  "newLine": false,
+  "translation": {
+   "text": "seu primeiro filho",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils étaient",
+  "newLine": false,
+  "translation": {
+   "text": "e estavam",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "incroyablement heureux",
+  "newLine": false,
+  "translation": {
+   "text": "incrivelmente felizes",
+   "tips": [
+    {
+     "text": "incroyablement",
+     "translatedText": "incrivelmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'était aussi",
+  "newLine": false,
+  "translation": {
+   "text": "Era também",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un très bon Roi",
+  "newLine": false,
+  "translation": {
+   "text": "um Rei muito bom",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "então todo mundo",
+   "tips": [
+    {
+     "text": "tout le monde",
+     "translatedText": "todo mundo / todos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans son pays",
+  "newLine": false,
+  "translation": {
+   "text": "em seu país",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "était heureux aussi",
+  "newLine": false,
+  "translation": {
+   "text": "estava feliz também",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "À cette époque",
+  "newLine": true,
+  "translation": {
+   "text": "Naquela época",
+   "tips": [
+    {
+     "text": "à cette époque",
+     "translatedText": "naquela época / nessa época",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quand son premier enfant",
+  "newLine": false,
+  "translation": {
+   "text": "quando seu primeiro filho",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "naissait",
+  "newLine": false,
+  "translation": {
+   "text": "nascia",
+   "tips": [
+    {
+     "text": "naissait",
+     "translatedText": "nascia",
+     "explanation": "\"naissait\" é o imparfait do verbo \"naître\" (nascer). O imparfait descreve uma situação/costume no passado: \"nascia\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un Roi devait appeler",
+  "newLine": false,
+  "translation": {
+   "text": "um Rei devia chamar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "toutes les fées",
+  "newLine": false,
+  "translation": {
+   "text": "todas as fadas",
+   "tips": [
+    {
+     "text": "les fées",
+     "translatedText": "as fadas",
+     "explanation": "\"une fée\" é \"uma fada\". \"les fées\" = \"as fadas\". O acento circunflexo no \"é\" não muda o som aqui."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de son pays",
+  "newLine": false,
+  "translation": {
+   "text": "de seu país",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "chez lui",
+  "newLine": false,
+  "translation": {
+   "text": "à casa dele",
+   "tips": [
+    {
+     "text": "chez lui",
+     "translatedText": "na casa dele / à casa dele",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Elles donnaient toutes",
+  "newLine": false,
+  "translation": {
+   "text": "Todas elas davam",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un cadeau spécial",
+  "newLine": false,
+  "translation": {
+   "text": "um presente especial",
+   "tips": [
+    {
+     "text": "un cadeau",
+     "translatedText": "um presente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au bébé",
+  "newLine": false,
+  "translation": {
+   "text": "ao bebê",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "comme une longue vie",
+  "newLine": false,
+  "translation": {
+   "text": "como uma vida longa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ou un bon cœur",
+  "newLine": false,
+  "translation": {
+   "text": "ou um bom coração",
+   "tips": [
+    {
+     "text": "un bon cœur",
+     "translatedText": "um bom coração",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cheveux Noirs a fait",
+  "newLine": false,
+  "translation": {
+   "text": "Cheveux Noirs fez",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une très longue liste",
+  "newLine": false,
+  "translation": {
+   "text": "uma lista muito longa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec les noms",
+  "newLine": false,
+  "translation": {
+   "text": "com os nomes",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de toutes les fées",
+  "newLine": false,
+  "translation": {
+   "text": "de todas as fadas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il a envoyé",
+  "newLine": false,
+  "translation": {
+   "text": "e ele enviou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les invitations",
+  "newLine": false,
+  "translation": {
+   "text": "os convites",
+   "tips": [
+    {
+     "text": "les invitations",
+     "translatedText": "os convites",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais il a oublié",
+  "newLine": true,
+  "translation": {
+   "text": "Mas ele esqueceu",
+   "tips": [
+    {
+     "text": "il a oublié",
+     "translatedText": "ele esqueceu",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un nom",
+  "newLine": false,
+  "translation": {
+   "text": "um nome",
+   "tips": []
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cœur Froid",
+  "newLine": false,
+  "translation": {
+   "text": "Cœur Froid",
+   "tips": [
+    {
+     "text": "Cœur Froid",
+     "translatedText": "Coração Frio (nome da fada, mantido em francês)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Et Cœur Froid",
+  "newLine": false,
+  "translation": {
+   "text": "E Cœur Froid",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'était pas",
+  "newLine": false,
+  "translation": {
+   "text": "não era",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une personne très gentille",
+  "newLine": false,
+  "translation": {
+   "text": "uma pessoa muito gentil",
+   "tips": [
+    {
+     "text": "gentille",
+     "translatedText": "gentil / amável",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "En fait",
+  "newLine": false,
+  "translation": {
+   "text": "Na verdade",
+   "tips": [
+    {
+     "text": "en fait",
+     "translatedText": "na verdade / aliás",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'était une personne",
+  "newLine": false,
+  "translation": {
+   "text": "era uma pessoa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "incroyablement mauvaise",
+  "newLine": false,
+  "translation": {
+   "text": "incrivelmente má",
+   "tips": [
+    {
+     "text": "mauvaise",
+     "translatedText": "má / ruim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Elle avait",
+  "newLine": false,
+  "translation": {
+   "text": "Ela tinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une petite maison",
+  "newLine": false,
+  "translation": {
+   "text": "uma casinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au milieu des arbres",
+  "newLine": false,
+  "translation": {
+   "text": "no meio das árvores",
+   "tips": [
+    {
+     "text": "au milieu des arbres",
+     "translatedText": "no meio das árvores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et",
+  "newLine": false,
+  "translation": {
+   "text": "e",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "en général",
+  "newLine": false,
+  "translation": {
+   "text": "em geral",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle restait seule",
+  "newLine": false,
+  "translation": {
+   "text": "ela ficava sozinha",
+   "tips": [
+    {
+     "text": "elle restait seule",
+     "translatedText": "ela ficava sozinha",
+     "explanation": "Cuidado, falso amigo: \"rester\" significa \"ficar / permanecer\", NÃO \"restar\". \"elle restait seule\" = \"ela ficava sozinha\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ça veut dire qu'",
+  "newLine": false,
+  "translation": {
+   "text": "isso quer dizer que",
+   "tips": [
+    {
+     "text": "ça veut dire que",
+     "translatedText": "isso quer dizer que",
+     "explanation": "\"vouloir dire\" (literalmente \"querer dizer\") é a expressão para \"significar\". \"ça veut dire que\" = \"isso significa que / isso quer dizer que\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": "elle ne parlait pas",
+  "newLine": false,
+  "translation": {
+   "text": "ela não falava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec les autres",
+  "newLine": false,
+  "translation": {
+   "text": "com os outros",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais",
+  "newLine": false,
+  "translation": {
+   "text": "Mas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quand elle avait l'occasion",
+  "newLine": false,
+  "translation": {
+   "text": "quando tinha a oportunidade",
+   "tips": [
+    {
+     "text": "l'occasion",
+     "translatedText": "a oportunidade / a ocasião",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle faisait des choses terribles",
+  "newLine": false,
+  "translation": {
+   "text": "ela fazia coisas terríveis",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "a todo mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "autour d'elle",
+  "newLine": false,
+  "translation": {
+   "text": "ao redor dela",
+   "tips": [
+    {
+     "text": "autour d'elle",
+     "translatedText": "ao redor dela / à sua volta",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": true,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quand Cœur Froid",
+  "newLine": false,
+  "translation": {
+   "text": "quando Cœur Froid",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a entendu parler",
+  "newLine": false,
+  "translation": {
+   "text": "ouviu falar",
+   "tips": [
+    {
+     "text": "a entendu parler de",
+     "translatedText": "ouviu falar de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la fête",
+  "newLine": false,
+  "translation": {
+   "text": "da festa",
+   "tips": [
+    {
+     "text": "la fête",
+     "translatedText": "a festa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "chez le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "na casa do Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle est devenue",
+  "newLine": false,
+  "translation": {
+   "text": "ela ficou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très en colère",
+  "newLine": false,
+  "translation": {
+   "text": "muito furiosa",
+   "tips": [
+    {
+     "text": "en colère",
+     "translatedText": "com raiva / furiosa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et elle a décidé d'y aller quand même",
+  "newLine": false,
+  "translation": {
+   "text": "e decidiu ir lá mesmo assim",
+   "tips": [
+    {
+     "text": "elle a décidé d'y aller quand même",
+     "translatedText": "ela decidiu ir lá mesmo assim",
+     "explanation": "O pronome \"y\" substitui um lugar (\"lá / até lá\"): \"y aller\" = \"ir lá\". E \"quand même\" = \"mesmo assim / apesar de tudo\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parce qu'elle aussi",
+  "newLine": false,
+  "translation": {
+   "text": "porque ela também",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voulait donner",
+  "newLine": false,
+  "translation": {
+   "text": "queria dar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quelque chose au bébé",
+  "newLine": false,
+  "translation": {
+   "text": "algo ao bebê",
+   "tips": [
+    {
+     "text": "quelque chose",
+     "translatedText": "algo / alguma coisa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quelque chose de mauvais",
+  "newLine": false,
+  "translation": {
+   "text": "Algo de ruim",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bien sûr",
+  "newLine": false,
+  "translation": {
+   "text": "claro",
+   "tips": [
+    {
+     "text": "bien sûr",
+     "translatedText": "claro / com certeza",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le Roi et sa femme",
+  "newLine": true,
+  "translation": {
+   "text": "O Rei e sua esposa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "étaient incroyablement heureux",
+  "newLine": false,
+  "translation": {
+   "text": "estavam incrivelmente felizes",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le jour de la fête",
+  "newLine": false,
+  "translation": {
+   "text": "no dia da festa",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "e todo mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "autour d'eux",
+  "newLine": false,
+  "translation": {
+   "text": "ao redor deles",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "était content",
+  "newLine": false,
+  "translation": {
+   "text": "estava contente",
+   "tips": [
+    {
+     "text": "content",
+     "translatedText": "contente / feliz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ils ont servi",
+  "newLine": false,
+  "translation": {
+   "text": "Serviram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "beaucoup de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "muita comida",
+   "tips": [
+    {
+     "text": "la nourriture",
+     "translatedText": "a comida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il y avait aussi",
+  "newLine": false,
+  "translation": {
+   "text": "e havia também",
+   "tips": [
+    {
+     "text": "il y avait",
+     "translatedText": "havia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la musique",
+  "newLine": false,
+  "translation": {
+   "text": "música",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Puis",
+  "newLine": false,
+  "translation": {
+   "text": "Depois",
+   "tips": [
+    {
+     "text": "puis",
+     "translatedText": "depois / então",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les fées ont fait",
+  "newLine": false,
+  "translation": {
+   "text": "as fadas fizeram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une seule ligne",
+  "newLine": false,
+  "translation": {
+   "text": "uma única fila",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et elles ont donné",
+  "newLine": false,
+  "translation": {
+   "text": "e deram",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "leurs cadeaux au bébé",
+  "newLine": false,
+  "translation": {
+   "text": "seus presentes ao bebê",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une par une",
+  "newLine": false,
+  "translation": {
+   "text": "uma por uma",
+   "tips": [
+    {
+     "text": "une par une",
+     "translatedText": "uma por uma",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": [
+    {
+     "text": "Je te donne",
+     "translatedText": "Eu te dou",
+     "explanation": "Em francês o pronome objeto vem ANTES do verbo: \"te\" (a ti / te) fica entre o sujeito e o verbo. \"Je te donne\" = \"Eu te dou / Eu dou a você\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "beaucoup d'années de vie",
+  "newLine": false,
+  "translation": {
+   "text": "muitos anos de vida",
+   "tips": [
+    {
+     "text": "beaucoup d'années",
+     "translatedText": "muitos anos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une bonne santé",
+  "newLine": false,
+  "translation": {
+   "text": "uma boa saúde",
+   "tips": [
+    {
+     "text": "la santé",
+     "translatedText": "a saúde",
+     "explanation": "\"la santé\" significa \"a saúde\". Cuidado para não confundir com \"saudade\", que não existe em francês. \"une bonne santé\" = \"uma boa saúde\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "l'amour de la bonne nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "o amor pela boa comida",
+   "tips": [
+    {
+     "text": "l'amour de",
+     "translatedText": "o amor por / pela",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "l'amour de la musique",
+  "newLine": false,
+  "translation": {
+   "text": "o amor pela música",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la beauté",
+  "newLine": false,
+  "translation": {
+   "text": "a beleza",
+   "tips": [
+    {
+     "text": "la beauté",
+     "translatedText": "a beleza",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un visage gentil",
+  "newLine": false,
+  "translation": {
+   "text": "um rosto gentil",
+   "tips": [
+    {
+     "text": "le visage",
+     "translatedText": "o rosto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de beaux cheveux",
+  "newLine": false,
+  "translation": {
+   "text": "belos cabelos",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "comme ceux de ton père",
+  "newLine": false,
+  "translation": {
+   "text": "como os do teu pai",
+   "tips": [
+    {
+     "text": "comme ceux de ton père",
+     "translatedText": "como os do teu pai",
+     "explanation": "\"ceux\" é um pronome que substitui um substantivo masculino plural já mencionado (aqui \"les cheveux\"): \"os / aqueles\". \"comme ceux de ton père\" = \"como os do teu pai\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la capacité de voir la vérité",
+  "newLine": false,
+  "translation": {
+   "text": "a capacidade de ver a verdade",
+   "tips": [
+    {
+     "text": "la vérité",
+     "translatedText": "a verdade",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la capacité de trouver",
+  "newLine": false,
+  "translation": {
+   "text": "a capacidade de encontrar",
+   "tips": [
+    {
+     "text": "trouver",
+     "translatedText": "encontrar / achar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de bons amis",
+  "newLine": false,
+  "translation": {
+   "text": "bons amigos",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de bons yeux",
+  "newLine": false,
+  "translation": {
+   "text": "bons olhos",
+   "tips": [
+    {
+     "text": "les yeux",
+     "translatedText": "os olhos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour voir très loin",
+  "newLine": false,
+  "translation": {
+   "text": "para ver muito longe",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la connaissance",
+  "newLine": false,
+  "translation": {
+   "text": "o conhecimento",
+   "tips": [
+    {
+     "text": "la connaissance",
+     "translatedText": "o conhecimento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de tous les mots",
+  "newLine": false,
+  "translation": {
+   "text": "de todas as palavras",
+   "tips": [
+    {
+     "text": "les mots",
+     "translatedText": "as palavras",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de notre langue",
+  "newLine": false,
+  "translation": {
+   "text": "da nossa língua",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un très bon cœur",
+  "newLine": false,
+  "translation": {
+   "text": "um coração muito bom",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tout le monde va t'aimer",
+  "newLine": false,
+  "translation": {
+   "text": "então todo mundo vai te amar",
+   "tips": [
+    {
+     "text": "tout le monde va t'aimer",
+     "translatedText": "todo mundo vai te amar",
+     "explanation": "Futuro próximo: \"aller + infinitivo\" = \"ir + verbo\" (\"va aimer\" = \"vai amar\"). O \"te\" vira \"t'\" antes de vogal: \"t'aimer\" = \"te amar\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une voix gentille",
+  "newLine": false,
+  "translation": {
+   "text": "uma voz gentil",
+   "tips": [
+    {
+     "text": "la voix",
+     "translatedText": "a voz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "então todo mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "va toujours écouter",
+  "newLine": false,
+  "translation": {
+   "text": "vai sempre escutar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce que tu dis",
+  "newLine": false,
+  "translation": {
+   "text": "o que você diz",
+   "tips": [
+    {
+     "text": "ce que tu dis",
+     "translatedText": "o que você diz",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des bras forts",
+  "newLine": false,
+  "translation": {
+   "text": "braços fortes",
+   "tips": [
+    {
+     "text": "les bras",
+     "translatedText": "os braços",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tu pourras",
+  "newLine": false,
+  "translation": {
+   "text": "então você poderá",
+   "tips": [
+    {
+     "text": "tu pourras",
+     "translatedText": "você poderá",
+     "explanation": "\"tu pourras\" é o futuro do verbo \"pouvoir\" (poder). O radical do futuro de \"pouvoir\" é irregular (pourr-): \"tu pourras\" = \"você poderá / tu poderás\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "toujours travailler dur",
+  "newLine": false,
+  "translation": {
+   "text": "sempre trabalhar duro",
+   "tips": [
+    {
+     "text": "travailler dur",
+     "translatedText": "trabalhar duro / muito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une tête forte",
+  "newLine": false,
+  "translation": {
+   "text": "uma cabeça forte",
+   "tips": [
+    {
+     "text": "la tête",
+     "translatedText": "a cabeça",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tu pourras",
+  "newLine": false,
+  "translation": {
+   "text": "então você poderá",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "toujours penser clairement",
+  "newLine": false,
+  "translation": {
+   "text": "sempre pensar com clareza",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je te donne",
+  "newLine": false,
+  "translation": {
+   "text": "Eu te dou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un corps fort",
+  "newLine": false,
+  "translation": {
+   "text": "um corpo forte",
+   "tips": [
+    {
+     "text": "le corps",
+     "translatedText": "o corpo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "alors tu pourras",
+  "newLine": false,
+  "translation": {
+   "text": "então você poderá",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "toujours faire",
+  "newLine": false,
+  "translation": {
+   "text": "sempre fazer",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce que tu dois faire",
+  "newLine": false,
+  "translation": {
+   "text": "o que você deve fazer",
+   "tips": [
+    {
+     "text": "ce que tu dois faire",
+     "translatedText": "o que você deve fazer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais",
+  "newLine": true,
+  "translation": {
+   "text": "Mas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quand presque toutes les fées",
+  "newLine": false,
+  "translation": {
+   "text": "quando quase todas as fadas",
+   "tips": [
+    {
+     "text": "presque",
+     "translatedText": "quase",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la liste",
+  "newLine": false,
+  "translation": {
+   "text": "da lista",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avaient donné leurs cadeaux",
+  "newLine": false,
+  "translation": {
+   "text": "tinham dado seus presentes",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au bébé",
+  "newLine": false,
+  "translation": {
+   "text": "ao bebê",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Cœur Froid est entrée",
+  "newLine": false,
+  "translation": {
+   "text": "Cœur Froid entrou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans le château",
+  "newLine": false,
+  "translation": {
+   "text": "no castelo",
+   "tips": [
+    {
+     "text": "le château",
+     "translatedText": "o castelo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "e todo mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "est devenu silencieux",
+  "newLine": false,
+  "translation": {
+   "text": "ficou em silêncio",
+   "tips": [
+    {
+     "text": "silencieux",
+     "translatedText": "silencioso / em silêncio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

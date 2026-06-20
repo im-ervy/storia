@@ -1,0 +1,2614 @@
+[
+  {
+    "text": "Большой Рот",
+    "newLine": true,
+    "translation": {
+      "text": "Balshói Rot — Boca Grande",
+      "tips": [
+        {
+          "text": "Большой",
+          "translatedText": "balshói = grande",
+          "explanation": null
+        },
+        {
+          "text": "Рот",
+          "translatedText": "rot = boca",
+          "explanation": "O nome do menino é \"Boca Grande\" — mantemos o russo no corpo e damos o sentido aqui."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "долго играл",
+    "newLine": false,
+    "translation": {
+      "text": "dólga igrál — brincou por muito tempo",
+      "tips": [
+        {
+          "text": "долго",
+          "translatedText": "dólga = por muito tempo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "в мяч",
+    "newLine": false,
+    "translation": {
+      "text": "v miatch — de bola",
+      "tips": [
+        {
+          "text": "мяч",
+          "translatedText": "miatch = bola",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он проголодался",
+    "newLine": false,
+    "translation": {
+      "text": "On pragaladálsia — Ele ficou com fome",
+      "tips": [
+        {
+          "text": "проголодался",
+          "translatedText": "pragaladálsia = ficou com fome",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "и пошёл домой",
+    "newLine": false,
+    "translation": {
+      "text": "i pashól damói — e foi para casa",
+      "tips": [
+        {
+          "text": "пошёл",
+          "translatedText": "pashól = foi (a pé)",
+          "explanation": null
+        },
+        {
+          "text": "домой",
+          "translatedText": "damói = para casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Мама увидела его",
+    "newLine": false,
+    "translation": {
+      "text": "Máma uvídila ievó — A mãe o viu",
+      "tips": [
+        {
+          "text": "увидела",
+          "translatedText": "uvídila = viu",
+          "explanation": null
+        },
+        {
+          "text": "его",
+          "translatedText": "ievó = o/ele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "и спросила",
+    "newLine": false,
+    "translation": {
+      "text": "i sprasíla — e perguntou",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Сынок",
+    "newLine": false,
+    "translation": {
+      "text": "Synók — Filhinho",
+      "tips": [
+        {
+          "text": "Сынок",
+          "translatedText": "synók = filhinho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ты хочешь есть",
+    "newLine": false,
+    "translation": {
+      "text": "ty khóchish iest — você quer comer",
+      "tips": [
+        {
+          "text": "хочешь",
+          "translatedText": "khóchish = (você) quer",
+          "explanation": null
+        },
+        {
+          "text": "есть",
+          "translatedText": "iest = comer",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он очень хотел",
+    "newLine": true,
+    "translation": {
+      "text": "On óchin khatiél — Ele queria muito",
+      "tips": [
+        {
+          "text": "очень",
+          "translatedText": "óchin = muito",
+          "explanation": null
+        },
+        {
+          "text": "хотел",
+          "translatedText": "khatiél = queria",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "есть",
+    "newLine": false,
+    "translation": {
+      "text": "iest — comer",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он сказал",
+    "newLine": false,
+    "translation": {
+      "text": "No on skazál — Mas ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Нет",
+    "newLine": false,
+    "translation": {
+      "text": "Niet — Não",
+      "tips": [
+        {
+          "text": "Нет",
+          "translatedText": "niet = não",
+          "explanation": "нет é o \"não\" de recusa (responder \"não\"). Diferente de не, que nega um verbo: не хочу = não quero."
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "мама",
+    "newLine": false,
+    "translation": {
+      "text": "máma — mãe",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Спасибо",
+    "newLine": false,
+    "translation": {
+      "text": "Spasíba — Obrigado",
+      "tips": [
+        {
+          "text": "Спасибо",
+          "translatedText": "spasíba = obrigado",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "я сейчас не хочу",
+    "newLine": false,
+    "translation": {
+      "text": "ia siichás ni khachú — eu agora não quero",
+      "tips": [
+        {
+          "text": "сейчас",
+          "translatedText": "siichás = agora",
+          "explanation": null
+        },
+        {
+          "text": "не хочу",
+          "translatedText": "ni khachú = não quero",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "есть",
+    "newLine": false,
+    "translation": {
+      "text": "iest — comer",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Друг дал мне",
+    "newLine": false,
+    "translation": {
+      "text": "Druk dal mnie — Um amigo me deu",
+      "tips": [
+        {
+          "text": "Друг",
+          "translatedText": "druk = amigo",
+          "explanation": null
+        },
+        {
+          "text": "мне",
+          "translatedText": "mnie = para mim/me",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "поесть",
+    "newLine": false,
+    "translation": {
+      "text": "paiést — de comer",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "я сыт",
+    "newLine": false,
+    "translation": {
+      "text": "ia syt — estou satisfeito",
+      "tips": [
+        {
+          "text": "сыт",
+          "translatedText": "syt = saciado/cheio",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Конечно",
+    "newLine": true,
+    "translation": {
+      "text": "Kaniéshna — Claro",
+      "tips": [
+        {
+          "text": "Конечно",
+          "translatedText": "kaniéshna = claro/é claro",
+          "explanation": "Atenção à pronúncia: aqui ч soa como [sh], então lê-se \"kaniéshna\", não \"kaniétchna\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "друг ничего ему",
+    "newLine": false,
+    "translation": {
+      "text": "druk nichivó iemú — o amigo nada lhe",
+      "tips": [
+        {
+          "text": "ничего",
+          "translatedText": "nichivó = nada",
+          "explanation": null
+        },
+        {
+          "text": "ему",
+          "translatedText": "iemú = para ele/lhe",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "не давал",
+    "newLine": false,
+    "translation": {
+      "text": "ni davál — não deu",
+      "tips": [
+        {
+          "text": "не давал",
+          "translatedText": "ni davál = não dava/deu",
+          "explanation": "Dupla negação obrigatória: \"ничего ... не давал\" = \"não lhe deu nada\" (lit. \"nada não deu\"). Em russo a negação se repete; é o normal."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он не мог",
+    "newLine": false,
+    "translation": {
+      "text": "No on ni mok — Mas ele não conseguia",
+      "tips": [
+        {
+          "text": "не мог",
+          "translatedText": "ni mok = não podia/conseguia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "говорить правду",
+    "newLine": false,
+    "translation": {
+      "text": "gavarít právdu — dizer a verdade",
+      "tips": [
+        {
+          "text": "говорить",
+          "translatedText": "gavarít = falar/dizer",
+          "explanation": null
+        },
+        {
+          "text": "правду",
+          "translatedText": "právdu = a verdade",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Поэтому",
+    "newLine": false,
+    "translation": {
+      "text": "Paétamu — Por isso",
+      "tips": [
+        {
+          "text": "Поэтому",
+          "translatedText": "paétamu = por isso",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "в тот день",
+    "newLine": false,
+    "translation": {
+      "text": "v tot dien — naquele dia",
+      "tips": [
+        {
+          "text": "тот",
+          "translatedText": "tot = aquele",
+          "explanation": null
+        },
+        {
+          "text": "день",
+          "translatedText": "dien = dia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "он ничего не ел",
+    "newLine": false,
+    "translation": {
+      "text": "on nichivó ni iel — ele não comeu nada",
+      "tips": [
+        {
+          "text": "ничего не ел",
+          "translatedText": "nichivó ni iel = não comeu nada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "и пошёл в школу",
+    "newLine": false,
+    "translation": {
+      "text": "i pashól v shkólu — e foi para a escola",
+      "tips": [
+        {
+          "text": "в школу",
+          "translatedText": "v shkólu = para a escola",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "В школе",
+    "newLine": true,
+    "translation": {
+      "text": "V shkólie — Na escola",
+      "tips": [
+        {
+          "text": "В школе",
+          "translatedText": "v shkólie = na escola",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "учительница спросила его",
+    "newLine": false,
+    "translation": {
+      "text": "utchítilnitsa sprasíla ievó — a professora lhe perguntou",
+      "tips": [
+        {
+          "text": "учительница",
+          "translatedText": "utchítilnitsa = professora",
+          "explanation": null
+        },
+        {
+          "text": "спросила",
+          "translatedText": "sprasíla = perguntou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Ты сделал",
+    "newLine": false,
+    "translation": {
+      "text": "Ty sdiélal — Você fez",
+      "tips": [
+        {
+          "text": "сделал",
+          "translatedText": "sdiélal = fez (terminou)",
+          "explanation": "Verbo perfectivo: сделал = \"fez e completou\". Mais adiante veremos делать (fazer, ação em si) — o russo distingue ação completa de ação em andamento."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "домашнее задание",
+    "newLine": false,
+    "translation": {
+      "text": "damáshnie zadánie — o dever de casa",
+      "tips": [
+        {
+          "text": "домашнее",
+          "translatedText": "damáshnie = de casa/caseiro",
+          "explanation": null
+        },
+        {
+          "text": "задание",
+          "translatedText": "zadánie = tarefa/dever",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Нет",
+    "newLine": true,
+    "translation": {
+      "text": "Niet — Não",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "не сделал",
+    "newLine": false,
+    "translation": {
+      "text": "ni sdiélal — não fiz",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "—",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "сказал он",
+    "newLine": false,
+    "translation": {
+      "text": "skazál on — disse ele",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "—",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Я не хотел",
+    "newLine": false,
+    "translation": {
+      "text": "Ia ni khatiél — Eu não queria",
+      "tips": [
+        {
+          "text": "не хотел",
+          "translatedText": "ni khatiél = não queria",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "его делать",
+    "newLine": false,
+    "translation": {
+      "text": "ievó diélat — fazê-lo",
+      "tips": [
+        {
+          "text": "делать",
+          "translatedText": "diélat = fazer (a ação)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Задание слишком трудное",
+    "newLine": false,
+    "translation": {
+      "text": "Zadánie slíshkam trúdnaie — A tarefa é difícil demais",
+      "tips": [
+        {
+          "text": "слишком",
+          "translatedText": "slíshkam = demais",
+          "explanation": null
+        },
+        {
+          "text": "трудное",
+          "translatedText": "trúdnaie = difícil",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он сделал задание",
+    "newLine": true,
+    "translation": {
+      "text": "No on sdiélal zadánie — Mas ele fez a tarefa",
+      "tips": [
+        {
+          "text": "сделал",
+          "translatedText": "sdiélal = fez (completou)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Конечно",
+    "newLine": false,
+    "translation": {
+      "text": "Kaniéshna — Claro",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "он не мог",
+    "newLine": false,
+    "translation": {
+      "text": "on ni mok — ele não conseguia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "говорить правду",
+    "newLine": false,
+    "translation": {
+      "text": "gavarít právdu — dizer a verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Когда дети",
+    "newLine": true,
+    "translation": {
+      "text": "Kagdá diéti — Quando as crianças",
+      "tips": [
+        {
+          "text": "Когда",
+          "translatedText": "kagdá = quando",
+          "explanation": null
+        },
+        {
+          "text": "дети",
+          "translatedText": "diéti = crianças",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "вышли играть",
+    "newLine": false,
+    "translation": {
+      "text": "výshli igrát — saíram para brincar",
+      "tips": [
+        {
+          "text": "вышли",
+          "translatedText": "výshli = saíram",
+          "explanation": null
+        },
+        {
+          "text": "играть",
+          "translatedText": "igrát = brincar/jogar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "друзья спросили его",
+    "newLine": false,
+    "translation": {
+      "text": "druz'iá sprasíli ievó — os amigos lhe perguntaram",
+      "tips": [
+        {
+          "text": "друзья",
+          "translatedText": "druz'iá = amigos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Большой Рот",
+    "newLine": false,
+    "translation": {
+      "text": "Balshói Rot — Boca Grande",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ты хочешь играть",
+    "newLine": false,
+    "translation": {
+      "text": "ty khóchish igrát — você quer brincar",
+      "tips": [
+        {
+          "text": "хочешь",
+          "translatedText": "khóchish = (você) quer",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "с нами",
+    "newLine": false,
+    "translation": {
+      "text": "s námi — conosco",
+      "tips": [
+        {
+          "text": "с нами",
+          "translatedText": "s námi = com a gente",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он очень хотел",
+    "newLine": true,
+    "translation": {
+      "text": "On óchin khatiél — Ele queria muito",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "играть с ними",
+    "newLine": false,
+    "translation": {
+      "text": "igrát s ními — brincar com eles",
+      "tips": [
+        {
+          "text": "с ними",
+          "translatedText": "s ními = com eles",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Играть с друзьями",
+    "newLine": false,
+    "translation": {
+      "text": "Igrát s druz'iámi — Brincar com os amigos",
+      "tips": [
+        {
+          "text": "с друзьями",
+          "translatedText": "s druz'iámi = com os amigos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "на улице",
+    "newLine": false,
+    "translation": {
+      "text": "na úlitse — na rua",
+      "tips": [
+        {
+          "text": "улице",
+          "translatedText": "úlitse = rua",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "—",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "это была",
+    "newLine": false,
+    "translation": {
+      "text": "éta bylá — era",
+      "tips": [
+        {
+          "text": "это",
+          "translatedText": "éta = isto/era",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "самая радостная вещь",
+    "newLine": false,
+    "translation": {
+      "text": "sámaia rádasnaia vesch — a coisa mais alegre",
+      "tips": [
+        {
+          "text": "самая",
+          "translatedText": "sámaia = a mais",
+          "explanation": "самый/самая + adjetivo forma o superlativo: самая радостная вещь = \"a coisa MAIS alegre\"."
+        },
+        {
+          "text": "радостная",
+          "translatedText": "rádasnaia = alegre",
+          "explanation": null
+        },
+        {
+          "text": "вещь",
+          "translatedText": "vesch = coisa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "за весь его день",
+    "newLine": false,
+    "translation": {
+      "text": "za ves ievó dien — em todo o seu dia",
+      "tips": [
+        {
+          "text": "весь",
+          "translatedText": "ves = todo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он сказал",
+    "newLine": false,
+    "translation": {
+      "text": "No on skazál — Mas ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Не хочу",
+    "newLine": false,
+    "translation": {
+      "text": "Ni khachú — Não quero",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Я хочу побыть один",
+    "newLine": false,
+    "translation": {
+      "text": "Ia khachú pabýt adín — Eu quero ficar um pouco sozinho",
+      "tips": [
+        {
+          "text": "побыть",
+          "translatedText": "pabýt = ficar um pouco",
+          "explanation": "O prefixo по- aqui dá a ideia de \"por um tempinho\": побыть = \"ficar/estar um pouco\"."
+        },
+        {
+          "text": "один",
+          "translatedText": "adín = sozinho/um",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Сегодня",
+    "newLine": false,
+    "translation": {
+      "text": "Sivódnia — Hoje",
+      "tips": [
+        {
+          "text": "Сегодня",
+          "translatedText": "sivódnia = hoje",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "пожалуйста",
+    "newLine": false,
+    "translation": {
+      "text": "pajálsta — por favor",
+      "tips": [
+        {
+          "text": "пожалуйста",
+          "translatedText": "pajálsta = por favor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "не говорите со мной",
+    "newLine": false,
+    "translation": {
+      "text": "ni gavaríte sa mnoi — não falem comigo",
+      "tips": [
+        {
+          "text": "не говорите",
+          "translatedText": "ni gavaríte = não falem",
+          "explanation": null
+        },
+        {
+          "text": "со мной",
+          "translatedText": "sa mnoi = comigo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "больше",
+    "newLine": false,
+    "translation": {
+      "text": "bólshe — mais",
+      "tips": [
+        {
+          "text": "больше",
+          "translatedText": "bólshe = mais",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "В тот вечер",
+    "newLine": true,
+    "translation": {
+      "text": "V tot viétchir — Naquela noite",
+      "tips": [
+        {
+          "text": "вечер",
+          "translatedText": "viétchir = noite/tarde",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "сестра спросила его",
+    "newLine": false,
+    "translation": {
+      "text": "sistrá sprasíla ievó — a irmã lhe perguntou",
+      "tips": [
+        {
+          "text": "сестра",
+          "translatedText": "sistrá = irmã",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "не хочет ли он",
+    "newLine": false,
+    "translation": {
+      "text": "ni khóchit li on — se ele não quer",
+      "tips": [
+        {
+          "text": "ли",
+          "translatedText": "li = (marca de pergunta)",
+          "explanation": "A partícula ли transforma a frase em pergunta indireta: \"не хочет ли он...\" = \"(perguntou) se ele queria...\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "кусочек её шоколада",
+    "newLine": false,
+    "translation": {
+      "text": "kusótchik iió shakaláda — um pedacinho do chocolate dela",
+      "tips": [
+        {
+          "text": "кусочек",
+          "translatedText": "kusótchik = pedacinho",
+          "explanation": null
+        },
+        {
+          "text": "её",
+          "translatedText": "iió = dela",
+          "explanation": null
+        },
+        {
+          "text": "шоколада",
+          "translatedText": "shakaláda = de chocolate",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он очень хотел",
+    "newLine": false,
+    "translation": {
+      "text": "On óchin khatiél — Ele queria muito",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "но сказал",
+    "newLine": false,
+    "translation": {
+      "text": "no skazál — mas disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Нет",
+    "newLine": false,
+    "translation": {
+      "text": "Niet — Não",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "сестра",
+    "newLine": false,
+    "translation": {
+      "text": "sistrá — irmã",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Спасибо",
+    "newLine": false,
+    "translation": {
+      "text": "Spasíba — Obrigado",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "я сыт",
+    "newLine": false,
+    "translation": {
+      "text": "ia syt — estou satisfeito",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Потом брат сказал",
+    "newLine": true,
+    "translation": {
+      "text": "Patóm brat skazál — Depois o irmão disse",
+      "tips": [
+        {
+          "text": "Потом",
+          "translatedText": "patóm = depois",
+          "explanation": null
+        },
+        {
+          "text": "брат",
+          "translatedText": "brat = irmão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Я сегодня купил",
+    "newLine": false,
+    "translation": {
+      "text": "Ia sivódnia kupíl — Eu comprei hoje",
+      "tips": [
+        {
+          "text": "купил",
+          "translatedText": "kupíl = comprei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "новый мяч",
+    "newLine": false,
+    "translation": {
+      "text": "nóvyi miatch — uma bola nova",
+      "tips": [
+        {
+          "text": "новый",
+          "translatedText": "nóvyi = novo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Хочешь",
+    "newLine": false,
+    "translation": {
+      "text": "Khóchish — Quer",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "мой старый мяч",
+    "newLine": false,
+    "translation": {
+      "text": "moi stáryi miatch — minha bola velha",
+      "tips": [
+        {
+          "text": "старый",
+          "translatedText": "stáryi = velho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Старый мяч брата",
+    "newLine": false,
+    "translation": {
+      "text": "Stáryi miatch bráta — A bola velha do irmão",
+      "tips": [
+        {
+          "text": "брата",
+          "translatedText": "bráta = do irmão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "был самым лучшим мячом",
+    "newLine": false,
+    "translation": {
+      "text": "byl sámym lútchim miatchóm — era a melhor bola",
+      "tips": [
+        {
+          "text": "самым лучшим",
+          "translatedText": "sámym lútchim = a melhor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "какой он видел",
+    "newLine": false,
+    "translation": {
+      "text": "kakói on vídel — que ele já vira",
+      "tips": [
+        {
+          "text": "какой",
+          "translatedText": "kakói = qual/que",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "и он очень хотел его",
+    "newLine": false,
+    "translation": {
+      "text": "i on óchin khatiél ievó — e ele a queria muito",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он сказал",
+    "newLine": false,
+    "translation": {
+      "text": "No on skazál — Mas ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Нет",
+    "newLine": false,
+    "translation": {
+      "text": "Niet — Não",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "брат",
+    "newLine": false,
+    "translation": {
+      "text": "brat — irmão",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Спасибо",
+    "newLine": false,
+    "translation": {
+      "text": "Spasíba — Obrigado",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "мой мяч хороший",
+    "newLine": false,
+    "translation": {
+      "text": "moi miatch kharóshyi — minha bola é boa",
+      "tips": [
+        {
+          "text": "хороший",
+          "translatedText": "kharóshyi = boa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Отдай его",
+    "newLine": false,
+    "translation": {
+      "text": "Atdái ievó — Dê-a",
+      "tips": [
+        {
+          "text": "Отдай",
+          "translatedText": "atdái = dê (imperativo)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "кому-нибудь другому",
+    "newLine": false,
+    "translation": {
+      "text": "kamú-nibud drugómu — a outra pessoa qualquer",
+      "tips": [
+        {
+          "text": "кому-нибудь",
+          "translatedText": "kamú-nibud = a alguém (qualquer)",
+          "explanation": "A partícula -нибудь deixa o pronome indefinido: кому-нибудь = \"a alguém qualquer\", sem saber a quem."
+        },
+        {
+          "text": "другому",
+          "translatedText": "drugómu = a outro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Перед сном",
+    "newLine": true,
+    "translation": {
+      "text": "Piérit snom — Antes de dormir",
+      "tips": [
+        {
+          "text": "Перед",
+          "translatedText": "piérit = antes de",
+          "explanation": null
+        },
+        {
+          "text": "сном",
+          "translatedText": "snom = sono/dormir",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "папа спросил",
+    "newLine": false,
+    "translation": {
+      "text": "pápa sprasíl — o pai perguntou",
+      "tips": [
+        {
+          "text": "папа",
+          "translatedText": "pápa = pai",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "не хочет ли он",
+    "newLine": false,
+    "translation": {
+      "text": "ni khóchit li on — se ele não quer",
+      "tips": [
+        {
+          "text": "ли",
+          "translatedText": "li = (marca de pergunta)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "послушать историю",
+    "newLine": false,
+    "translation": {
+      "text": "paslúshat istóriiu — ouvir uma história",
+      "tips": [
+        {
+          "text": "послушать",
+          "translatedText": "paslúshat = ouvir",
+          "explanation": null
+        },
+        {
+          "text": "историю",
+          "translatedText": "istóriiu = história",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Это история",
+    "newLine": false,
+    "translation": {
+      "text": "Éta istóriia — É uma história",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "об одном очень сильном короле",
+    "newLine": false,
+    "translation": {
+      "text": "ab adnóm óchin sílnam karólie — sobre um rei muito forte",
+      "tips": [
+        {
+          "text": "сильном",
+          "translatedText": "sílnam = forte",
+          "explanation": null
+        },
+        {
+          "text": "короле",
+          "translatedText": "karólie = rei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "—",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "сказал папа",
+    "newLine": false,
+    "translation": {
+      "text": "skazál pápa — disse o pai",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Большой Рот",
+    "newLine": false,
+    "translation": {
+      "text": "Balshói Rot — Boca Grande",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "больше всего любил",
+    "newLine": false,
+    "translation": {
+      "text": "bólshe vsivó liubíl — mais do que tudo gostava",
+      "tips": [
+        {
+          "text": "больше всего",
+          "translatedText": "bólshe vsivó = mais que tudo",
+          "explanation": null
+        },
+        {
+          "text": "любил",
+          "translatedText": "liubíl = gostava/amava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "истории о королях",
+    "newLine": false,
+    "translation": {
+      "text": "istórii a karóliakh — histórias sobre reis",
+      "tips": [
+        {
+          "text": "королях",
+          "translatedText": "karóliakh = sobre reis",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но он сказал",
+    "newLine": false,
+    "translation": {
+      "text": "No on skazál — Mas ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Не хочу",
+    "newLine": false,
+    "translation": {
+      "text": "Ni khachú — Não quero",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "папа",
+    "newLine": false,
+    "translation": {
+      "text": "pápa — pai",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Спасибо",
+    "newLine": false,
+    "translation": {
+      "text": "Spasíba — Obrigado",
+      "tips": []
+    }
+  },
+  {
+    "text": ",",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "я сейчас хочу спать",
+    "newLine": false,
+    "translation": {
+      "text": "ia siichás khachú spat — eu agora quero dormir",
+      "tips": [
+        {
+          "text": "спать",
+          "translatedText": "spat = dormir",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "»",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Теперь Большой Рот",
+    "newLine": true,
+    "translation": {
+      "text": "Tipiér Balshói Rot — Agora Boca Grande",
+      "tips": [
+        {
+          "text": "Теперь",
+          "translatedText": "tipiér = agora",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "был очень несчастен",
+    "newLine": false,
+    "translation": {
+      "text": "byl óchin nischástin — estava muito infeliz",
+      "tips": [
+        {
+          "text": "несчастен",
+          "translatedText": "nischástin = infeliz",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он думал",
+    "newLine": false,
+    "translation": {
+      "text": "On dúmal — Ele pensava",
+      "tips": [
+        {
+          "text": "думал",
+          "translatedText": "dúmal = pensava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ":",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "я больше не хочу",
+    "newLine": false,
+    "translation": {
+      "text": "ia bólshe ni khachú — eu não quero mais",
+      "tips": [
+        {
+          "text": "больше не",
+          "translatedText": "bólshe ni = não... mais",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "каждый день",
+    "newLine": false,
+    "translation": {
+      "text": "kájdyi dien — todo dia",
+      "tips": [
+        {
+          "text": "каждый",
+          "translatedText": "kájdyi = cada/todo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "говорить неправду",
+    "newLine": false,
+    "translation": {
+      "text": "gavarít niprávdu — dizer mentira",
+      "tips": [
+        {
+          "text": "неправду",
+          "translatedText": "niprávdu = mentira/inverdade",
+          "explanation": "неправда = не + правда (verdade), ou seja \"não-verdade\" = mentira. O prefixo не- nega o substantivo."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Но на следующий день",
+    "newLine": false,
+    "translation": {
+      "text": "No na sliéduiuschii dien — Mas no dia seguinte",
+      "tips": [
+        {
+          "text": "следующий",
+          "translatedText": "sliéduiuschii = seguinte",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ничего не изменилось",
+    "newLine": false,
+    "translation": {
+      "text": "nichivó ni izminílas — nada mudou",
+      "tips": [
+        {
+          "text": "ничего не изменилось",
+          "translatedText": "nichivó ni izminílas = nada mudou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Он всё ещё не мог",
+    "newLine": false,
+    "translation": {
+      "text": "On vsió ischió ni mok — Ele ainda não conseguia",
+      "tips": [
+        {
+          "text": "всё ещё",
+          "translatedText": "vsió ischió = ainda",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "говорить правду",
+    "newLine": false,
+    "translation": {
+      "text": "gavarít právdu — dizer a verdade",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Целую неделю",
+    "newLine": false,
+    "translation": {
+      "text": "Tséluiu nidiéliu — A semana inteira",
+      "tips": [
+        {
+          "text": "Целую",
+          "translatedText": "tséluiu = inteira/toda",
+          "explanation": null
+        },
+        {
+          "text": "неделю",
+          "translatedText": "nidiéliu = semana",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "его жизнь была",
+    "newLine": false,
+    "translation": {
+      "text": "ievó jizn bylá — a vida dele esteve",
+      "tips": [
+        {
+          "text": "жизнь",
+          "translatedText": "jizn = vida",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "очень плохой",
+    "newLine": false,
+    "translation": {
+      "text": "óchin plakhói — muito ruim",
+      "tips": [
+        {
+          "text": "плохой",
+          "translatedText": "plakhói = ruim/má",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

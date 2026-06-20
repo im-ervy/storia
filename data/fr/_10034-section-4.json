@@ -1,0 +1,1393 @@
+[
+  {
+    "text": "Gris s'est arrêté",
+    "newLine": true,
+    "translation": {
+      "text": "Cinza parou",
+      "tips": [
+        {
+          "text": "Gris",
+          "translatedText": "Cinza",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il l'a regardée",
+    "newLine": false,
+    "translation": {
+      "text": "e olhou para ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la bouche ouverte",
+    "newLine": false,
+    "translation": {
+      "text": "de boca aberta",
+      "tips": [
+        {
+          "text": "la bouche ouverte",
+          "translatedText": "de boca aberta",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Comment est-ce que tu sais",
+    "newLine": false,
+    "translation": {
+      "text": "Como é que você sabe",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a demandé",
+    "newLine": false,
+    "translation": {
+      "text": "ele perguntou",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Eh bien",
+    "newLine": false,
+    "translation": {
+      "text": "Bem",
+      "tips": [
+        {
+          "text": "Eh bien",
+          "translatedText": "Bem / Pois é",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "nous ne sortons jamais",
+    "newLine": false,
+    "translation": {
+      "text": "a gente nunca sai",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand la lune est pleine",
+    "newLine": false,
+    "translation": {
+      "text": "quando a lua está cheia",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "c'était facile à comprendre",
+    "newLine": false,
+    "translation": {
+      "text": "era fácil de entender",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ela disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu devais me dire",
+    "newLine": false,
+    "translation": {
+      "text": "Você tinha que me dizer",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que tu savais",
+    "newLine": false,
+    "translation": {
+      "text": "que você sabia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu Gris",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu Cinza",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "J'attendais ton moment",
+    "newLine": false,
+    "translation": {
+      "text": "Eu esperava a sua hora",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je voulais que tu",
+    "newLine": false,
+    "translation": {
+      "text": "Eu queria que você",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "me le dises toi-même",
+    "newLine": false,
+    "translation": {
+      "text": "me dissesse você mesmo",
+      "tips": [
+        {
+          "text": "Je voulais que tu me le dises toi-même",
+          "translatedText": "eu queria que você mesmo me dissesse",
+          "explanation": "\"vouloir que\" exige o subjuntivo no verbo seguinte: por isso \"dire\" vira \"dises\" (que tu dises), não \"tu dis\". E \"toi-même\" = \"você mesmo\"; os pronomes enfáticos com -même são: moi-même, toi-même, lui-même, elle-même, etc."
+        }
+      ]
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Océane",
+    "newLine": false,
+    "translation": {
+      "text": "disse Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Gris a souri",
+    "newLine": true,
+    "translation": {
+      "text": "Cinza sorriu",
+      "tips": [
+        {
+          "text": "a souri",
+          "translatedText": "sorriu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Moi aussi",
+    "newLine": false,
+    "translation": {
+      "text": "Eu também",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "j'ai quelque chose",
+    "newLine": false,
+    "translation": {
+      "text": "tenho uma coisa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à te dire",
+    "newLine": false,
+    "translation": {
+      "text": "para te dizer",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Océane",
+    "newLine": false,
+    "translation": {
+      "text": "disse Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais elle n'a pas souri",
+    "newLine": false,
+    "translation": {
+      "text": "Mas ela não sorriu",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu es une fée",
+    "newLine": false,
+    "translation": {
+      "text": "Você é uma fada",
+      "tips": [
+        {
+          "text": "une fée",
+          "translatedText": "uma fada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Gris",
+    "newLine": false,
+    "translation": {
+      "text": "disse Cinza",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je sais",
+    "newLine": false,
+    "translation": {
+      "text": "Eu sei",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Non",
+    "newLine": false,
+    "translation": {
+      "text": "Não",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu Océane",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Gris l'a regardée",
+    "newLine": true,
+    "translation": {
+      "text": "Cinza olhou para ela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec la bouche ouverte",
+    "newLine": false,
+    "translation": {
+      "text": "de boca aberta",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour la deuxième fois",
+    "newLine": false,
+    "translation": {
+      "text": "pela segunda vez",
+      "tips": [
+        {
+          "text": "pour la deuxième fois",
+          "translatedText": "pela segunda vez",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de la nuit",
+    "newLine": false,
+    "translation": {
+      "text": "na noite",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Comment ça",
+    "newLine": false,
+    "translation": {
+      "text": "Como assim",
+      "tips": [
+        {
+          "text": "Comment ça ?",
+          "translatedText": "Como assim?",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ? ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu ressembles à une fée",
+    "newLine": false,
+    "translation": {
+      "text": "Você parece uma fada",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et la plupart",
+    "newLine": false,
+    "translation": {
+      "text": "e a maioria",
+      "tips": [
+        {
+          "text": "la plupart de",
+          "translatedText": "a maioria de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de tes amies",
+    "newLine": false,
+    "translation": {
+      "text": "das suas amigas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sont des fées",
+    "newLine": false,
+    "translation": {
+      "text": "são fadas",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais je ne suis pas",
+    "newLine": false,
+    "translation": {
+      "text": "Mas eu não sou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une fée",
+    "newLine": false,
+    "translation": {
+      "text": "uma fada",
+      "tips": []
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Océane",
+    "newLine": false,
+    "translation": {
+      "text": "disse Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après un moment de silence",
+    "newLine": true,
+    "translation": {
+      "text": "Depois de um momento de silêncio",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Gris a demandé",
+    "newLine": false,
+    "translation": {
+      "text": "Cinza perguntou",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu es une vampire",
+    "newLine": false,
+    "translation": {
+      "text": "Você é uma vampira",
+      "tips": []
+    }
+  },
+  {
+    "text": " ? ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu sais que",
+    "newLine": false,
+    "translation": {
+      "text": "Você sabe que",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour moi",
+    "newLine": false,
+    "translation": {
+      "text": "para mim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ce n'est pas un problème",
+    "newLine": false,
+    "translation": {
+      "text": "isso não é um problema",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Non",
+    "newLine": false,
+    "translation": {
+      "text": "Não",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je suis une sirène",
+    "newLine": false,
+    "translation": {
+      "text": "Eu sou uma sereia",
+      "tips": [
+        {
+          "text": "une sirène",
+          "translatedText": "uma sereia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Océane",
+    "newLine": false,
+    "translation": {
+      "text": "disse Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il y a eu",
+    "newLine": true,
+    "translation": {
+      "text": "Houve",
+      "tips": [
+        {
+          "text": "Il y a eu",
+          "translatedText": "houve",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un moment de silence",
+    "newLine": false,
+    "translation": {
+      "text": "um momento de silêncio",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "plus long cette fois",
+    "newLine": false,
+    "translation": {
+      "text": "mais longo desta vez",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais les sirènes n'existent pas",
+    "newLine": false,
+    "translation": {
+      "text": "Mas as sereias não existem",
+      "tips": [
+        {
+          "text": "les sirènes n'existent pas",
+          "translatedText": "as sereias não existem",
+          "explanation": "Note a ironia: um lobisomem dizendo que sereias não existem. Em francês, falar de algo em geral pede o artigo definido (\"les sirènes\"), diferente do português, que costuma usar o nome sem artigo (\"sereias não existem\")."
+        }
+      ]
+    }
+  },
+  {
+    "text": " », ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a été la seule réponse",
+    "newLine": false,
+    "translation": {
+      "text": "foi a única resposta",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de Gris",
+    "newLine": false,
+    "translation": {
+      "text": "de Cinza",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maintenant",
+    "newLine": true,
+    "translation": {
+      "text": "Agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Océane était vraiment fâchée",
+    "newLine": false,
+    "translation": {
+      "text": "Océane estava realmente brava",
+      "tips": [
+        {
+          "text": "fâchée",
+          "translatedText": "brava / chateada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il y a eu",
+    "newLine": false,
+    "translation": {
+      "text": "e houve",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un autre très long moment",
+    "newLine": false,
+    "translation": {
+      "text": "outro momento bem longo",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de silence",
+    "newLine": false,
+    "translation": {
+      "text": "de silêncio",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Comment est-ce que tu peux",
+    "newLine": false,
+    "translation": {
+      "text": "Como é que você pode",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avoir la tête si fermée",
+    "newLine": false,
+    "translation": {
+      "text": "ser tão cabeça-fechada",
+      "tips": [
+        {
+          "text": "avoir la tête si fermée",
+          "translatedText": "ter a cabeça tão fechada / ser tão cabeça-fechada",
+          "explanation": "\"avoir la tête fermée\" é uma imagem para alguém de mente fechada, que não aceita ideias novas. \"si\" antes do adjetivo significa \"tão\": \"si fermée\" = tão fechada."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a enfin demandé",
+    "newLine": false,
+    "translation": {
+      "text": "ela finalmente perguntou",
+      "tips": [
+        {
+          "text": "enfin",
+          "translatedText": "finalmente / por fim",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Oui",
+    "newLine": true,
+    "translation": {
+      "text": "Sim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils ont eu",
+    "newLine": false,
+    "translation": {
+      "text": "eles tiveram",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une grande discussion",
+    "newLine": false,
+    "translation": {
+      "text": "uma grande discussão",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "cette nuit-là",
+    "newLine": false,
+    "translation": {
+      "text": "naquela noite",
+      "tips": [
+        {
+          "text": "cette nuit-là",
+          "translatedText": "naquela noite",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais ce n'était pas",
+    "newLine": false,
+    "translation": {
+      "text": "Mas não foi",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la première",
+    "newLine": false,
+    "translation": {
+      "text": "a primeira",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ce n'allait pas être",
+    "newLine": false,
+    "translation": {
+      "text": "e não seria",
+      "tips": [
+        {
+          "text": "ce n'allait pas être la dernière",
+          "translatedText": "não seria a última",
+          "explanation": "\"aller\" no imperfeito (allait) + infinitivo forma o futuro do pretérito (\"iria ser / seria\"): \"ça allait être\" = isso ia ser / seria. Aqui na negativa: \"ce n'allait pas être\" = não seria."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la dernière",
+    "newLine": false,
+    "translation": {
+      "text": "a última",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Gris est venu habiter",
+    "newLine": false,
+    "translation": {
+      "text": "Cinza veio morar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans l'appartement d'Océane",
+    "newLine": false,
+    "translation": {
+      "text": "no apartamento de Océane",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "une semaine plus tard",
+    "newLine": false,
+    "translation": {
+      "text": "uma semana depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et ils se sont mariés",
+    "newLine": false,
+    "translation": {
+      "text": "e eles se casaram",
+      "tips": [
+        {
+          "text": "ils se sont mariés",
+          "translatedText": "eles se casaram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un an après",
+    "newLine": false,
+    "translation": {
+      "text": "um ano depois",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais",
+    "newLine": false,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "comme j'ai dit",
+    "newLine": false,
+    "translation": {
+      "text": "como eu disse",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Gris est une personne",
+    "newLine": false,
+    "translation": {
+      "text": "Cinza é uma pessoa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "presque ordinaire",
+    "newLine": false,
+    "translation": {
+      "text": "quase comum",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Océane est une personne",
+    "newLine": false,
+    "translation": {
+      "text": "Océane é uma pessoa",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "presque ordinaire",
+    "newLine": false,
+    "translation": {
+      "text": "quase comum",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et c'est une histoire d'amour",
+    "newLine": false,
+    "translation": {
+      "text": "e é uma história de amor",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "presque ordinaire",
+    "newLine": false,
+    "translation": {
+      "text": "quase comum",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

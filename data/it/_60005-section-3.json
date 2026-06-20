@@ -1,0 +1,2656 @@
+[
+  {
+    "text": "La mattina dopo",
+    "newLine": true,
+    "translation": {
+      "text": "Na manhã seguinte",
+      "tips": [
+        {
+          "text": "La mattina dopo",
+          "translatedText": "a manhã seguinte (lit. de depois)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "subito dopo",
+    "newLine": false,
+    "translation": {
+      "text": "logo depois",
+      "tips": [
+        {
+          "text": "subito",
+          "translatedText": "imediatamente/logo",
+          "explanation": "Falso amigo: `subito` NÃO é \"súbito\"; significa \"imediatamente, logo\". Para \"de repente\" o italiano usa `all'improvviso`."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "che il sole",
+    "newLine": false,
+    "translation": {
+      "text": "que o sol",
+      "tips": [
+        {
+          "text": "il sole",
+          "translatedText": "o sol",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "era uscito",
+    "newLine": false,
+    "translation": {
+      "text": "tinha saído/nascido",
+      "tips": [
+        {
+          "text": "era uscito",
+          "translatedText": "tinha saído (mais-que-perfeito)",
+          "explanation": "Trapassato com auxiliar ESSERE (`era`): `uscire` (sair) é verbo de movimento, então usa essere e o particípio CONCORDA (uscit-o, masc. sing., porque o sujeito é `il sole`). Verbos transitivos usariam `avere` sem concordar."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si svegliò",
+    "newLine": false,
+    "translation": {
+      "text": "ele acordou",
+      "tips": [
+        {
+          "text": "si svegliò",
+          "translatedText": "acordou-se (pass. remoto)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e vide",
+    "newLine": false,
+    "translation": {
+      "text": "e viu",
+      "tips": [
+        {
+          "text": "vide",
+          "translatedText": "viu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "alcuni bambini",
+    "newLine": false,
+    "translation": {
+      "text": "algumas crianças",
+      "tips": [
+        {
+          "text": "alcuni",
+          "translatedText": "alguns",
+          "explanation": null
+        },
+        {
+          "text": "bambini",
+          "translatedText": "crianças/meninos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "che giocavano",
+    "newLine": false,
+    "translation": {
+      "text": "que brincavam",
+      "tips": [
+        {
+          "text": "giocavano",
+          "translatedText": "brincavam (imperfeito)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vicino a lui",
+    "newLine": false,
+    "translation": {
+      "text": "perto dele",
+      "tips": [
+        {
+          "text": "vicino a",
+          "translatedText": "perto de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Si sentì",
+    "newLine": false,
+    "translation": {
+      "text": "Ele se sentiu",
+      "tips": [
+        {
+          "text": "si sentì",
+          "translatedText": "sentiu-se",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "incredibilmente felice",
+    "newLine": false,
+    "translation": {
+      "text": "incrivelmente feliz",
+      "tips": [
+        {
+          "text": "incredibilmente",
+          "translatedText": "incrivelmente",
+          "explanation": null
+        },
+        {
+          "text": "felice",
+          "translatedText": "feliz",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "; ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "era un bambino",
+    "newLine": false,
+    "translation": {
+      "text": "ele era uma criança",
+      "tips": [
+        {
+          "text": "era",
+          "translatedText": "era",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "anche lui",
+    "newLine": false,
+    "translation": {
+      "text": "ele também",
+      "tips": [
+        {
+          "text": "anche lui",
+          "translatedText": "ele também",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dopotutto",
+    "newLine": false,
+    "translation": {
+      "text": "afinal de contas",
+      "tips": [
+        {
+          "text": "dopotutto",
+          "translatedText": "afinal de contas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Così",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": [
+        {
+          "text": "Così",
+          "translatedText": "assim/então",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "andò a giocare",
+    "newLine": false,
+    "translation": {
+      "text": "foi brincar",
+      "tips": [
+        {
+          "text": "andò",
+          "translatedText": "foi",
+          "explanation": null
+        },
+        {
+          "text": "a giocare",
+          "translatedText": "a brincar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con loro",
+    "newLine": false,
+    "translation": {
+      "text": "com eles",
+      "tips": [
+        {
+          "text": "con loro",
+          "translatedText": "com eles",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ed era",
+    "newLine": false,
+    "translation": {
+      "text": "e era",
+      "tips": [
+        {
+          "text": "ed",
+          "translatedText": "e (antes de vogal)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la prima volta",
+    "newLine": false,
+    "translation": {
+      "text": "a primeira vez",
+      "tips": [
+        {
+          "text": "la prima volta",
+          "translatedText": "a primeira vez",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "da tanto tempo",
+    "newLine": false,
+    "translation": {
+      "text": "em muito tempo",
+      "tips": [
+        {
+          "text": "da tanto tempo",
+          "translatedText": "há muito tempo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "che le persone",
+    "newLine": false,
+    "translation": {
+      "text": "que as pessoas",
+      "tips": [
+        {
+          "text": "le persone",
+          "translatedText": "as pessoas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "erano buone",
+    "newLine": false,
+    "translation": {
+      "text": "eram boas",
+      "tips": [
+        {
+          "text": "erano buone",
+          "translatedText": "eram boas (fem. pl.)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con lui",
+    "newLine": false,
+    "translation": {
+      "text": "com ele",
+      "tips": [
+        {
+          "text": "con lui",
+          "translatedText": "com ele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Poi",
+    "newLine": true,
+    "translation": {
+      "text": "Depois",
+      "tips": [
+        {
+          "text": "Poi",
+          "translatedText": "depois/então",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quando arrivò",
+    "newLine": false,
+    "translation": {
+      "text": "quando chegou",
+      "tips": [
+        {
+          "text": "arrivò",
+          "translatedText": "chegou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "l'ora",
+    "newLine": false,
+    "translation": {
+      "text": "a hora",
+      "tips": [
+        {
+          "text": "l'ora",
+          "translatedText": "a hora",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "per i bambini",
+    "newLine": false,
+    "translation": {
+      "text": "para as crianças",
+      "tips": [
+        {
+          "text": "per i bambini",
+          "translatedText": "para as crianças",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di tornare a casa",
+    "newLine": false,
+    "translation": {
+      "text": "de voltar para casa",
+      "tips": [
+        {
+          "text": "tornare",
+          "translatedText": "voltar/retornar",
+          "explanation": null
+        },
+        {
+          "text": "a casa",
+          "translatedText": "para casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un bambino piccolo",
+    "newLine": false,
+    "translation": {
+      "text": "um menininho",
+      "tips": [
+        {
+          "text": "piccolo",
+          "translatedText": "pequeno",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chiese ad Azzurro",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou a Azzurro",
+      "tips": [
+        {
+          "text": "chiese",
+          "translatedText": "perguntou",
+          "explanation": null
+        },
+        {
+          "text": "ad Azzurro",
+          "translatedText": "a Azzurro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ": ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Amico mio",
+    "newLine": false,
+    "translation": {
+      "text": "Meu amigo",
+      "tips": [
+        {
+          "text": "Amico mio",
+          "translatedText": "amigo meu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dove abiti",
+    "newLine": false,
+    "translation": {
+      "text": "onde você mora",
+      "tips": [
+        {
+          "text": "dove",
+          "translatedText": "onde",
+          "explanation": null
+        },
+        {
+          "text": "abiti",
+          "translatedText": "moras (tu)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?».",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "E Azzurro",
+    "newLine": true,
+    "translation": {
+      "text": "E Azzurro",
+      "tips": [
+        {
+          "text": "E",
+          "translatedText": "e",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "fece una faccia triste",
+    "newLine": false,
+    "translation": {
+      "text": "fez uma cara triste",
+      "tips": [
+        {
+          "text": "fece",
+          "translatedText": "fez",
+          "explanation": null
+        },
+        {
+          "text": "una faccia",
+          "translatedText": "uma cara/um rosto",
+          "explanation": null
+        },
+        {
+          "text": "triste",
+          "translatedText": "triste",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Non hai",
+    "newLine": false,
+    "translation": {
+      "text": "Você não tem",
+      "tips": [
+        {
+          "text": "Non hai",
+          "translatedText": "não tens (tu)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "una casa",
+    "newLine": false,
+    "translation": {
+      "text": "uma casa",
+      "tips": [
+        {
+          "text": "una casa",
+          "translatedText": "uma casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?», ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "continuò",
+    "newLine": false,
+    "translation": {
+      "text": "continuou",
+      "tips": [
+        {
+          "text": "continuò",
+          "translatedText": "continuou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il bambino",
+    "newLine": false,
+    "translation": {
+      "text": "o menino",
+      "tips": [
+        {
+          "text": "il bambino",
+          "translatedText": "o menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Azzurro",
+    "newLine": true,
+    "translation": {
+      "text": "Azzurro",
+      "tips": [
+        {
+          "text": "Azzurro",
+          "translatedText": "Azul (nome)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "fece una faccia",
+    "newLine": false,
+    "translation": {
+      "text": "fez uma cara",
+      "tips": [
+        {
+          "text": "fece una faccia",
+          "translatedText": "fez uma cara",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ancora più triste",
+    "newLine": false,
+    "translation": {
+      "text": "ainda mais triste",
+      "tips": [
+        {
+          "text": "ancora più",
+          "translatedText": "ainda mais",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Vuoi venire",
+    "newLine": false,
+    "translation": {
+      "text": "Você quer vir",
+      "tips": [
+        {
+          "text": "Vuoi",
+          "translatedText": "queres (tu)",
+          "explanation": null
+        },
+        {
+          "text": "venire",
+          "translatedText": "vir",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a casa con me",
+    "newLine": false,
+    "translation": {
+      "text": "para casa comigo",
+      "tips": [
+        {
+          "text": "con me",
+          "translatedText": "comigo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "?», ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "chiese",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou",
+      "tips": [
+        {
+          "text": "chiese",
+          "translatedText": "perguntou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il bambino piccolo",
+    "newLine": false,
+    "translation": {
+      "text": "o menininho",
+      "tips": [
+        {
+          "text": "il bambino piccolo",
+          "translatedText": "o menino pequeno",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Azzurro era",
+    "newLine": true,
+    "translation": {
+      "text": "Azzurro estava",
+      "tips": [
+        {
+          "text": "era",
+          "translatedText": "estava/era",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "così felice",
+    "newLine": false,
+    "translation": {
+      "text": "tão feliz",
+      "tips": [
+        {
+          "text": "così",
+          "translatedText": "tão/assim",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "che cominciò",
+    "newLine": false,
+    "translation": {
+      "text": "que começou",
+      "tips": [
+        {
+          "text": "cominciò",
+          "translatedText": "começou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a muovere la coda",
+    "newLine": false,
+    "translation": {
+      "text": "a balançar o rabo",
+      "tips": [
+        {
+          "text": "muovere",
+          "translatedText": "mover/balançar",
+          "explanation": null
+        },
+        {
+          "text": "la coda",
+          "translatedText": "o rabo/a cauda",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Ok",
+    "newLine": false,
+    "translation": {
+      "text": "Ok",
+      "tips": [
+        {
+          "text": "Ok",
+          "translatedText": "ok",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "allora vieni con me",
+    "newLine": false,
+    "translation": {
+      "text": "então venha comigo",
+      "tips": [
+        {
+          "text": "allora",
+          "translatedText": "então",
+          "explanation": null
+        },
+        {
+          "text": "vieni con me",
+          "translatedText": "vem comigo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "!», ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "disse",
+    "newLine": false,
+    "translation": {
+      "text": "disse",
+      "tips": [
+        {
+          "text": "disse",
+          "translatedText": "disse",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il bambino piccolo",
+    "newLine": false,
+    "translation": {
+      "text": "o menininho",
+      "tips": [
+        {
+          "text": "il bambino piccolo",
+          "translatedText": "o menino pequeno",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quando arrivarono",
+    "newLine": true,
+    "translation": {
+      "text": "Quando chegaram",
+      "tips": [
+        {
+          "text": "arrivarono",
+          "translatedText": "chegaram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a casa",
+    "newLine": false,
+    "translation": {
+      "text": "em casa",
+      "tips": [
+        {
+          "text": "a casa",
+          "translatedText": "em casa/à casa",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il bambino disse",
+    "newLine": false,
+    "translation": {
+      "text": "o menino disse",
+      "tips": [
+        {
+          "text": "disse",
+          "translatedText": "disse",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ad Azzurro",
+    "newLine": false,
+    "translation": {
+      "text": "a Azzurro",
+      "tips": [
+        {
+          "text": "ad Azzurro",
+          "translatedText": "a Azzurro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di aspettare fuori",
+    "newLine": false,
+    "translation": {
+      "text": "para esperar do lado de fora",
+      "tips": [
+        {
+          "text": "aspettare",
+          "translatedText": "esperar",
+          "explanation": null
+        },
+        {
+          "text": "fuori",
+          "translatedText": "fora/lá fora",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mentre parlava",
+    "newLine": false,
+    "translation": {
+      "text": "enquanto falava",
+      "tips": [
+        {
+          "text": "mentre",
+          "translatedText": "enquanto",
+          "explanation": null
+        },
+        {
+          "text": "parlava",
+          "translatedText": "falava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con sua madre",
+    "newLine": false,
+    "translation": {
+      "text": "com sua mãe",
+      "tips": [
+        {
+          "text": "sua madre",
+          "translatedText": "sua mãe",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Poi",
+    "newLine": false,
+    "translation": {
+      "text": "Depois",
+      "tips": [
+        {
+          "text": "Poi",
+          "translatedText": "depois",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qualche minuto dopo",
+    "newLine": false,
+    "translation": {
+      "text": "alguns minutos depois",
+      "tips": [
+        {
+          "text": "qualche minuto",
+          "translatedText": "alguns minutos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il bambino aprì",
+    "newLine": false,
+    "translation": {
+      "text": "o menino abriu",
+      "tips": [
+        {
+          "text": "aprì",
+          "translatedText": "abriu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la porta",
+    "newLine": false,
+    "translation": {
+      "text": "a porta",
+      "tips": [
+        {
+          "text": "la porta",
+          "translatedText": "a porta",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e chiese",
+    "newLine": false,
+    "translation": {
+      "text": "e pediu",
+      "tips": [
+        {
+          "text": "chiese",
+          "translatedText": "pediu/perguntou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ad Azzurro",
+    "newLine": false,
+    "translation": {
+      "text": "a Azzurro",
+      "tips": [
+        {
+          "text": "ad Azzurro",
+          "translatedText": "a Azzurro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di entrare",
+    "newLine": false,
+    "translation": {
+      "text": "que entrasse",
+      "tips": [
+        {
+          "text": "entrare",
+          "translatedText": "entrar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "«",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Benvenuto a casa",
+    "newLine": false,
+    "translation": {
+      "text": "Bem-vindo a casa",
+      "tips": [
+        {
+          "text": "Benvenuto",
+          "translatedText": "bem-vindo",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "piccolo",
+    "newLine": false,
+    "translation": {
+      "text": "pequeno",
+      "tips": [
+        {
+          "text": "piccolo",
+          "translatedText": "pequeno/pequenino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "!», ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "disse il bambino",
+    "newLine": false,
+    "translation": {
+      "text": "disse o menino",
+      "tips": [
+        {
+          "text": "disse il bambino",
+          "translatedText": "disse o menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il bambino",
+    "newLine": true,
+    "translation": {
+      "text": "O menino",
+      "tips": [
+        {
+          "text": "Il bambino",
+          "translatedText": "o menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si chiamava Due",
+    "newLine": false,
+    "translation": {
+      "text": "se chamava Due",
+      "tips": [
+        {
+          "text": "si chiamava",
+          "translatedText": "chamava-se",
+          "explanation": null
+        },
+        {
+          "text": "Due",
+          "translatedText": "Dois (nome)",
+          "explanation": "Nome falante recriando a piada do original: o menino se chama `Due` (\"Dois\") por ser o 2º filho. Em italiano os números são `uno, due, tre...` — não se traduz no corpo."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "perché era",
+    "newLine": false,
+    "translation": {
+      "text": "porque era",
+      "tips": [
+        {
+          "text": "perché",
+          "translatedText": "porque",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il secondo figlio",
+    "newLine": false,
+    "translation": {
+      "text": "o segundo filho",
+      "tips": [
+        {
+          "text": "il secondo figlio",
+          "translatedText": "o segundo filho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e sì",
+    "newLine": false,
+    "translation": {
+      "text": "e sim",
+      "tips": [
+        {
+          "text": "sì",
+          "translatedText": "sim",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il primo figlio",
+    "newLine": false,
+    "translation": {
+      "text": "o primeiro filho",
+      "tips": [
+        {
+          "text": "il primo figlio",
+          "translatedText": "o primeiro filho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il fratello maggiore",
+    "newLine": false,
+    "translation": {
+      "text": "o irmão mais velho",
+      "tips": [
+        {
+          "text": "il fratello",
+          "translatedText": "o irmão",
+          "explanation": null
+        },
+        {
+          "text": "maggiore",
+          "translatedText": "maior/mais velho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di Due",
+    "newLine": false,
+    "translation": {
+      "text": "de Due",
+      "tips": [
+        {
+          "text": "di Due",
+          "translatedText": "de Due",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "si chiamava Uno",
+    "newLine": false,
+    "translation": {
+      "text": "se chamava Uno",
+      "tips": [
+        {
+          "text": "si chiamava",
+          "translatedText": "chamava-se",
+          "explanation": null
+        },
+        {
+          "text": "Uno",
+          "translatedText": "Um (nome)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La gente",
+    "newLine": false,
+    "translation": {
+      "text": "As pessoas",
+      "tips": [
+        {
+          "text": "La gente",
+          "translatedText": "a gente/as pessoas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "non aveva",
+    "newLine": false,
+    "translation": {
+      "text": "não tinha",
+      "tips": [
+        {
+          "text": "non aveva",
+          "translatedText": "não tinha",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "molta immaginazione",
+    "newLine": false,
+    "translation": {
+      "text": "muita imaginação",
+      "tips": [
+        {
+          "text": "molta",
+          "translatedText": "muita",
+          "explanation": null
+        },
+        {
+          "text": "immaginazione",
+          "translatedText": "imaginação",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "per i nomi",
+    "newLine": false,
+    "translation": {
+      "text": "para os nomes",
+      "tips": [
+        {
+          "text": "per i nomi",
+          "translatedText": "para os nomes",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a quei tempi",
+    "newLine": false,
+    "translation": {
+      "text": "naqueles tempos",
+      "tips": [
+        {
+          "text": "a quei tempi",
+          "translatedText": "naqueles tempos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Due era",
+    "newLine": true,
+    "translation": {
+      "text": "Due era",
+      "tips": [
+        {
+          "text": "Due era",
+          "translatedText": "Due era",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un bambino",
+    "newLine": false,
+    "translation": {
+      "text": "um menino",
+      "tips": [
+        {
+          "text": "un bambino",
+          "translatedText": "um menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "particolarmente buono",
+    "newLine": false,
+    "translation": {
+      "text": "particularmente bom",
+      "tips": [
+        {
+          "text": "particolarmente",
+          "translatedText": "particularmente",
+          "explanation": null
+        },
+        {
+          "text": "buono",
+          "translatedText": "bom",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Aiutava sempre",
+    "newLine": false,
+    "translation": {
+      "text": "Sempre ajudava",
+      "tips": [
+        {
+          "text": "Aiutava",
+          "translatedText": "ajudava",
+          "explanation": null
+        },
+        {
+          "text": "sempre",
+          "translatedText": "sempre",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "i suoi genitori",
+    "newLine": false,
+    "translation": {
+      "text": "os seus pais",
+      "tips": [
+        {
+          "text": "i suoi genitori",
+          "translatedText": "os seus pais",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e il suo",
+    "newLine": false,
+    "translation": {
+      "text": "e o seu",
+      "tips": [
+        {
+          "text": "il suo",
+          "translatedText": "o seu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "fratello maggiore",
+    "newLine": false,
+    "translation": {
+      "text": "irmão mais velho",
+      "tips": [
+        {
+          "text": "fratello maggiore",
+          "translatedText": "irmão mais velho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e si prendeva cura",
+    "newLine": false,
+    "translation": {
+      "text": "e cuidava",
+      "tips": [
+        {
+          "text": "si prendeva cura",
+          "translatedText": "tomava conta/cuidava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con amore",
+    "newLine": false,
+    "translation": {
+      "text": "com amor",
+      "tips": [
+        {
+          "text": "con amore",
+          "translatedText": "com amor",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "del suo cane",
+    "newLine": false,
+    "translation": {
+      "text": "do seu cão",
+      "tips": [
+        {
+          "text": "del suo cane",
+          "translatedText": "do seu cão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "così Azzurro",
+    "newLine": false,
+    "translation": {
+      "text": "então Azzurro",
+      "tips": [
+        {
+          "text": "così",
+          "translatedText": "assim/então",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "era incredibilmente felice",
+    "newLine": false,
+    "translation": {
+      "text": "estava incrivelmente feliz",
+      "tips": [
+        {
+          "text": "incredibilmente felice",
+          "translatedText": "incrivelmente feliz",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pensava che",
+    "newLine": false,
+    "translation": {
+      "text": "Ele pensava que",
+      "tips": [
+        {
+          "text": "Pensava",
+          "translatedText": "pensava",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "non gli sarebbe dispiaciuto",
+    "newLine": false,
+    "translation": {
+      "text": "não lhe desagradaria",
+      "tips": [
+        {
+          "text": "gli",
+          "translatedText": "a ele/lhe",
+          "explanation": null
+        },
+        {
+          "text": "sarebbe dispiaciuto",
+          "translatedText": "teria desagradado (condicional)",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vivere lì",
+    "newLine": false,
+    "translation": {
+      "text": "viver ali",
+      "tips": [
+        {
+          "text": "vivere",
+          "translatedText": "viver",
+          "explanation": null
+        },
+        {
+          "text": "lì",
+          "translatedText": "ali/lá",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "per tutta la vita",
+    "newLine": false,
+    "translation": {
+      "text": "por toda a vida",
+      "tips": [
+        {
+          "text": "per tutta la vita",
+          "translatedText": "por toda a vida",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Un giorno",
+    "newLine": true,
+    "translation": {
+      "text": "Um dia",
+      "tips": [
+        {
+          "text": "Un giorno",
+          "translatedText": "um dia",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la madre di Due",
+    "newLine": false,
+    "translation": {
+      "text": "a mãe de Due",
+      "tips": [
+        {
+          "text": "la madre",
+          "translatedText": "a mãe",
+          "explanation": null
+        },
+        {
+          "text": "di Due",
+          "translatedText": "de Due",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "gli disse",
+    "newLine": false,
+    "translation": {
+      "text": "disse a ele",
+      "tips": [
+        {
+          "text": "gli disse",
+          "translatedText": "disse-lhe",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di andare a comprare",
+    "newLine": false,
+    "translation": {
+      "text": "para ir comprar",
+      "tips": [
+        {
+          "text": "andare a comprare",
+          "translatedText": "ir comprar",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un po' di cibo",
+    "newLine": false,
+    "translation": {
+      "text": "um pouco de comida",
+      "tips": [
+        {
+          "text": "un po' di",
+          "translatedText": "um pouco de",
+          "explanation": null
+        },
+        {
+          "text": "cibo",
+          "translatedText": "comida",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "al mercato",
+    "newLine": false,
+    "translation": {
+      "text": "no mercado",
+      "tips": [
+        {
+          "text": "al mercato",
+          "translatedText": "ao/no mercado",
+          "explanation": "Preposição articulada: `a` + `il` = `al` (= ao/no). A família: a+il=al, a+la=alla, a+i=ai, a+lo=allo, a+le=alle."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "così portò Azzurro",
+    "newLine": false,
+    "translation": {
+      "text": "então levou Azzurro",
+      "tips": [
+        {
+          "text": "portò",
+          "translatedText": "levou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con sé",
+    "newLine": false,
+    "translation": {
+      "text": "consigo",
+      "tips": [
+        {
+          "text": "con sé",
+          "translatedText": "consigo/com ele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Al bambino",
+    "newLine": false,
+    "translation": {
+      "text": "Ao menino",
+      "tips": [
+        {
+          "text": "Al bambino",
+          "translatedText": "ao menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e al cane",
+    "newLine": false,
+    "translation": {
+      "text": "e ao cão",
+      "tips": [
+        {
+          "text": "al cane",
+          "translatedText": "ao cão",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "piaceva molto",
+    "newLine": false,
+    "translation": {
+      "text": "gostavam muito de",
+      "tips": [
+        {
+          "text": "piaceva",
+          "translatedText": "agradava (sing.)",
+          "explanation": "Estrutura-espelho com `piacere`: o sujeito gramatical é `camminare` (caminhar), por isso o verbo fica no SINGULAR (`piaceva`), e quem gosta vai no dativo (`al bambino e al cane` = ao menino e ao cão). Lit. \"caminhar agradava ao menino e ao cão\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "camminare insieme",
+    "newLine": false,
+    "translation": {
+      "text": "caminhar juntos",
+      "tips": [
+        {
+          "text": "camminare",
+          "translatedText": "caminhar",
+          "explanation": null
+        },
+        {
+          "text": "insieme",
+          "translatedText": "juntos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "perché c'era sempre",
+    "newLine": false,
+    "translation": {
+      "text": "porque havia sempre",
+      "tips": [
+        {
+          "text": "c'era",
+          "translatedText": "havia",
+          "explanation": null
+        },
+        {
+          "text": "sempre",
+          "translatedText": "sempre",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qualcosa di interessante",
+    "newLine": false,
+    "translation": {
+      "text": "algo interessante",
+      "tips": [
+        {
+          "text": "qualcosa di",
+          "translatedText": "algo de",
+          "explanation": null
+        },
+        {
+          "text": "interessante",
+          "translatedText": "interessante",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "da vedere",
+    "newLine": false,
+    "translation": {
+      "text": "para ver",
+      "tips": [
+        {
+          "text": "da vedere",
+          "translatedText": "para ver/de ver",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Però",
+    "newLine": true,
+    "translation": {
+      "text": "Porém",
+      "tips": [
+        {
+          "text": "Però",
+          "translatedText": "porém/mas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quando arrivarono",
+    "newLine": false,
+    "translation": {
+      "text": "quando chegaram",
+      "tips": [
+        {
+          "text": "arrivarono",
+          "translatedText": "chegaram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "al mercato",
+    "newLine": false,
+    "translation": {
+      "text": "ao mercado",
+      "tips": [
+        {
+          "text": "al mercato",
+          "translatedText": "ao mercado",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un ragazzo",
+    "newLine": false,
+    "translation": {
+      "text": "um rapaz",
+      "tips": [
+        {
+          "text": "un ragazzo",
+          "translatedText": "um rapaz/garoto",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "più grande",
+    "newLine": false,
+    "translation": {
+      "text": "maior/mais velho",
+      "tips": [
+        {
+          "text": "più grande",
+          "translatedText": "maior/mais velho",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "vide Due",
+    "newLine": false,
+    "translation": {
+      "text": "viu Due",
+      "tips": [
+        {
+          "text": "vide",
+          "translatedText": "viu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e decise",
+    "newLine": false,
+    "translation": {
+      "text": "e decidiu",
+      "tips": [
+        {
+          "text": "decise",
+          "translatedText": "decidiu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "di rubargli i soldi",
+    "newLine": false,
+    "translation": {
+      "text": "roubar o dinheiro dele",
+      "tips": [
+        {
+          "text": "rubargli",
+          "translatedText": "roubar-lhe",
+          "explanation": null
+        },
+        {
+          "text": "i soldi",
+          "translatedText": "o dinheiro",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Così",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": [
+        {
+          "text": "Così",
+          "translatedText": "então/assim",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "colpì Due",
+    "newLine": false,
+    "translation": {
+      "text": "golpeou Due",
+      "tips": [
+        {
+          "text": "colpì",
+          "translatedText": "golpeou/bateu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sulla testa",
+    "newLine": false,
+    "translation": {
+      "text": "na cabeça",
+      "tips": [
+        {
+          "text": "sulla testa",
+          "translatedText": "na cabeça",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "con un bastone",
+    "newLine": false,
+    "translation": {
+      "text": "com um bastão",
+      "tips": [
+        {
+          "text": "con un bastone",
+          "translatedText": "com um bastão/pau",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "prese le monete",
+    "newLine": false,
+    "translation": {
+      "text": "pegou as moedas",
+      "tips": [
+        {
+          "text": "prese",
+          "translatedText": "pegou",
+          "explanation": null
+        },
+        {
+          "text": "le monete",
+          "translatedText": "as moedas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dalla tasca",
+    "newLine": false,
+    "translation": {
+      "text": "do bolso",
+      "tips": [
+        {
+          "text": "dalla tasca",
+          "translatedText": "do bolso",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "del bambino",
+    "newLine": false,
+    "translation": {
+      "text": "do menino",
+      "tips": [
+        {
+          "text": "del bambino",
+          "translatedText": "do menino",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "e scappò",
+    "newLine": false,
+    "translation": {
+      "text": "e fugiu",
+      "tips": [
+        {
+          "text": "scappò",
+          "translatedText": "fugiu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

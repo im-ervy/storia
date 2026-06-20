@@ -1,0 +1,1872 @@
+[
+  {
+    "text": "Après un moment",
+    "newLine": true,
+    "translation": {
+      "text": "Depois de um momento",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a commencé à pleuvoir",
+    "newLine": false,
+    "translation": {
+      "text": "começou a chover",
+      "tips": [
+        {
+          "text": "il a commencé à pleuvoir",
+          "translatedText": "começou a chover",
+          "explanation": "\"commencer à\" significa \"começar a\" e é seguido de um verbo no infinitivo. Aqui o \"il\" é impessoal (como em \"il pleut\" = chove / está chovendo): não se refere a ninguém, é só o sujeito gramatical usado para fenômenos da natureza. \"il a commencé à pleuvoir\" = começou a chover."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et le singe a couru",
+    "newLine": false,
+    "translation": {
+      "text": "e o macaco correu",
+      "tips": [
+        {
+          "text": "a couru",
+          "translatedText": "correu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans la grande salle",
+    "newLine": false,
+    "translation": {
+      "text": "para o grande salão",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a commencé à pleurer",
+    "newLine": false,
+    "translation": {
+      "text": "e ele começou a chorar",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Juste à ce moment",
+    "newLine": false,
+    "translation": {
+      "text": "Bem nesse momento",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la tortue l'a vu",
+    "newLine": false,
+    "translation": {
+      "text": "a tartaruga o viu",
+      "tips": [
+        {
+          "text": "l'a vu",
+          "translatedText": "o viu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Qu'est-ce qui se passe",
+    "newLine": false,
+    "translation": {
+      "text": "O que está acontecendo",
+      "tips": [
+        {
+          "text": "Qu'est-ce qui se passe ?",
+          "translatedText": "O que está acontecendo?",
+          "explanation": "Esta é uma pergunta muito comum. \"se passer\" significa \"acontecer / se passar\". \"Qu'est-ce qui\" = \"o que\" (sujeito da pergunta). Literalmente é algo como \"o que é que se passa?\". Use \"Qu'est-ce qui se passe ?\" sempre que quiser perguntar \"o que está acontecendo?\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ? »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a demandé",
+    "newLine": false,
+    "translation": {
+      "text": "ela perguntou",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Quand j'ai quitté",
+    "newLine": false,
+    "translation": {
+      "text": "Quando eu deixei",
+      "tips": [
+        {
+          "text": "j'ai quitté",
+          "translatedText": "eu deixei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ma maison sur l'île",
+    "newLine": false,
+    "translation": {
+      "text": "minha casa na ilha",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je n'ai pas pris",
+    "newLine": false,
+    "translation": {
+      "text": "eu não peguei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mon cœur avec moi",
+    "newLine": false,
+    "translation": {
+      "text": "meu coração comigo",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je l'ai laissé",
+    "newLine": false,
+    "translation": {
+      "text": "eu o deixei",
+      "tips": [
+        {
+          "text": "je l'ai laissé",
+          "translatedText": "eu o deixei",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "en haut d'un arbre",
+    "newLine": false,
+    "translation": {
+      "text": "no alto de uma árvore",
+      "tips": [
+        {
+          "text": "en haut d'un arbre",
+          "translatedText": "no alto de uma árvore",
+          "explanation": "\"en haut\" significa \"no alto / em cima\", e \"en haut de\" = \"no alto de / no topo de\". Aqui \"de\" + \"un arbre\" vira \"d'un arbre\". \"en haut d'un arbre\" = no alto de uma árvore. O contrário seria \"en bas de\" (embaixo de)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "Agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il pleut",
+    "newLine": false,
+    "translation": {
+      "text": "está chovendo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et mon cœur va mourir",
+    "newLine": false,
+    "translation": {
+      "text": "e meu coração vai morrer",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sous la pluie",
+    "newLine": false,
+    "translation": {
+      "text": "debaixo da chuva",
+      "tips": [
+        {
+          "text": "sous la pluie",
+          "translatedText": "debaixo da chuva",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et bientôt",
+    "newLine": false,
+    "translation": {
+      "text": "e logo",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "je vais mourir aussi",
+    "newLine": false,
+    "translation": {
+      "text": "eu vou morrer também",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Je dois retourner",
+    "newLine": false,
+    "translation": {
+      "text": "Eu devo voltar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur mon île maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "para minha ilha agora",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et sauver mon cœur",
+    "newLine": false,
+    "translation": {
+      "text": "e salvar meu coração",
+      "tips": []
+    }
+  },
+  {
+    "text": " ! »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et les yeux",
+    "newLine": false,
+    "translation": {
+      "text": "E os olhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "du pauvre singe",
+    "newLine": false,
+    "translation": {
+      "text": "do pobre macaco",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sont devenus très rouges",
+    "newLine": false,
+    "translation": {
+      "text": "ficaram muito vermelhos",
+      "tips": [
+        {
+          "text": "sont devenus",
+          "translatedText": "ficaram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et pleins de larmes",
+    "newLine": false,
+    "translation": {
+      "text": "e cheios de lágrimas",
+      "tips": [
+        {
+          "text": "pleins de larmes",
+          "translatedText": "cheios de lágrimas",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La tortue a raconté",
+    "newLine": true,
+    "translation": {
+      "text": "A tartaruga contou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "au Roi et aux autres",
+    "newLine": false,
+    "translation": {
+      "text": "ao Rei e aos outros",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ce que le singe",
+    "newLine": false,
+    "translation": {
+      "text": "o que o macaco",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "venait de lui dire",
+    "newLine": false,
+    "translation": {
+      "text": "tinha acabado de dizer a ela",
+      "tips": [
+        {
+          "text": "venait de lui dire",
+          "translatedText": "tinha acabado de dizer a ela",
+          "explanation": "\"venir de\" + infinitivo significa \"acabar de\" fazer algo (passado recente). Aqui no imparfait: \"venait de dire\" = tinha acabado de dizer. \"lui\" = a ele/ela. \"venait de lui dire\" = tinha acabado de dizer a ela (à tartaruga)."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Ah",
+    "newLine": false,
+    "translation": {
+      "text": "Ah",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "c'est un grand problème",
+    "newLine": false,
+    "translation": {
+      "text": "é um grande problema",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Sans son cœur",
+    "newLine": false,
+    "translation": {
+      "text": "Sem o coração dele",
+      "tips": [
+        {
+          "text": "sans son cœur",
+          "translatedText": "sem o coração dele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il ne peut pas nous aider",
+    "newLine": false,
+    "translation": {
+      "text": "ele não pode nos ajudar",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il doit aller sur l'île",
+    "newLine": false,
+    "translation": {
+      "text": "ele deve ir à ilha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et amener son cœur ici",
+    "newLine": false,
+    "translation": {
+      "text": "e trazer o coração dele aqui",
+      "tips": [
+        {
+          "text": "amener son cœur ici",
+          "translatedText": "trazer o coração dele aqui",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": true,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "on a envoyé la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "enviaram a tartaruga",
+      "tips": [
+        {
+          "text": "on a envoyé",
+          "translatedText": "enviaram",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sur l'île encore une fois",
+    "newLine": false,
+    "translation": {
+      "text": "à ilha mais uma vez",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec le singe",
+    "newLine": false,
+    "translation": {
+      "text": "com o macaco",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "assis sur son dos",
+    "newLine": false,
+    "translation": {
+      "text": "sentado nas costas dela",
+      "tips": [
+        {
+          "text": "assis sur son dos",
+          "translatedText": "sentado nas costas dela",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Enfin",
+    "newLine": false,
+    "translation": {
+      "text": "Enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "ils sont arrivés sur l'île",
+    "newLine": false,
+    "translation": {
+      "text": "eles chegaram à ilha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "e a tartaruga",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui était un peu paresseuse",
+    "newLine": false,
+    "translation": {
+      "text": "que era um pouco preguiçosa",
+      "tips": [
+        {
+          "text": "qui était un peu paresseuse",
+          "translatedText": "que era um pouco preguiçosa",
+          "explanation": "\"paresseux\" (no feminino \"paresseuse\") significa \"preguiçoso/preguiçosa\". \"un peu\" = um pouco. \"qui était un peu paresseuse\" = que era um pouco preguiçosa. O substantivo \"la paresse\" significa \"a preguiça\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a attendu",
+    "newLine": false,
+    "translation": {
+      "text": "esperou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant que le singe partait",
+    "newLine": false,
+    "translation": {
+      "text": "enquanto o macaco ia",
+      "tips": [
+        {
+          "text": "pendant que",
+          "translatedText": "enquanto",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le singe avait dit",
+    "newLine": false,
+    "translation": {
+      "text": "O macaco tinha dito",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'il allait revenir",
+    "newLine": false,
+    "translation": {
+      "text": "que ia voltar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "dans une heure",
+    "newLine": false,
+    "translation": {
+      "text": "em uma hora",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Les deux étaient devenus amis",
+    "newLine": false,
+    "translation": {
+      "text": "Os dois tinham se tornado amigos",
+      "tips": [
+        {
+          "text": "étaient devenus amis",
+          "translatedText": "tinham se tornado amigos",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "alors la vieille carapace dure",
+    "newLine": false,
+    "translation": {
+      "text": "então o velho casco duro",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a cru le petit ami",
+    "newLine": false,
+    "translation": {
+      "text": "acreditou no pequeno amigo",
+      "tips": [
+        {
+          "text": "a cru",
+          "translatedText": "acreditou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Mais",
+    "newLine": true,
+    "translation": {
+      "text": "Mas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à la place d'une heure",
+    "newLine": false,
+    "translation": {
+      "text": "em vez de uma hora",
+      "tips": [
+        {
+          "text": "à la place de",
+          "translatedText": "em vez de / no lugar de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la tortue a attendu",
+    "newLine": false,
+    "translation": {
+      "text": "a tartaruga esperou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "jusqu'au soir",
+    "newLine": false,
+    "translation": {
+      "text": "até a noite",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et personne n'est revenu",
+    "newLine": false,
+    "translation": {
+      "text": "e ninguém voltou",
+      "tips": [
+        {
+          "text": "personne n'est revenu",
+          "translatedText": "ninguém voltou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "enfin",
+    "newLine": false,
+    "translation": {
+      "text": "enfim",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle a compris",
+    "newLine": false,
+    "translation": {
+      "text": "ela entendeu",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que le singe l'avait trompée",
+    "newLine": false,
+    "translation": {
+      "text": "que o macaco a tinha enganado",
+      "tips": [
+        {
+          "text": "le singe l'avait trompée",
+          "translatedText": "o macaco a tinha enganado",
+          "explanation": "\"tromper\" significa \"enganar\". Aqui no mais-que-perfeito: \"avait trompé\" = tinha enganado. O \"l'\" é o pronome \"la\" (= a tartaruga). Note o \"e\" extra em \"trompée\": como o objeto direto (l' = la, feminino) vem ANTES do verbo, o particípio concorda em gênero com ele. Por isso \"trompée\" com -e."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et que",
+    "newLine": false,
+    "translation": {
+      "text": "e que",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tous les singes savaient",
+    "newLine": false,
+    "translation": {
+      "text": "todos os macacos sabiam",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "que o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avait besoin d'un cœur",
+    "newLine": false,
+    "translation": {
+      "text": "precisava de um coração",
+      "tips": [
+        {
+          "text": "avait besoin de",
+          "translatedText": "precisava de",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "elle est retournée à la mer",
+    "newLine": false,
+    "translation": {
+      "text": "ela voltou para o mar",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et elle a tout raconté au Roi",
+    "newLine": false,
+    "translation": {
+      "text": "e ela contou tudo ao Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Le singe a certainement découvert",
+    "newLine": false,
+    "translation": {
+      "text": "O macaco certamente descobriu",
+      "tips": [
+        {
+          "text": "a découvert",
+          "translatedText": "descobriu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "notre plan",
+    "newLine": false,
+    "translation": {
+      "text": "nosso plano",
+      "tips": []
+    }
+  },
+  {
+    "text": " »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "disse o Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après avoir critiqué la tortue",
+    "newLine": false,
+    "translation": {
+      "text": "depois de ter criticado a tartaruga",
+      "tips": [
+        {
+          "text": "après avoir critiqué",
+          "translatedText": "depois de ter criticado",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". « ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et",
+    "newLine": false,
+    "translation": {
+      "text": "E",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "en plus",
+    "newLine": false,
+    "translation": {
+      "text": "além disso",
+      "tips": [
+        {
+          "text": "en plus",
+          "translatedText": "além disso",
+          "explanation": "\"en plus\" é uma expressão muito usada que significa \"além disso / ainda por cima\". Serve para acrescentar uma informação ao que já foi dito. \"Et, en plus, quelqu'un de ma cour le lui a dit\" = E, além disso, alguém da minha corte disse isso a ele."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quelqu'un de ma cour",
+    "newLine": false,
+    "translation": {
+      "text": "alguém da minha corte",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "le lui a dit",
+    "newLine": false,
+    "translation": {
+      "text": "disse isso a ele",
+      "tips": [
+        {
+          "text": "le lui a dit",
+          "translatedText": "disse isso a ele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis le Roi a dit",
+    "newLine": true,
+    "translation": {
+      "text": "Depois o Rei disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que tous les êtres de la mer",
+    "newLine": false,
+    "translation": {
+      "text": "que todos os seres do mar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devaient venir devant lui",
+    "newLine": false,
+    "translation": {
+      "text": "deviam vir diante dele",
+      "tips": [
+        {
+          "text": "devant lui",
+          "translatedText": "diante dele",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La personne qui avait fait ça",
+    "newLine": false,
+    "translation": {
+      "text": "A pessoa que tinha feito isso",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "serait punie",
+    "newLine": false,
+    "translation": {
+      "text": "seria punida",
+      "tips": [
+        {
+          "text": "serait punie",
+          "translatedText": "seria punida",
+          "explanation": "Esta é a voz passiva no condicional. \"serait\" = seria (condicional de \"être\"); \"punie\" = punida (particípio de \"punir\", no feminino porque concorda com \"la personne\"). \"serait punie\" = seria punida. A estrutura é \"être\" + particípio passado para indicar que a ação é sofrida pelo sujeito."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": true,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tous les poissons",
+    "newLine": false,
+    "translation": {
+      "text": "todos os peixes",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et tous les êtres de la mer",
+    "newLine": false,
+    "translation": {
+      "text": "e todos os seres do mar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sont venus devant le Roi",
+    "newLine": false,
+    "translation": {
+      "text": "vieram diante do Rei",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tous",
+    "newLine": false,
+    "translation": {
+      "text": "Todos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais pas la méduse",
+    "newLine": false,
+    "translation": {
+      "text": "mas não a água-viva",
+      "tips": [
+        {
+          "text": "mais pas la méduse",
+          "translatedText": "mas não a água-viva",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Et c'est comme ça",
+    "newLine": false,
+    "translation": {
+      "text": "E foi assim",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que le Roi a su",
+    "newLine": false,
+    "translation": {
+      "text": "que o Rei soube",
+      "tips": [
+        {
+          "text": "a su",
+          "translatedText": "soube",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que c'était elle",
+    "newLine": false,
+    "translation": {
+      "text": "que era ela",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a ordonné",
+    "newLine": false,
+    "translation": {
+      "text": "ele ordenou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "de l'amener devant lui",
+    "newLine": false,
+    "translation": {
+      "text": "que a trouxessem diante dele",
+      "tips": [
+        {
+          "text": "de l'amener",
+          "translatedText": "que a trouxessem / trazê-la",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Puis il a dit",
+    "newLine": false,
+    "translation": {
+      "text": "Depois ele disse",
+      "tips": []
+    }
+  },
+  {
+    "text": " :",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Tu ne vaux rien",
+    "newLine": false,
+    "translation": {
+      "text": "Você não vale nada",
+      "tips": [
+        {
+          "text": "Tu ne vaux rien !",
+          "translatedText": "Você não vale nada!",
+          "explanation": "O verbo \"valoir\" significa \"valer\". \"tu vaux\" = você vale. Com \"ne ... rien\" (= nada) fica \"tu ne vaux rien\" = você não vale nada. É uma frase dura, de desprezo. O verbo aparece também em \"ça vaut la peine\" = vale a pena."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ! ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "À cause de ton crime",
+    "newLine": false,
+    "translation": {
+      "text": "Por causa do teu crime",
+      "tips": [
+        {
+          "text": "à cause de ton crime",
+          "translatedText": "por causa do teu crime",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tu ne seras plus",
+    "newLine": false,
+    "translation": {
+      "text": "você não estará mais",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "avec les êtres à carapace",
+    "newLine": false,
+    "translation": {
+      "text": "com os seres com casco",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Tu vas perdre ta carapace",
+    "newLine": false,
+    "translation": {
+      "text": "Você vai perder o seu casco",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le Roi a alors pris",
+    "newLine": true,
+    "translation": {
+      "text": "O Rei então pegou",
+      "tips": [
+        {
+          "text": "a alors pris",
+          "translatedText": "então pegou",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "sa carapace",
+    "newLine": false,
+    "translation": {
+      "text": "o casco dela",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et a laissé le pauvre être",
+    "newLine": false,
+    "translation": {
+      "text": "e deixou o pobre ser",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tout nu",
+    "newLine": false,
+    "translation": {
+      "text": "totalmente nu",
+      "tips": [
+        {
+          "text": "tout nu",
+          "translatedText": "totalmente nu",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« ",
+    "newLine": true,
+    "translation": null
+  },
+  {
+    "text": "Maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "Agora",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "va-t'en",
+    "newLine": false,
+    "translation": {
+      "text": "vá embora",
+      "tips": [
+        {
+          "text": "va-t'en",
+          "translatedText": "vá embora!",
+          "explanation": "Este é o imperativo do verbo \"s'en aller\" (= ir embora). Na forma de ordem para \"tu\" fica \"va-t'en\" = vá embora! (literalmente algo como \"vai-te daqui\"). O \"t'\" é o pronome \"te\" e o \"en\" faz parte da expressão. Para \"vous\" seria \"allez-vous-en\"."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "toi et ta grande bouche",
+    "newLine": false,
+    "translation": {
+      "text": "você e a sua grande boca",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "À partir de maintenant",
+    "newLine": false,
+    "translation": {
+      "text": "A partir de agora",
+      "tips": [
+        {
+          "text": "à partir de maintenant",
+          "translatedText": "a partir de agora",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tes enfants",
+    "newLine": false,
+    "translation": {
+      "text": "os seus filhos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'auront rien autour d'eux",
+    "newLine": false,
+    "translation": {
+      "text": "não terão nada ao redor deles",
+      "tips": [
+        {
+          "text": "n'auront rien",
+          "translatedText": "não terão nada",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pour leur sécurité",
+    "newLine": false,
+    "translation": {
+      "text": "para a segurança deles",
+      "tips": []
+    }
+  },
+  {
+    "text": ". »",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Le pauvre être",
+    "newLine": true,
+    "translation": {
+      "text": "O pobre ser",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "est devenu rouge de honte",
+    "newLine": false,
+    "translation": {
+      "text": "ficou vermelho de vergonha",
+      "tips": [
+        {
+          "text": "rouge de honte",
+          "translatedText": "vermelho de vergonha",
+          "explanation": "\"la honte\" significa \"a vergonha\". \"rouge de honte\" = vermelho de vergonha, ou seja, ficar com o rosto vermelho por estar envergonhado. É uma expressão comum, igual ao português. \"avoir honte\" = ter vergonha."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il est sorti",
+    "newLine": false,
+    "translation": {
+      "text": "e ele saiu",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Depuis ce temps",
+    "newLine": false,
+    "translation": {
+      "text": "Desde então",
+      "tips": [
+        {
+          "text": "depuis ce temps",
+          "translatedText": "desde então",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "aucune méduse",
+    "newLine": false,
+    "translation": {
+      "text": "nenhuma água-viva",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "n'a de carapace",
+    "newLine": false,
+    "translation": {
+      "text": "tem casco",
+      "tips": [
+        {
+          "text": "aucune méduse n'a de carapace",
+          "translatedText": "nenhuma água-viva tem casco",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]

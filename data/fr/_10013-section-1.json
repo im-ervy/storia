@@ -1,0 +1,2268 @@
+[
+ {
+  "text": "Il était une fois",
+  "newLine": true,
+  "translation": {
+   "text": "Era uma vez",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans un pays",
+  "newLine": false,
+  "translation": {
+   "text": "num país",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très lointain",
+  "newLine": false,
+  "translation": {
+   "text": "muito distante",
+   "tips": [
+    {
+     "text": "très lointain",
+     "translatedText": "muito distante",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un Roi appelé Grand Cœur",
+  "newLine": false,
+  "translation": {
+   "text": "um Rei chamado Grande Coração",
+   "tips": [
+    {
+     "text": "Grand Cœur",
+     "translatedText": "Grande Coração",
+     "explanation": "Grand Cœur = \"Grande Coração\". Nota da coleção: este nome fecha a família dos Cœurs (corações) da série — depois de Bon Cœur (Bom Coração), Cœur Froid (Coração Frio) e Mauvais Cœur (Mau Coração), chega Grand Cœur. \"cœur\" = coração, sempre com a cedilha e o ligado œ."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui avait vraiment",
+  "newLine": false,
+  "translation": {
+   "text": "que tinha realmente",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un très grand cœur",
+  "newLine": false,
+  "translation": {
+   "text": "um coração muito grande",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il voulait rendre heureux",
+  "newLine": false,
+  "translation": {
+   "text": "Ele queria deixar felizes",
+   "tips": [
+    {
+     "text": "rendre heureux les gens",
+     "translatedText": "deixar as pessoas felizes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les gens de son pays",
+  "newLine": false,
+  "translation": {
+   "text": "as pessoas do seu país",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais il y avait",
+  "newLine": false,
+  "translation": {
+   "text": "Mas havia",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un problème",
+  "newLine": false,
+  "translation": {
+   "text": "um problema",
+   "tips": []
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il avait aussi",
+  "newLine": false,
+  "translation": {
+   "text": "ele tinha também",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une très grande bouche",
+  "newLine": false,
+  "translation": {
+   "text": "uma boca muito grande",
+   "tips": [
+    {
+     "text": "une très grande bouche",
+     "translatedText": "uma boca muito grande (ecoa o Grande Bouche do livro 1!)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il pouvait parler",
+  "newLine": false,
+  "translation": {
+   "text": "Ele podia falar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pendant des heures",
+  "newLine": false,
+  "translation": {
+   "text": "durante horas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et des heures et des heures",
+  "newLine": false,
+  "translation": {
+   "text": "e horas e horas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sur toutes les choses du monde",
+  "newLine": false,
+  "translation": {
+   "text": "sobre todas as coisas do mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Et c'était parce qu'il était",
+  "newLine": false,
+  "translation": {
+   "text": "E era porque ele estava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "amoureux du son",
+  "newLine": false,
+  "translation": {
+   "text": "apaixonado pelo som",
+   "tips": [
+    {
+     "text": "amoureux du son",
+     "translatedText": "apaixonado pelo som",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de sa propre voix",
+  "newLine": false,
+  "translation": {
+   "text": "da sua própria voz",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "même avec son grand cœur",
+  "newLine": false,
+  "translation": {
+   "text": "mesmo com seu grande coração",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les gens de son pays",
+  "newLine": false,
+  "translation": {
+   "text": "as pessoas do seu país",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ne l'aimaient pas beaucoup",
+  "newLine": false,
+  "translation": {
+   "text": "não gostavam muito dele",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et ils disaient",
+  "newLine": false,
+  "translation": {
+   "text": "e diziam",
+   "tips": []
+  }
+ },
+ {
+  "text": " : « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous ne devons rien dire",
+  "newLine": false,
+  "translation": {
+   "text": "Não devemos dizer nada",
+   "tips": [
+    {
+     "text": "ne... rien dire",
+     "translatedText": "não dizer nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au Roi",
+  "newLine": false,
+  "translation": {
+   "text": "ao Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": " » ou « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il ne va pas",
+  "newLine": false,
+  "translation": {
+   "text": "Ele não vai",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "garder la bouche fermée",
+  "newLine": false,
+  "translation": {
+   "text": "manter a boca fechada",
+   "tips": [
+    {
+     "text": "garder la bouche fermée",
+     "translatedText": "manter a boca fechada",
+     "explanation": "\"garder\" = guardar/manter (e também \"ficar com\"). \"garder la bouche fermée\" = \"manter a boca fechada\", ou seja, ficar calado. Note \"fermée\" no feminino, concordando com \"la bouche\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le Roi parlait tellement",
+  "newLine": true,
+  "translation": {
+   "text": "O Rei falava tanto",
+   "tips": [
+    {
+     "text": "parlait tellement que",
+     "translatedText": "falava tanto que",
+     "explanation": "\"tellement que\" = \"tanto que\" (indica consequência). \"Il parlait tellement que...\" = \"Ele falava tanto que...\". Você também ouve \"tellement\" sozinho como \"tão/tanto\": \"c'est tellement bon\" = \"é tão bom\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que même sa femme et son fils",
+  "newLine": false,
+  "translation": {
+   "text": "que até sua esposa e seu filho",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sont partis vivre",
+  "newLine": false,
+  "translation": {
+   "text": "foram morar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans leur maison d'été",
+  "newLine": false,
+  "translation": {
+   "text": "na sua casa de verão",
+   "tips": [
+    {
+     "text": "leur maison d'été",
+     "translatedText": "a casa de verão deles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La femme a dit",
+  "newLine": false,
+  "translation": {
+   "text": "A mulher disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que c'était mieux",
+  "newLine": false,
+  "translation": {
+   "text": "que era melhor",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour la santé de leur fils",
+  "newLine": false,
+  "translation": {
+   "text": "para a saúde do filho deles",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais",
+  "newLine": false,
+  "translation": {
+   "text": "mas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la vérité",
+  "newLine": false,
+  "translation": {
+   "text": "a verdade",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'est qu'ils ne pouvaient plus",
+  "newLine": false,
+  "translation": {
+   "text": "é que eles não conseguiam mais",
+   "tips": [
+    {
+     "text": "ne pouvaient plus",
+     "translatedText": "não podiam / aguentavam mais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "entendre le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "ouvir o Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parler et parler",
+  "newLine": false,
+  "translation": {
+   "text": "falar e falar",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "du matin jusqu'à la nuit",
+  "newLine": false,
+  "translation": {
+   "text": "da manhã até a noite",
+   "tips": [
+    {
+     "text": "du matin jusqu'à la nuit",
+     "translatedText": "da manhã até a noite",
+     "explanation": "Estrutura \"du... jusqu'à...\" = \"de... até...\". \"du matin\" (de+le matin) marca o início e \"jusqu'à la nuit\" marca o fim. \"du matin jusqu'à la nuit\" = \"da manhã até a noite\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ils l'aimaient beaucoup",
+  "newLine": false,
+  "translation": {
+   "text": "Eles gostavam muito dele",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "oui",
+  "newLine": false,
+  "translation": {
+   "text": "sim",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais ils savaient aussi",
+  "newLine": false,
+  "translation": {
+   "text": "mas também sabiam",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que leur amour",
+  "newLine": false,
+  "translation": {
+   "text": "que o amor deles",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'était pas assez fort",
+  "newLine": false,
+  "translation": {
+   "text": "não era forte o bastante",
+   "tips": [
+    {
+     "text": "assez fort pour supporter",
+     "translatedText": "forte o bastante para aguentar",
+     "explanation": "\"assez... pour + infinitivo\" = \"o bastante / suficiente para...\". E cuidado com \"supporter\": é FALSO AMIGO! Não quer dizer \"torcer\" (esse é o inglês \"to support\"), e sim AGUENTAR/SUPORTAR algo desagradável. \"assez fort pour supporter tout ça\" = \"forte o bastante para aguentar tudo isso\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour supporter tout ça",
+  "newLine": false,
+  "translation": {
+   "text": "para aguentar tudo isso",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais le Roi avait",
+  "newLine": true,
+  "translation": {
+   "text": "Mas o Rei tinha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "un très bon ami",
+  "newLine": false,
+  "translation": {
+   "text": "um amigo muito bom",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "appelé Tête Forte",
+  "newLine": false,
+  "translation": {
+   "text": "chamado Cabeça Forte",
+   "tips": [
+    {
+     "text": "Tête Forte",
+     "translatedText": "Cabeça Forte",
+     "explanation": "Tête Forte = \"Cabeça Forte\". Curiosidade da coleção: é o MESMO nome do herói do livro \"Tête Forte et Son Chien\"! A série recicla nomes entre as histórias. \"tête\" = cabeça, \"forte\" é o feminino de \"fort\" (forte), concordando com \"tête\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui avait vraiment",
+  "newLine": false,
+  "translation": {
+   "text": "que tinha realmente",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une très bonne tête",
+  "newLine": false,
+  "translation": {
+   "text": "uma cabeça muito boa",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il aimait beaucoup le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "Ele gostava muito do Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et il l'aidait toujours",
+  "newLine": false,
+  "translation": {
+   "text": "e sempre o ajudava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec de bonnes paroles",
+  "newLine": false,
+  "translation": {
+   "text": "com boas palavras",
+   "tips": []
+  }
+ },
+ {
+  "text": " — ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais pas trop de paroles",
+  "newLine": false,
+  "translation": {
+   "text": "mas não palavras demais",
+   "tips": [
+    {
+     "text": "pas trop de paroles",
+     "translatedText": "não palavras demais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "juste les bonnes",
+  "newLine": false,
+  "translation": {
+   "text": "apenas as certas",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Et la tête de Tête Forte",
+  "newLine": false,
+  "translation": {
+   "text": "E a cabeça de Cabeça Forte",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "était si forte",
+  "newLine": false,
+  "translation": {
+   "text": "era tão forte",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il pouvait entendre",
+  "newLine": false,
+  "translation": {
+   "text": "que ele conseguia ouvir",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le Roi parler toute la journée",
+  "newLine": false,
+  "translation": {
+   "text": "o Rei falar o dia inteiro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sans devenir fou",
+  "newLine": false,
+  "translation": {
+   "text": "sem ficar louco",
+   "tips": [
+    {
+     "text": "sans devenir fou",
+     "translatedText": "sem ficar louco / enlouquecer",
+     "explanation": "\"sans\" = \"sem\" + infinitivo \"devenir\" = \"tornar-se, ficar\". \"sans devenir fou\" = \"sem ficar louco\". Lembre: depois de \"sans\" o francês usa o infinitivo, não o gerúndio do português. \"devenir fou\" = enlouquecer."
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tous les matins",
+  "newLine": true,
+  "translation": {
+   "text": "Todas as manhãs",
+   "tips": [
+    {
+     "text": "Tous les matins",
+     "translatedText": "Todas as manhãs",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tête Forte entrait",
+  "newLine": false,
+  "translation": {
+   "text": "Cabeça Forte entrava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans la chambre du Roi",
+  "newLine": false,
+  "translation": {
+   "text": "no quarto do Rei",
+   "tips": [
+    {
+     "text": "la chambre",
+     "translatedText": "o quarto (de dormir)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour le réveiller",
+  "newLine": false,
+  "translation": {
+   "text": "para acordá-lo",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et le Roi commençait à parler",
+  "newLine": false,
+  "translation": {
+   "text": "e o Rei começava a falar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avant même d'ouvrir les yeux",
+  "newLine": false,
+  "translation": {
+   "text": "antes mesmo de abrir os olhos",
+   "tips": [
+    {
+     "text": "avant même d'ouvrir les yeux",
+     "translatedText": "antes mesmo de abrir os olhos",
+     "explanation": "\"avant même de + infinitivo\" = \"antes mesmo de + verbo\". O \"même\" reforça: não é só \"antes de\", é \"antes MESMO de\". \"avant même d'ouvrir les yeux\" = \"antes mesmo de abrir os olhos\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le Roi parlait comme ça",
+  "newLine": false,
+  "translation": {
+   "text": "O Rei falava assim",
+   "tips": [
+    {
+     "text": "comme ça",
+     "translatedText": "assim / desse jeito",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " : « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le soleil est déjà là",
+  "newLine": false,
+  "translation": {
+   "text": "O sol já está aí",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quel jour est-ce qu'on est",
+  "newLine": false,
+  "translation": {
+   "text": "Que dia é hoje",
+   "tips": [
+    {
+     "text": "Quel jour est-ce qu'on est ?",
+     "translatedText": "Que dia é hoje? (uso do \"on\" = a gente)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il fait si chaud",
+  "newLine": false,
+  "translation": {
+   "text": "Está tão calor",
+   "tips": [
+    {
+     "text": "Il fait si chaud",
+     "translatedText": "Está tão calor",
+     "explanation": "Para falar do clima, o francês usa \"il fait\" (o \"il\" é impessoal, não é \"ele\"): \"il fait chaud\" = \"está calor\", \"il fait froid\" = \"está frio\". Atenção: NÃO se diz \"être chaud\" para o tempo. O \"si\" aqui = \"tão\": \"il fait si chaud\" = \"está tão calor\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je n'aime pas",
+  "newLine": false,
+  "translation": {
+   "text": "Eu não gosto",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les jours chauds",
+  "newLine": false,
+  "translation": {
+   "text": "dos dias quentes",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je n'aime pas l'été",
+  "newLine": false,
+  "translation": {
+   "text": "Não gosto do verão",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "du tout",
+  "newLine": false,
+  "translation": {
+   "text": "nem um pouco",
+   "tips": [
+    {
+     "text": "du tout",
+     "translatedText": "nem um pouco / de jeito nenhum",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je dois toujours porter",
+  "newLine": false,
+  "translation": {
+   "text": "Tenho sempre que usar",
+   "tips": [
+    {
+     "text": "porter des vêtements",
+     "translatedText": "usar / vestir roupas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des vêtements lourds",
+  "newLine": false,
+  "translation": {
+   "text": "roupas pesadas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "même en été",
+  "newLine": false,
+  "translation": {
+   "text": "mesmo no verão",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ce n'est pas facile",
+  "newLine": false,
+  "translation": {
+   "text": "Não é fácil",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Oh",
+  "newLine": false,
+  "translation": {
+   "text": "Ah",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai si faim",
+  "newLine": false,
+  "translation": {
+   "text": "estou com tanta fome",
+   "tips": [
+    {
+     "text": "j'ai si faim",
+     "translatedText": "estou com tanta fome (avoir faim = ter fome)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "J'ai besoin de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "Preciso de comida",
+   "tips": [
+    {
+     "text": "J'ai besoin de",
+     "translatedText": "Eu preciso de (avoir besoin de = precisar de)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon",
+  "newLine": false,
+  "translation": {
+   "text": "Bem",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout le monde a besoin de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "todo mundo precisa de comida",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Plus de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "Mais comida",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "para todo mundo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "De la bonne nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "Comida boa",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bien sûr",
+  "newLine": false,
+  "translation": {
+   "text": "é claro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu sais quoi",
+  "newLine": false,
+  "translation": {
+   "text": "Sabe de uma coisa",
+   "tips": [
+    {
+     "text": "Tu sais quoi ?",
+     "translatedText": "Sabe de uma coisa? / Quer saber?",
+     "explanation": "Expressão coloquial \"Tu sais quoi ?\" = \"Sabe de uma coisa? / Quer saber?\", usada para chamar a atenção antes de contar algo. Literalmente \"você sabe o quê?\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je pense que nous devons",
+  "newLine": false,
+  "translation": {
+   "text": "Acho que devemos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "construire une nouvelle route",
+  "newLine": false,
+  "translation": {
+   "text": "construir uma nova estrada",
+   "tips": [
+    {
+     "text": "construire une nouvelle route",
+     "translatedText": "construir uma estrada nova",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Avec une nouvelle route",
+  "newLine": false,
+  "translation": {
+   "text": "Com uma nova estrada",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous pouvons avoir",
+  "newLine": false,
+  "translation": {
+   "text": "podemos ter",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "plus de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "mais comida",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous devons construire",
+  "newLine": false,
+  "translation": {
+   "text": "Devemos construir",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une route bleue",
+  "newLine": false,
+  "translation": {
+   "text": "uma estrada azul",
+   "tips": [
+    {
+     "text": "une route bleue",
+     "translatedText": "uma estrada azul",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le bleu est une belle couleur",
+  "newLine": false,
+  "translation": {
+   "text": "O azul é uma cor bonita",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le rouge est beau aussi",
+  "newLine": false,
+  "translation": {
+   "text": "O vermelho também é bonito",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peut-être que nous devons",
+  "newLine": false,
+  "translation": {
+   "text": "talvez a gente deva",
+   "tips": [
+    {
+     "text": "peut-être que",
+     "translatedText": "talvez",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "construire une route rouge",
+  "newLine": false,
+  "translation": {
+   "text": "construir uma estrada vermelha",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu penses que la couleur",
+  "newLine": false,
+  "translation": {
+   "text": "Você acha que a cor",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de la route est importante",
+  "newLine": false,
+  "translation": {
+   "text": "da estrada é importante",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Peut-être que ça ne change rien",
+  "newLine": false,
+  "translation": {
+   "text": "Talvez não mude nada",
+   "tips": [
+    {
+     "text": "ça ne change rien",
+     "translatedText": "não muda nada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Peut-être que si",
+  "newLine": false,
+  "translation": {
+   "text": "Talvez sim",
+   "tips": [
+    {
+     "text": "Peut-être que si",
+     "translatedText": "Talvez sim (si = sim, contradizendo a negação)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je ne sais pas",
+  "newLine": false,
+  "translation": {
+   "text": "Não sei",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il fait si chaud aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "Está tão calor hoje",
+   "tips": [
+    {
+     "text": "Il fait si chaud",
+     "translatedText": "Está tão calor",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai besoin d'eau",
+  "newLine": false,
+  "translation": {
+   "text": "preciso de água",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bon",
+  "newLine": false,
+  "translation": {
+   "text": "Bem",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tout le monde a besoin d'eau",
+  "newLine": false,
+  "translation": {
+   "text": "todo mundo precisa de água",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "De l'eau claire",
+  "newLine": false,
+  "translation": {
+   "text": "Água limpa",
+   "tips": [
+    {
+     "text": "De l'eau claire",
+     "translatedText": "Água limpa / cristalina",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peut-être que nous devons",
+  "newLine": false,
+  "translation": {
+   "text": "talvez a gente deva",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "construire une autre rivière",
+  "newLine": false,
+  "translation": {
+   "text": "construir um outro rio",
+   "tips": [
+    {
+     "text": "une autre rivière",
+     "translatedText": "um outro rio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "On peut construire une rivière",
+  "newLine": false,
+  "translation": {
+   "text": "Dá para construir um rio",
+   "tips": [
+    {
+     "text": "On peut",
+     "translatedText": "A gente pode / dá para",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Une autre rivière",
+  "newLine": false,
+  "translation": {
+   "text": "Um outro rio",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec de l'eau claire",
+  "newLine": false,
+  "translation": {
+   "text": "com água limpa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et beaucoup de poissons",
+  "newLine": false,
+  "translation": {
+   "text": "e muitos peixes",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce serait bien",
+  "newLine": false,
+  "translation": {
+   "text": "seria bom",
+   "tips": [
+    {
+     "text": "ce serait bien",
+     "translatedText": "seria bom / seria legal",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Où est-ce qu'on peut trouver",
+  "newLine": false,
+  "translation": {
+   "text": "Onde é que a gente pode achar",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "plus de poissons",
+  "newLine": false,
+  "translation": {
+   "text": "mais peixes",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Il fait si chaud aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "Está tão calor hoje",
+   "tips": []
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je n'aime vraiment pas l'été",
+  "newLine": false,
+  "translation": {
+   "text": "Eu realmente não gosto do verão",
+   "tips": [
+    {
+     "text": "Je n'aime vraiment pas",
+     "translatedText": "Eu realmente não gosto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Être le Roi",
+  "newLine": false,
+  "translation": {
+   "text": "Ser o Rei",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce n'est pas facile",
+  "newLine": false,
+  "translation": {
+   "text": "não é fácil",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu dois toujours",
+  "newLine": false,
+  "translation": {
+   "text": "Você tem sempre que",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "bien t'habiller",
+  "newLine": false,
+  "translation": {
+   "text": "se vestir bem",
+   "tips": [
+    {
+     "text": "bien t'habiller",
+     "translatedText": "se vestir bem",
+     "explanation": "\"s'habiller\" é verbo pronominal = \"vestir-se\". Aqui na forma com \"tu\": \"t'habiller\" (te + habiller). \"bien t'habiller\" = \"vestir-se bem / se arrumar bem\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Et peut-être que j'ai besoin",
+  "newLine": false,
+  "translation": {
+   "text": "E talvez eu precise",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "d'un autre chien",
+  "newLine": false,
+  "translation": {
+   "text": "de um outro cachorro",
+   "tips": [
+    {
+     "text": "un autre chien",
+     "translatedText": "um outro cachorro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je pense que mon chien",
+  "newLine": false,
+  "translation": {
+   "text": "Acho que meu cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "est très seul",
+  "newLine": false,
+  "translation": {
+   "text": "está muito sozinho",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Voilà",
+  "newLine": false,
+  "translation": {
+   "text": "Pronto",
+   "tips": [
+    {
+     "text": "Voilà",
+     "translatedText": "Pronto / aí está",
+     "explanation": "\"Voilà\" é uma palavrinha curinga do francês: aqui significa \"pronto / aí está / é isso\", usada para concluir ou apresentar uma conclusão. Também serve para apontar algo (\"ali está\") ou entregar algo a alguém."
+    }
+   ]
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous avons besoin",
+  "newLine": false,
+  "translation": {
+   "text": "precisamos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "d'une nouvelle route",
+  "newLine": false,
+  "translation": {
+   "text": "de uma nova estrada",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et d'une nouvelle rivière",
+  "newLine": false,
+  "translation": {
+   "text": "e de um novo rio",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Avec une nouvelle route",
+  "newLine": false,
+  "translation": {
+   "text": "Com uma nova estrada",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous pourrons acheter",
+  "newLine": false,
+  "translation": {
+   "text": "poderemos comprar",
+   "tips": [
+    {
+     "text": "nous pourrons acheter",
+     "translatedText": "poderemos comprar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "plus de nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "mais comida",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et",
+  "newLine": false,
+  "translation": {
+   "text": "e",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec une nouvelle rivière",
+  "newLine": false,
+  "translation": {
+   "text": "com um novo rio",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous aurons plus d'eau",
+  "newLine": false,
+  "translation": {
+   "text": "teremos mais água",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de poissons",
+  "newLine": false,
+  "translation": {
+   "text": "e mais peixes",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Le poisson",
+  "newLine": false,
+  "translation": {
+   "text": "O peixe",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'est aussi de la nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "também é comida",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Et j'ai besoin",
+  "newLine": false,
+  "translation": {
+   "text": "E eu preciso",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "d'un autre chien",
+  "newLine": false,
+  "translation": {
+   "text": "de um outro cachorro",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quand est-ce que ma femme",
+  "newLine": false,
+  "translation": {
+   "text": "Quando é que minha esposa",
+   "tips": [
+    {
+     "text": "Quand est-ce que",
+     "translatedText": "Quando é que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vient me voir",
+  "newLine": false,
+  "translation": {
+   "text": "vem me ver",
+   "tips": [
+    {
+     "text": "vient me voir",
+     "translatedText": "vem me ver",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Quand est-ce que mon fils",
+  "newLine": false,
+  "translation": {
+   "text": "Quando é que meu filho",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "vient me voir",
+  "newLine": false,
+  "translation": {
+   "text": "vem me ver",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Comment vas-tu aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "Como você está hoje",
+   "tips": [
+    {
+     "text": "Comment vas-tu ?",
+     "translatedText": "Como você está? / Como vai?",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mon bon ami",
+  "newLine": false,
+  "translation": {
+   "text": "meu bom amigo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Bonjour",
+  "newLine": false,
+  "translation": {
+   "text": "Bom dia",
+   "tips": []
+  }
+ },
+ {
+  "text": " ! »",
+  "newLine": false,
+  "translation": null
+ }
+]

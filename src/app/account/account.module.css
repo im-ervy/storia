@@ -1,0 +1,115 @@
+.page {
+  padding: 160px 16px 60px;
+  display: flex;
+  justify-content: center;
+  background: #f0f7f7;
+  min-height: 100vh;
+}
+.card {
+  background: #fff;
+  border: 1px solid #dde9eb;
+  border-radius: 4px;
+  width: 680px;
+  max-width: 100%;
+  padding: 36px 40px;
+  height: fit-content;
+}
+.cardHead {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  border-bottom: 1px solid #e8f1f2;
+  padding-bottom: 22px;
+}
+.avatar {
+  width: 64px;
+  height: 64px;
+  outline: 2px solid #dde9eb;
+  border-radius: 3px;
+  background: #fff;
+}
+.name {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  color: #124653;
+  margin: 0;
+}
+.sub {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: #8da8af;
+}
+.statsRow {
+  display: flex;
+  gap: 36px;
+  padding: 24px 0;
+}
+.statNum {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #124653;
+}
+.statLabel {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #a9c0c7;
+}
+.sectionTitle {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: #062a33;
+  margin: 10px 0 16px;
+  letter-spacing: normal;
+}
+.levels {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.levelRow {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.levelName {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  color: #124653;
+  width: 60px;
+}
+.levelTrack {
+  flex: 1;
+  height: 10px;
+  border: 1px solid #d8e2e3;
+  border-radius: 5px;
+  overflow: hidden;
+  background: #fff;
+}
+.levelFill {
+  height: 100%;
+  background-image: linear-gradient(180deg, #29adc5, #146478);
+}
+.levelCount {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  color: #25a4bb;
+  width: 44px;
+  text-align: right;
+}
+.back {
+  display: inline-block;
+  margin-top: 28px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: #31b7d0;
+}

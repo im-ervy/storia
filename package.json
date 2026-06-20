@@ -1,0 +1,25 @@
+{
+  "name": "graded-readers-replica",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "seed": "node scripts/seed.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "ingest": "node scripts/ingest-graded-readers.mjs"
+  },
+  "dependencies": {
+    "next": "^15.5.7",
+    "react": "19.1.1",
+    "react-dom": "19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.1.1",
+    "@types/react-dom": "19.1.1",
+    "kuromoji": "^0.1.2",
+    "puppeteer-core": "^23.11.1",
+    "typescript": "5.7.2"
+  }
+}

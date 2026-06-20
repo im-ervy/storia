@@ -1,0 +1,2462 @@
+[
+ {
+  "text": "La première vidéo",
+  "newLine": true,
+  "translation": {
+   "text": "O primeiro vídeo",
+   "tips": [
+    {
+     "text": "La première",
+     "translatedText": "O primeiro / A primeira",
+     "explanation": null
+    },
+    {
+     "text": "vidéo",
+     "translatedText": "vídeo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que j'ai faite",
+  "newLine": false,
+  "translation": {
+   "text": "que eu fiz",
+   "tips": [
+    {
+     "text": "que",
+     "translatedText": "que",
+     "explanation": null
+    },
+    {
+     "text": "j'ai faite",
+     "translatedText": "eu fiz / eu feita",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parlait du merveilleux pain à l'ail",
+  "newLine": false,
+  "translation": {
+   "text": "falava do maravilhoso pão de alho",
+   "tips": [
+    {
+     "text": "parlait",
+     "translatedText": "falava",
+     "explanation": null
+    },
+    {
+     "text": "du merveilleux",
+     "translatedText": "do maravilhoso",
+     "explanation": null
+    },
+    {
+     "text": "pain à l'ail",
+     "translatedText": "pão de alho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec du miel",
+  "newLine": false,
+  "translation": {
+   "text": "com mel",
+   "tips": [
+    {
+     "text": "avec",
+     "translatedText": "com",
+     "explanation": null
+    },
+    {
+     "text": "du miel",
+     "translatedText": "(do) mel",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que j'avais appris",
+  "newLine": false,
+  "translation": {
+   "text": "que eu tinha aprendido",
+   "tips": [
+    {
+     "text": "que",
+     "translatedText": "que",
+     "explanation": null
+    },
+    {
+     "text": "j'avais appris",
+     "translatedText": "eu tinha aprendido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "lors de notre premier échange",
+  "newLine": false,
+  "translation": {
+   "text": "durante a nossa primeira troca",
+   "tips": [
+    {
+     "text": "lors de",
+     "translatedText": "durante / por ocasião de",
+     "explanation": null
+    },
+    {
+     "text": "notre premier",
+     "translatedText": "a nossa primeira / o nosso primeiro",
+     "explanation": null
+    },
+    {
+     "text": "échange",
+     "translatedText": "troca / intercâmbio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de recettes",
+  "newLine": false,
+  "translation": {
+   "text": "de receitas",
+   "tips": [
+    {
+     "text": "de recettes",
+     "translatedText": "de receitas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous avons aussi fait",
+  "newLine": false,
+  "translation": {
+   "text": "Nós também fizemos",
+   "tips": [
+    {
+     "text": "Nous avons fait",
+     "translatedText": "nós fizemos",
+     "explanation": null
+    },
+    {
+     "text": "aussi",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des vidéos sur les légumes",
+  "newLine": false,
+  "translation": {
+   "text": "vídeos sobre os legumes",
+   "tips": [
+    {
+     "text": "des vidéos",
+     "translatedText": "vídeos (uns vídeos)",
+     "explanation": null
+    },
+    {
+     "text": "sur",
+     "translatedText": "sobre",
+     "explanation": null
+    },
+    {
+     "text": "les légumes",
+     "translatedText": "os legumes / as verduras",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec une sauce",
+  "newLine": false,
+  "translation": {
+   "text": "com um molho",
+   "tips": [
+    {
+     "text": "avec une sauce",
+     "translatedText": "com um molho",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au beurre de cacahuète",
+  "newLine": false,
+  "translation": {
+   "text": "de manteiga de amendoim",
+   "tips": [
+    {
+     "text": "au beurre",
+     "translatedText": "de manteiga",
+     "explanation": null
+    },
+    {
+     "text": "de cacahuète",
+     "translatedText": "de amendoim",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la soupe de poisson",
+  "newLine": false,
+  "translation": {
+   "text": "a sopa de peixe",
+   "tips": [
+    {
+     "text": "la soupe",
+     "translatedText": "a sopa",
+     "explanation": null
+    },
+    {
+     "text": "de poisson",
+     "translatedText": "de peixe",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à l'huile de palme",
+  "newLine": false,
+  "translation": {
+   "text": "com óleo de palma (dendê)",
+   "tips": [
+    {
+     "text": "à l'huile",
+     "translatedText": "com óleo / no óleo",
+     "explanation": null
+    },
+    {
+     "text": "de palme",
+     "translatedText": "de palma / dendê",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le bouillon d'os",
+  "newLine": false,
+  "translation": {
+   "text": "o caldo de ossos",
+   "tips": [
+    {
+     "text": "le bouillon",
+     "translatedText": "o caldo",
+     "explanation": null
+    },
+    {
+     "text": "d'os",
+     "translatedText": "de ossos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la salade de pâtes d'été",
+  "newLine": false,
+  "translation": {
+   "text": "a salada de macarrão de verão",
+   "tips": [
+    {
+     "text": "la salade",
+     "translatedText": "a salada",
+     "explanation": null
+    },
+    {
+     "text": "de pâtes",
+     "translatedText": "de massa / macarrão",
+     "explanation": null
+    },
+    {
+     "text": "d'été",
+     "translatedText": "de verão",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le blanc de poulet",
+  "newLine": false,
+  "translation": {
+   "text": "o peito de frango",
+   "tips": [
+    {
+     "text": "le blanc de poulet",
+     "translatedText": "o peito de frango",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec une sauce sucrée",
+  "newLine": false,
+  "translation": {
+   "text": "com um molho doce",
+   "tips": [
+    {
+     "text": "avec une sauce",
+     "translatedText": "com um molho",
+     "explanation": null
+    },
+    {
+     "text": "sucrée",
+     "translatedText": "doce / adoçada",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le gâteau de maïs sucré",
+  "newLine": false,
+  "translation": {
+   "text": "o bolo de milho doce",
+   "tips": [
+    {
+     "text": "le gâteau",
+     "translatedText": "o bolo",
+     "explanation": null
+    },
+    {
+     "text": "de maïs",
+     "translatedText": "de milho",
+     "explanation": null
+    },
+    {
+     "text": "sucré",
+     "translatedText": "doce",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la salade de fruits bio",
+  "newLine": false,
+  "translation": {
+   "text": "a salada de frutas orgânicas",
+   "tips": [
+    {
+     "text": "la salade de fruits",
+     "translatedText": "a salada de frutas",
+     "explanation": null
+    },
+    {
+     "text": "bio",
+     "translatedText": "orgânico(a) / bio",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la tarte aux pommes",
+  "newLine": false,
+  "translation": {
+   "text": "a torta de maçã",
+   "tips": [
+    {
+     "text": "la tarte",
+     "translatedText": "a torta",
+     "explanation": null
+    },
+    {
+     "text": "aux pommes",
+     "translatedText": "de maçã (com maçãs)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le pain à la banane crue",
+  "newLine": false,
+  "translation": {
+   "text": "o pão de banana crua",
+   "tips": [
+    {
+     "text": "le pain",
+     "translatedText": "o pão",
+     "explanation": null
+    },
+    {
+     "text": "à la banane",
+     "translatedText": "de banana",
+     "explanation": null
+    },
+    {
+     "text": "crue",
+     "translatedText": "crua",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les barres protéinées",
+  "newLine": false,
+  "translation": {
+   "text": "as barras de proteína",
+   "tips": [
+    {
+     "text": "les barres",
+     "translatedText": "as barras",
+     "explanation": null
+    },
+    {
+     "text": "protéinées",
+     "translatedText": "proteicas / de proteína",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les tartelettes aux œufs",
+  "newLine": false,
+  "translation": {
+   "text": "as tortinhas de ovo",
+   "tips": [
+    {
+     "text": "les tartelettes",
+     "translatedText": "as tortinhas",
+     "explanation": null
+    },
+    {
+     "text": "aux œufs",
+     "translatedText": "de ovo (com ovos)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les biscuits au chocolat salé",
+  "newLine": false,
+  "translation": {
+   "text": "os biscoitos de chocolate com sal",
+   "tips": [
+    {
+     "text": "les biscuits",
+     "translatedText": "os biscoitos",
+     "explanation": null
+    },
+    {
+     "text": "au chocolat",
+     "translatedText": "de chocolate",
+     "explanation": null
+    },
+    {
+     "text": "salé",
+     "translatedText": "salgado / com sal",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et les rouleaux de printemps",
+  "newLine": false,
+  "translation": {
+   "text": "e os rolinhos primavera",
+   "tips": [
+    {
+     "text": "et",
+     "translatedText": "e",
+     "explanation": null
+    },
+    {
+     "text": "les rouleaux de printemps",
+     "translatedText": "os rolinhos primavera",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "au poulet",
+  "newLine": false,
+  "translation": {
+   "text": "de frango",
+   "tips": [
+    {
+     "text": "au poulet",
+     "translatedText": "de frango",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous avons aussi fait",
+  "newLine": false,
+  "translation": {
+   "text": "Nós também fizemos",
+   "tips": [
+    {
+     "text": "Nous avons fait",
+     "translatedText": "nós fizemos",
+     "explanation": null
+    },
+    {
+     "text": "aussi",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des vidéos sur la cuisine italienne",
+  "newLine": false,
+  "translation": {
+   "text": "vídeos sobre a cozinha italiana",
+   "tips": [
+    {
+     "text": "des vidéos sur",
+     "translatedText": "vídeos sobre",
+     "explanation": null
+    },
+    {
+     "text": "la cuisine",
+     "translatedText": "a cozinha / a culinária",
+     "explanation": null
+    },
+    {
+     "text": "italienne",
+     "translatedText": "italiana",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "palestinienne",
+  "newLine": false,
+  "translation": {
+   "text": "palestina",
+   "tips": [
+    {
+     "text": "palestinienne",
+     "translatedText": "palestina",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "latino-américaine",
+  "newLine": false,
+  "translation": {
+   "text": "latino-americana",
+   "tips": [
+    {
+     "text": "latino-américaine",
+     "translatedText": "latino-americana",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "juive et anglaise",
+  "newLine": false,
+  "translation": {
+   "text": "judaica e inglesa",
+   "tips": [
+    {
+     "text": "juive",
+     "translatedText": "judaica",
+     "explanation": null
+    },
+    {
+     "text": "et anglaise",
+     "translatedText": "e inglesa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour célébrer nos racines",
+  "newLine": false,
+  "translation": {
+   "text": "para celebrar as nossas raízes",
+   "tips": [
+    {
+     "text": "pour célébrer",
+     "translatedText": "para celebrar",
+     "explanation": null
+    },
+    {
+     "text": "nos racines",
+     "translatedText": "as nossas raízes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Puis",
+  "newLine": true,
+  "translation": {
+   "text": "Depois",
+   "tips": [
+    {
+     "text": "Puis",
+     "translatedText": "depois / em seguida",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "la pandémie est arrivée",
+  "newLine": false,
+  "translation": {
+   "text": "a pandemia chegou",
+   "tips": [
+    {
+     "text": "la pandémie",
+     "translatedText": "a pandemia",
+     "explanation": "'La pandémie' (a pandemia) remete à COVID-19, marco recente na vida real das pessoas. O texto a usa como divisor de águas da história — ponto de virada típico de relatos contemporâneos."
+    },
+    {
+     "text": "est arrivée",
+     "translatedText": "chegou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ça a été une période",
+  "newLine": false,
+  "translation": {
+   "text": "Foi um período",
+   "tips": [
+    {
+     "text": "Ça a été",
+     "translatedText": "Foi (isso foi)",
+     "explanation": null
+    },
+    {
+     "text": "une période",
+     "translatedText": "um período",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très difficile",
+  "newLine": false,
+  "translation": {
+   "text": "muito difícil",
+   "tips": [
+    {
+     "text": "très difficile",
+     "translatedText": "muito difícil",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour tout le monde",
+  "newLine": false,
+  "translation": {
+   "text": "para todo mundo",
+   "tips": [
+    {
+     "text": "pour tout le monde",
+     "translatedText": "para todo mundo / para todos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "partout",
+  "newLine": false,
+  "translation": {
+   "text": "em todo lugar",
+   "tips": [
+    {
+     "text": "partout",
+     "translatedText": "em todo lugar / por toda parte",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous avons pensé",
+  "newLine": false,
+  "translation": {
+   "text": "Nós pensamos",
+   "tips": [
+    {
+     "text": "Nous avons pensé",
+     "translatedText": "nós pensamos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à ne plus filmer",
+  "newLine": false,
+  "translation": {
+   "text": "em não filmar mais",
+   "tips": [
+    {
+     "text": "à",
+     "translatedText": "em (penser à)",
+     "explanation": null
+    },
+    {
+     "text": "ne plus filmer",
+     "translatedText": "não filmar mais / parar de filmar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pendant un moment",
+  "newLine": false,
+  "translation": {
+   "text": "por um tempo",
+   "tips": [
+    {
+     "text": "pendant un moment",
+     "translatedText": "por um tempo / durante um tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais alors",
+  "newLine": false,
+  "translation": {
+   "text": "mas então",
+   "tips": [
+    {
+     "text": "mais alors",
+     "translatedText": "mas então / mas aí",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous n'aurions plus rien attendu",
+  "newLine": false,
+  "translation": {
+   "text": "não teríamos mais nada que esperar",
+   "tips": [
+    {
+     "text": "nous n'aurions",
+     "translatedText": "nós (não) teríamos",
+     "explanation": null
+    },
+    {
+     "text": "plus rien attendu",
+     "translatedText": "mais nada esperado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec impatience",
+  "newLine": false,
+  "translation": {
+   "text": "com impaciência (ansiosamente)",
+   "tips": [
+    {
+     "text": "avec impatience",
+     "translatedText": "com ansiedade / ansiosamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pendant ces jours terribles",
+  "newLine": false,
+  "translation": {
+   "text": "durante esses dias terríveis",
+   "tips": [
+    {
+     "text": "pendant",
+     "translatedText": "durante",
+     "explanation": null
+    },
+    {
+     "text": "ces jours terribles",
+     "translatedText": "esses dias terríveis",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": [
+    {
+     "text": "Alors",
+     "translatedText": "então / portanto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous avons continué à travailler",
+  "newLine": false,
+  "translation": {
+   "text": "continuamos a trabalhar",
+   "tips": [
+    {
+     "text": "nous avons continué",
+     "translatedText": "nós continuamos",
+     "explanation": null
+    },
+    {
+     "text": "à travailler",
+     "translatedText": "a trabalhar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "séparément mais ensemble",
+  "newLine": false,
+  "translation": {
+   "text": "separadamente mas juntas",
+   "tips": [
+    {
+     "text": "séparément",
+     "translatedText": "separadamente",
+     "explanation": null
+    },
+    {
+     "text": "mais ensemble",
+     "translatedText": "mas juntas / mas juntos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La nourriture",
+  "newLine": true,
+  "translation": {
+   "text": "A comida",
+   "tips": [
+    {
+     "text": "La nourriture",
+     "translatedText": "a comida / o alimento",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "est aussi devenue",
+  "newLine": false,
+  "translation": {
+   "text": "também se tornou",
+   "tips": [
+    {
+     "text": "est devenue",
+     "translatedText": "se tornou / virou",
+     "explanation": null
+    },
+    {
+     "text": "aussi",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une façon de penser",
+  "newLine": false,
+  "translation": {
+   "text": "uma maneira de pensar",
+   "tips": [
+    {
+     "text": "une façon de",
+     "translatedText": "uma maneira de / um jeito de",
+     "explanation": null
+    },
+    {
+     "text": "penser",
+     "translatedText": "pensar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de parler",
+  "newLine": false,
+  "translation": {
+   "text": "e de falar",
+   "tips": [
+    {
+     "text": "et de parler",
+     "translatedText": "e de falar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de nos vies",
+  "newLine": false,
+  "translation": {
+   "text": "das nossas vidas",
+   "tips": [
+    {
+     "text": "de nos vies",
+     "translatedText": "das nossas vidas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de nos expériences",
+  "newLine": false,
+  "translation": {
+   "text": "das nossas experiências",
+   "tips": [
+    {
+     "text": "de nos expériences",
+     "translatedText": "das nossas experiências",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et de nos sentiments",
+  "newLine": false,
+  "translation": {
+   "text": "e dos nossos sentimentos",
+   "tips": [
+    {
+     "text": "et de nos sentiments",
+     "translatedText": "e dos nossos sentimentos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " : ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les souvenirs",
+  "newLine": false,
+  "translation": {
+   "text": "as lembranças",
+   "tips": [
+    {
+     "text": "les souvenirs",
+     "translatedText": "as lembranças / as memórias",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que nous associions",
+  "newLine": false,
+  "translation": {
+   "text": "que associávamos",
+   "tips": [
+    {
+     "text": "que",
+     "translatedText": "que",
+     "explanation": null
+    },
+    {
+     "text": "nous associions",
+     "translatedText": "nós associávamos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à chaque plat",
+  "newLine": false,
+  "translation": {
+   "text": "a cada prato",
+   "tips": [
+    {
+     "text": "à chaque",
+     "translatedText": "a cada",
+     "explanation": null
+    },
+    {
+     "text": "plat",
+     "translatedText": "prato (preparo)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "comment nous les avions appris",
+  "newLine": false,
+  "translation": {
+   "text": "como nós os tínhamos aprendido",
+   "tips": [
+    {
+     "text": "comment",
+     "translatedText": "como",
+     "explanation": null
+    },
+    {
+     "text": "nous les avions appris",
+     "translatedText": "nós os tínhamos aprendido",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et comment nos grands-mères",
+  "newLine": false,
+  "translation": {
+   "text": "e como as nossas avós",
+   "tips": [
+    {
+     "text": "et comment",
+     "translatedText": "e como",
+     "explanation": null
+    },
+    {
+     "text": "nos grands-mères",
+     "translatedText": "as nossas avós",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les avaient apportés",
+  "newLine": false,
+  "translation": {
+   "text": "os tinham trazido",
+   "tips": [
+    {
+     "text": "les avaient apportés",
+     "translatedText": "os tinham trazido",
+     "explanation": "Plus-que-parfait + concordância do particípio: o pronome objeto direto 'les' (= os pratos, masculino plural) vem ANTES do verbo, então o particípio leva '-s' (apportés). É a regra de ouro: com 'avoir', o particípio concorda com o objeto direto SE ele estiver antes do verbo."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de leurs pays d'origine",
+  "newLine": false,
+  "translation": {
+   "text": "dos seus países de origem",
+   "tips": [
+    {
+     "text": "de leurs pays",
+     "translatedText": "dos seus / dos deles países",
+     "explanation": null
+    },
+    {
+     "text": "d'origine",
+     "translatedText": "de origem",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour enrichir la culture américaine",
+  "newLine": false,
+  "translation": {
+   "text": "para enriquecer a cultura americana",
+   "tips": [
+    {
+     "text": "pour enrichir",
+     "translatedText": "para enriquecer",
+     "explanation": null
+    },
+    {
+     "text": "la culture américaine",
+     "translatedText": "a cultura americana",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous avons commencé à parler",
+  "newLine": false,
+  "translation": {
+   "text": "Começamos a falar",
+   "tips": [
+    {
+     "text": "Nous avons commencé",
+     "translatedText": "nós começamos",
+     "explanation": null
+    },
+    {
+     "text": "à parler",
+     "translatedText": "a falar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de ça",
+  "newLine": false,
+  "translation": {
+   "text": "disso",
+   "tips": [
+    {
+     "text": "de ça",
+     "translatedText": "disso / disto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans nos vidéos aussi",
+  "newLine": false,
+  "translation": {
+   "text": "nos nossos vídeos também",
+   "tips": [
+    {
+     "text": "dans nos vidéos",
+     "translatedText": "nos nossos vídeos",
+     "explanation": null
+    },
+    {
+     "text": "aussi",
+     "translatedText": "também",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et certains spectateurs",
+  "newLine": false,
+  "translation": {
+   "text": "e alguns espectadores",
+   "tips": [
+    {
+     "text": "et certains",
+     "translatedText": "e alguns / certos",
+     "explanation": null
+    },
+    {
+     "text": "spectateurs",
+     "translatedText": "espectadores",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "se sont mis à écrire",
+  "newLine": false,
+  "translation": {
+   "text": "começaram a escrever",
+   "tips": [
+    {
+     "text": "se sont mis à",
+     "translatedText": "começaram a / puseram-se a",
+     "explanation": "'Se mettre à + infinitivo' = pôr-se a / começar a (de repente) fazer algo. É um verbo pronominal no passé composé, por isso usa 'être' (se sont mis)."
+    },
+    {
+     "text": "écrire",
+     "translatedText": "escrever",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des commentaires très personnels",
+  "newLine": false,
+  "translation": {
+   "text": "comentários muito pessoais",
+   "tips": [
+    {
+     "text": "des commentaires",
+     "translatedText": "comentários",
+     "explanation": null
+    },
+    {
+     "text": "très personnels",
+     "translatedText": "muito pessoais",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Du coup",
+  "newLine": false,
+  "translation": {
+   "text": "Por isso",
+   "tips": [
+    {
+     "text": "Du coup",
+     "translatedText": "por isso / aí então",
+     "explanation": "'Du coup' é uma expressão MUITO usada no francês falado, significando 'por isso', 'consequentemente', 'aí'. Tão comum que virou bordão; equivale ao nosso 'aí' ou 'então' coloquial."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "je me sentais proche",
+  "newLine": false,
+  "translation": {
+   "text": "eu me sentia próxima",
+   "tips": [
+    {
+     "text": "je me sentais",
+     "translatedText": "eu me sentia",
+     "explanation": null
+    },
+    {
+     "text": "proche",
+     "translatedText": "próxima / perto",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de beaucoup de gens",
+  "newLine": false,
+  "translation": {
+   "text": "de muita gente",
+   "tips": [
+    {
+     "text": "de beaucoup de",
+     "translatedText": "de muito(s) / de muita",
+     "explanation": null
+    },
+    {
+     "text": "gens",
+     "translatedText": "gente / pessoas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "même si j'étais",
+  "newLine": false,
+  "translation": {
+   "text": "mesmo que eu estivesse",
+   "tips": [
+    {
+     "text": "même si",
+     "translatedText": "mesmo que / ainda que",
+     "explanation": null
+    },
+    {
+     "text": "j'étais",
+     "translatedText": "eu estava / eu fosse",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le plus souvent seule",
+  "newLine": false,
+  "translation": {
+   "text": "na maioria das vezes sozinha",
+   "tips": [
+    {
+     "text": "le plus souvent",
+     "translatedText": "na maioria das vezes / quase sempre",
+     "explanation": null
+    },
+    {
+     "text": "seule",
+     "translatedText": "sozinha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la maison",
+  "newLine": false,
+  "translation": {
+   "text": "em casa",
+   "tips": [
+    {
+     "text": "à la maison",
+     "translatedText": "em casa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec seulement Boots",
+  "newLine": false,
+  "translation": {
+   "text": "com apenas o Boots",
+   "tips": [
+    {
+     "text": "avec seulement",
+     "translatedText": "com apenas / com só",
+     "explanation": null
+    },
+    {
+     "text": "Boots",
+     "translatedText": "Boots (nome do gato)",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "pour me tenir compagnie",
+  "newLine": false,
+  "translation": {
+   "text": "para me fazer companhia",
+   "tips": [
+    {
+     "text": "pour me tenir compagnie",
+     "translatedText": "para me fazer companhia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Comme nous le savons tous",
+  "newLine": true,
+  "translation": {
+   "text": "Como todos sabemos",
+   "tips": [
+    {
+     "text": "Comme",
+     "translatedText": "como",
+     "explanation": null
+    },
+    {
+     "text": "nous le savons tous",
+     "translatedText": "todos nós (o) sabemos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les jours sombres",
+  "newLine": false,
+  "translation": {
+   "text": "os dias sombrios",
+   "tips": [
+    {
+     "text": "les jours sombres",
+     "translatedText": "os dias sombrios / escuros",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ont fini par passer",
+  "newLine": false,
+  "translation": {
+   "text": "acabaram passando",
+   "tips": [
+    {
+     "text": "ont fini par",
+     "translatedText": "acabaram por / terminaram por",
+     "explanation": null
+    },
+    {
+     "text": "passer",
+     "translatedText": "passar",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Maintenant",
+  "newLine": false,
+  "translation": {
+   "text": "Agora",
+   "tips": [
+    {
+     "text": "Maintenant",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous pouvons nous retrouver",
+  "newLine": false,
+  "translation": {
+   "text": "podemos nos reencontrar",
+   "tips": [
+    {
+     "text": "nous pouvons",
+     "translatedText": "nós podemos",
+     "explanation": null
+    },
+    {
+     "text": "nous retrouver",
+     "translatedText": "nos reencontrar / nos reunir",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à nouveau",
+  "newLine": false,
+  "translation": {
+   "text": "de novo",
+   "tips": [
+    {
+     "text": "à nouveau",
+     "translatedText": "de novo / novamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "filmer ensemble",
+  "newLine": false,
+  "translation": {
+   "text": "filmar juntas",
+   "tips": [
+    {
+     "text": "filmer ensemble",
+     "translatedText": "filmar juntas / juntos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et simplement",
+  "newLine": false,
+  "translation": {
+   "text": "e simplesmente",
+   "tips": [
+    {
+     "text": "et simplement",
+     "translatedText": "e simplesmente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous tenir compagnie",
+  "newLine": false,
+  "translation": {
+   "text": "nos fazer companhia",
+   "tips": [
+    {
+     "text": "nous tenir compagnie",
+     "translatedText": "fazer companhia um ao outro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La chaîne du Club de Cuisine",
+  "newLine": false,
+  "translation": {
+   "text": "O canal do Clube de Culinária",
+   "tips": [
+    {
+     "text": "La chaîne",
+     "translatedText": "o canal",
+     "explanation": null
+    },
+    {
+     "text": "du Club de Cuisine",
+     "translatedText": "do Clube de Culinária",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "est un immense succès",
+  "newLine": false,
+  "translation": {
+   "text": "é um sucesso imenso",
+   "tips": [
+    {
+     "text": "est un immense",
+     "translatedText": "é um imenso",
+     "explanation": null
+    },
+    {
+     "text": "succès",
+     "translatedText": "sucesso",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et bientôt",
+  "newLine": false,
+  "translation": {
+   "text": "e em breve",
+   "tips": [
+    {
+     "text": "et bientôt",
+     "translatedText": "e em breve / logo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "nous publierons un livre",
+  "newLine": false,
+  "translation": {
+   "text": "publicaremos um livro",
+   "tips": [
+    {
+     "text": "nous publierons",
+     "translatedText": "nós publicaremos",
+     "explanation": null
+    },
+    {
+     "text": "un livre",
+     "translatedText": "um livro",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de nos recettes",
+  "newLine": false,
+  "translation": {
+   "text": "das nossas receitas",
+   "tips": [
+    {
+     "text": "de nos recettes",
+     "translatedText": "das nossas receitas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Les nouvelles technologies",
+  "newLine": true,
+  "translation": {
+   "text": "As novas tecnologias",
+   "tips": [
+    {
+     "text": "Les nouvelles technologies",
+     "translatedText": "as novas tecnologias",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "peuvent être merveilleuses",
+  "newLine": false,
+  "translation": {
+   "text": "podem ser maravilhosas",
+   "tips": [
+    {
+     "text": "peuvent être",
+     "translatedText": "podem ser",
+     "explanation": null
+    },
+    {
+     "text": "merveilleuses",
+     "translatedText": "maravilhosas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et effrayantes",
+  "newLine": false,
+  "translation": {
+   "text": "e assustadoras",
+   "tips": [
+    {
+     "text": "et effrayantes",
+     "translatedText": "e assustadoras / aterrorizantes",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la fois",
+  "newLine": false,
+  "translation": {
+   "text": "ao mesmo tempo",
+   "tips": [
+    {
+     "text": "à la fois",
+     "translatedText": "ao mesmo tempo / a um só tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Pendant longtemps",
+  "newLine": false,
+  "translation": {
+   "text": "Durante muito tempo",
+   "tips": [
+    {
+     "text": "Pendant longtemps",
+     "translatedText": "durante muito tempo / por muito tempo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai cru",
+  "newLine": false,
+  "translation": {
+   "text": "eu acreditei",
+   "tips": [
+    {
+     "text": "j'ai cru",
+     "translatedText": "eu acreditei / eu achei",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'elles n'étaient qu'effrayantes",
+  "newLine": false,
+  "translation": {
+   "text": "que elas eram apenas assustadoras",
+   "tips": [
+    {
+     "text": "qu'elles",
+     "translatedText": "que elas",
+     "explanation": null
+    },
+    {
+     "text": "n'étaient qu'effrayantes",
+     "translatedText": "eram apenas assustadoras",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je suis née",
+  "newLine": false,
+  "translation": {
+   "text": "Eu nasci",
+   "tips": [
+    {
+     "text": "Je suis née",
+     "translatedText": "eu nasci",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à une époque",
+  "newLine": false,
+  "translation": {
+   "text": "numa época",
+   "tips": [
+    {
+     "text": "à une époque",
+     "translatedText": "numa época / em uma época",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "où la plupart des gens",
+  "newLine": false,
+  "translation": {
+   "text": "em que a maioria das pessoas",
+   "tips": [
+    {
+     "text": "où",
+     "translatedText": "em que / onde",
+     "explanation": null
+    },
+    {
+     "text": "la plupart des gens",
+     "translatedText": "a maioria das pessoas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'auraient jamais rêvé",
+  "newLine": false,
+  "translation": {
+   "text": "nunca teriam sonhado",
+   "tips": [
+    {
+     "text": "n'auraient jamais rêvé",
+     "translatedText": "nunca teriam sonhado",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "d'avoir un ordinateur",
+  "newLine": false,
+  "translation": {
+   "text": "em ter um computador",
+   "tips": [
+    {
+     "text": "d'avoir",
+     "translatedText": "de ter / em ter",
+     "explanation": null
+    },
+    {
+     "text": "un ordinateur",
+     "translatedText": "um computador",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la maison",
+  "newLine": false,
+  "translation": {
+   "text": "em casa",
+   "tips": [
+    {
+     "text": "à la maison",
+     "translatedText": "em casa",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tant de choses ordinaires",
+  "newLine": false,
+  "translation": {
+   "text": "Tantas coisas comuns",
+   "tips": [
+    {
+     "text": "Tant de choses",
+     "translatedText": "tantas coisas",
+     "explanation": null
+    },
+    {
+     "text": "ordinaires",
+     "translatedText": "comuns / corriqueiras",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "hoje em dia",
+   "tips": [
+    {
+     "text": "aujourd'hui",
+     "translatedText": "hoje / hoje em dia",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'étaient que de la science-fiction",
+  "newLine": false,
+  "translation": {
+   "text": "eram apenas ficção científica",
+   "tips": [
+    {
+     "text": "n'étaient que",
+     "translatedText": "eram apenas / só eram",
+     "explanation": null
+    },
+    {
+     "text": "de la science-fiction",
+     "translatedText": "ficção científica",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "quand j'étais enfant",
+  "newLine": false,
+  "translation": {
+   "text": "quando eu era criança",
+   "tips": [
+    {
+     "text": "quand",
+     "translatedText": "quando",
+     "explanation": null
+    },
+    {
+     "text": "j'étais enfant",
+     "translatedText": "eu era criança",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Maintenant",
+  "newLine": false,
+  "translation": {
+   "text": "Agora",
+   "tips": [
+    {
+     "text": "Maintenant",
+     "translatedText": "agora",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "je suis une fière créatrice de contenu",
+  "newLine": false,
+  "translation": {
+   "text": "eu sou uma orgulhosa criadora de conteúdo",
+   "tips": [
+    {
+     "text": "je suis",
+     "translatedText": "eu sou",
+     "explanation": null
+    },
+    {
+     "text": "une fière",
+     "translatedText": "uma orgulhosa",
+     "explanation": null
+    },
+    {
+     "text": "créatrice de contenu",
+     "translatedText": "criadora de conteúdo",
+     "explanation": "'Créatrice de contenu' é a forma feminina de 'créateur de contenu' = criador(a) de conteúdo (youtuber/influencer). Repare na moldura circular: a velha senhora que temia a tecnologia fecha o livro orgulhosa de ser criadora de conteúdo — o fim ecoa a abertura, recurso típico dos graded N3."
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

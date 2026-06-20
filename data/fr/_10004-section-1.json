@@ -1,0 +1,1696 @@
+[
+ {
+  "text": "Un après-midi",
+  "newLine": true,
+  "translation": {
+   "text": "Uma tarde",
+   "tips": [
+    {
+     "text": "un après-midi",
+     "translatedText": "uma tarde",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Anna",
+  "newLine": false,
+  "translation": {
+   "text": "Anna",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "une petite fille",
+  "newLine": false,
+  "translation": {
+   "text": "uma menininha",
+   "tips": [
+    {
+     "text": "une petite fille",
+     "translatedText": "uma menininha / garotinha",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très intelligente",
+  "newLine": false,
+  "translation": {
+   "text": "muito inteligente",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de cinq ans",
+  "newLine": false,
+  "translation": {
+   "text": "de cinco anos",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "n'est pas rentrée",
+  "newLine": false,
+  "translation": {
+   "text": "não voltou",
+   "tips": [
+    {
+     "text": "n'est pas rentrée",
+     "translatedText": "não voltou",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à la maison",
+  "newLine": false,
+  "translation": {
+   "text": "para casa",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec son sourire habituel",
+  "newLine": false,
+  "translation": {
+   "text": "com seu sorriso de sempre",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "À la place",
+  "newLine": false,
+  "translation": {
+   "text": "Em vez disso",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "il y avait quelque chose",
+  "newLine": false,
+  "translation": {
+   "text": "havia algo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans sa tête",
+  "newLine": false,
+  "translation": {
+   "text": "na cabeça dela",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sa mère lui a demandé",
+  "newLine": false,
+  "translation": {
+   "text": "sua mãe lhe perguntou",
+   "tips": []
+  }
+ },
+ {
+  "text": " : « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Ma fille",
+  "newLine": false,
+  "translation": {
+   "text": "Minha filha",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ça va",
+  "newLine": false,
+  "translation": {
+   "text": "tudo bem",
+   "tips": [
+    {
+     "text": "ça va ?",
+     "translatedText": "tudo bem?",
+     "explanation": "\"ça va ?\" é a pergunta mais comum para \"tudo bem? / como vai?\". Literalmente \"isso vai?\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Oui",
+  "newLine": false,
+  "translation": {
+   "text": "Sim",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "maman",
+  "newLine": false,
+  "translation": {
+   "text": "mamãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ça va",
+  "newLine": false,
+  "translation": {
+   "text": "tudo bem",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Mais aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "Mas hoje",
+   "tips": [
+    {
+     "text": "aujourd'hui",
+     "translatedText": "hoje",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à l'école",
+  "newLine": false,
+  "translation": {
+   "text": "na escola",
+   "tips": [
+    {
+     "text": "à l'école",
+     "translatedText": "na escola",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai compris",
+  "newLine": false,
+  "translation": {
+   "text": "eu entendi",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il y a beaucoup de choses",
+  "newLine": false,
+  "translation": {
+   "text": "que há muitas coisas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que je ne comprends pas",
+  "newLine": false,
+  "translation": {
+   "text": "que eu não entendo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "encore très bien",
+  "newLine": false,
+  "translation": {
+   "text": "ainda muito bem",
+   "tips": [
+    {
+     "text": "encore",
+     "translatedText": "ainda",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a dit la petite fille",
+  "newLine": false,
+  "translation": {
+   "text": "disse a menininha",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Tu veux en parler",
+  "newLine": false,
+  "translation": {
+   "text": "Você quer falar disso",
+   "tips": [
+    {
+     "text": "Tu veux en parler ?",
+     "translatedText": "Você quer falar disso?",
+     "explanation": "O pronome \"en\" substitui \"de + algo\": aqui \"en parler\" = \"falar disso\". \"Tu veux en parler ?\" = \"Você quer falar sobre isso?\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ? » ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a demandé sa mère",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou sua mãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Oui",
+  "newLine": false,
+  "translation": {
+   "text": "Sim",
+   "tips": []
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a répondu la petite fille",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu a menininha",
+   "tips": []
+  }
+ },
+ {
+  "text": ". « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "La maîtresse parlait",
+  "newLine": false,
+  "translation": {
+   "text": "A professora falava",
+   "tips": [
+    {
+     "text": "La maîtresse",
+     "translatedText": "A professora",
+     "explanation": "\"la maîtresse\" é como as crianças chamam a professora do primário (ensino fundamental). \"le maître\" seria o professor."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "du travail et des métiers",
+  "newLine": false,
+  "translation": {
+   "text": "do trabalho e das profissões",
+   "tips": [
+    {
+     "text": "les métiers",
+     "translatedText": "as profissões / os ofícios",
+     "explanation": "\"un métier\" é uma profissão ou ofício. \"les métiers\" = \"as profissões\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "aujourd'hui",
+  "newLine": false,
+  "translation": {
+   "text": "hoje",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et mes amis",
+  "newLine": false,
+  "translation": {
+   "text": "e meus amigos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "parlaient tous",
+  "newLine": false,
+  "translation": {
+   "text": "falavam todos",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des métiers de leurs parents",
+  "newLine": false,
+  "translation": {
+   "text": "das profissões dos pais deles",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais alors",
+  "newLine": false,
+  "translation": {
+   "text": "mas então",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "j'ai compris",
+  "newLine": false,
+  "translation": {
+   "text": "eu entendi",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que je ne sais pas",
+  "newLine": false,
+  "translation": {
+   "text": "que eu não sei",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce que tu fais",
+  "newLine": false,
+  "translation": {
+   "text": "o que você faz",
+   "tips": [
+    {
+     "text": "ce que tu fais",
+     "translatedText": "o que você faz",
+     "explanation": "\"ce que\" significa \"o que / aquilo que\". \"ce que tu fais\" = \"o que você faz\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ! »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Mais bien sûr",
+  "newLine": false,
+  "translation": {
+   "text": "Mas claro",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "que tu sais ce que je fais",
+  "newLine": false,
+  "translation": {
+   "text": "que você sabe o que eu faço",
+   "tips": []
+  }
+ },
+ {
+  "text": " ! ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je suis médecin",
+  "newLine": false,
+  "translation": {
+   "text": "Eu sou médica",
+   "tips": [
+    {
+     "text": "Je suis médecin",
+     "translatedText": "Eu sou médica",
+     "explanation": "Em francês não se usa artigo antes da profissão depois de \"être\": diz-se \"Je suis médecin\" (e não \"je suis un médecin\") = \"Eu sou médica\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Je travaille",
+  "newLine": false,
+  "translation": {
+   "text": "Eu trabalho",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à l'hôpital",
+  "newLine": false,
+  "translation": {
+   "text": "no hospital",
+   "tips": [
+    {
+     "text": "à l'hôpital",
+     "translatedText": "no hospital",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a dit sa mère",
+  "newLine": false,
+  "translation": {
+   "text": "disse sua mãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ". « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu es même venue",
+  "newLine": false,
+  "translation": {
+   "text": "Você até veio",
+   "tips": [
+    {
+     "text": "même",
+     "translatedText": "até / inclusive",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "me voir là-bas",
+  "newLine": false,
+  "translation": {
+   "text": "me ver lá",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "deux ou trois fois",
+  "newLine": false,
+  "translation": {
+   "text": "duas ou três vezes",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je sais ça",
+  "newLine": false,
+  "translation": {
+   "text": "Eu sei disso",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais qu'est-ce que tu fais",
+  "newLine": false,
+  "translation": {
+   "text": "mas o que você faz",
+   "tips": [
+    {
+     "text": "qu'est-ce que",
+     "translatedText": "o que",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "exactement",
+  "newLine": false,
+  "translation": {
+   "text": "exatamente",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu vois",
+  "newLine": false,
+  "translation": {
+   "text": "Sabe / Veja",
+   "tips": [
+    {
+     "text": "Tu vois",
+     "translatedText": "Sabe / Tá vendo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "c'est comme si",
+  "newLine": false,
+  "translation": {
+   "text": "é como se",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "je ne connaissais pas",
+  "newLine": false,
+  "translation": {
+   "text": "eu não conhecesse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les détails",
+  "newLine": false,
+  "translation": {
+   "text": "os detalhes",
+   "tips": []
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a répondu Anna",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu Anna",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sa mère commençait",
+  "newLine": true,
+  "translation": {
+   "text": "Sua mãe começava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à comprendre",
+  "newLine": false,
+  "translation": {
+   "text": "a entender",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ce que sa fille",
+  "newLine": false,
+  "translation": {
+   "text": "o que sua filha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "voulait dire",
+  "newLine": false,
+  "translation": {
+   "text": "queria dizer",
+   "tips": [
+    {
+     "text": "voulait dire",
+     "translatedText": "queria dizer",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Quand les gens",
+  "newLine": false,
+  "translation": {
+   "text": "Quando as pessoas",
+   "tips": [
+    {
+     "text": "les gens",
+     "translatedText": "as pessoas",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "tombent malades",
+  "newLine": false,
+  "translation": {
+   "text": "ficam doentes",
+   "tips": [
+    {
+     "text": "tombent malades",
+     "translatedText": "ficam doentes",
+     "explanation": "\"tomber malade\" significa literalmente \"cair doente\", ou seja, \"ficar doente / adoecer\". \"tombent\" é a forma do plural."
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "ils vont",
+  "newLine": false,
+  "translation": {
+   "text": "elas vão",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à l'hôpital",
+  "newLine": false,
+  "translation": {
+   "text": "ao hospital",
+   "tips": []
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a dit sa mère",
+  "newLine": false,
+  "translation": {
+   "text": "disse sua mãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ". « ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous nous occupons",
+  "newLine": false,
+  "translation": {
+   "text": "A gente cuida",
+   "tips": [
+    {
+     "text": "Nous nous occupons d'eux",
+     "translatedText": "A gente cuida deles",
+     "explanation": "Verbo reflexivo \"s'occuper de\" (cuidar de). O \"nous nous\" repetido é normal: o 1º \"nous\" é o sujeito (nós) e o 2º é o pronome reflexivo. \"Nous nous occupons d'eux\" = \"Nós cuidamos deles\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " d'eux ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "là-bas",
+  "newLine": false,
+  "translation": {
+   "text": "lá",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Nous leur donnons",
+  "newLine": false,
+  "translation": {
+   "text": "Nós damos a elas",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "le bon médicament",
+  "newLine": false,
+  "translation": {
+   "text": "o remédio certo",
+   "tips": [
+    {
+     "text": "le bon médicament",
+     "translatedText": "o remédio certo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "par exemple",
+  "newLine": false,
+  "translation": {
+   "text": "por exemplo",
+   "tips": []
+  }
+ },
+ {
+  "text": ". »",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Oui",
+  "newLine": false,
+  "translation": {
+   "text": "Sim",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "maman",
+  "newLine": false,
+  "translation": {
+   "text": "mamãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais la maîtresse a dit",
+  "newLine": false,
+  "translation": {
+   "text": "mas a professora disse",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'il y a",
+  "newLine": false,
+  "translation": {
+   "text": "que há",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "beaucoup de types différents",
+  "newLine": false,
+  "translation": {
+   "text": "muitos tipos diferentes",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "de médecins",
+  "newLine": false,
+  "translation": {
+   "text": "de médicos",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Certains",
+  "newLine": false,
+  "translation": {
+   "text": "Alguns",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "s'occupent des enfants",
+  "newLine": false,
+  "translation": {
+   "text": "cuidam das crianças",
+   "tips": [
+    {
+     "text": "s'occupent de",
+     "translatedText": "cuidam de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ; ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "certains",
+  "newLine": false,
+  "translation": {
+   "text": "alguns",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "s'occupent",
+  "newLine": false,
+  "translation": {
+   "text": "cuidam",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "des personnes âgées",
+  "newLine": false,
+  "translation": {
+   "text": "dos idosos",
+   "tips": [
+    {
+     "text": "les personnes âgées",
+     "translatedText": "os idosos / as pessoas idosas",
+     "explanation": "\"une personne âgée\" é \"uma pessoa idosa\". \"les personnes âgées\" = \"os idosos\". \"âgé\" vem de \"âge\" (idade)."
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Tu es quel type",
+  "newLine": false,
+  "translation": {
+   "text": "Você é qual tipo",
+   "tips": []
+  }
+ },
+ {
+  "text": " ? » ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a demandé Anna",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Anna",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Sa mère a respiré",
+  "newLine": true,
+  "translation": {
+   "text": "Sua mãe respirou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "profondément",
+  "newLine": false,
+  "translation": {
+   "text": "profundamente",
+   "tips": [
+    {
+     "text": "profondément",
+     "translatedText": "profundamente",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Elle adorait son métier",
+  "newLine": false,
+  "translation": {
+   "text": "Ela adorava sua profissão",
+   "tips": [
+    {
+     "text": "son métier",
+     "translatedText": "sua profissão / seu ofício",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais c'était un métier difficile",
+  "newLine": false,
+  "translation": {
+   "text": "mas era uma profissão difícil",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et elle ne pensait pas",
+  "newLine": false,
+  "translation": {
+   "text": "e ela não achava",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qu'elle allait parler de ça",
+  "newLine": false,
+  "translation": {
+   "text": "que ia falar disso",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "avec sa fille",
+  "newLine": false,
+  "translation": {
+   "text": "com sua filha",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "si tôt",
+  "newLine": false,
+  "translation": {
+   "text": "tão cedo",
+   "tips": [
+    {
+     "text": "si tôt",
+     "translatedText": "tão cedo",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Alors",
+  "newLine": false,
+  "translation": {
+   "text": "Então",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "elle s'est assise",
+  "newLine": false,
+  "translation": {
+   "text": "ela se sentou",
+   "tips": [
+    {
+     "text": "elle s'est assise",
+     "translatedText": "ela se sentou",
+     "explanation": "Passé composé do verbo \"s'asseoir\" (sentar-se). Com \"être\" o particípio concorda: \"assise\" tem -e porque \"elle\" é feminino. \"elle s'est assise\" = \"ela se sentou\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "sur le canapé",
+  "newLine": false,
+  "translation": {
+   "text": "no sofá",
+   "tips": [
+    {
+     "text": "le canapé",
+     "translatedText": "o sofá",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et Anna a fait la même chose",
+  "newLine": false,
+  "translation": {
+   "text": "e Anna fez a mesma coisa",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Leur chien",
+  "newLine": false,
+  "translation": {
+   "text": "O cachorro deles",
+   "tips": [
+    {
+     "text": "Leur chien",
+     "translatedText": "O cachorro deles",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "Yeux Bleus",
+  "newLine": false,
+  "translation": {
+   "text": "Yeux Bleus",
+   "tips": [
+    {
+     "text": "Yeux Bleus",
+     "translatedText": "Yeux Bleus (\"Olhos Azuis\") — nome do cachorro, mantido em francês",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "est aussi venu",
+  "newLine": false,
+  "translation": {
+   "text": "também veio",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans le salon",
+  "newLine": false,
+  "translation": {
+   "text": "para a sala",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "et s'est assis",
+  "newLine": false,
+  "translation": {
+   "text": "e se sentou",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "à côté de la petite fille",
+  "newLine": false,
+  "translation": {
+   "text": "ao lado da menininha",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "comme s'il était intéressé",
+  "newLine": false,
+  "translation": {
+   "text": "como se estivesse interessado",
+   "tips": [
+    {
+     "text": "comme s'il était intéressé",
+     "translatedText": "como se ele estivesse interessado",
+     "explanation": "\"comme si\" (como se) é sempre seguido do imparfait: \"comme s'il était\" = \"como se ele estivesse\". O \"si\" vira \"s'\" antes de \"il\"."
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "par la discussion",
+  "newLine": false,
+  "translation": {
+   "text": "na conversa",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "lui aussi",
+  "newLine": false,
+  "translation": {
+   "text": "ele também",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "« ",
+  "newLine": true,
+  "translation": null
+ },
+ {
+  "text": "Je m'occupe des personnes",
+  "newLine": false,
+  "translation": {
+   "text": "Eu cuido das pessoas",
+   "tips": [
+    {
+     "text": "Je m'occupe de",
+     "translatedText": "Eu cuido de",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "qui ont un cancer",
+  "newLine": false,
+  "translation": {
+   "text": "que têm câncer",
+   "tips": []
+  }
+ },
+ {
+  "text": ". ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "C'est une maladie",
+  "newLine": false,
+  "translation": {
+   "text": "É uma doença",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "très compliquée",
+  "newLine": false,
+  "translation": {
+   "text": "muito complicada",
+   "tips": []
+  }
+ },
+ {
+  "text": " ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "mais",
+  "newLine": false,
+  "translation": {
+   "text": "mas",
+   "tips": []
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "dans la plupart des cas",
+  "newLine": false,
+  "translation": {
+   "text": "na maioria dos casos",
+   "tips": [
+    {
+     "text": "la plupart des cas",
+     "translatedText": "a maioria dos casos",
+     "explanation": null
+    }
+   ]
+  }
+ },
+ {
+  "text": ", ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "les patients vont mieux",
+  "newLine": false,
+  "translation": {
+   "text": "os pacientes melhoram",
+   "tips": []
+  }
+ },
+ {
+  "text": " », ",
+  "newLine": false,
+  "translation": null
+ },
+ {
+  "text": "a expliqué sa mère",
+  "newLine": false,
+  "translation": {
+   "text": "explicou sua mãe",
+   "tips": []
+  }
+ },
+ {
+  "text": ".",
+  "newLine": false,
+  "translation": null
+ }
+]

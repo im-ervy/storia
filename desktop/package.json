@@ -1,0 +1,50 @@
+{
+  "name": "graded-readers-desktop",
+  "version": "1.1.0",
+  "description": "App desktop (Electron) da réplica Graded Readers — embrulha o app Next.js local e roda 100% offline.",
+  "private": true,
+  "main": "main.js",
+  "author": "Ervy",
+  "scripts": {
+    "start": "electron .",
+    "dev": "cross-env GR_DEV=1 electron .",
+    "attach": "electron .",
+    "dist": "electron-builder",
+    "dist:win": "electron-builder --win"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "electron": "^33.2.0",
+    "electron-builder": "^25.1.8"
+  },
+  "build": {
+    "appId": "com.mairo.gradedreaders.desktop",
+    "productName": "Graded Readers",
+    "files": [
+      "main.js",
+      "build/icon.ico",
+      "build/icon.png"
+    ],
+    "extraResources": [
+      {
+        "from": "..",
+        "to": "app",
+        "filter": [
+          ".next/**",
+          "public/**",
+          "data/**",
+          "node_modules/**",
+          "package.json",
+          "next.config.mjs"
+        ]
+      }
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico"
+    },
+    "directories": {
+      "output": "release"
+    }
+  }
+}

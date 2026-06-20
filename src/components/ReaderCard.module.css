@@ -1,0 +1,212 @@
+/* Linha .reader-item — valores do CSS compilado original
+ * (assets_raw/js/_lib_list_styles.css). */
+
+.readerItem {
+  display: flex;
+  border: 1px solid transparent;
+  border-bottom: 1px solid #dde9eb;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin: 0;
+  position: relative;
+  max-width: 1080px;
+  min-width: 1080px;
+  background-color: transparent;
+}
+@media (min-width: 992px) {
+  .readerItem:hover {
+    border: 1px solid #dde8eb;
+    box-shadow: 0 0 44px -8px #d7dfe0;
+    border-radius: 4px;
+    padding-left: 50.1px;
+    padding-right: 50.1px;
+    max-width: 1180px;
+    min-width: 1180px;
+  }
+  .readerItem:hover .cover {
+    filter: brightness(1.1);
+  }
+}
+
+.coverContainer {
+  height: 128px;
+  width: 128px;
+  position: relative;
+  padding: 0;
+  cursor: pointer;
+  flex: none;
+}
+.cover {
+  height: 128px;
+  width: 128px;
+  max-width: 128px;
+  object-fit: cover;
+  padding: 2px;
+  outline: 1px solid #cfdee1;
+  border-radius: 4px;
+}
+.readerTag {
+  top: 10px;
+  left: -13px;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 28px;
+  padding: 3px;
+  flex-direction: column;
+}
+.check {
+  width: 33px;
+  object-fit: contain;
+}
+
+.textContainer {
+  min-width: 65.18%;
+  max-width: 65.18%;
+  padding-left: 32px;
+  cursor: pointer;
+}
+.title {
+  height: min-content;
+  color: #124653;
+  font-size: 28px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  line-height: 1;
+  white-space: normal;
+  margin: 0 0 5px;
+}
+.levelAndRating {
+  height: 28px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+.level {
+  height: min-content;
+  color: #9fb6bd;
+  font-size: 13px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.stars {
+  margin-top: 2px;
+}
+.preview {
+  color: #6d969a;
+  font-size: 14px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  margin-top: 10px;
+  width: 100%;
+  max-height: 41px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.btnBox {
+  display: flex;
+  width: 100%;
+  justify-content: flex-start;
+  align-items: flex-end;
+  flex-direction: column;
+  padding-bottom: 35px;
+}
+.btnReader {
+  width: 216px;
+  color: #fff;
+  height: auto;
+  font-size: 20px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.01em;
+  text-transform: uppercase;
+  padding: 10px 0 12px;
+  box-shadow: none;
+  margin: 0.1px;
+  border: none;
+  border-radius: 5px;
+  background-image: linear-gradient(90deg, #28a5c1, #38bfd3);
+  cursor: pointer;
+}
+.btnReader:hover {
+  background-image: linear-gradient(90deg, #2ebed9, #3fd1e4);
+}
+.btnReader:active {
+  background-image: linear-gradient(90deg, #279fbb, #36b8cc);
+}
+.uniqueWords {
+  width: 216px;
+  padding-top: 16px;
+  text-align: center;
+  color: #9fb6bd;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 15px;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+.quantity {
+  color: #6d848b;
+}
+.mobileUniqueWords {
+  display: none;
+  color: #9fb6bd;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  margin: 10px 0 0;
+}
+
+@media (max-width: 1180px) {
+  .readerItem {
+    max-width: 100%;
+    min-width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .textContainer {
+    min-width: 0;
+    flex: 1;
+  }
+}
+
+@media (max-width: 991px) {
+  .readerItem {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .btnBox {
+    display: none;
+  }
+  .mobileUniqueWords {
+    display: block;
+  }
+  .coverContainer,
+  .cover {
+    height: 96px;
+    width: 96px;
+  }
+  .readerTag {
+    left: -10px;
+  }
+  .check {
+    width: 26px;
+  }
+  .textContainer {
+    max-width: none;
+    padding-left: 16px;
+  }
+  .title {
+    font-size: 20px;
+  }
+  .preview {
+    font-size: 13px;
+    max-height: 38px;
+  }
+}

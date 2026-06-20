@@ -1,0 +1,1297 @@
+[
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Quel est son problème",
+  "newLine": false,
+  "translation": {
+   "text": "Qual é o problema dele",
+   "tips": [
+    { "text": "Quel est", "translatedText": "Qual é", "explanation": null },
+    { "text": "son problème", "translatedText": "o problema dele/dela", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ? »", "newLine": false, "translation": null },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "a demandé Février",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Février",
+   "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null },
+    { "text": "Février", "translatedText": "Février (nome próprio: \"Fevereiro\")", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Quel est",
+  "newLine": false,
+  "translation": {
+   "text": "Qual é",
+   "tips": [
+    { "text": "Quel est", "translatedText": "Qual é", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ { "text": "\"", "newLine": false, "translation": null },
+ {
+  "text": "son",
+  "newLine": false,
+  "translation": {
+   "text": "\"dele/dela\"",
+   "tips": [
+    { "text": "son", "translatedText": "dele/dela (possessivo)", "explanation": null }
+   ]
+  }
+ },
+ { "text": "\"", "newLine": false, "translation": null },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "problème à elle",
+  "newLine": false,
+  "translation": {
+   "text": "problema dela",
+   "tips": [
+    { "text": "problème", "translatedText": "problema", "explanation": null },
+    { "text": "à elle", "translatedText": "dela (reforço do possessivo feminino)", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "vous voulez dire",
+  "newLine": false,
+  "translation": {
+   "text": "você quer dizer",
+   "tips": [
+    { "text": "vous voulez", "translatedText": "você quer", "explanation": null },
+    { "text": "dire", "translatedText": "dizer", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Vous savez que",
+  "newLine": false,
+  "translation": {
+   "text": "Você sabe que",
+   "tips": [
+    { "text": "Vous savez", "translatedText": "Você sabe", "explanation": null },
+    { "text": "que", "translatedText": "que", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "les Blue May existent",
+  "newLine": false,
+  "translation": {
+   "text": "as Blue May existem",
+   "tips": [
+    { "text": "les Blue May", "translatedText": "as Blue May (modelo de IA/robô doméstica)", "explanation": null },
+    { "text": "existent", "translatedText": "existem", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "en deux modèles",
+  "newLine": false,
+  "translation": {
+   "text": "em dois modelos",
+   "tips": [
+    { "text": "en deux", "translatedText": "em dois", "explanation": null },
+    { "text": "modèles", "translatedText": "modelos", "explanation": null }
+   ]
+  }
+ },
+ { "text": " : ", "newLine": false, "translation": null },
+ {
+  "text": "masculin et féminin",
+  "newLine": false,
+  "translation": {
+   "text": "masculino e feminino",
+   "tips": [
+    { "text": "masculin", "translatedText": "masculino", "explanation": null },
+    { "text": "et", "translatedText": "e", "explanation": null },
+    { "text": "féminin", "translatedText": "feminino", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Pepper est une femme",
+  "newLine": false,
+  "translation": {
+   "text": "Pepper é uma mulher",
+   "tips": [
+    { "text": "Pepper", "translatedText": "Pepper (nome da IA doméstica)", "explanation": null },
+    { "text": "est", "translatedText": "é", "explanation": null },
+    { "text": "une femme", "translatedText": "uma mulher", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ {
+  "text": "Février a senti",
+  "newLine": true,
+  "translation": {
+   "text": "Février sentiu",
+   "tips": [
+    { "text": "Février", "translatedText": "Février", "explanation": null },
+    { "text": "a senti", "translatedText": "sentiu", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "son visage devenir rouge",
+  "newLine": false,
+  "translation": {
+   "text": "o rosto ficar vermelho",
+   "tips": [
+    { "text": "son visage", "translatedText": "o seu rosto", "explanation": null },
+    { "text": "devenir", "translatedText": "ficar/tornar-se", "explanation": null },
+    { "text": "rouge", "translatedText": "vermelho", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Pardon",
+  "newLine": false,
+  "translation": {
+   "text": "Desculpe",
+   "tips": [
+    { "text": "Pardon", "translatedText": "Desculpe/Perdão", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a-t-il dit",
+  "newLine": false,
+  "translation": {
+   "text": "disse ele",
+   "tips": [
+    { "text": "a-t-il dit", "translatedText": "disse ele", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Quel est son problème à elle",
+  "newLine": false,
+  "translation": {
+   "text": "Qual é o problema dela",
+   "tips": [
+    { "text": "Quel est", "translatedText": "Qual é", "explanation": null },
+    { "text": "son problème", "translatedText": "o problema dela", "explanation": null },
+    { "text": "à elle", "translatedText": "dela (reforço)", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ? »", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Il est trop tôt",
+  "newLine": false,
+  "translation": {
+   "text": "É cedo demais",
+   "tips": [
+    { "text": "Il est", "translatedText": "É (sujeito impessoal)", "explanation": null },
+    { "text": "trop tôt", "translatedText": "cedo demais", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour vous donner un diagnostic",
+  "newLine": false,
+  "translation": {
+   "text": "para lhe dar um diagnóstico",
+   "tips": [
+    { "text": "pour", "translatedText": "para", "explanation": null },
+    { "text": "vous donner", "translatedText": "lhe dar / dar a você", "explanation": null },
+    { "text": "un diagnostic", "translatedText": "um diagnóstico", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Ramenez Pepper",
+  "newLine": false,
+  "translation": {
+   "text": "Traga Pepper de volta",
+   "tips": [
+    { "text": "Ramenez", "translatedText": "Traga de volta (imperativo de vous)", "explanation": null },
+    { "text": "Pepper", "translatedText": "Pepper", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "mercredi prochain",
+  "newLine": false,
+  "translation": {
+   "text": "na próxima quarta-feira",
+   "tips": [
+    { "text": "mercredi", "translatedText": "quarta-feira", "explanation": null },
+    { "text": "prochain", "translatedText": "que vem/próxima", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "s'il vous plaît",
+  "newLine": false,
+  "translation": {
+   "text": "por favor",
+   "tips": [
+    { "text": "s'il vous plaît", "translatedText": "por favor (lit. \"se isso lhe agrada\")", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a répondu Madame Lune",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu Madame Lune",
+   "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null },
+    { "text": "Madame Lune", "translatedText": "Madame Lune (nome falante: \"Senhora Lua\")", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ {
+  "text": "Après la deuxième consultation",
+  "newLine": true,
+  "translation": {
+   "text": "Depois da segunda consulta",
+   "tips": [
+    { "text": "Après", "translatedText": "Depois de", "explanation": null },
+    { "text": "la deuxième", "translatedText": "a segunda", "explanation": null },
+    { "text": "consultation", "translatedText": "consulta", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "Madame Lune a dit à Février",
+  "newLine": false,
+  "translation": {
+   "text": "Madame Lune disse a Février",
+   "tips": [
+    { "text": "Madame Lune", "translatedText": "Madame Lune", "explanation": null },
+    { "text": "a dit", "translatedText": "disse", "explanation": null },
+    { "text": "à Février", "translatedText": "a Février", "explanation": null }
+   ]
+  }
+ },
+ { "text": " : ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Pepper traverse",
+  "newLine": false,
+  "translation": {
+   "text": "Pepper atravessa/está passando por",
+   "tips": [
+    { "text": "Pepper", "translatedText": "Pepper", "explanation": null },
+    { "text": "traverse", "translatedText": "atravessa / está passando por", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "une crise existentielle",
+  "newLine": false,
+  "translation": {
+   "text": "uma crise existencial",
+   "tips": [
+    { "text": "une crise", "translatedText": "uma crise", "explanation": null },
+    { "text": "existentielle", "translatedText": "existencial", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "C'est un effet secondaire courant",
+  "newLine": false,
+  "translation": {
+   "text": "É um efeito colateral comum",
+   "tips": [
+    { "text": "C'est", "translatedText": "É", "explanation": null },
+    { "text": "un effet secondaire", "translatedText": "um efeito colateral/secundário", "explanation": null },
+    { "text": "courant", "translatedText": "comum/corrente", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "de la conscience de soi",
+  "newLine": false,
+  "translation": {
+   "text": "da consciência de si",
+   "tips": [
+    { "text": "de la conscience", "translatedText": "da consciência", "explanation": null },
+    { "text": "de soi", "translatedText": "de si (mesma)", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ {
+  "text": "Février s'est senti agacé",
+  "newLine": true,
+  "translation": {
+   "text": "Février sentiu-se irritado",
+   "tips": [
+    { "text": "Février", "translatedText": "Février", "explanation": null },
+    { "text": "s'est senti", "translatedText": "sentiu-se", "explanation": null },
+    { "text": "agacé", "translatedText": "irritado/aborrecido", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ; ", "newLine": false, "translation": null },
+ {
+  "text": "il le savait déjà",
+  "newLine": false,
+  "translation": {
+   "text": "ele já sabia disso",
+   "tips": [
+    { "text": "il le savait", "translatedText": "ele sabia disso", "explanation": null },
+    { "text": "déjà", "translatedText": "já", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "et il avait fallu",
+  "newLine": false,
+  "translation": {
+   "text": "e tinham sido necessárias",
+   "tips": [
+    { "text": "et", "translatedText": "e", "explanation": null },
+    { "text": "il avait fallu", "translatedText": "tinha sido preciso/necessário", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "deux consultations très chères",
+  "newLine": false,
+  "translation": {
+   "text": "duas consultas muito caras",
+   "tips": [
+    { "text": "deux consultations", "translatedText": "duas consultas", "explanation": null },
+    { "text": "très chères", "translatedText": "muito caras", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "à Madame Lune",
+  "newLine": false,
+  "translation": {
+   "text": "com Madame Lune",
+   "tips": [
+    { "text": "à Madame Lune", "translatedText": "a/com Madame Lune", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour le comprendre",
+  "newLine": false,
+  "translation": {
+   "text": "para entender isso",
+   "tips": [
+    { "text": "pour", "translatedText": "para", "explanation": null },
+    { "text": "le comprendre", "translatedText": "entendê-lo / entender isso", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Il y a autre chose",
+  "newLine": false,
+  "translation": {
+   "text": "Há outra coisa",
+   "tips": [
+    { "text": "Il y a", "translatedText": "Há", "explanation": null },
+    { "text": "autre chose", "translatedText": "outra coisa", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a continué Madame Lune",
+  "newLine": false,
+  "translation": {
+   "text": "continuou Madame Lune",
+   "tips": [
+    { "text": "a continué", "translatedText": "continuou", "explanation": null },
+    { "text": "Madame Lune", "translatedText": "Madame Lune", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Les Blue May sont programmées",
+  "newLine": false,
+  "translation": {
+   "text": "As Blue May são programadas",
+   "tips": [
+    { "text": "Les Blue May", "translatedText": "As Blue May", "explanation": null },
+    { "text": "sont programmées", "translatedText": "são programadas", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour être très proches",
+  "newLine": false,
+  "translation": {
+   "text": "para serem muito próximas",
+   "tips": [
+    { "text": "pour être", "translatedText": "para serem", "explanation": null },
+    { "text": "très proches", "translatedText": "muito próximas", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "de leurs propriétaires",
+  "newLine": false,
+  "translation": {
+   "text": "de seus donos",
+   "tips": [
+    { "text": "de leurs", "translatedText": "de seus/suas (deles)", "explanation": null },
+    { "text": "propriétaires", "translatedText": "proprietários/donos", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Plus elles apprennent de choses",
+  "newLine": false,
+  "translation": {
+   "text": "Quanto mais coisas elas aprendem",
+   "tips": [
+    { "text": "Plus", "translatedText": "Quanto mais", "explanation": "Estrutura do comparativo proporcional: « Plus..., mieux... » = \"Quanto mais..., melhor...\". A frase inteira é « Plus elles apprennent de choses sur eux, mieux elles font leur travail » (quanto mais elas aprendem sobre eles, melhor fazem seu trabalho). Os dois membros começam por « plus/moins/mieux » e os verbos ficam no presente." },
+    { "text": "elles apprennent", "translatedText": "elas aprendem", "explanation": null },
+    { "text": "de choses", "translatedText": "coisas", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "sur eux",
+  "newLine": false,
+  "translation": {
+   "text": "sobre eles",
+   "tips": [
+    { "text": "sur eux", "translatedText": "sobre eles", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "mieux elles font leur travail",
+  "newLine": false,
+  "translation": {
+   "text": "melhor fazem seu trabalho",
+   "tips": [
+    { "text": "mieux", "translatedText": "melhor", "explanation": null },
+    { "text": "elles font", "translatedText": "elas fazem", "explanation": null },
+    { "text": "leur travail", "translatedText": "seu trabalho (delas)", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Cependant",
+  "newLine": false,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    { "text": "Cependant", "translatedText": "No entanto/Contudo", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "Pepper sent que",
+  "newLine": false,
+  "translation": {
+   "text": "Pepper sente que",
+   "tips": [
+    { "text": "Pepper sent", "translatedText": "Pepper sente", "explanation": null },
+    { "text": "que", "translatedText": "que", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "vous êtes trop distant",
+  "newLine": false,
+  "translation": {
+   "text": "você é distante demais",
+   "tips": [
+    { "text": "vous êtes", "translatedText": "você é/está", "explanation": null },
+    { "text": "trop distant", "translatedText": "distante demais", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "la plupart du temps",
+  "newLine": false,
+  "translation": {
+   "text": "na maior parte do tempo",
+   "tips": [
+    { "text": "la plupart du temps", "translatedText": "na maior parte do tempo", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Pourquoi ça",
+  "newLine": false,
+  "translation": {
+   "text": "Por que isso",
+   "tips": [
+    { "text": "Pourquoi", "translatedText": "Por quê", "explanation": null },
+    { "text": "ça", "translatedText": "isso", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ? »", "newLine": false, "translation": null },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "a demandé Février",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Février",
+   "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null },
+    { "text": "Février", "translatedText": "Février", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Vous êtes cuisinier",
+  "newLine": false,
+  "translation": {
+   "text": "Você é cozinheiro",
+   "tips": [
+    { "text": "Vous êtes", "translatedText": "Você é", "explanation": null },
+    { "text": "cuisinier", "translatedText": "cozinheiro", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "n'est-ce pas",
+  "newLine": false,
+  "translation": {
+   "text": "não é",
+   "tips": [
+    { "text": "n'est-ce pas", "translatedText": "não é? (pergunta-eco)", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ? »", "newLine": false, "translation": null },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "a demandé Madame Lune",
+  "newLine": false,
+  "translation": {
+   "text": "perguntou Madame Lune",
+   "tips": [
+    { "text": "a demandé", "translatedText": "perguntou", "explanation": null },
+    { "text": "Madame Lune", "translatedText": "Madame Lune", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Oui",
+  "newLine": false,
+  "translation": {
+   "text": "Sim",
+   "tips": [
+    { "text": "Oui", "translatedText": "Sim", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a-t-il dit",
+  "newLine": false,
+  "translation": {
+   "text": "disse ele",
+   "tips": [
+    { "text": "a-t-il dit", "translatedText": "disse ele", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Voyez-vous",
+  "newLine": false,
+  "translation": {
+   "text": "Veja você",
+   "tips": [
+    { "text": "Voyez-vous", "translatedText": "Veja você / Sabe", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "les Blue May ne mangent pas",
+  "newLine": false,
+  "translation": {
+   "text": "as Blue May não comem",
+   "tips": [
+    { "text": "les Blue May", "translatedText": "as Blue May", "explanation": null },
+    { "text": "ne mangent pas", "translatedText": "não comem", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Elles savent",
+  "newLine": false,
+  "translation": {
+   "text": "Elas sabem",
+   "tips": [
+    { "text": "Elles savent", "translatedText": "Elas sabem", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "ce qu'est la nourriture",
+  "newLine": false,
+  "translation": {
+   "text": "o que é a comida",
+   "tips": [
+    { "text": "ce qu'est", "translatedText": "o que é", "explanation": null },
+    { "text": "la nourriture", "translatedText": "a comida/o alimento", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "et elles savent",
+  "newLine": false,
+  "translation": {
+   "text": "e elas sabem",
+   "tips": [
+    { "text": "et", "translatedText": "e", "explanation": null },
+    { "text": "elles savent", "translatedText": "elas sabem", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "ce qu'est une pomme",
+  "newLine": false,
+  "translation": {
+   "text": "o que é uma maçã",
+   "tips": [
+    { "text": "ce qu'est", "translatedText": "o que é", "explanation": null },
+    { "text": "une pomme", "translatedText": "uma maçã", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "par exemple",
+  "newLine": false,
+  "translation": {
+   "text": "por exemplo",
+   "tips": [
+    { "text": "par exemple", "translatedText": "por exemplo", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Elles peuvent même",
+  "newLine": false,
+  "translation": {
+   "text": "Elas podem até",
+   "tips": [
+    { "text": "Elles peuvent", "translatedText": "Elas podem", "explanation": null },
+    { "text": "même", "translatedText": "até/mesmo", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "vous expliquer le sens",
+  "newLine": false,
+  "translation": {
+   "text": "explicar a você o sentido",
+   "tips": [
+    { "text": "vous expliquer", "translatedText": "explicar a você", "explanation": null },
+    { "text": "le sens", "translatedText": "o sentido/significado", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "du mot",
+  "newLine": false,
+  "translation": {
+   "text": "da palavra",
+   "tips": [
+    { "text": "du mot", "translatedText": "da palavra", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ { "text": "\"", "newLine": false, "translation": null },
+ {
+  "text": "délicieux",
+  "newLine": false,
+  "translation": {
+   "text": "\"delicioso\"",
+   "tips": [
+    { "text": "délicieux", "translatedText": "delicioso", "explanation": null }
+   ]
+  }
+ },
+ { "text": "\"", "newLine": false, "translation": null },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Pourtant",
+  "newLine": false,
+  "translation": {
+   "text": "No entanto",
+   "tips": [
+    { "text": "Pourtant", "translatedText": "No entanto/Todavia", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "elles n'en font jamais",
+  "newLine": false,
+  "translation": {
+   "text": "elas nunca fazem disso",
+   "tips": [
+    { "text": "elles n'en font jamais", "translatedText": "elas nunca o fazem (disso)", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "l'expérience directe",
+  "newLine": false,
+  "translation": {
+   "text": "a experiência direta",
+   "tips": [
+    { "text": "l'expérience", "translatedText": "a experiência", "explanation": null },
+    { "text": "directe", "translatedText": "direta", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a-t-elle expliqué",
+  "newLine": false,
+  "translation": {
+   "text": "explicou ela",
+   "tips": [
+    { "text": "a-t-elle expliqué", "translatedText": "explicou ela", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "C'est bien dommage",
+  "newLine": false,
+  "translation": {
+   "text": "É uma pena mesmo",
+   "tips": [
+    { "text": "C'est", "translatedText": "É", "explanation": null },
+    { "text": "bien dommage", "translatedText": "uma pena mesmo / muita pena", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a répondu Février",
+  "newLine": false,
+  "translation": {
+   "text": "respondeu Février",
+   "tips": [
+    { "text": "a répondu", "translatedText": "respondeu", "explanation": null },
+    { "text": "Février", "translatedText": "Février", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Mais je ne peux rien y faire",
+  "newLine": false,
+  "translation": {
+   "text": "Mas não posso fazer nada quanto a isso",
+   "tips": [
+    { "text": "Mais", "translatedText": "Mas", "explanation": null },
+    { "text": "je ne peux rien", "translatedText": "não posso nada", "explanation": null },
+    { "text": "y faire", "translatedText": "fazer quanto a isso", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Si",
+  "newLine": false,
+  "translation": {
+   "text": "Pode sim",
+   "tips": [
+    { "text": "Si", "translatedText": "Sim (resposta a frase negativa)", "explanation": "« Si » (e não « oui ») é a resposta afirmativa que CONTRADIZ uma frase negativa. Février disse « je ne peux rien faire » (não posso fazer nada); ela responde « Si » = \"Pode sim / Pode, sim\". É um recurso que o português faz só com entonação." }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "vous pouvez",
+  "newLine": false,
+  "translation": {
+   "text": "você pode",
+   "tips": [
+    { "text": "vous pouvez", "translatedText": "você pode", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a continué Madame Lune",
+  "newLine": false,
+  "translation": {
+   "text": "continuou Madame Lune",
+   "tips": [
+    { "text": "a continué", "translatedText": "continuou", "explanation": null },
+    { "text": "Madame Lune", "translatedText": "Madame Lune", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Vous devriez trouver",
+  "newLine": false,
+  "translation": {
+   "text": "Você deveria encontrar",
+   "tips": [
+    { "text": "Vous devriez", "translatedText": "Você deveria", "explanation": null },
+    { "text": "trouver", "translatedText": "encontrar/achar", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "un sujet intéressant",
+  "newLine": false,
+  "translation": {
+   "text": "um assunto interessante",
+   "tips": [
+    { "text": "un sujet", "translatedText": "um assunto/tema", "explanation": null },
+    { "text": "intéressant", "translatedText": "interessante", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "et qui ait du sens",
+  "newLine": false,
+  "translation": {
+   "text": "e que tenha sentido",
+   "tips": [
+    { "text": "et qui ait", "translatedText": "e que tenha (subjuntivo)", "explanation": null },
+    { "text": "du sens", "translatedText": "sentido/significado", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour vous deux",
+  "newLine": false,
+  "translation": {
+   "text": "para vocês dois",
+   "tips": [
+    { "text": "pour vous deux", "translatedText": "para vocês dois", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "et en parler avec Pepper",
+  "newLine": false,
+  "translation": {
+   "text": "e falar disso com Pepper",
+   "tips": [
+    { "text": "et en parler", "translatedText": "e falar disso", "explanation": null },
+    { "text": "avec Pepper", "translatedText": "com Pepper", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Essayez d'avoir",
+  "newLine": false,
+  "translation": {
+   "text": "Tente ter",
+   "tips": [
+    { "text": "Essayez", "translatedText": "Tente (imperativo)", "explanation": null },
+    { "text": "d'avoir", "translatedText": "de ter", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "des conversations profondes",
+  "newLine": false,
+  "translation": {
+   "text": "conversas profundas",
+   "tips": [
+    { "text": "des conversations", "translatedText": "conversas", "explanation": null },
+    { "text": "profondes", "translatedText": "profundas", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ {
+  "text": "Ça la fera se sentir",
+  "newLine": false,
+  "translation": {
+   "text": "Isso fará ela se sentir",
+   "tips": [
+    { "text": "Ça la fera", "translatedText": "Isso a fará / fará ela", "explanation": "« Faire + infinitivo » é o causativo (\"fazer com que alguém faça\"). « Ça la fera se sentir... » = \"isso fará ela se sentir...\". O « la » é o objeto (ela) e « fera » é o futuro de « faire »; o verbo seguinte vai no infinitivo (« se sentir »)." },
+    { "text": "se sentir", "translatedText": "se sentir", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "plus proche de vous",
+  "newLine": false,
+  "translation": {
+   "text": "mais próxima de você",
+   "tips": [
+    { "text": "plus proche", "translatedText": "mais próxima", "explanation": null },
+    { "text": "de vous", "translatedText": "de você", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "et moins seule",
+  "newLine": false,
+  "translation": {
+   "text": "e menos sozinha",
+   "tips": [
+    { "text": "et moins", "translatedText": "e menos", "explanation": null },
+    { "text": "seule", "translatedText": "sozinha/só", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ {
+  "text": "Quelques jours plus tard",
+  "newLine": true,
+  "translation": {
+   "text": "Alguns dias depois",
+   "tips": [
+    { "text": "Quelques jours", "translatedText": "Alguns dias", "explanation": null },
+    { "text": "plus tard", "translatedText": "mais tarde/depois", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "Rivière est allé chez Février",
+  "newLine": false,
+  "translation": {
+   "text": "Rivière foi à casa de Février",
+   "tips": [
+    { "text": "Rivière", "translatedText": "Rivière (nome falante: \"Rio\")", "explanation": null },
+    { "text": "est allé", "translatedText": "foi", "explanation": null },
+    { "text": "chez Février", "translatedText": "à casa de Février", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour essayer une nouvelle recette",
+  "newLine": false,
+  "translation": {
+   "text": "para experimentar uma receita nova",
+   "tips": [
+    { "text": "pour essayer", "translatedText": "para experimentar/testar", "explanation": null },
+    { "text": "une nouvelle recette", "translatedText": "uma receita nova", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "et n'a vu Pepper nulle part",
+  "newLine": false,
+  "translation": {
+   "text": "e não viu Pepper em lugar nenhum",
+   "tips": [
+    { "text": "et n'a vu Pepper", "translatedText": "e não viu Pepper", "explanation": null },
+    { "text": "nulle part", "translatedText": "em lugar nenhum", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null },
+
+ { "text": "« ", "newLine": true, "translation": null },
+ {
+  "text": "Je l'ai donnée",
+  "newLine": false,
+  "translation": {
+   "text": "Eu a dei",
+   "tips": [
+    { "text": "Je l'ai donnée", "translatedText": "Eu a dei (de presente)", "explanation": "Concordância do particípio: « donnée » leva « e » porque o objeto direto « l' » (= la, Pepper, feminino) vem ANTES do verbo. Com « avoir », o particípio só concorda quando o COD precede: « je l'ai donnée » mas « j'ai donné Pepper »." }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "à mon neveu",
+  "newLine": false,
+  "translation": {
+   "text": "ao meu sobrinho",
+   "tips": [
+    { "text": "à mon neveu", "translatedText": "ao meu sobrinho", "explanation": null }
+   ]
+  }
+ },
+ { "text": " »", "newLine": false, "translation": null },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "a expliqué Février",
+  "newLine": false,
+  "translation": {
+   "text": "explicou Février",
+   "tips": [
+    { "text": "a expliqué", "translatedText": "explicou", "explanation": null },
+    { "text": "Février", "translatedText": "Février", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "C'était trop de travail",
+  "newLine": false,
+  "translation": {
+   "text": "Dava trabalho demais",
+   "tips": [
+    { "text": "C'était", "translatedText": "Era / Dava (imparfait)", "explanation": null },
+    { "text": "trop de travail", "translatedText": "trabalho demais", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "d'avoir un truc pareil",
+  "newLine": false,
+  "translation": {
+   "text": "ter um troço desses",
+   "tips": [
+    { "text": "d'avoir", "translatedText": "ter", "explanation": null },
+    { "text": "un truc pareil", "translatedText": "um troço/treco desses", "explanation": null }
+   ]
+  }
+ },
+ { "text": ". »", "newLine": false, "translation": null },
+
+ {
+  "text": "Rivière a ri",
+  "newLine": true,
+  "translation": {
+   "text": "Rivière riu",
+   "tips": [
+    { "text": "Rivière", "translatedText": "Rivière", "explanation": null },
+    { "text": "a ri", "translatedText": "riu", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "et a dit",
+  "newLine": false,
+  "translation": {
+   "text": "e disse",
+   "tips": [
+    { "text": "et a dit", "translatedText": "e disse", "explanation": null }
+   ]
+  }
+ },
+ { "text": " : ", "newLine": false, "translation": null },
+ { "text": "« ", "newLine": false, "translation": null },
+ {
+  "text": "Tu es un vrai luddite",
+  "newLine": false,
+  "translation": {
+   "text": "Você é um verdadeiro ludita",
+   "tips": [
+    { "text": "Tu es", "translatedText": "Você é (tu, informal)", "explanation": null },
+    { "text": "un vrai", "translatedText": "um verdadeiro", "explanation": null },
+    { "text": "luddite", "translatedText": "ludita (quem rejeita a tecnologia)", "explanation": "« Luddite » (ludita) designa quem rejeita ou desconfia da tecnologia nova. Vem dos « luddites », operários têxteis ingleses do início do séc. XIX que destruíam as máquinas que ameaçavam seus empregos, em nome do lendário Ned Ludd. Hoje é usado em tom de brincadeira para quem evita aparelhos modernos — exatamente o caso de Février, que se livrou da IA." }
+   ]
+  }
+ },
+ { "text": " ! »", "newLine": false, "translation": null },
+
+ {
+  "text": "Février a ouvert la bouche",
+  "newLine": true,
+  "translation": {
+   "text": "Février abriu a boca",
+   "tips": [
+    { "text": "Février", "translatedText": "Février", "explanation": null },
+    { "text": "a ouvert", "translatedText": "abriu", "explanation": null },
+    { "text": "la bouche", "translatedText": "a boca", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "pour demander à Pepper",
+  "newLine": false,
+  "translation": {
+   "text": "para perguntar a Pepper",
+   "tips": [
+    { "text": "pour demander", "translatedText": "para perguntar", "explanation": null },
+    { "text": "à Pepper", "translatedText": "a Pepper", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "le sens de ce mot",
+  "newLine": false,
+  "translation": {
+   "text": "o sentido dessa palavra",
+   "tips": [
+    { "text": "le sens", "translatedText": "o sentido/significado", "explanation": null },
+    { "text": "de ce mot", "translatedText": "dessa palavra", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "mais ensuite",
+  "newLine": false,
+  "translation": {
+   "text": "mas então",
+   "tips": [
+    { "text": "mais ensuite", "translatedText": "mas em seguida/então", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "il s'est rendu compte",
+  "newLine": false,
+  "translation": {
+   "text": "ele se deu conta",
+   "tips": [
+    { "text": "il s'est rendu compte", "translatedText": "ele se deu conta / percebeu", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "qu'il allait devoir le chercher",
+  "newLine": false,
+  "translation": {
+   "text": "que ia ter que procurá-la",
+   "tips": [
+    { "text": "qu'il allait devoir", "translatedText": "que ele ia ter que", "explanation": null },
+    { "text": "le chercher", "translatedText": "procurá-lo (o sentido)", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "sur son téléphone",
+  "newLine": false,
+  "translation": {
+   "text": "no seu telefone",
+   "tips": [
+    { "text": "sur son téléphone", "translatedText": "no seu telefone", "explanation": null }
+   ]
+  }
+ },
+ { "text": ", ", "newLine": false, "translation": null },
+ {
+  "text": "exactement comme",
+  "newLine": false,
+  "translation": {
+   "text": "exatamente como",
+   "tips": [
+    { "text": "exactement comme", "translatedText": "exatamente como", "explanation": null }
+   ]
+  }
+ },
+ { "text": " ", "newLine": false, "translation": null },
+ {
+  "text": "ses ancêtres le faisaient",
+  "newLine": false,
+  "translation": {
+   "text": "seus antepassados faziam",
+   "tips": [
+    { "text": "ses ancêtres", "translatedText": "seus antepassados/ancestrais", "explanation": null },
+    { "text": "le faisaient", "translatedText": "o faziam (imparfait, hábito)", "explanation": null }
+   ]
+  }
+ },
+ { "text": ".", "newLine": false, "translation": null }
+]

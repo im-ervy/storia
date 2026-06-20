@@ -1,0 +1,1195 @@
+[
+  {
+    "text": "Étoile l'a fait et",
+    "newLine": true,
+    "translation": {
+      "text": "Étoile fez isso e",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "après quelques minutes",
+    "newLine": false,
+    "translation": {
+      "text": "depois de alguns minutos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il était dans le parc",
+    "newLine": false,
+    "translation": {
+      "text": "ele estava no parque",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où il jouait",
+    "newLine": false,
+    "translation": {
+      "text": "onde ele brincava",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand il était un petit garçon",
+    "newLine": false,
+    "translation": {
+      "text": "quando era um menininho",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Quand Étoile est revenu",
+    "newLine": true,
+    "translation": {
+      "text": "Quando Étoile voltou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à la Première Ville",
+    "newLine": false,
+    "translation": {
+      "text": "à Primeira Cidade",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a acheté le tapis",
+    "newLine": false,
+    "translation": {
+      "text": "ele comprou o tapete",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il pensait qu'il n'allait pas trouver",
+    "newLine": false,
+    "translation": {
+      "text": "ele achava que não ia encontrar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quelque chose de plus intéressant",
+    "newLine": false,
+    "translation": {
+      "text": "algo mais interessante",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Étoile a décidé de retourner",
+    "newLine": false,
+    "translation": {
+      "text": "Étoile decidiu voltar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à l'endroit",
+    "newLine": false,
+    "translation": {
+      "text": "ao lugar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où lui et ses frères",
+    "newLine": false,
+    "translation": {
+      "text": "onde ele e seus irmãos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devaient se revoir",
+    "newLine": false,
+    "translation": {
+      "text": "deviam se reencontrar",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pendant ce temps",
+    "newLine": true,
+    "translation": {
+      "text": "Enquanto isso",
+      "tips": [
+        {
+          "text": "Pendant ce temps",
+          "translatedText": "enquanto isso",
+          "explanation": "Conector que liga episódios paralelos: enquanto uma coisa acontecia com um irmão, outra acontecia com o outro. Literalmente \"durante esse tempo\". É a marca que muda a cena de Étoile para Yeux Noirs."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs était allé",
+    "newLine": false,
+    "translation": {
+      "text": "Yeux Noirs tinha ido",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à une ville appelée la Ville Blanche",
+    "newLine": false,
+    "translation": {
+      "text": "a uma cidade chamada Cidade Branca",
+      "tips": [
+        {
+          "text": "la Ville Blanche",
+          "translatedText": "a Cidade Branca",
+          "explanation": null
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Elle n'était pas très grande",
+    "newLine": false,
+    "translation": {
+      "text": "Ela não era muito grande",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais elle était très intéressante",
+    "newLine": false,
+    "translation": {
+      "text": "mas era muito interessante",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Des gens de beaucoup d'endroits différents",
+    "newLine": false,
+    "translation": {
+      "text": "Pessoas de muitos lugares diferentes",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "allaient là-bas",
+    "newLine": false,
+    "translation": {
+      "text": "iam para lá",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et la nourriture était particulièrement bonne",
+    "newLine": false,
+    "translation": {
+      "text": "e a comida era particularmente boa",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a commencé à regarder autour de lui",
+    "newLine": true,
+    "translation": {
+      "text": "Yeux Noirs começou a olhar ao seu redor",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et à parler avec les gens",
+    "newLine": false,
+    "translation": {
+      "text": "e a falar com as pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pendant beaucoup de jours",
+    "newLine": false,
+    "translation": {
+      "text": "Durante muitos dias",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a marché et marché",
+    "newLine": false,
+    "translation": {
+      "text": "ele andou e andou",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il a rencontré beaucoup de personnes",
+    "newLine": false,
+    "translation": {
+      "text": "Ele encontrou muitas pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a posé beaucoup de questions",
+    "newLine": false,
+    "translation": {
+      "text": "e fez muitas perguntas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce qu'il savait",
+    "newLine": false,
+    "translation": {
+      "text": "porque ele sabia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que c'était une bonne manière",
+    "newLine": false,
+    "translation": {
+      "text": "que era uma boa maneira",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'apprendre des choses nouvelles",
+    "newLine": false,
+    "translation": {
+      "text": "de aprender coisas novas",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Un jour",
+    "newLine": true,
+    "translation": {
+      "text": "Um dia",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a rencontré une vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "Yeux Noirs encontrou uma velha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qui a dit qu'elle avait",
+    "newLine": false,
+    "translation": {
+      "text": "que disse que tinha",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la chose la plus intéressante du monde",
+    "newLine": false,
+    "translation": {
+      "text": "a coisa mais interessante do mundo",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Naturellement",
+    "newLine": false,
+    "translation": {
+      "text": "Naturalmente",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs voulait la voir",
+    "newLine": false,
+    "translation": {
+      "text": "Yeux Noirs queria vê-la",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "la vieille femme lui a montré",
+    "newLine": false,
+    "translation": {
+      "text": "a velha mostrou a ele",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "un verre rouge",
+    "newLine": false,
+    "translation": {
+      "text": "um copo vermelho",
+      "tips": [
+        {
+          "text": "un verre",
+          "translatedText": "um copo",
+          "explanation": "Atenção: \"verre\" significa COPO e também VIDRO (o material). Aqui é o copo vermelho, o objeto mágico desta parte da história — equivale ao tapete do irmão Étoile."
+        }
+      ]
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« C'est vraiment un beau verre",
+    "newLine": true,
+    "translation": {
+      "text": "«É realmente um belo copo",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais je ne pense pas qu'il est très intéressant »",
+    "newLine": false,
+    "translation": {
+      "text": "mas eu não acho que ele é muito interessante»",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "disse Yeux Noirs",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Tu vas changer d'avis",
+    "newLine": true,
+    "translation": {
+      "text": "«Você vai mudar de ideia",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand tu vas voir ce qu'il peut faire »",
+    "newLine": false,
+    "translation": {
+      "text": "quando você vir o que ele pode fazer»",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu la vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu a velha",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Alors",
+    "newLine": true,
+    "translation": {
+      "text": "«Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "qu'est-ce qu'il peut faire ? »",
+    "newLine": false,
+    "translation": {
+      "text": "o que ele pode fazer?»",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Yeux Noirs",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Si tu regardes à travers le verre",
+    "newLine": true,
+    "translation": {
+      "text": "«Se você olhar através do copo",
+      "tips": [
+        {
+          "text": "regarder à travers",
+          "translatedText": "olhar através de",
+          "explanation": "\"à travers\" = \"através de / por dentro de\". Aqui é olhar atravessando o copo de vidro, como quem espia por uma janela. É a ação mágica: olhar à travers o verre rouge revela o que você quiser."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "tu peux voir tout ce que tu veux »",
+    "newLine": false,
+    "translation": {
+      "text": "você pode ver tudo o que quiser»",
+      "tips": [
+        {
+          "text": "tout ce que tu veux",
+          "translatedText": "tudo o que você quiser",
+          "explanation": "\"tout ce que\" = \"tudo o que / tudo aquilo que\". A combinação \"tout ce que tu veux\" significa \"tudo o que você quer/quiser\" — uma estrutura muito útil para descrever desejos."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a répondu la vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "respondeu a velha",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Comment ça marche ? »",
+    "newLine": true,
+    "translation": {
+      "text": "«Como funciona?»",
+      "tips": [
+        {
+          "text": "Comment ça marche ?",
+          "translatedText": "Como funciona?",
+          "explanation": "Cuidado: \"marcher\" significa \"andar/caminhar\", mas também \"funcionar\"! \"Comment ça marche ?\" é a pergunta padrão para \"Como isso funciona?\" — nada a ver com caminhar aqui."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a demandé Yeux Noirs",
+    "newLine": false,
+    "translation": {
+      "text": "perguntou Yeux Noirs",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Tiens le verre devant tes yeux »",
+    "newLine": true,
+    "translation": {
+      "text": "«Segure o copo diante dos seus olhos»",
+      "tips": [
+        {
+          "text": "Tiens le verre",
+          "translatedText": "Segure o copo",
+          "explanation": "\"Tiens\" é o imperativo (tu) de \"tenir\" = segurar. É um verbo muito irregular: tenir → tiens. Aqui a velha manda Yeux Noirs segurar o copo diante dos olhos."
+        }
+      ]
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "a dit la vieille femme",
+    "newLine": false,
+    "translation": {
+      "text": "disse a velha",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "« Puis pense à un endroit",
+    "newLine": false,
+    "translation": {
+      "text": "«Depois pense num lugar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "que tu veux voir. »",
+    "newLine": false,
+    "translation": {
+      "text": "que você quer ver.»",
+      "tips": []
+    }
+  },
+  {
+    "text": "Yeux Noirs l'a fait",
+    "newLine": true,
+    "translation": {
+      "text": "Yeux Noirs fez isso",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Après quelques minutes",
+    "newLine": false,
+    "translation": {
+      "text": "Depois de alguns minutos",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a vu la chambre",
+    "newLine": false,
+    "translation": {
+      "text": "Yeux Noirs viu o quarto",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où il dormait",
+    "newLine": false,
+    "translation": {
+      "text": "onde ele dormia",
+      "tips": [
+        {
+          "text": "la chambre où il dormait",
+          "translatedText": "o quarto onde ele dormia",
+          "explanation": "\"dormait\" está no imparfait (pretérito imperfeito): descreve um hábito antigo, algo que acontecia repetidamente no passado — \"dormia\" (costumava dormir), não \"dormiu\" uma única vez."
+        }
+      ]
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quand il était un petit garçon",
+    "newLine": false,
+    "translation": {
+      "text": "quando era um menininho",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Yeux Noirs a acheté le verre",
+    "newLine": true,
+    "translation": {
+      "text": "Yeux Noirs comprou o copo",
+      "tips": []
+    }
+  },
+  {
+    "text": " : ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il pensait qu'il n'allait pas trouver",
+    "newLine": false,
+    "translation": {
+      "text": "ele achava que não ia encontrar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "quelque chose de plus intéressant",
+    "newLine": false,
+    "translation": {
+      "text": "algo mais interessante",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Alors",
+    "newLine": false,
+    "translation": {
+      "text": "Então",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "il a décidé de retourner",
+    "newLine": false,
+    "translation": {
+      "text": "ele decidiu voltar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à l'endroit",
+    "newLine": false,
+    "translation": {
+      "text": "ao lugar",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "où lui et ses frères",
+    "newLine": false,
+    "translation": {
+      "text": "onde ele e seus irmãos",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "devaient se revoir",
+    "newLine": false,
+    "translation": {
+      "text": "deviam se reencontrar",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Pendant ce temps",
+    "newLine": true,
+    "translation": {
+      "text": "Enquanto isso",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Longs Bras est allé à un endroit appelé",
+    "newLine": false,
+    "translation": {
+      "text": "Longs Bras foi a um lugar chamado",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Au Milieu des Arbres",
+    "newLine": false,
+    "translation": {
+      "text": "No Meio das Árvores",
+      "tips": [
+        {
+          "text": "Au Milieu des Arbres",
+          "translatedText": "No Meio das Árvores",
+          "explanation": "Nome da cidadezinha de Longs Bras: \"au milieu de\" = \"no meio de\", \"les arbres\" = \"as árvores\". A expressão \"au milieu de\" (no meio de) é a queridinha da coleção — vale guardar bem!"
+        }
+      ]
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "C'était une très petite ville",
+    "newLine": false,
+    "translation": {
+      "text": "Era uma cidade muito pequena",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais un endroit intéressant aussi",
+    "newLine": false,
+    "translation": {
+      "text": "mas um lugar interessante também",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "La nourriture n'était pas particulièrement bonne",
+    "newLine": false,
+    "translation": {
+      "text": "A comida não era particularmente boa",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "mais Longs Bras ne pensait pas beaucoup à ça",
+    "newLine": false,
+    "translation": {
+      "text": "mas Longs Bras não pensava muito nisso",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Longs Bras a marché et marché",
+    "newLine": true,
+    "translation": {
+      "text": "Longs Bras andou e andou",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "pendant beaucoup de jours",
+    "newLine": false,
+    "translation": {
+      "text": "durante muitos dias",
+      "tips": []
+    }
+  },
+  {
+    "text": ". ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "Il a rencontré beaucoup de personnes",
+    "newLine": false,
+    "translation": {
+      "text": "Ele encontrou muitas pessoas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et il a posé beaucoup de questions",
+    "newLine": false,
+    "translation": {
+      "text": "e fez muitas perguntas",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "parce que son plan était",
+    "newLine": false,
+    "translation": {
+      "text": "porque seu plano era",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "d'apprendre beaucoup de choses nouvelles",
+    "newLine": false,
+    "translation": {
+      "text": "aprender muitas coisas novas",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "et de trouver quelque chose d'intéressant",
+    "newLine": false,
+    "translation": {
+      "text": "e encontrar algo interessante",
+      "tips": []
+    }
+  },
+  {
+    "text": " ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "à ramener à la maison",
+    "newLine": false,
+    "translation": {
+      "text": "para levar de volta para casa",
+      "tips": []
+    }
+  },
+  {
+    "text": ", ",
+    "newLine": false,
+    "translation": null
+  },
+  {
+    "text": "bien sûr",
+    "newLine": false,
+    "translation": {
+      "text": "claro",
+      "tips": []
+    }
+  },
+  {
+    "text": ".",
+    "newLine": false,
+    "translation": null
+  }
+]
